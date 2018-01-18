@@ -1,0 +1,1134 @@
+TargetID	Index	InputText	Target	candidate	CEFR	C.S.	judge	comment
+1	"0,1"	"In effect , command-and-control regulation requires that firms increase their costs by installing anti-pollution equipment ; firms are thus required to take the social costs of pollution into account ."	in effect	basically	A2		1	
+1	"0,1"	"In effect , command-and-control regulation requires that firms increase their costs by installing anti-pollution equipment ; firms are thus required to take the social costs of pollution into account ."	in effect	really	A1			
+2	"9,10"	"The new budget line , with the antipoverty program in place , is the horizontal and heavy line that is flat at $ 18,000 ."	in place	engaged	B1		1	
+2	"9,10"	"The new budget line , with the antipoverty program in place , is the horizontal and heavy line that is flat at $ 18,000 ."	in place	busy	A1			
+2	"9,10"	"The new budget line , with the antipoverty program in place , is the horizontal and heavy line that is flat at $ 18,000 ."	in place	active	B1			
+2	"9,10"	"The new budget line , with the antipoverty program in place , is the horizontal and heavy line that is flat at $ 18,000 ."	in place	unemployed	B1			
+2	"9,10"	"The new budget line , with the antipoverty program in place , is the horizontal and heavy line that is flat at $ 18,000 ."	in place	working	B1			
+3	"0,1,2,3"	"In the same way -LRB- though not shown in the figure -RRB- , if AD increases , the economy could experience an inflationary gap , where demand is attempting to push the economy past potential output ."	in the same way	too	A1			
+3	"0,1,2,3"	"In the same way -LRB- though not shown in the figure -RRB- , if AD increases , the economy could experience an inflationary gap , where demand is attempting to push the economy past potential output ."	in the same way	besides	"A2,B1"			
+3	"0,1,2,3"	"In the same way -LRB- though not shown in the figure -RRB- , if AD increases , the economy could experience an inflationary gap , where demand is attempting to push the economy past potential output ."	in the same way	along	"A1,A2"			
+3	"0,1,2,3"	"In the same way -LRB- though not shown in the figure -RRB- , if AD increases , the economy could experience an inflationary gap , where demand is attempting to push the economy past potential output ."	in the same way	further	"A2,B1"			
+3	"0,1,2,3"	"In the same way -LRB- though not shown in the figure -RRB- , if AD increases , the economy could experience an inflationary gap , where demand is attempting to push the economy past potential output ."	in the same way	furthermore	B1			
+3	"0,1,2,3"	"In the same way -LRB- though not shown in the figure -RRB- , if AD increases , the economy could experience an inflationary gap , where demand is attempting to push the economy past potential output ."	in the same way	more	"A1,A1,B1"			
+3	"0,1,2,3"	"In the same way -LRB- though not shown in the figure -RRB- , if AD increases , the economy could experience an inflationary gap , where demand is attempting to push the economy past potential output ."	in the same way	moreover	B1			
+3	"0,1,2,3"	"In the same way -LRB- though not shown in the figure -RRB- , if AD increases , the economy could experience an inflationary gap , where demand is attempting to push the economy past potential output ."	in the same way	so	"A1,A2"		1	
+3	"0,1,2,3"	"In the same way -LRB- though not shown in the figure -RRB- , if AD increases , the economy could experience an inflationary gap , where demand is attempting to push the economy past potential output ."	in the same way	opposite	"A2,A2,B1,B1"			
+4	"0,1,2"	"As a consequence , the economy experiences inflation ."	as a consequence	thus	B1		1	
+4	"0,1,2"	"As a consequence , the economy experiences inflation ."	as a consequence	properly	B1			
+4	"0,1,2"	"As a consequence , the economy experiences inflation ."	as a consequence	therefore	A2		1	
+4	"0,1,2"	"As a consequence , the economy experiences inflation ."	as a consequence	consequently	B1		1	
+4	"0,1,2"	"As a consequence , the economy experiences inflation ."	as a consequence	equally	B1			
+4	"0,1,2"	"As a consequence , the economy experiences inflation ."	as a consequence	so	"A1,A2"		1	
+4	"0,1,2"	"As a consequence , the economy experiences inflation ."	as a consequence	then	A1		1	
+5	"8,9"	A wide array of indexing arrangements is observed in private markets and government programs .	in private	inside	"A1,A2,B2,B2"		0	in private͕ꂾA̕łprivatemarketsCĂāAin/ private marketsƗĂ̂ŕƂĂ͎gĂȂB
+5	"8,9"	A wide array of indexing arrangements is observed in private markets and government programs .	in private	private	A2		0	
+5	"8,9"	A wide array of indexing arrangements is observed in private markets and government programs .	in private	secret	"A2,B1"		0	
+5	"8,9"	A wide array of indexing arrangements is observed in private markets and government programs .	in private	honest	B1		0	
+5	"8,9"	A wide array of indexing arrangements is observed in private markets and government programs .	in private	open	"A1,A1"		0	
+6	"7,8"	"as it was called , was eliminated by law in 1981 ."	by law	illegally	B1			
+7	"9,10"	"Now , the income levels where higher tax rates kick in are indexed to rise automatically with inflation ."	kick in	commit	B1	1		
+7	"9,10"	"Now , the income levels where higher tax rates kick in are indexed to rise automatically with inflation ."	kick in	furnish	B1	1		
+7	"9,10"	"Now , the income levels where higher tax rates kick in are indexed to rise automatically with inflation ."	kick in	give	A1	1		
+7	"9,10"	"Now , the income levels where higher tax rates kick in are indexed to rise automatically with inflation ."	kick in	provide	A2	1		
+7	"9,10"	"Now , the income levels where higher tax rates kick in are indexed to rise automatically with inflation ."	kick in	contribute	B1	1	1	
+8	"19,20"	"Also , Social Security is funded by payroll taxes , which are imposed on the income earned up to a certain amount ?"	a certain	one	"A1,A1,A2"			
+8	"19,20"	"Also , Social Security is funded by payroll taxes , which are imposed on the income earned up to a certain amount ?"	a certain	such	"A2,A2"			
+8	"19,20"	"Also , Social Security is funded by payroll taxes , which are imposed on the income earned up to a certain amount ?"	a certain	this	"A1,A1"		1	
+8	"19,20"	"Also , Social Security is funded by payroll taxes , which are imposed on the income earned up to a certain amount ?"	a certain	the	A1			
+9	"0,1"	"As yet another example of a government program affected by indexing , in 1996 the U.S. , government began offering indexed bonds ."	as yet	still	"A1,A2"			
+9	"0,1"	"As yet another example of a government program affected by indexing , in 1996 the U.S. , government began offering indexed bonds ."	as yet	till	"A2,B1"			
+10	"0,1"	"After all , when individuals , firms , and government programs are indexed against inflation , then people can worry less about arbitrary redistributions and other effects of inflation ."	after all	someday	A2			
+10	"0,1"	"After all , when individuals , firms , and government programs are indexed against inflation , then people can worry less about arbitrary redistributions and other effects of inflation ."	after all	finally	A2			
+10	"0,1"	"After all , when individuals , firms , and government programs are indexed against inflation , then people can worry less about arbitrary redistributions and other effects of inflation ."	after all	yet	"A1,B1"		1	Ӗ͏ς
+10	"0,1"	"After all , when individuals , firms , and government programs are indexed against inflation , then people can worry less about arbitrary redistributions and other effects of inflation ."	after all	sometime	B1			
+10	"0,1"	"After all , when individuals , firms , and government programs are indexed against inflation , then people can worry less about arbitrary redistributions and other effects of inflation ."	after all	never	A1			
+10	"0,1"	"After all , when individuals , firms , and government programs are indexed against inflation , then people can worry less about arbitrary redistributions and other effects of inflation ."	after all	however	A2		1	Ӗ͏ς
+10	"0,1"	"After all , when individuals , firms , and government programs are indexed against inflation , then people can worry less about arbitrary redistributions and other effects of inflation ."	after all	eventually	B1			
+10	"0,1"	"After all , when individuals , firms , and government programs are indexed against inflation , then people can worry less about arbitrary redistributions and other effects of inflation ."	after all	because	A1		1	Ӗ͕ςA܂Ȃɂ͂Ȃ邪Aꉞ藧
+10	"0,1"	"After all , when individuals , firms , and government programs are indexed against inflation , then people can worry less about arbitrary redistributions and other effects of inflation ."	after all	still	"A1,A2"			
+11	"6,7"	These issues will be taken up in depth in other chapters .	in depth	thorough	B1			thoroughlyȂقړӖ
+11	"6,7"	These issues will be taken up in depth in other chapters .	in depth	complete	"A2,B1"			
+11	"6,7"	These issues will be taken up in depth in other chapters .	in depth	diligent	B1			
+11	"6,7"	These issues will be taken up in depth in other chapters .	in depth	extensively	B1		1	
+12	"7,8"	"In the meantime , the economy literally falls apart as people leave jobs and fend for themselves because it is not worth the time to work for money that will be worthless in a few days ."	fall apart	collapse	"B1,B2"		1	
+12	"7,8"	"In the meantime , the economy literally falls apart as people leave jobs and fend for themselves because it is not worth the time to work for money that will be worthless in a few days ."	fall apart	break	"A1,A2"			ӖIɂ͂Ă邪Aeoconomy breaksƂ͂܂茾Ȃ
+12	"7,8"	"In the meantime , the economy literally falls apart as people leave jobs and fend for themselves because it is not worth the time to work for money that will be worthless in a few days ."	fall apart	build	A1			
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	leave	"A1,B1"		0	̕ł́uout of controlvƂȂĂ邽߁Aget out͗Ă
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	go	"A1,B1"		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	avoid	A2		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	depart	B1		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	duck	A2		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	exit	"B1,B1"		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	fly	"A1,A1"		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	split	"A2,B1,B2"		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	kite	A1		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	capture	"B1,B1"		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	grab	B1		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	come	A1		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	stay	"A1,B1"		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	seize	B1		0	
+13	"10,11"	This is why economists are generally wary of letting inflation get out of control .	get out	escape	"A2,B1"		0	
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	achieve	A2		1	
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	realize	A2			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	secure	B1			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	conclude	B1			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	buy	A1			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	sell	A1			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	perform	A2		1	
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	make	"A1,B2"			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	cause	"A2,B2"			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	begin	A1			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	complete	"A2,B1"			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	produce	A2			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	generate	B1			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	create	A2			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	prevent	A2			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	destroy	A2			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	ruin	"A2,B1"			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	deny	B1			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	refuse	"B1,B1"			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	ignore	B1			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	stop	"A1,A1"			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	fail	A2			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	lose	A2			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	discourage	B1			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	end	"A1,A2"			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	finish	"A1,A1"			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	close	"A1,A1"			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	forget	A1			
+14	"25,26,27"	"At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job ."	do the job	miss	A1			
+15	"17,18,19,20"	Most people are unlikely to fight this kind of tax or even inform themselves about the issue in the first place .	in the first place	especially	A2			
+15	"17,18,19,20"	Most people are unlikely to fight this kind of tax or even inform themselves about the issue in the first place .	in the first place	mostly	A2			
+15	"17,18,19,20"	Most people are unlikely to fight this kind of tax or even inform themselves about the issue in the first place .	in the first place	largely	B1			
+15	"17,18,19,20"	Most people are unlikely to fight this kind of tax or even inform themselves about the issue in the first place .	in the first place	mainly	A2			
+15	"17,18,19,20"	Most people are unlikely to fight this kind of tax or even inform themselves about the issue in the first place .	in the first place	primarily	B1		1	
+15	"17,18,19,20"	Most people are unlikely to fight this kind of tax or even inform themselves about the issue in the first place .	in the first place	usually	A1			
+15	"17,18,19,20"	Most people are unlikely to fight this kind of tax or even inform themselves about the issue in the first place .	in the first place	initially	B1			
+16	"1,2"	"of the people , by the people , and for the people ."	the people	country	A2		1	
+16	"1,2"	"of the people , by the people , and for the people ."	the people	land	"A2,B1"			
+16	"1,2"	"of the people , by the people , and for the people ."	the people	nation	A2		1	
+16	"1,2"	"of the people , by the people , and for the people ."	the people	state	"A2,B2,B2"			
+17	"0,1"	"In that same vein , some people would argue that sales of certain goods , like pornography or extremely violent movies , do not represent a gain to society?s standard of living ."	in that	as	"A1,A2"		0	̕łin/that same vein ƂȂAin thatin that ƂĂ̐ڑIȖƂAĂƍlقBAӖ͂܂ςȂ 
+17	"0,1"	"In that same vein , some people would argue that sales of certain goods , like pornography or extremely violent movies , do not represent a gain to society?s standard of living ."	in that	being	A2		0	
+17	"0,1"	"In that same vein , some people would argue that sales of certain goods , like pornography or extremely violent movies , do not represent a gain to society?s standard of living ."	in that	for	"A1,A2"		0	
+17	"0,1"	"In that same vein , some people would argue that sales of certain goods , like pornography or extremely violent movies , do not represent a gain to society?s standard of living ."	in that	over	"A1,A2"		0	
+17	"0,1"	"In that same vein , some people would argue that sales of certain goods , like pornography or extremely violent movies , do not represent a gain to society?s standard of living ."	in that	since	"A2,B1,B2"		0	
+17	"0,1"	"In that same vein , some people would argue that sales of certain goods , like pornography or extremely violent movies , do not represent a gain to society?s standard of living ."	in that	through	"A1,B1"		0	
+17	"0,1"	"In that same vein , some people would argue that sales of certain goods , like pornography or extremely violent movies , do not represent a gain to society?s standard of living ."	in that	because	A1		0	
+17	"0,1"	"In that same vein , some people would argue that sales of certain goods , like pornography or extremely violent movies , do not represent a gain to society?s standard of living ."	in that	within	A2		0	
+18	"24,25"	"In many of the national economies across Europe , the rate of unemployment in recent decades has only dropped to about 10 % or a bit lower , even in good economic years ."	a bit	all	"A1,A1,A2"			
+18	"24,25"	"In many of the national economies across Europe , the rate of unemployment in recent decades has only dropped to about 10 % or a bit lower , even in good economic years ."	a bit	several	"A2,A2"			
+18	"24,25"	"In many of the national economies across Europe , the rate of unemployment in recent decades has only dropped to about 10 % or a bit lower , even in good economic years ."	a bit	either	"A1,A2,B1,B1"			
+18	"24,25"	"In many of the national economies across Europe , the rate of unemployment in recent decades has only dropped to about 10 % or a bit lower , even in good economic years ."	a bit	each	"A1,A1"			
+18	"24,25"	"In many of the national economies across Europe , the rate of unemployment in recent decades has only dropped to about 10 % or a bit lower , even in good economic years ."	a bit	whatever	"A2,B1"			
+18	"24,25"	"In many of the national economies across Europe , the rate of unemployment in recent decades has only dropped to about 10 % or a bit lower , even in good economic years ."	a bit	extremely	A2			
+18	"24,25"	"In many of the national economies across Europe , the rate of unemployment in recent decades has only dropped to about 10 % or a bit lower , even in good economic years ."	a bit	little	"A1,A1,B1,B1"		1	
+18	"24,25"	"In many of the national economies across Europe , the rate of unemployment in recent decades has only dropped to about 10 % or a bit lower , even in good economic years ."	a bit	violently	B1			
+18	"24,25"	"In many of the national economies across Europe , the rate of unemployment in recent decades has only dropped to about 10 % or a bit lower , even in good economic years ."	a bit	few	"A2,B1"			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	escape	"A2,B1"		1	
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	fly	"A1,A1"			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	remain	A2			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	fasten	B1			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	mend	B1			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	cause	"A2,B2"			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	hide	A1			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	wait	"A1,B2"			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	face	"A1,A2"			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	stay	"A1,B1"			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	attach	B1			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	fix	"A2,B1"			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	join	A1			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	secure	B1			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	agree	A1			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	strengthen	B1			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	allow	A2			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	secret	"A2,B1"			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	leave	"A1,B1"			
+19	"16,17"	shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .	get away	retire	A2			
+20	"0,1"	"Even so , many home heating bills rose , so people adjusted their consumption in other ways , too ."	even so	still	"A1,A2"		1	
+20	"0,1"	"Even so , many home heating bills rose , so people adjusted their consumption in other ways , too ."	even so	yet	"A1,B1"		1	
+20	"0,1"	"Even so , many home heating bills rose , so people adjusted their consumption in other ways , too ."	even so	though	"A2,B2"		1	ӂɂȂ
+20	"0,1"	"Even so , many home heating bills rose , so people adjusted their consumption in other ways , too ."	even so	nonetheless	B1		1	"nonetheless, neverthelessłRɂĂ͂܂邪A̔ے̈ӖڑĂv"
+20	"0,1"	"Even so , many home heating bills rose , so people adjusted their consumption in other ways , too ."	even so	although	A2			
+20	"0,1"	"Even so , many home heating bills rose , so people adjusted their consumption in other ways , too ."	even so	but	"A1,B1"		1	ӂɂȂ
+20	"0,1"	"Even so , many home heating bills rose , so people adjusted their consumption in other ways , too ."	even so	however	A2		1	
+20	"0,1"	"Even so , many home heating bills rose , so people adjusted their consumption in other ways , too ."	even so	nevertheless	B1		1	
+20	"0,1"	"Even so , many home heating bills rose , so people adjusted their consumption in other ways , too ."	even so	thus	B1			
+20	"0,1"	"Even so , many home heating bills rose , so people adjusted their consumption in other ways , too ."	even so	yes	A1			
+21	"14,15"	"This program provides a fixed amount of money per child to every family , regardless of family income ."	regardless of	nevertheless	B1			
+21	"14,15"	"This program provides a fixed amount of money per child to every family , regardless of family income ."	regardless of	yet	"A1,B1"			
+21	"14,15"	"This program provides a fixed amount of money per child to every family , regardless of family income ."	regardless of	nonetheless	B1			
+21	"14,15"	"This program provides a fixed amount of money per child to every family , regardless of family income ."	regardless of	against	A2			
+21	"14,15"	"This program provides a fixed amount of money per child to every family , regardless of family income ."	regardless of	but	"A1,B1"			
+21	"14,15"	"This program provides a fixed amount of money per child to every family , regardless of family income ."	regardless of	despite	B1			
+21	"14,15"	"This program provides a fixed amount of money per child to every family , regardless of family income ."	regardless of	though	"A2,B2"			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	reach	"A2,B1"		1	
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	surround	B1			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	near	"A1,B1,B1"			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	contact	"A2,A2"			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	meet	A1			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	come	A1			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	match	"A1,B1"			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	advance	"B1,B2"			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	resemble	B1			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	equal	"B1,B2,B2"			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	bear	"A1,A2"			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	progress	"B1,B2"			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	border	B1			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	avoid	A2			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	decrease	"B1,B1"			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	distance	B1			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	depart	B1			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	go	"A1,B1"			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	leave	"A1,B1"			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	miss	A1			
+22	"15,16"	"Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?"	catch up	stop	"A1,A1"			
+23	"24,25"	Bank accounts have very low risk and very low returns ; bonds have higher risk but higher returns ; and stocks are riskiest of all but have the potential for still higher returns .	all but	around	"A1,A2"		0	"̕łall=banck accounts, bondsĂāAall but͓̕ʂ̒Pƌق"
+23	"24,25"	Bank accounts have very low risk and very low returns ; bonds have higher risk but higher returns ; and stocks are riskiest of all but have the potential for still higher returns .	all but	roughly	A2		0	
+23	"24,25"	Bank accounts have very low risk and very low returns ; bonds have higher risk but higher returns ; and stocks are riskiest of all but have the potential for still higher returns .	all but	approximately	B1		0	
+23	"24,25"	Bank accounts have very low risk and very low returns ; bonds have higher risk but higher returns ; and stocks are riskiest of all but have the potential for still higher returns .	all but	most	"A1,A2,A2"		0	
+23	"24,25"	Bank accounts have very low risk and very low returns ; bonds have higher risk but higher returns ; and stocks are riskiest of all but have the potential for still higher returns .	all but	much	"A1,A1,A1"		0	
+23	"24,25"	Bank accounts have very low risk and very low returns ; bonds have higher risk but higher returns ; and stocks are riskiest of all but have the potential for still higher returns .	all but	about	"A1,A1"		0	
+23	"24,25"	Bank accounts have very low risk and very low returns ; bonds have higher risk but higher returns ; and stocks are riskiest of all but have the potential for still higher returns .	all but	relatively	B1		0	
+23	"24,25"	Bank accounts have very low risk and very low returns ; bonds have higher risk but higher returns ; and stocks are riskiest of all but have the potential for still higher returns .	all but	little	"A1,A1,B1,B1"		0	
+23	"24,25"	Bank accounts have very low risk and very low returns ; bonds have higher risk but higher returns ; and stocks are riskiest of all but have the potential for still higher returns .	all but	least	"A2,B1,B2"		0	
+23	"24,25"	Bank accounts have very low risk and very low returns ; bonds have higher risk but higher returns ; and stocks are riskiest of all but have the potential for still higher returns .	all but	almost	A1		0	
+24	"6,7"	"In the 1980s , inflation rates came down in the United States and in Europe and have largely stayed down ."	come down	decline	"B1,B2"		1	
+24	"6,7"	"In the 1980s , inflation rates came down in the United States and in Europe and have largely stayed down ."	come down	decrease	"B1,B1"		1	
+24	"6,7"	"In the 1980s , inflation rates came down in the United States and in Europe and have largely stayed down ."	come down	fail	A2			
+24	"6,7"	"In the 1980s , inflation rates came down in the United States and in Europe and have largely stayed down ."	come down	fall	"A2,B1"		1	
+24	"6,7"	"In the 1980s , inflation rates came down in the United States and in Europe and have largely stayed down ."	come down	reduce	B1			
+24	"6,7"	"In the 1980s , inflation rates came down in the United States and in Europe and have largely stayed down ."	come down	suffer	B1		1	
+24	"6,7"	"In the 1980s , inflation rates came down in the United States and in Europe and have largely stayed down ."	come down	improve	A2			
+25	"0,1"	"In all three cases , the Yoga Center loses money ."	in all	generally	B1		0	all three casesɂĂāAin/all three casesƂȂ2̒P͗Ă
+25	"0,1"	"In all three cases , the Yoga Center loses money ."	in all	all	"A1,A1,A2"		0	
+25	"0,1"	"In all three cases , the Yoga Center loses money ."	in all	partly	A2		0	
+25	"0,1"	"In all three cases , the Yoga Center loses money ."	in all	entirely	B1		0	
+25	"0,1"	"In all three cases , the Yoga Center loses money ."	in all	completely	B1		0	
+26	"8,9"	"Therefore , imports added in consumption are subtracted back out in the M term of the equation ."	back out	cancel	B1			ӖIɂcancelÄʒuɓ͓Ȃ
+26	"8,9"	"Therefore , imports added in consumption are subtracted back out in the M term of the equation ."	back out	avoid	A2			
+26	"8,9"	"Therefore , imports added in consumption are subtracted back out in the M term of the equation ."	back out	scratch	"B1,B2"			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	respond	B1			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	do	A1			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	develop	A2			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	pursue	A2			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	create	A2			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	move	"A1,A2"			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	serve	A2			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	begin	A1		1	
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	function	"A2,B1"			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	operate	A2			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	accomplish	B1			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	practice	"A1,A1"			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	labor	A2			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	cook	"A1,A1"			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	achieve	A2			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	destroy	A2			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	ignore	B1			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	hesitate	B1			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	fail	A2			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	miss	A1			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	abandon	B1			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	forget	A1			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	leave	"A1,B1"			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	end	"A1,A2"			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	stop	"A1,A1"			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	quit	"A2,B2"			
+27	"21,22"	"With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy ."	take effect	follow	A2			
+28	"16,17,18,19"	"Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance ."	from top to bottom	very	"A1,B2"			
+28	"16,17,18,19"	"Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance ."	from top to bottom	fully	A2			
+28	"16,17,18,19"	"Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance ."	from top to bottom	completely	B1			
+28	"16,17,18,19"	"Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance ."	from top to bottom	carefully	A1		1	
+28	"16,17,18,19"	"Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance ."	from top to bottom	highly	B1			
+28	"16,17,18,19"	"Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance ."	from top to bottom	extremely	A2			
+28	"16,17,18,19"	"Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance ."	from top to bottom	all	"A1,A1,A2"			
+28	"16,17,18,19"	"Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance ."	from top to bottom	hard	"A1,A1"			
+28	"16,17,18,19"	"Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance ."	from top to bottom	throughout	B1		1	
+28	"16,17,18,19"	"Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance ."	from top to bottom	little	"A1,A1,B1,B1"			
+28	"16,17,18,19"	"Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance ."	from top to bottom	partly	A2			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	hit	"A2,B1"		1	
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	get	A1			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	move	"A1,A2"			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	reach	"A2,B1"			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	carry	A1			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	touch	"A1,B1"			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	affect	B1			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	look	"A1,A1"			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	impress	A2			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	register	"B1,B1"			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	influence	"A2,B2"			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	seem	A2		1	܂莩Rȕ\ł͂Ȃ
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	inspire	B1			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	fail	A2			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	lose	A2			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	miss	A1			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	depart	B1			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	leave	"A1,B1"			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	discourage	B1			
+29	"16,17,18"	"When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- ."	come to mind	tap	"A2,B2"			
+30	"12,13"	"Even if the line between positive and normative statements is not always crystal clear , economic analysis does try to remain rooted in the study of the actual people who inhabit the actual economy ."	crystal clear	apparent	B1		1	
+30	"12,13"	"Even if the line between positive and normative statements is not always crystal clear , economic analysis does try to remain rooted in the study of the actual people who inhabit the actual economy ."	crystal clear	clear	"A2,B1"		1	
+30	"12,13"	"Even if the line between positive and normative statements is not always crystal clear , economic analysis does try to remain rooted in the study of the actual people who inhabit the actual economy ."	crystal clear	evident	B1		1	
+30	"12,13"	"Even if the line between positive and normative statements is not always crystal clear , economic analysis does try to remain rooted in the study of the actual people who inhabit the actual economy ."	crystal clear	noticeable	B1		1	
+30	"12,13"	"Even if the line between positive and normative statements is not always crystal clear , economic analysis does try to remain rooted in the study of the actual people who inhabit the actual economy ."	crystal clear	plain	B1			
+30	"12,13"	"Even if the line between positive and normative statements is not always crystal clear , economic analysis does try to remain rooted in the study of the actual people who inhabit the actual economy ."	crystal clear	obvious	B1		1	
+31	"4,5,6"	Consumers who are looking for the best deals will encourage businesses to offer goods and services that meet their needs .	for the best	helpful	A2		0	look for/ the best deals ƂȂĂ̂ŁAfor the bestƂĈł͂Ȃ 
+31	"4,5,6"	Consumers who are looking for the best deals will encourage businesses to offer goods and services that meet their needs .	for the best	fortunate	B1		0	
+31	"4,5,6"	Consumers who are looking for the best deals will encourage businesses to offer goods and services that meet their needs .	for the best	worthwhile	B1		0	
+31	"4,5,6"	Consumers who are looking for the best deals will encourage businesses to offer goods and services that meet their needs .	for the best	harmful	A2		0	
+31	"4,5,6"	Consumers who are looking for the best deals will encourage businesses to offer goods and services that meet their needs .	for the best	unfortunate	B1		0	
+31	"4,5,6"	Consumers who are looking for the best deals will encourage businesses to offer goods and services that meet their needs .	for the best	unlucky	B1		0	
+31	"4,5,6"	Consumers who are looking for the best deals will encourage businesses to offer goods and services that meet their needs .	for the best	unhappy	A2		0	
+31	"4,5,6"	Consumers who are looking for the best deals will encourage businesses to offer goods and services that meet their needs .	for the best	favorable	B1		0	
+32	"13,14"	Workers with a higher level of education and skills are often better at coming up with new technological innovations .	come up	arise	B1			Ӗ̓͂ȂAing`łȂ
+32	"13,14"	Workers with a higher level of education and skills are often better at coming up with new technological innovations .	come up	occur	B1			
+32	"13,14"	Workers with a higher level of education and skills are often better at coming up with new technological innovations .	come up	rise	"B1,B1"			
+33	"5,6,7"	"Governments can encourage international trade across the board , or surrender to protectionism ."	across the board	all	"A1,A1,A2"			SČ`ełĂ͂܂ȂBAll͕ȂƂ邪Aɂ͓Ă͂܂ȂB
+33	"5,6,7"	"Governments can encourage international trade across the board , or surrender to protectionism ."	across the board	blanket	A2			
+33	"5,6,7"	"Governments can encourage international trade across the board , or surrender to protectionism ."	across the board	broad	B1			
+33	"5,6,7"	"Governments can encourage international trade across the board , or surrender to protectionism ."	across the board	complete	"A2,B1"			
+33	"5,6,7"	"Governments can encourage international trade across the board , or surrender to protectionism ."	across the board	everything	A1			
+33	"5,6,7"	"Governments can encourage international trade across the board , or surrender to protectionism ."	across the board	global	B1			
+33	"5,6,7"	"Governments can encourage international trade across the board , or surrender to protectionism ."	across the board	total	"B1,B1"			
+33	"5,6,7"	"Governments can encourage international trade across the board , or surrender to protectionism ."	across the board	wide	"A2,A2"			widelyȂv
+33	"5,6,7"	"Governments can encourage international trade across the board , or surrender to protectionism ."	across the board	widespread	B1			
+33	"5,6,7"	"Governments can encourage international trade across the board , or surrender to protectionism ."	across the board	none	B1			
+34	"1,2"	Statistics in Brief / Profiles ?	in brief	briefly	B1			͖ɂȂBӖ͂Ă邪ꏇƂĂ
+34	"1,2"	Statistics in Brief / Profiles ?	in brief	shortly	B1			͖ɂȂBӖ͂Ă邪ꏇƂĂ
+35	"1,2"	estimate comes out one month after that .	come out	break	"A1,A2"			
+35	"1,2"	estimate comes out one month after that .	come out	appear	A2		1	
+35	"1,2"	estimate comes out one month after that .	come out	out	A1			
+35	"1,2"	estimate comes out one month after that .	come out	hide	A1			
+35	"1,2"	estimate comes out one month after that .	come out	conclude	B1			
+36	"0,1,2,3"	"By the same token , we must also subtract spending on imports?goods produced in other countries that are purchased by residents of this country ."	by the same token	furthermore	B1		1	
+36	"0,1,2,3"	"By the same token , we must also subtract spending on imports?goods produced in other countries that are purchased by residents of this country ."	by the same token	also	A1		1	
+36	"0,1,2,3"	"By the same token , we must also subtract spending on imports?goods produced in other countries that are purchased by residents of this country ."	by the same token	besides	"A2,B1"		1	
+36	"0,1,2,3"	"By the same token , we must also subtract spending on imports?goods produced in other countries that are purchased by residents of this country ."	by the same token	further	"A2,B1"		1	
+36	"0,1,2,3"	"By the same token , we must also subtract spending on imports?goods produced in other countries that are purchased by residents of this country ."	by the same token	more	"A1,A1,B1"			
+36	"0,1,2,3"	"By the same token , we must also subtract spending on imports?goods produced in other countries that are purchased by residents of this country ."	by the same token	too	A1			
+36	"0,1,2,3"	"By the same token , we must also subtract spending on imports?goods produced in other countries that are purchased by residents of this country ."	by the same token	yet	"A1,B1"			
+37	"0,1"	"By far the largest part of GDP , however , is services ."	by far	certainly	A2	1		
+37	"0,1"	"By far the largest part of GDP , however , is services ."	by far	actually	A2	1		
+37	"0,1"	"By far the largest part of GDP , however , is services ."	by far	definitely	B1	1	1	
+37	"0,1"	"By far the largest part of GDP , however , is services ."	by far	surely	B1	1	1	
+37	"0,1"	"By far the largest part of GDP , however , is services ."	by far	probably	A2	1		
+37	"0,1"	"By far the largest part of GDP , however , is services ."	by far	clearly	A2	1	1	
+37	"0,1"	"By far the largest part of GDP , however , is services ."	by far	really	A1	1	1	
+37	"0,1"	"By far the largest part of GDP , however , is services ."	by far	absolutely	B1	1	1	
+37	"0,1"	"By far the largest part of GDP , however , is services ."	by far	indeed	A2	1	1	
+37	"0,1"	"By far the largest part of GDP , however , is services ."	by far	positively	B1	1		
+37	"0,1"	"By far the largest part of GDP , however , is services ."	by far	truly	A2	1	1	
+38	"6,7"	"During economic booms , case filings go down ."	go down	decline	"B1,B2"		1	
+38	"6,7"	"During economic booms , case filings go down ."	go down	collapse	"B1,B2"			
+38	"6,7"	"During economic booms , case filings go down ."	go down	tumble	B1			
+38	"6,7"	"During economic booms , case filings go down ."	go down	reduce	B1			
+38	"6,7"	"During economic booms , case filings go down ."	go down	drop	"A1,A2"		1	
+38	"6,7"	"During economic booms , case filings go down ."	go down	decrease	"B1,B1"		1	
+38	"6,7"	"During economic booms , case filings go down ."	go down	sink	"A2,B1"			
+38	"6,7"	"During economic booms , case filings go down ."	go down	fold	"B1,B1"			
+38	"6,7"	"During economic booms , case filings go down ."	go down	lessen	B1		1	
+38	"6,7"	"During economic booms , case filings go down ."	go down	set	"A1,A2"			
+38	"6,7"	"During economic booms , case filings go down ."	go down	increase	"A2,B1"			
+38	"6,7"	"During economic booms , case filings go down ."	go down	grow	A1			
+38	"6,7"	"During economic booms , case filings go down ."	go down	gain	"B1,B1"			
+38	"6,7"	"During economic booms , case filings go down ."	go down	rise	"B1,B1"			
+38	"6,7"	"During economic booms , case filings go down ."	go down	expand	B1			
+38	"6,7"	"During economic booms , case filings go down ."	go down	raise	A2			
+38	"6,7"	"During economic booms , case filings go down ."	go down	strengthen	B1			
+39	"17,18"	"Furthermore , if high-income countries want stronger environmental standards in low-income countries , they have many options other than the threat of protectionism ."	other than	bar	"A1,B1"			
+40	"15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	at once	shortly	B1		1	
+40	"15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	at once	immediately	B1		1	
+40	"15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	at once	quickly	A1		1	
+40	"15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	at once	dead	A2			
+40	"15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	at once	due	A1			
+40	"15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	at once	later	"A1,B2"			
+40	"15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	at once	eventually	B1			
+40	"15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	at once	indirectly	B1			
+40	"15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	at once	fast	"A1,A1"			
+40	"15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	at once	directly	B1			
+41	"14,15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	all at once	altogether	B1		1	
+41	"14,15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	all at once	distinctly	B1		1	
+41	"14,15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	all at once	together	A1		1	
+41	"14,15,16"	"In the real world , many factors that affect demand and supply can change all at once ."	all at once	unexpectedly	B1		1	
+42	"19,20"	"As a result , the innovative company will bear the much higher costs of the R&D and will enjoy at best only a small , temporary advantage over the competition ."	at best	slightly	B1			
+42	"19,20"	"As a result , the innovative company will bear the much higher costs of the R&D and will enjoy at best only a small , temporary advantage over the competition ."	at best	carelessly	B1			
+42	"19,20"	"As a result , the innovative company will bear the much higher costs of the R&D and will enjoy at best only a small , temporary advantage over the competition ."	at best	relatively	B1		1	
+42	"19,20"	"As a result , the innovative company will bear the much higher costs of the R&D and will enjoy at best only a small , temporary advantage over the competition ."	at best	completely	B1			
+42	"19,20"	"As a result , the innovative company will bear the much higher costs of the R&D and will enjoy at best only a small , temporary advantage over the competition ."	at best	totally	B1			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	hit	"A2,B1"			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	develop	A2			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	appear	A2		1	
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	arise	B1			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	fall	"A2,B1"			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	result	"A1,B1"			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	pass	"A2,A2"			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	meet	A1			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	arrive	A1			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	proceed	B1			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	bump	B1			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	light	"A1,A1,B1"			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	shake	"A1,B1"			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	spring	A1			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	down	"A1,A2,B2"			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	chance	A2			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	smoke	"A1,A2"			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	follow	A2			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	issue	"A2,B2"			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	stumble	B1			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	luck	A1			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	disappear	A2			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	fail	A2			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	lose	A2			
+43	"26,27"	"Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E."	be found	stop	"A1,A1"			
+44	"0,1"	in essence borrowing from the public and promising to repay with interest in the future .	in essence	mostly	A2	1		
+44	"0,1"	in essence borrowing from the public and promising to repay with interest in the future .	in essence	primarily	B1	1	1	
+44	"0,1"	in essence borrowing from the public and promising to repay with interest in the future .	in essence	extra	"A2,A2,B1"	1		
+44	"0,1"	in essence borrowing from the public and promising to repay with interest in the future .	in essence	almost	A1	1		
+44	"0,1"	in essence borrowing from the public and promising to repay with interest in the future .	in essence	basically	A2	1	1	
+45	"25,26,27,28"	"Indeed , it has been said that democracy is the worst form of government except for all of the other forms which have been tried from time to time ."	from time to time	occasionally	B1		1	
+45	"25,26,27,28"	"Indeed , it has been said that democracy is the worst form of government except for all of the other forms which have been tried from time to time ."	from time to time	sometimes	B1		1	
+46	"6,7"	"-LSB- E -RSB- conomic theory , in itself , preaches no doctrines and can not establish any universally valid laws ."	in itself	alone	"A1,A2"		1	
+47	"0,1,2"	"In any case , the price of a bond is always the present value of a stream of future expected payments ."	in any case	anyway	A2		1	
+47	"0,1,2"	"In any case , the price of a bond is always the present value of a stream of future expected payments ."	in any case	about	"A1,A1"			
+47	"0,1,2"	"In any case , the price of a bond is always the present value of a stream of future expected payments ."	in any case	around	"A1,A2"			
+47	"0,1,2"	"In any case , the price of a bond is always the present value of a stream of future expected payments ."	in any case	however	A2			
+47	"0,1,2"	"In any case , the price of a bond is always the present value of a stream of future expected payments ."	in any case	nevertheless	B1			
+47	"0,1,2"	"In any case , the price of a bond is always the present value of a stream of future expected payments ."	in any case	still	"A1,A2"			
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	remain	A2		1	
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	operate	A2			
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	last	"A2,A2,B1,B1"		1	
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	stay	"A1,B1"		1	
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	resist	B1			
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	exist	A2		1	
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	wear	A1			
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	apply	A2		1	
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	release	"A2,B1"			
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	desert	A2			
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	go	"A1,B1"		1	
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	leave	"A1,B1"			
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	quit	"A2,B2"			
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	stop	"A1,A1"			
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	drop	"A1,A2"			
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	abandon	B1			
+48	"2,3,4"	"If this is the case , governments can be viewed as demanders of financial capital instead of suppliers ."	be the case	cancel	B1			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	storm	A2			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	progress	"B1,B2"		1	
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	promote	B1		1	
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	speed	"A2,B1"			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	achieve	A2			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	march	"B1,B1"			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	proceed	B1		1	
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	launch	B1			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	drive	"A1,A2"			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	conquer	B1			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	hesitate	B1			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	decrease	"B1,B1"			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	stop	"A1,A1"			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	hold	"A1,A2"			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	keep	A1			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	turn	"A1,A1"			
+49	"9,10"	"Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced ."	move on	depart	B1			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	consider	A2			̓󂯐gɂȂꍇA@IɂĂ͂܂̂͂Ȃ
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	review	"A1,B2"			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	negotiate	B1			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	brainstorm	A2			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	examine	B1			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	interview	"A1,B1"			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	respect	"B1,B1"			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	argue	A2			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	discuss	A1			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	regard	"B1,B2"			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	question	"A1,B2"			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	treat	"B1,B2"			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	debate	A2			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	ignore	B1			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	reply	"A2,B1"			
+50	"3,4"	"Federal mediators were called in , and the two sides agreed to a deal in February 2015 ."	call in	answer	"A1,A1"			
+51	"6,7"	understanding and enjoyment of the topic at hand .	at hand	accessible	B1	1		
+51	"6,7"	understanding and enjoyment of the topic at hand .	at hand	close	"A1,A1"	1		
+51	"6,7"	understanding and enjoyment of the topic at hand .	at hand	nearby	"B1,B1"	1		
+51	"6,7"	understanding and enjoyment of the topic at hand .	at hand	far	"A2,B2"	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	short	"A1,A1"	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	solid	B1	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	smooth	A2	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	even	"A2,B1"	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	right	"A1,A1,A2"	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	level	"A2,B1,B2"	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	direct	"A2,B1"	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	running	A2	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	square	"A2,A2"	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	continuous	B1	1		continuouslyƂȂΑv
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	near	"A1,B1,B1"	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	sheer	B1	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	through	"A1,B1"	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	TRUE	A1	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	dishonest	A2	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	indirect	B1	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	unfair	A2	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	broken	A1	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	different	A1	1		
+52	"22,23,24"	"While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market ."	in a row	following	"A1,B2"	1		
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	reduce	B1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	decline	"B1,B2"			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	sink	"A2,B1"			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	drop	"A1,A2"		1	
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	lessen	B1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	settle	B1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	modify	B1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	quiet	"A1,B2"			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	wither	B1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	fade	B1		1	
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	waste	"B1,B1,B1"			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	check	"A1,A2"			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	increase	"A2,B1"			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	grow	A1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	improve	A2			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	compliment	B1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	praise	"B1,B2"			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	liberate	B1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	rise	"B1,B1"			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	raise	A2			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	develop	A2			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	expand	B1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	extend	B1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	strengthen	B1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	irritate	B1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	upset	"A2,B2"			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	build	A1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	add	A1			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	dry	"A1,A2"			
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	decrease	"B1,B1"		1	
+53	"2,3"	"When credit dries up , the economy is on its knees ."	dry up	silence	A2			
+54	"2,3"	"Think about in reverse , as the aggregate demand curve shifts from AD2 to AD1 to AD0 , and the equilibrium moves from E2 to E1 to E0 ."	in reverse	around	"A1,A2"			
+54	"2,3"	"Think about in reverse , as the aggregate demand curve shifts from AD2 to AD1 to AD0 , and the equilibrium moves from E2 to E1 to E0 ."	in reverse	back	"A1,A1,A2,B1"			
+54	"2,3"	"Think about in reverse , as the aggregate demand curve shifts from AD2 to AD1 to AD0 , and the equilibrium moves from E2 to E1 to E0 ."	in reverse	round	"A2,B1,B1,B2,B2"			
+54	"2,3"	"Think about in reverse , as the aggregate demand curve shifts from AD2 to AD1 to AD0 , and the equilibrium moves from E2 to E1 to E0 ."	in reverse	nor	B1			
+55	"10,11"	The following Clear it Up helps explain how antitrust laws came about .	come about	arise	B1		1	
+55	"10,11"	The following Clear it Up helps explain how antitrust laws came about .	come about	occur	B1			
+55	"10,11"	The following Clear it Up helps explain how antitrust laws came about .	come about	result	"A1,B1"		1	
+55	"10,11"	The following Clear it Up helps explain how antitrust laws came about .	come about	happen	A1		1	
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	compare	A2		1	ꂽhtmt@Cłtell the difference in@܂ł̕ꂾ̂ŁȀꍇ͂Ă͂܂̂͂܂B 
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	separate	"A2,B2"			
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	remark	"B1,B2"			
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	note	"A1,A1"			
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	know	A1			
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	judge	"A1,B1"		1	
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	contrast	A2		1	
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	difference	A1			
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	combine	B1			
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	unite	B1			
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	join	A1			
+56	"7,8,9"	"For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands ."	tell the difference	confuse	A2			
+57	"0,1,2"	"At a glance , the demand curves faced by a monopoly and by a monopolistic competitor look similar?that is , they both slope down ."	at a glance	probably	A2			
+57	"0,1,2"	"At a glance , the demand curves faced by a monopoly and by a monopolistic competitor look similar?that is , they both slope down ."	at a glance	supposedly	B1			
+57	"0,1,2"	"At a glance , the demand curves faced by a monopoly and by a monopolistic competitor look similar?that is , they both slope down ."	at a glance	possibly	A2			
+57	"0,1,2"	"At a glance , the demand curves faced by a monopoly and by a monopolistic competitor look similar?that is , they both slope down ."	at a glance	unlikely	B1			
+57	"0,1,2"	"At a glance , the demand curves faced by a monopoly and by a monopolistic competitor look similar?that is , they both slope down ."	at a glance	uncertain	A2			
+57	"0,1,2"	"At a glance , the demand curves faced by a monopoly and by a monopolistic competitor look similar?that is , they both slope down ."	at a glance	apparently	A2		1	
+58	"4,5"	"Legally , deceptive advertising dates back to the 1950s when Colgate-Palmolive created a television advertisement that seemed to show Rapid Shave shaving cream being spread on sandpaper and then the sand was shaved off the sandpaper ."	date back	pace	B1			
+59	"0,1,2"	"For the moment , let?s imagine that at the beginning of any year , there is no way of identifying the drivers who are low-risk , medium-risk , or high-risk ."	for the moment	briefly	B1		1	
+60	"22,23"	"From a monetary policy perspective , the Federal Reserve lowered short-term interest rates to between 0 % and 0.25 % , to loosen up credit throughout the financial system ."	loosen up	accustom	B1			
+60	"22,23"	"From a monetary policy perspective , the Federal Reserve lowered short-term interest rates to between 0 % and 0.25 % , to loosen up credit throughout the financial system ."	loosen up	educate	B1			
+60	"22,23"	"From a monetary policy perspective , the Federal Reserve lowered short-term interest rates to between 0 % and 0.25 % , to loosen up credit throughout the financial system ."	loosen up	train	"A1,A2"			
+60	"22,23"	"From a monetary policy perspective , the Federal Reserve lowered short-term interest rates to between 0 % and 0.25 % , to loosen up credit throughout the financial system ."	loosen up	practice	"A1,A1"			
+60	"22,23"	"From a monetary policy perspective , the Federal Reserve lowered short-term interest rates to between 0 % and 0.25 % , to loosen up credit throughout the financial system ."	loosen up	modify	B1		1	Ӗ͕ς
+60	"22,23"	"From a monetary policy perspective , the Federal Reserve lowered short-term interest rates to between 0 % and 0.25 % , to loosen up credit throughout the financial system ."	loosen up	program	"B1,A1"			
+60	"22,23"	"From a monetary policy perspective , the Federal Reserve lowered short-term interest rates to between 0 % and 0.25 % , to loosen up credit throughout the financial system ."	loosen up	ready	A1			
+60	"22,23"	"From a monetary policy perspective , the Federal Reserve lowered short-term interest rates to between 0 % and 0.25 % , to loosen up credit throughout the financial system ."	loosen up	forget	A1			
+60	"22,23"	"From a monetary policy perspective , the Federal Reserve lowered short-term interest rates to between 0 % and 0.25 % , to loosen up credit throughout the financial system ."	loosen up	relax	A2			
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	begin	A1	1	1	
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	appear	A2	1		
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	start	"A1,A1"	1	1	
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	arise	B1	1	1	
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	occur	B1	1	1	
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	complete	"A2,B1"	1		
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	conclude	B1	1		
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	end	"A1,A2"	1		
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	finish	"A1,A1"	1		
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	die	A2	1		
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	stop	"A1,A1"	1		
+61	"11,12"	"Nevertheless , by the early 1990s , a price war had broken out among them ."	break out	escape	"A2,B1"	1		
+62	"9,10,11"	"If loose monetary policy seeking to end a recession goes too far , it may push aggregate demand so far to the right that it triggers inflation ."	go too far	stretch	B1		1	
+62	"9,10,11"	"If loose monetary policy seeking to end a recession goes too far , it may push aggregate demand so far to the right that it triggers inflation ."	go too far	overwork	B1			policyɂ铮ƂĂoverwork͂Ă͂܂Ȃ
+62	"9,10,11"	"If loose monetary policy seeking to end a recession goes too far , it may push aggregate demand so far to the right that it triggers inflation ."	go too far	pressure	A2			
+62	"9,10,11"	"If loose monetary policy seeking to end a recession goes too far , it may push aggregate demand so far to the right that it triggers inflation ."	go too far	decrease	"B1,B1"			
+62	"9,10,11"	"If loose monetary policy seeking to end a recession goes too far , it may push aggregate demand so far to the right that it triggers inflation ."	go too far	lessen	B1			
+62	"9,10,11"	"If loose monetary policy seeking to end a recession goes too far , it may push aggregate demand so far to the right that it triggers inflation ."	go too far	ignore	B1			
+63	"3,4"	"These factors are not exactly economies of scale in the narrow sense of the production function of a single firm , but they are related to growth in the overall size of population and market in an area ."	not exactly	fairly	A2			
+63	"3,4"	"These factors are not exactly economies of scale in the narrow sense of the production function of a single firm , but they are related to growth in the overall size of population and market in an area ."	not exactly	rather	A2			
+63	"3,4"	"These factors are not exactly economies of scale in the narrow sense of the production function of a single firm , but they are related to growth in the overall size of population and market in an area ."	not exactly	quite	A2			
+63	"3,4"	"These factors are not exactly economies of scale in the narrow sense of the production function of a single firm , but they are related to growth in the overall size of population and market in an area ."	not exactly	slightly	B1			
+63	"3,4"	"These factors are not exactly economies of scale in the narrow sense of the production function of a single firm , but they are related to growth in the overall size of population and market in an area ."	not exactly	pretty	"A1,A2"			
+63	"3,4"	"These factors are not exactly economies of scale in the narrow sense of the production function of a single firm , but they are related to growth in the overall size of population and market in an area ."	not exactly	enough	"A2,A2,A2"			
+63	"3,4"	"These factors are not exactly economies of scale in the narrow sense of the production function of a single firm , but they are related to growth in the overall size of population and market in an area ."	not exactly	some	"A1,A1"			
+63	"3,4"	"These factors are not exactly economies of scale in the narrow sense of the production function of a single firm , but they are related to growth in the overall size of population and market in an area ."	not exactly	something	A1			
+64	"17,18"	Notice that the horizontal and vertical axes on the graph for the supply curve are the same as for the demand curve .	as for	about	"A1,A1"			
+64	"17,18"	Notice that the horizontal and vertical axes on the graph for the supply curve are the same as for the demand curve .	as for	against	A2			
+64	"17,18"	Notice that the horizontal and vertical axes on the graph for the supply curve are the same as for the demand curve .	as for	regarding	B1			
+64	"17,18"	Notice that the horizontal and vertical axes on the graph for the supply curve are the same as for the demand curve .	as for	toward	A2			
+65	"10,11"	"Still other people may have a job , perhaps doing something like yard work , child care , or cleaning houses , but are not reporting the income earned to the tax authorities ."	something like	nearly	A2			for examplê悤ȈӖłĂ̂ŁAɂĂ͂܂̂͂Ȃ
+65	"10,11"	"Still other people may have a job , perhaps doing something like yard work , child care , or cleaning houses , but are not reporting the income earned to the tax authorities ."	something like	basically	A2			
+65	"10,11"	"Still other people may have a job , perhaps doing something like yard work , child care , or cleaning houses , but are not reporting the income earned to the tax authorities ."	something like	around	"A1,A2"			
+66	"7,8,9"	"However , that financial capital was , by and large , invested in projects like railroads that brought a substantial economic payoff ."	by and large	generally	B1	1	1	
+66	"7,8,9"	"However , that financial capital was , by and large , invested in projects like railroads that brought a substantial economic payoff ."	by and large	all	"A1,A1,A2"	1		
+66	"7,8,9"	"However , that financial capital was , by and large , invested in projects like railroads that brought a substantial economic payoff ."	by and large	partly	A2	1		
+66	"7,8,9"	"However , that financial capital was , by and large , invested in projects like railroads that brought a substantial economic payoff ."	by and large	usually	A1	1		
+67	"0,1,2"	In the Clear It Up feature titled ?	in the clear	clean	"A1,A1"		0	uClear it up]ňȂ̂
+67	"0,1,2"	In the Clear It Up feature titled ?	in the clear	clear	"A2,B1"		0	
+67	"0,1,2"	In the Clear It Up feature titled ?	in the clear	good	"A1,B2"		0	
+67	"0,1,2"	In the Clear It Up feature titled ?	in the clear	innocent	B1		0	
+67	"0,1,2"	In the Clear It Up feature titled ?	in the clear	perfect	A2		0	
+67	"0,1,2"	In the Clear It Up feature titled ?	in the clear	pure	B1		0	
+67	"0,1,2"	In the Clear It Up feature titled ?	in the clear	guilty	B1		0	
+67	"0,1,2"	In the Clear It Up feature titled ?	in the clear	responsible	B1		0	
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	end	"A1,A2"		1	
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	pass	"A2,A2"			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	stop	"A1,A1"			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	fall	"A2,B1"			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	fail	A2			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	disappear	A2		1	
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	decline	"B1,B2"		1	
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	fade	B1		1	
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	moderate	B1			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	sink	"A2,B1"			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	increase	"A2,B1"			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	grow	A1			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	improve	A2			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	begin	A1			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	start	"A1,A1"			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	bear	"A1,A2"			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	advance	"B1,B2"			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	reach	"A2,B1"			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	win	"A1,B2"			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	appear	A2			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	arrive	A1			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	rise	"B1,B1"			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	build	A1			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	develop	A2			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	strengthen	B1			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	continue	A2			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	forward	A2			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	extend	B1			
+68	"3,4"	Short-run losses will fade away by reversing this process .	fade away	live	"A1,B1"			
+69	"8,9"	The fifth movie he attends is just to kill time .	kill time	summer	A1			
+70	"6,7"	You can choose a starting point at random and compare the marginal utility gains and losses of moving to neighboring points?and thus eventually seek out the preferred choice .	at random	anyway	A2		1	
+70	"6,7"	You can choose a starting point at random and compare the marginal utility gains and losses of moving to neighboring points?and thus eventually seek out the preferred choice .	at random	about	"A1,A1"			
+70	"6,7"	You can choose a starting point at random and compare the marginal utility gains and losses of moving to neighboring points?and thus eventually seek out the preferred choice .	at random	around	"A1,A2"			
+70	"6,7"	You can choose a starting point at random and compare the marginal utility gains and losses of moving to neighboring points?and thus eventually seek out the preferred choice .	at random	however	A2			
+70	"6,7"	You can choose a starting point at random and compare the marginal utility gains and losses of moving to neighboring points?and thus eventually seek out the preferred choice .	at random	nevertheless	B1			
+70	"6,7"	You can choose a starting point at random and compare the marginal utility gains and losses of moving to neighboring points?and thus eventually seek out the preferred choice .	at random	carefully	A1			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	minority	B1			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	less	"A2,A2,A2"		1	less `ƏȗĂjAXȂ̂ŁAӂȂ
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	slight	"B1,B2"			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	lean	"B1,B2"			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	short	"A1,A1"			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	minute	A1			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	minor	B1			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	occasional	B1			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	rare	B1		1	
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	slim	A2			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	some	"A1,A1"			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	thin	A1			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	useful	A2			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	large	A1			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	many	"A1,A1"			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	much	"A1,A1,A1"			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	important	A1			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	major	"A2,B2"			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	significant	A2			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	big	A1			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	fat	"A1,B2"			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	tall	A1			
+71	"16,17,18,19"	"In particular , even though wage increases may occur with relative ease , wage decreases are few and far between ."	few and far between	thick	A1			
+72	"0,1,2"	"In a sense , a similar situation occurs with regard to measures of inflation ."	in a sense	apparently	A2	1	1	
+72	"0,1,2"	"In a sense , a similar situation occurs with regard to measures of inflation ."	in a sense	probably	A2	1	1	
+73	"0,1"	"All along the budget set , giving up one burger means gaining four bus tickets ."	all along	as	"A1,A2"		1	
+73	"0,1"	"All along the budget set , giving up one burger means gaining four bus tickets ."	all along	meanwhile	B1			
+73	"0,1"	"All along the budget set , giving up one burger means gaining four bus tickets ."	all along	over	"A1,A2"		1	
+73	"0,1"	"All along the budget set , giving up one burger means gaining four bus tickets ."	all along	throughout	B1		1	
+73	"0,1"	"All along the budget set , giving up one burger means gaining four bus tickets ."	all along	until	"A1,B1"			
+73	"0,1"	"All along the budget set , giving up one burger means gaining four bus tickets ."	all along	when	"A1,A1"			
+73	"0,1"	"All along the budget set , giving up one burger means gaining four bus tickets ."	all along	while	"A2,B1"			
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	grow	A1	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	blow	"A1,A2"	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	develop	A2	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	burst	B1	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	wax	"B1,B1"	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	succeed	A2	1	1	
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	open	"A1,A1"	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	wither	B1	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	fail	A2	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	lose	A2	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	die	A2	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	stop	"A1,A1"	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	decline	"B1,B2"	1		
+74	"16,17"	"Despite a big push to increase investment in human capital , the results have not yet borne fruit ."	bear fruit	end	"A1,A2"	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	emerge	B1	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	set	"A1,A2"	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	appear	A2	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	rise	"B1,B1"	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	start	"A1,A1"	1	1	
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	enter	A2	1	1	
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	happen	A1	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	occur	B1	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	spring	A1	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	arise	B1	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	disappear	A2	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	hide	A1	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	complete	"A2,B1"	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	leave	"A1,B1"	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	end	"A1,A2"	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	finish	"A1,A1"	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	stop	"A1,A1"	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	die	A2	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	conclude	B1	1		
+75	"1,2"	"Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed ."	kick off	begin	A1	1	1	
+76	"25,26"	"The finding that conformity is more likely to occur when responses are public than when they are private is the reason government elections require voting in secret , so we are not coerced by others -LRB- -RRB- ."	in secret	quietly	A2			
+76	"25,26"	"The finding that conformity is more likely to occur when responses are public than when they are private is the reason government elections require voting in secret , so we are not coerced by others -LRB- -RRB- ."	in secret	personally	B1		1	
+76	"25,26"	"The finding that conformity is more likely to occur when responses are public than when they are private is the reason government elections require voting in secret , so we are not coerced by others -LRB- -RRB- ."	in secret	publicly	B1			
+76	"25,26"	"The finding that conformity is more likely to occur when responses are public than when they are private is the reason government elections require voting in secret , so we are not coerced by others -LRB- -RRB- ."	in secret	secretly	B1		1	
+77	"6,7"	"If other people show concern and get up to leave , you are likely to do the same ."	get up	climb	"A1,A2"			
+77	"6,7"	"If other people show concern and get up to leave , you are likely to do the same ."	get up	awake	A1			
+77	"6,7"	"If other people show concern and get up to leave , you are likely to do the same ."	get up	stand	"A1,A2"			stand upɂȂ΁Av
+77	"6,7"	"If other people show concern and get up to leave , you are likely to do the same ."	get up	arise	B1			
+77	"6,7"	"If other people show concern and get up to leave , you are likely to do the same ."	get up	increase	"A2,B1"			
+77	"6,7"	"If other people show concern and get up to leave , you are likely to do the same ."	get up	rise	"B1,B1"			
+77	"6,7"	"If other people show concern and get up to leave , you are likely to do the same ."	get up	scale	A2			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	emerge	B1		1	
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	develop	A2			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	show	"A1,A2"		1	
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	surface	B1			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	occur	B1			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	arrive	A1			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	come	A1			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	present	"A1,B1,B2"		1	
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	attend	B1			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	spring	A1			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	expose	B1			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	rise	"B1,B1"			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	arise	B1			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	issue	"A2,B2"			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	disappear	A2			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	hide	A1			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	leave	"A1,B1"			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	abandon	B1			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	go	"A1,B1"			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	miss	A1			
+78	"2,3,4"	"It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway ."	come to light	depart	B1			
+79	"19,20"	"Stage 1 sleep is a transitional phase that occurs between wakefulness and sleep , the period during which we drift off to sleep ."	drift off	sleep	"A1,B1"	1		
+79	"19,20"	"Stage 1 sleep is a transitional phase that occurs between wakefulness and sleep , the period during which we drift off to sleep ."	drift off	rise	"B1,B1"	1		
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	breed	"B1,B2"			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	invent	A2			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	set	"A1,A2"			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	design	"A1,B1"			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	prepare	A2			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	make	"A1,B2"			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	cause	"A2,B2"			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	brainstorm	A2			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	parent	A1			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	bear	"A1,A2"		1	
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	produce	A2			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	generate	B1			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	occasion	"B1,B1"			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	destroy	A2			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	ruin	"A2,B1"			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	prevent	A2			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	refuse	"B1,B1"			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	discourage	B1			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	end	"A1,A2"			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	finish	"A1,A1"			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	stop	"A1,A1"			
+80	"8,9"	"A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- ."	give birth	kill	A1			
+81	"9,10"	"But then , the machine lights up , bells go off , and Sarah gets 50 quarters back ."	go off	blow	"A1,A2"			
+81	"9,10"	"But then , the machine lights up , bells go off , and Sarah gets 50 quarters back ."	go off	burst	B1			
+81	"9,10"	"But then , the machine lights up , bells go off , and Sarah gets 50 quarters back ."	go off	happen	A1			
+81	"9,10"	"But then , the machine lights up , bells go off , and Sarah gets 50 quarters back ."	go off	occur	B1			
+81	"9,10"	"But then , the machine lights up , bells go off , and Sarah gets 50 quarters back ."	go off	fire	"A1,B2"			
+81	"9,10"	"But then , the machine lights up , bells go off , and Sarah gets 50 quarters back ."	go off	mushroom	A2			
+81	"9,10"	"But then , the machine lights up , bells go off , and Sarah gets 50 quarters back ."	go off	pass	"A2,A2"			
+81	"9,10"	"But then , the machine lights up , bells go off , and Sarah gets 50 quarters back ."	go off	arrive	A1			
+81	"9,10"	"But then , the machine lights up , bells go off , and Sarah gets 50 quarters back ."	go off	come	A1			
+81	"9,10"	"But then , the machine lights up , bells go off , and Sarah gets 50 quarters back ."	go off	enter	A2			
+81	"9,10"	"But then , the machine lights up , bells go off , and Sarah gets 50 quarters back ."	go off	leave	"A1,B1"			
+82	"13,14"	A number of environmental factors that could impact normal brain development might be at fault .	at fault	guilty	B1			
+82	"13,14"	A number of environmental factors that could impact normal brain development might be at fault .	at fault	responsible	B1			
+82	"13,14"	A number of environmental factors that could impact normal brain development might be at fault .	at fault	wrong	"A1,A2"		1	
+83	"8,9"	"People who reach this level of stress feel burned out ; they are fatigued , exhausted , and their performance begins to decline ."	burn out	tire	B1		1	tiredƂȂ΂Ƃz
+84	"8,9,10"	Forensic psychologists carry out activities related to psychology in association with the justice system .	in association with	with	A1		1	
+84	"8,9,10"	Forensic psychologists carry out activities related to psychology in association with the justice system .	in association with	outside	"A1,A2,B2,B2"			
+84	"8,9,10"	Forensic psychologists carry out activities related to psychology in association with the justice system .	in association with	separate	"A2,B2"			
+85	"5,6"	"As a result , structuralism fell out of favor with the passing of Wundt?s student , Edward Titchener , in 1927 -LRB- Gordon , 1995 -RRB- ."	fall out	differ	B1			of favorɑ̂͑IɂȂ
+85	"5,6"	"As a result , structuralism fell out of favor with the passing of Wundt?s student , Edward Titchener , in 1927 -LRB- Gordon , 1995 -RRB- ."	fall out	disagree	A2			
+85	"5,6"	"As a result , structuralism fell out of favor with the passing of Wundt?s student , Edward Titchener , in 1927 -LRB- Gordon , 1995 -RRB- ."	fall out	fight	"A1,B1"			
+85	"5,6"	"As a result , structuralism fell out of favor with the passing of Wundt?s student , Edward Titchener , in 1927 -LRB- Gordon , 1995 -RRB- ."	fall out	agree	A1			
+85	"5,6"	"As a result , structuralism fell out of favor with the passing of Wundt?s student , Edward Titchener , in 1927 -LRB- Gordon , 1995 -RRB- ."	fall out	argue	A2			
+86	"13,14"	"Genie?s abilities improved dramatically following her removal from her abusive environment , and early on , it appeared she was acquiring language?much later than would be predicted by critical period hypotheses that had been posited at the time -LRB- Fromkin et al. , 1974 -RRB- ."	early on	forward	A2			
+86	"13,14"	"Genie?s abilities improved dramatically following her removal from her abusive environment , and early on , it appeared she was acquiring language?much later than would be predicted by critical period hypotheses that had been posited at the time -LRB- Fromkin et al. , 1974 -RRB- ."	early on	green	"A1,A2"			
+86	"13,14"	"Genie?s abilities improved dramatically following her removal from her abusive environment , and early on , it appeared she was acquiring language?much later than would be predicted by critical period hypotheses that had been posited at the time -LRB- Fromkin et al. , 1974 -RRB- ."	early on	previous	B1			previouslyȂv
+86	"13,14"	"Genie?s abilities improved dramatically following her removal from her abusive environment , and early on , it appeared she was acquiring language?much later than would be predicted by critical period hypotheses that had been posited at the time -LRB- Fromkin et al. , 1974 -RRB- ."	early on	raw	A2			
+86	"13,14"	"Genie?s abilities improved dramatically following her removal from her abusive environment , and early on , it appeared she was acquiring language?much later than would be predicted by critical period hypotheses that had been posited at the time -LRB- Fromkin et al. , 1974 -RRB- ."	early on	soon	A1			
+86	"13,14"	"Genie?s abilities improved dramatically following her removal from her abusive environment , and early on , it appeared she was acquiring language?much later than would be predicted by critical period hypotheses that had been posited at the time -LRB- Fromkin et al. , 1974 -RRB- ."	early on	careful	A1			
+86	"13,14"	"Genie?s abilities improved dramatically following her removal from her abusive environment , and early on , it appeared she was acquiring language?much later than would be predicted by critical period hypotheses that had been posited at the time -LRB- Fromkin et al. , 1974 -RRB- ."	early on	cautious	B1			
+86	"13,14"	"Genie?s abilities improved dramatically following her removal from her abusive environment , and early on , it appeared she was acquiring language?much later than would be predicted by critical period hypotheses that had been posited at the time -LRB- Fromkin et al. , 1974 -RRB- ."	early on	prepared	B1			
+86	"13,14"	"Genie?s abilities improved dramatically following her removal from her abusive environment , and early on , it appeared she was acquiring language?much later than would be predicted by critical period hypotheses that had been posited at the time -LRB- Fromkin et al. , 1974 -RRB- ."	early on	late	"A1,A1"			
+86	"13,14"	"Genie?s abilities improved dramatically following her removal from her abusive environment , and early on , it appeared she was acquiring language?much later than would be predicted by critical period hypotheses that had been posited at the time -LRB- Fromkin et al. , 1974 -RRB- ."	early on	slow	"A1,B1,B1"			
+87	"0,1"	"Deep down , Joe feels sexually attracted to males ."	deep down	subconscious	B1			subconsciouslyȂv
+87	"0,1"	"Deep down , Joe feels sexually attracted to males ."	deep down	temporary	B1			
+87	"0,1"	"Deep down , Joe feels sexually attracted to males ."	deep down	inside	"A1,A2,B2,B2"		1	
+88	"0,1"	go ahead and come in ?	go ahead	begin	A1			
+88	"0,1"	go ahead and come in ?	go ahead	continue	A2			
+88	"0,1"	go ahead and come in ?	go ahead	advance	"B1,B2"			
+88	"0,1"	go ahead and come in ?	go ahead	progress	"B1,B2"			
+88	"0,1"	go ahead and come in ?	go ahead	complete	"A2,B1"			
+88	"0,1"	go ahead and come in ?	go ahead	end	"A1,A2"			
+88	"0,1"	go ahead and come in ?	go ahead	finish	"A1,A1"			
+88	"0,1"	go ahead and come in ?	go ahead	stop	"A1,A1"			
+88	"0,1"	go ahead and come in ?	go ahead	proceed	B1		1	proceed͏łiĂ˂jtŁAcome in̓JWAȂ̂ŏjAXςAv
+89	"6,7"	"A live model demonstrates a behavior in person , as when Ben stood up on his surfboard so that Julian could see how he did it ."	in person	honestly	B1			
+89	"6,7"	"A live model demonstrates a behavior in person , as when Ben stood up on his surfboard so that Julian could see how he did it ."	in person	personally	B1		1	
+89	"6,7"	"A live model demonstrates a behavior in person , as when Ben stood up on his surfboard so that Julian could see how he did it ."	in person	face-to-face	B1			
+89	"6,7"	"A live model demonstrates a behavior in person , as when Ben stood up on his surfboard so that Julian could see how he did it ."	in person	indirectly	B1		1	
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	develop	A2		0	on the radio̌tɂȂĂĂ
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	gain	"B1,B1"		0	
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	improve	A2		0	
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	increase	"A2,B1"		0	
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	proceed	B1		0	
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	exit	"B1,B1"		0	
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	decline	"B1,B2"		0	
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	fall	"A2,B1"		0	
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	reduce	B1		0	
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	depart	B1		0	
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	go	"A1,B1"		0	
+90	"9,10"	"You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word ."	come on	leave	"A1,B1"		0	
+91	"28,29,30,31"	"If you are learning how to swim freestyle , you practice the stroke : how to move your arms , how to turn your head to alternate breathing from side to side , and how to kick your legs ."	from side to side	cross	"A2,A2"			
+91	"28,29,30,31"	"If you are learning how to swim freestyle , you practice the stroke : how to move your arms , how to turn your head to alternate breathing from side to side , and how to kick your legs ."	from side to side	crossing	B1			
+91	"28,29,30,31"	"If you are learning how to swim freestyle , you practice the stroke : how to move your arms , how to turn your head to alternate breathing from side to side , and how to kick your legs ."	from side to side	over	"A1,A2"			
+92	"5,6"	"Frequently , the hyperactive child comes across as noisy and boisterous ."	come across	notice	"A2,B1"			come acrossŁuvĂvƂA󂯐ĝ悤ȕɂȂĂ̂ŁAɂĂ͂܂铮Ȃ
+92	"5,6"	"Frequently , the hyperactive child comes across as noisy and boisterous ."	come across	discover	A2			
+92	"5,6"	"Frequently , the hyperactive child comes across as noisy and boisterous ."	come across	uncover	B1			
+92	"5,6"	"Frequently , the hyperactive child comes across as noisy and boisterous ."	come across	meet	A1			
+92	"5,6"	"Frequently , the hyperactive child comes across as noisy and boisterous ."	come across	miss	A1			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	modern	A2			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	present	"A1,B1,B2"			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	instant	A2			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	general	"B1,B1"			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	in	"A1,A2"			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	now	"A1,B2"			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	doing	A1			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	fashionable	B1			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	hot	A1			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	popular	A2			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	up-to-date	B1			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	widespread	B1			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	old-fashioned	B1			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	old	A1			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	past	"A1,A1,B1"			
+93	"16,17"	"guards felt helpless to intervene , and none of the guards quit while the study was in progress ."	in progress	continuous	B1		1	
+94	"18,19"	"People who have transformational leadership possess four attributes to varying degrees : They are charismatic -LRB- highly liked role models -RRB- , inspirational -LRB- optimistic about goal attainment -RRB- , intellectually stimulating -LRB- encourage critical thinking and problem solving -RRB- , and considerate -LRB- Bass , Avolio , & Atwater , 1996 -RRB- ."	role model	hero	A2		1	
+94	"18,19"	"People who have transformational leadership possess four attributes to varying degrees : They are charismatic -LRB- highly liked role models -RRB- , inspirational -LRB- optimistic about goal attainment -RRB- , intellectually stimulating -LRB- encourage critical thinking and problem solving -RRB- , and considerate -LRB- Bass , Avolio , & Atwater , 1996 -RRB- ."	role model	example	A1		1	{ƂӖłExampleł߂ӖAhĂƂӖ𐄑ƁÂׂĂ̑IĂ͂܂
+94	"18,19"	"People who have transformational leadership possess four attributes to varying degrees : They are charismatic -LRB- highly liked role models -RRB- , inspirational -LRB- optimistic about goal attainment -RRB- , intellectually stimulating -LRB- encourage critical thinking and problem solving -RRB- , and considerate -LRB- Bass , Avolio , & Atwater , 1996 -RRB- ."	role model	idol	B1		1	
+94	"18,19"	"People who have transformational leadership possess four attributes to varying degrees : They are charismatic -LRB- highly liked role models -RRB- , inspirational -LRB- optimistic about goal attainment -RRB- , intellectually stimulating -LRB- encourage critical thinking and problem solving -RRB- , and considerate -LRB- Bass , Avolio , & Atwater , 1996 -RRB- ."	role model	star	"A1,B1"		1	
+94	"18,19"	"People who have transformational leadership possess four attributes to varying degrees : They are charismatic -LRB- highly liked role models -RRB- , inspirational -LRB- optimistic about goal attainment -RRB- , intellectually stimulating -LRB- encourage critical thinking and problem solving -RRB- , and considerate -LRB- Bass , Avolio , & Atwater , 1996 -RRB- ."	role model	superstar	A2		1	
+95	"1,2,3"	"insistence to the contrary , her parents believed that these were signs that she was trying to communicate with them ."	to the contrary	nevertheless	B1		1	
+95	"1,2,3"	"insistence to the contrary , her parents believed that these were signs that she was trying to communicate with them ."	to the contrary	yet	"A1,B1"		1	
+95	"1,2,3"	"insistence to the contrary , her parents believed that these were signs that she was trying to communicate with them ."	to the contrary	nonetheless	B1		1	
+95	"1,2,3"	"insistence to the contrary , her parents believed that these were signs that she was trying to communicate with them ."	to the contrary	against	A2			
+95	"1,2,3"	"insistence to the contrary , her parents believed that these were signs that she was trying to communicate with them ."	to the contrary	but	"A1,B1"		1	
+95	"1,2,3"	"insistence to the contrary , her parents believed that these were signs that she was trying to communicate with them ."	to the contrary	despite	B1			
+95	"1,2,3"	"insistence to the contrary , her parents believed that these were signs that she was trying to communicate with them ."	to the contrary	though	"A2,B2"		1	
+96	"2,3"	Several days go by and Savannah never hears back from her potential new friend .	go by	pass	"A2,A2"		1	
+96	"2,3"	Several days go by and Savannah never hears back from her potential new friend .	go by	proceed	B1			
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	remind	A2	1		SVǑ`Ƃ̂΂ŁA̕O͂Ȃ̂łĂ͂܂Ȃ
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	retrospect	B1	1		
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	renew	B1	1		
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	flash	"B1,B2,B2"	1		
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	mind	"A1,A2"	1		
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	retain	B1	1		
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	stir	B1	1		
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	calm	B1	1		
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	kill	A1	1		
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	forget	A1	1		
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	fire	"A1,B2"	1		
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	restore	B1	1		
+97	"5,6,7"	Does the name Ivan Pavlov ring a bell ?	ring a bell	remember	A1	1		
+98	"8,9"	You share a dish of chicken curry and head off to your next class .	head off	stop	"A1,A1"	1		
+99	"14,15,16"	"How might observation help Julian learn to surf , as opposed to learning by trial and error alone ?"	trial and error	analysis	B1	1	1	
+99	"14,15,16"	"How might observation help Julian learn to surf , as opposed to learning by trial and error alone ?"	trial and error	examination	B1	1	1	
+99	"14,15,16"	"How might observation help Julian learn to surf , as opposed to learning by trial and error alone ?"	trial and error	experiment	"B1,B2"	1	1	
+99	"14,15,16"	"How might observation help Julian learn to surf , as opposed to learning by trial and error alone ?"	trial and error	research	"A2,B2"	1	1	
+99	"14,15,16"	"How might observation help Julian learn to surf , as opposed to learning by trial and error alone ?"	trial and error	study	"A1,A2"	1	1	
+99	"14,15,16"	"How might observation help Julian learn to surf , as opposed to learning by trial and error alone ?"	trial and error	test	"A1,B2"	1	1	
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	sit	A1			
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	drop	"A1,A2"			
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	stop	"A1,A1"		1	
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	rest	"B1,B1"			
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	settle	B1		1	
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	arrive	A1			
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	continue	A2			
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	do	A1			
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	go	"A1,B1"			
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	move	"A1,A2"			
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	depart	B1			
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	leave	"A1,B1"			
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	dull	B1			
+100	"24,25"	Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .	settle down	mount	"B1,B2"		1	
+101	"0,1"	"Sure enough , Peter thought , a gray-haired old man guilty of ?"	sure enough	exactly	A2			
+101	"0,1"	"Sure enough , Peter thought , a gray-haired old man guilty of ?"	sure enough	actually	A2		1	
+101	"0,1"	"Sure enough , Peter thought , a gray-haired old man guilty of ?"	sure enough	definitely	B1		1	
+101	"0,1"	"Sure enough , Peter thought , a gray-haired old man guilty of ?"	sure enough	surely	B1		1	Surely ł߂Ӗ
+101	"0,1"	"Sure enough , Peter thought , a gray-haired old man guilty of ?"	sure enough	truly	A2		1	
+101	"0,1"	"Sure enough , Peter thought , a gray-haired old man guilty of ?"	sure enough	positively	B1		1	
+101	"0,1"	"Sure enough , Peter thought , a gray-haired old man guilty of ?"	sure enough	really	A1		1	
+101	"0,1"	"Sure enough , Peter thought , a gray-haired old man guilty of ?"	sure enough	easily	A2		1	
+101	"0,1"	"Sure enough , Peter thought , a gray-haired old man guilty of ?"	sure enough	uncertain	A2			
+102	"0,1"	"At issue are two approaches to classroom education : the notion that teachers impart knowledge that students are obligated to absorb , versus the concept of student-centered learning that seeks to teach children not facts , but problem solving abilities and learning skills ."	at issue	suspect	"B1,B2"			
+102	"0,1"	"At issue are two approaches to classroom education : the notion that teachers impart knowledge that students are obligated to absorb , versus the concept of student-centered learning that seeks to teach children not facts , but problem solving abilities and learning skills ."	at issue	open	"A1,A1"		1	
+102	"0,1"	"At issue are two approaches to classroom education : the notion that teachers impart knowledge that students are obligated to absorb , versus the concept of student-centered learning that seeks to teach children not facts , but problem solving abilities and learning skills ."	at issue	controversial	B1		1	
+102	"0,1"	"At issue are two approaches to classroom education : the notion that teachers impart knowledge that students are obligated to absorb , versus the concept of student-centered learning that seeks to teach children not facts , but problem solving abilities and learning skills ."	at issue	uncertain	A2			
+102	"0,1"	"At issue are two approaches to classroom education : the notion that teachers impart knowledge that students are obligated to absorb , versus the concept of student-centered learning that seeks to teach children not facts , but problem solving abilities and learning skills ."	at issue	certain	A2		1	
+102	"0,1"	"At issue are two approaches to classroom education : the notion that teachers impart knowledge that students are obligated to absorb , versus the concept of student-centered learning that seeks to teach children not facts , but problem solving abilities and learning skills ."	at issue	sure	"A1,A2"			
+102	"0,1"	"At issue are two approaches to classroom education : the notion that teachers impart knowledge that students are obligated to absorb , versus the concept of student-centered learning that seeks to teach children not facts , but problem solving abilities and learning skills ."	at issue	definite	B1		1	
+103	"21,22"	"When there is a deadline at the office but a sick child needs to be picked up from school , which comes first ?"	come first	fail	A2		1	
+103	"21,22"	"When there is a deadline at the office but a sick child needs to be picked up from school , which comes first ?"	come first	lose	A2			
+103	"21,22"	"When there is a deadline at the office but a sick child needs to be picked up from school , which comes first ?"	come first	follow	A2			
+104	"1,2,3"	"It?s against the law to rob a bank , and banks go to great lengths to prevent such crimes ."	against the law	criminal	"B1,B2"		1	
+104	"1,2,3"	"It?s against the law to rob a bank , and banks go to great lengths to prevent such crimes ."	against the law	legal	B1			
+104	"1,2,3"	"It?s against the law to rob a bank , and banks go to great lengths to prevent such crimes ."	against the law	illegal	A2		1	
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	control	"A2,B1"		1	
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	law	A2		1	
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	peace	A1		1	
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	quiet	"A1,B2"		1	quiet̒̕ōsɂȂ
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	calm	B1		1	
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	goodness	B1		1	
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	chaos	B1			
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	noise	A1			
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	violence	B1			
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	liberty	A2		1	
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	answer	"A1,A1"			
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	turbulence	B1			
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	confusion	B1			
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	mess	"B1,B2"			
+105	"21,22,23"	"According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations ."	law and order	license	A2			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	decline	"B1,B2"		1	
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	lessen	B1		1	
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	reduce	B1			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	temper	B1			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	decrease	"B1,B1"		1	
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	cut	"A1,B1"		1	
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	close	"A1,A1"			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	moderate	B1			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	increase	"A2,B1"			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	grow	A1			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	compliment	B1			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	praise	"B1,B2"			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	rise	"B1,B1"			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	raise	A2			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	develop	A2			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	expand	B1			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	extend	B1			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	strengthen	B1			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	pause	"B1,B1"			
+106	"18,19"	"Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out ."	die out	disappear	A2			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	old	A1			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	ancient	A2			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	past	"A1,A1,B1"			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	above	"A1,A1,B1"			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	first	"A1,A1"			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	late	"A1,A1"			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	once	"A1,B2"			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	sometime	B1			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	after	"A1,A2,B1"			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	modern	A2			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	current	B1			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	following	"A1,B2"			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	future	"A1,B1"			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	new	A1			
+107	"22,23"	"He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago ."	long ago	present	"A1,B1,B2"			
+108	"6,7,8"	"spent two years evading the police by means of transportation theft and squatting , frequently leaving a trail of bare footprints in his wake -LRB- Johnson 2011 -RRB- ."	by means of	around	"A1,A2"	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	bend	"A2,B2"	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	shift	"B1,B2"	1	1	
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	move	"A1,A2"	1	1	
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	influence	"A2,B2"	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	push	"A1,B1"	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	slide	"A2,B2"	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	persuade	B1	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	remove	B1	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	inch	"A2,B2"	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	convince	B1	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	stir	B1	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	roll	"A2,B2"	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	change	"A1,A1"	1	1	
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	remain	A2	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	prevent	A2	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	hold	"A1,A2"	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	keep	A1	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	fix	"A2,B1"	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	stay	"A1,B1"	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	stop	"A1,A1"	1	1	ӖςĂ邪͐藧
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	discourage	B1	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	steady	B1	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	fall	"A2,B1"	1		
+109	"2,3"	"This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society ."	give way	retire	A2	1	1	ӖςĂ邪͐藧
+110	"1,2,3"	"But bit by bit , they became stressed by interacting with people from a different culture who spoke another language and used different regional expressions ."	bit by bit	gradually	A2		1	
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	position	A2			
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	program	"B1,A1"			
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	system	A2			
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	course	A1			
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	approach	"B1,B2"		1	
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	practice	"A1,A1"			
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	principle	B1			
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	avenue	B1			
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	method	A2		1	
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	entertainment	A2			
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	fun	"A1,A1"			
+111	"10,11,12"	These leaders work hard to build consensus before choosing a course of action and moving forward .	course of action	speech	A1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	confirm	B1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	determine	B1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	divine	B1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	dig	"A1,B1"			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	eye	A1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	read	A1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	fix	"A2,B1"			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	discover	A2			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	tell	A1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	see	A1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	settle	B1		1	
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	learn	A1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	establish	A2			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	check	"A1,A2"			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	size	A1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	destroy	A2			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	ignore	B1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	aid	"B1,B1"			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	assist	B1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	help	"A1,A2"			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	miss	A1			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	confuse	A2			
+112	"3,4"	Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .	catch on	understand	A2			
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	certain	A2		0	̏ꍇAreal moneyCAforSold ɂĂāuFor realvЂƂƂĂ͓ǂ߂Ȃ
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	substantial	B1		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	definite	B1		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	physical	A2		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	absolute	B1		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	hard	"A1,A1"		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	positive	B1		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	realistic	B1		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	TRUE	A1		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	uncertain	A2		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	spiritual	B1		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	imaginary	B1		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	mental	B1		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	FALSE	A1		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	past	"A1,A1,B1"		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	definitely	B1		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	actually	A2		0	
+113	"8,9"	This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .	for real	really	A1		0	
+114	"24,25,26"	"A professionally trained researcher , Schoepflin wondered what effect driving a hearse had on his friend and what effect it might have on others on the road ."	on the road	bound	B1			
+114	"24,25,26"	"A professionally trained researcher , Schoepflin wondered what effect driving a hearse had on his friend and what effect it might have on others on the road ."	on the road	roadside	B1			
+115	"19,20"	"-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer ."	at least	slightly	B1			uCompletevɂȂ̂͂Ȃ
+115	"19,20"	"-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer ."	at least	carelessly	B1			
+115	"19,20"	"-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer ."	at least	relatively	B1			
+115	"19,20"	"-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer ."	at least	completely	B1			
+115	"19,20"	"-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer ."	at least	totally	B1			
+116	"12,13"	"The particular advantages may be based on educational choices , which are in turn shaped by interests and talents ."	in turn	following	"A1,B2"			
+116	"12,13"	"The particular advantages may be based on educational choices , which are in turn shaped by interests and talents ."	in turn	orderly	B1			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	publicly	B1		1	OKƂÎقƂǂ́uӖ͑ႤA̍\ƂĂ͊ԈĂȂ́v
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	mostly	A2			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	largely	B1			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	typically	B1			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	commonly	B1			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	roughly	A2		1	
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	widely	A2		1	
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	usually	A1		1	
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	normally	B1		1	
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	about	"A1,A1"			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	altogether	B1			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	approximately	B1		1	
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	extensively	B1		1	
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	primarily	B1			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	regularly	A2		1	
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	rarely	B1			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	sometimes	B1			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	unusually	B1			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	exactly	A2			
+117	"21,22"	"For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average ."	on average	particularly	B1			
+118	"0,1"	"In short , specialization requires trade ."	in short	shortly	B1		1	
+118	"0,1"	"In short , specialization requires trade ."	in short	permanently	B1			
+119	"15,16"	"You need to be able to vote intelligently on budgets , regulations , and laws in general ."	in general	almost	A1			
+119	"15,16"	"You need to be able to vote intelligently on budgets , regulations , and laws in general ."	in general	nearly	A2			
+119	"15,16"	"You need to be able to vote intelligently on budgets , regulations , and laws in general ."	in general	roughly	A2		1	
+119	"15,16"	"You need to be able to vote intelligently on budgets , regulations , and laws in general ."	in general	approximately	B1			
+119	"15,16"	"You need to be able to vote intelligently on budgets , regulations , and laws in general ."	in general	away	A1			
+119	"15,16"	"You need to be able to vote intelligently on budgets , regulations , and laws in general ."	in general	distant	B1			
+119	"15,16"	"You need to be able to vote intelligently on budgets , regulations , and laws in general ."	in general	far	"A2,B2"			
+119	"15,16"	"You need to be able to vote intelligently on budgets , regulations , and laws in general ."	in general	remote	A2			
+119	"15,16"	"You need to be able to vote intelligently on budgets , regulations , and laws in general ."	in general	usually	A1		1	
+120	"4,5"	"No biological organism exists in isolation , and our behavior is influenced by our interactions with others ."	in isolation	down	"A1,A2,B2"			
+120	"4,5"	"No biological organism exists in isolation , and our behavior is influenced by our interactions with others ."	in isolation	alone	"A1,A2"		1	
+120	"4,5"	"No biological organism exists in isolation , and our behavior is influenced by our interactions with others ."	in isolation	away	A1			
+120	"4,5"	"No biological organism exists in isolation , and our behavior is influenced by our interactions with others ."	in isolation	out	A1			
+120	"4,5"	"No biological organism exists in isolation , and our behavior is influenced by our interactions with others ."	in isolation	apart	A2		1	
+120	"4,5"	"No biological organism exists in isolation , and our behavior is influenced by our interactions with others ."	in isolation	beside	A1			
+120	"4,5"	"No biological organism exists in isolation , and our behavior is influenced by our interactions with others ."	in isolation	near	"A1,B1,B1"			
+120	"4,5"	"No biological organism exists in isolation , and our behavior is influenced by our interactions with others ."	in isolation	nearby	"B1,B1"			
+120	"4,5"	"No biological organism exists in isolation , and our behavior is influenced by our interactions with others ."	in isolation	middle	"A1,A2"			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	last	"A2,A2,B1,B1"			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	proceed	B1		1	
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	conduct	"B1,B2"			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	stay	"A1,B1"			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	endure	B1			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	occur	B1			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	happen	A1		1	
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	act	"A2,B1"			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	advance	"B1,B2"			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	bear	"A1,A2"			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	behave	B1			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	stop	"A1,A1"			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	leave	"A1,B1"			
+121	"13,14"	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	continue	A2		1	
+122	"22,23,24"	All sociologists are interested in the experiences of individuals and how those experiences are shaped by interactions with social groups and society as a whole .	as a whole	altogether	B1		1	
+122	"22,23,24"	All sociologists are interested in the experiences of individuals and how those experiences are shaped by interactions with social groups and society as a whole .	as a whole	generally	B1		1	
+122	"22,23,24"	All sociologists are interested in the experiences of individuals and how those experiences are shaped by interactions with social groups and society as a whole .	as a whole	together	A1		1	
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	do	A1			upɂȂ̂͂Ȃ
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	finish	"A1,A1"			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	score	"B1,B1"			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	conclude	B1			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	perform	A2			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	win	"A1,B2"			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	manage	A2			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	reach	"A2,B1"			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	produce	A2			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	attain	B1			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	realize	A2			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	achieve	A2			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	hit	"A2,B1"			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	effect	A2			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	gain	"B1,B1"			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	arrive	A1			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	destroy	A2			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	fail	A2			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	lose	A2			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	miss	A1			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	begin	A1			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	introduce	A1			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	start	"A1,A1"			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	stop	"A1,A1"			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	leave	"A1,B1"			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	abandon	B1			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	exist	A2			
+123	"10,11"	"Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- ."	make it	endure	B1			
+124	"22,23,24"	Ashley said that in the city they had been accustomed to getting looks and hearing comments when she and her partner walked hand in hand .	hand in hand	together	A1		1	
+125	"23,24"	Ashley said that in the city they had been accustomed to getting looks and hearing comments when she and her partner walked hand in hand .	in hand	had	A1			
+125	"23,24"	Ashley said that in the city they had been accustomed to getting looks and hearing comments when she and her partner walked hand in hand .	in hand	lost	A2			
+126	"10,11,12"	"Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job ."	a great deal	regularly	A2			ofɂȂ̂͂Ȃ
+126	"10,11,12"	"Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job ."	a great deal	often	A1			
+126	"10,11,12"	"Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job ."	a great deal	indeed	A2			
+126	"10,11,12"	"Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job ."	a great deal	highly	B1			
+126	"10,11,12"	"Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job ."	a great deal	very	"A1,B2"			
+126	"10,11,12"	"Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job ."	a great deal	frequently	B1			
+126	"10,11,12"	"Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job ."	a great deal	extremely	A2			
+126	"10,11,12"	"Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job ."	a great deal	repeatedly	B1			
+126	"10,11,12"	"Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job ."	a great deal	little	"A1,A1,B1,B1"			
+126	"10,11,12"	"Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job ."	a great deal	rarely	B1			

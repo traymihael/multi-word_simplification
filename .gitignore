@@ -1,0 +1,17 @@
+data/
+make_dict/
+text_matching/data/
+text_matching/data2/
+text_matching/data3/
+text_matching/data4/
+text_matching/data5/
+text_matching/data_xx/
+dict_level/
+word2vec/
+Doc2vec/
+evaluation/
+other/
+saved/
+backup/
+Tfidf/
+study/
