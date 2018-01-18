@@ -1,0 +1,818 @@
+I do n't think any segregation law angered black people in Montgomery more than bus segregation .
+	d:	[adv]	any more	[det adj]	B1
+	d:	[noun]	any people	[det noun]	A1
+	d:	[verb]	do in	[verb prep]	A1
+	d:	[noun]	law segregation	[noun noun]	unknown
+	c:	[adv]	more than	[adj prep]	B1
+	d:	[pron]	not any	[adv det]	A1
+	d:	[noun]	think in	[verb prep]	A1
+
+
+And that had been so since the laws about segregation on public transportation had been passed .
+	d:	[adj]	about be	[prep verb]	A1
+	d:	[adj]	and on	[conj prep]	A1
+	d:	[adv]	and so	[conj adv]	A2
+	d:	[adj]	and so on	[conj adv prep]	A2
+	c:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	be about	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have law on	[verb noun prep]	A2
+	d:	[verb]	have on	[verb prep]	A1
+	d:	[verb]	have the law on	[verb det noun prep]	A2
+	d:	[noun]	law segregation	[noun noun]	unknown
+	c:	[noun]	public transportation	[adj noun]	B1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[noun]	the public	[det noun]	A2
+
+
+That was back in 1900 , and black people had boycotted Montgomery streetcars until the City Council changed its ordinance so that nobody would be forced to give up a seat unless there was another seat to move to .
+	d:	[adv]	and so	[conj adv]	A2
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	be and up	[verb conj prep]	A1
+	c:	[verb]	be back	[verb adv]	A1
+	c:	[verb]	be force	[verb noun]	A2
+	c:	[verb]	be force to	[verb verb prep]	B2
+	d:	[verb]	be give	[verb verb]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in force	[verb prep noun]	A2
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be move	[verb noun]	A1
+	d:	[verb]	be seat	[verb verb]	A1
+	d:	[verb]	be the move	[verb det noun]	A1
+	d:	[verb]	be the up	[verb det prep]	A1
+	d:	[verb]	be there	[verb XXXXX]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be up	[verb adv]	A2
+	d:	[verb]	be up to	[verb adv prep]	A2
+	d:	[adj]	back seat	[adv noun]	A1
+	d:	[verb]	back up	[adv adv]	A2
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	give to	[verb prep]	A1
+	c:	[verb]	give up	[verb prep]	A1
+	d:	[verb]	have a seat	[verb det noun]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have force	[verb noun]	A2
+	d:	[verb]	have seat	[verb noun]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[verb]	have up	[verb prep]	A1
+	d:	[adj]	in black	[prep adj]	A1
+	d:	[adj]	in force	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[adv]	in there	[prep XXXXX]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	c:	[verb]	move to	[noun prep]	A1
+	c:	[conj]	so that	[adv prep]	A2
+	c:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the force	[det noun]	A2
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	that be to be	[det verb prep verb]	A1
+	d:	[adj]	up to	[adv prep]	A2
+	d:	[noun]	up there	[prep noun]	A1
+	c:	[adj]	would be	[other verb]	A1
+
+
+But over the years practices had changed , although the law had not .
+	c:	[noun]	have not	[verb adv]	A1
+
+
+When I was put off the bus back in 1943 , the bus driver was really acting against the law .
+	d:	[adj]	against law	[prep noun]	A2
+	c:	[adj]	against the law	[prep det noun]	A2
+	d:	[verb]	be against	[verb prep]	A1
+	d:	[verb]	be back	[verb adv]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be off	[verb prep]	A1
+	d:	[noun]	in law	[prep noun]	A2
+	d:	[verb]	put back	[verb prep]	A1
+	d:	[verb]	put in	[verb prep]	A1
+	c:	[verb]	put off	[verb prep]	A1
+	d:	[verb]	put act	[adj noun]	A2
+
+
+In 1945 , two years after that incident , the State of Alabama passed a law requiring that all bus companies under its jurisdiction enforce segregation .
+	d:	[adv]	after all	[prep det]	A1
+	c:	[adv]	after that	[prep det]	A1
+	d:	[adv]	in all	[prep det]	A1
+	d:	[noun]	in law	[prep noun]	A2
+	d:	[adv]	in pass	[prep verb]	A2
+	d:	[verb]	in state	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[noun]	law segregation	[noun noun]	unknown
+	c:	[noun]	the state	[det noun]	A2
+
+
+But that law did not spell out what bus drivers were supposed to do in a case like mine .
+	d:	[verb]	be case	[verb noun]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be like	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	do in	[verb prep]	A1
+	d:	[verb]	do like	[verb prep]	A1
+	d:	[conj]	in case	[prep noun]	A1
+	d:	[adj]	not do	[adv verb]	A1
+	d:	[adj]	not what be	[adv other verb]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[verb]	out do	[adv verb]	A1
+	d:	[adj]	out to	[prep prep]	A1
+	c:	[verb]	spell out	[noun prep]	A1
+	d:	[adv]	that be	[det verb]	A1
+	c:	[noun]	to do	[prep verb]	A1
+	d:	[noun]	what do	[det verb]	A1
+	d:	[noun]	what be do	[other verb verb]	A1
+	d:	[noun]	what be	[other verb]	A1
+
+
+Here it was , half a century after the first segregation law , and there were 50,000 African Americans in Montgomery .
+	d:	[verb]	be after	[verb prep]	A1
+	d:	[verb]	be first	[verb adj]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be there	[verb XXXXX]	A1
+	d:	[adv]	here and there	[adv conj adv]	A1
+	d:	[adv]	here there	[adv XXXXX]	A1
+
+
+More of us rode the buses than Caucasians did , because more whites could afford cars .
+	d:	[adv]	more more	[adv adv]	B1
+	d:	[adj]	more ride	[adv verb]	B1
+	d:	[adj]	more because	[adv prep]	B1
+	d:	[adv]	more than	[adj prep]	B1
+
+
+It was very humiliating having to suffer the indignity of riding segregated buses twice a day , five days a week , to go downtown and work for white people .
+	c:	[noun]	a day	[det noun]	A1
+	d:	[noun]	a people	[det noun]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be go	[verb verb]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	go for	[verb prep]	A1
+	d:	[verb]	go white	[verb adj]	A1
+	d:	[verb]	have a go	[verb det noun]	B1
+	d:	[verb]	have for	[verb prep]	A1
+	d:	[verb]	have go	[verb verb]	A1
+	c:	[verb]	have to	[verb prep]	A1
+	d:	[verb]	have to go	[verb prep verb]	A1
+	d:	[noun]	the work	[det noun]	A1
+	d:	[noun]	the people	[det noun]	A1
+	d:	[noun]	work people	[verb noun]	A1
+	c:	[verb]	work for	[noun prep]	A1
+
+
+When I got off from work that evening of December 1 , I went to Court Square as usual to catch the Cleveland Avenue bus home .
+	d:	[prep]	as to	[prep prep]	A1
+	c:	[adv]	as usual	[prep adj]	A2
+	d:	[verb]	get from	[verb prep]	A1
+	d:	[adj]	get go	[verb verb]	A1
+	c:	[verb]	get off	[verb prep]	A1
+	d:	[verb]	get to	[verb prep]	A1
+	d:	[verb]	go as	[verb prep]	A1
+	c:	[verb]	go to	[verb prep]	A1
+
+
+I did n't look to see who was driving when I got on , and by the time I recognized him , I had already paid my fare .
+	c:	[verb]	be drive	[verb verb]	A2
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be pay	[verb verb]	A1
+	d:	[verb]	be recognize	[verb verb]	B1
+	d:	[verb]	be get	[verb verb]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	c:	[adv]	by the	[prep det]	A1
+	d:	[adv]	by time	[prep noun]	A1
+	d:	[noun]	drive time	[noun noun]	A1
+	d:	[verb]	get by	[verb prep]	A1
+	d:	[noun]	get he	[verb posPro]	A1
+	c:	[verb]	get on	[verb prep]	A1
+	d:	[verb]	look be	[noun verb]	A1
+	d:	[verb]	look on	[verb prep]	A1
+	d:	[verb]	look see	[verb verb]	A1
+	c:	[verb]	look to	[verb prep]	A1
+	d:	[verb]	look to be	[verb prep verb]	A1
+	d:	[verb]	not get	[adv verb]	A1
+	d:	[adj]	not on	[adv prep]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[adv]	on time	[prep noun]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	c:	[noun]	the time	[det noun]	A1
+	d:	[adj]	to be have	[prep verb verb]	A1
+	d:	[adj]	to be pay	[prep verb verb]	A1
+
+
+It was the same driver who had put me off the bus back in 1943 , twelve years earlier .
+	d:	[verb]	be back	[verb adv]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be off	[verb prep]	A1
+	d:	[verb]	be same	[verb adj]	A1
+	c:	[verb]	be the same	[verb det adj]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[noun]	off year	[prep noun]	A1
+	d:	[verb]	put back	[verb prep]	A1
+	d:	[verb]	put in	[verb prep]	A1
+	d:	[verb]	put off	[verb prep]	A1
+
+
+He was still tall and heavy , with red , rough-looking skin .
+	d:	[verb]	be heavy	[verb adj]	A1
+	d:	[verb]	be with	[verb prep]	A1
+
+
+And he was still mean-looking .
+	notfound
+
+
+I did n't know if he had been on that route before?they switched the drivers around sometimes .
+	c:	[verb]	be on	[verb prep]	A1
+	d:	[adj]	be around	[verb prep]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	c:	[verb]	not know	[adv verb]	A1
+	d:	[adj]	not on	[adv prep]	A1
+	c:	[adv]	on that	[prep det]	A1
+	d:	[verb]	switch around	[noun prep]	B1
+
+
+I do know that most of the time if I saw him on a bus , I would n't get on it .
+	d:	[verb]	do it	[verb perPro]	A1
+	d:	[verb]	get it	[verb perPro]	A1
+	c:	[verb]	get on	[verb prep]	A1
+	c:	[verb]	get on it	[verb prep perPro]	A1
+	d:	[prep]	if not	[prep adv]	A1
+	d:	[adj]	most on	[adv prep]	A2
+	d:	[adj]	most time	[adv verb]	B2
+	d:	[adj]	most get	[adv verb]	A2
+	d:	[adj]	most see	[adv verb]	A2
+	c:	[verb]	not get	[adv verb]	A1
+	d:	[adj]	not on	[adv prep]	A1
+	d:	[adv]	on on	[prep prep]	A1
+	d:	[adj]	of time	[prep noun]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[noun]	that time	[det noun]	A1
+	c:	[noun]	the time	[det noun]	A1
+
+
+I saw a vacant seat in the middle section of the bus and took it .
+	d:	[adv]	in middle	[prep noun]	A2
+	d:	[prep]	in middle of	[prep noun prep]	A2
+	d:	[noun]	in take	[prep noun]	B1
+	c:	[adv]	in the middle	[prep det noun]	A2
+	d:	[prep]	in the middle of	[prep det noun prep]	A2
+	c:	[verb]	take it	[verb perPro]	A1
+
+
+I did n't even question why there was a vacant seat even though there were quite a few people standing in the back .
+	c:	[adj]	a few	[det adj]	B1
+	d:	[noun]	a people	[det noun]	A1
+	d:	[verb]	be back	[verb adv]	A1
+	d:	[verb]	be even	[verb adv]	A2
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be seat	[verb verb]	A1
+	d:	[verb]	be there	[verb XXXXX]	A1
+	d:	[verb]	do in	[verb prep]	A1
+	c:	[prep]	even though	[adv prep]	A2
+	d:	[adv]	not quite	[adv adv]	A2
+	d:	[adj]	not there	[adv adv]	A1
+	c:	[adj]	quite a few	[adv det adj]	B1
+	d:	[adj]	quite few	[adv adj]	B1
+	c:	[noun]	stand in	[verb prep]	A2
+	d:	[noun]	there back	[adv adv]	A1
+
+
+If I had thought about it at all , I would probably have figured maybe someone saw me get on and did not take the seat but left it vacant for me .
+	d:	[adv]	all but	[det conj]	A1
+	d:	[noun]	all get	[det verb]	A1
+	d:	[noun]	all it	[det perPro]	A1
+	d:	[adj]	all see	[det verb]	A1
+	c:	[noun]	at all	[prep det]	A1
+	d:	[adj]	at it	[prep perPro]	A1
+	d:	[adj]	but for	[conj prep]	A1
+	d:	[verb]	do it	[verb perPro]	A1
+	d:	[verb]	do for	[verb prep]	A1
+	d:	[verb]	figure on	[noun prep]	A2
+	d:	[verb]	get do	[verb verb]	A1
+	d:	[verb]	get it	[verb perPro]	A1
+	c:	[verb]	get on	[verb prep]	A1
+	d:	[verb]	get on it	[verb prep perPro]	A1
+	d:	[verb]	have at	[verb prep]	A1
+	d:	[verb]	have at it	[verb prep perPro]	A1
+	d:	[verb]	have do	[verb verb]	A1
+	d:	[verb]	have for	[verb prep]	A1
+	d:	[adj]	have it	[verb perPro]	A1
+	d:	[verb]	have it for	[verb perPro prep]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	d:	[verb]	have seat	[verb noun]	A1
+	d:	[adj]	have it all	[verb perPro det]	A1
+	d:	[noun]	have not	[verb adv]	A1
+	d:	[prep]	if not	[prep adv]	A1
+	d:	[prep]	not for	[adv prep]	A1
+	d:	[adj]	on take	[prep noun]	B1
+	d:	[adv]	on leave	[prep noun]	B1
+	d:	[verb]	take for	[verb prep]	A1
+	d:	[verb]	take it	[verb perPro]	A1
+	d:	[verb]	take seat	[verb noun]	A1
+	d:	[adj]	take leave	[verb noun]	B1
+	d:	[verb]	take leave it	[verb verb perPro]	A1
+	c:	[verb]	think about	[verb prep]	A1
+
+
+There was a man sitting next to the window and two women across the aisle .
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[noun]	man and woman	[noun conj noun]	A1
+	d:	[noun]	man woman	[noun noun]	A1
+	c:	[prep]	next to	[prep prep]	A1
+	d:	[adj]	the two	[det adj]	A1
+
+
+The next stop was the Empire Theater , and some whites got on .
+	d:	[adj]	and on	[conj prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be get	[verb verb]	A1
+	c:	[verb]	get on	[verb prep]	A1
+
+
+They filled up the white seats , and one man was left standing .
+	c:	[verb]	be leave	[verb verb]	A1
+	c:	[verb]	fill up	[verb prep]	A1
+	d:	[noun]	the man	[det noun]	A1
+
+
+The driver looked back and noticed the man standing .
+	c:	[verb]	look back	[verb prep]	A1
+	c:	[noun]	the man	[det noun]	A1
+
+
+Then he looked back at us .
+	d:	[verb]	look at	[verb prep]	A1
+	c:	[verb]	look back	[verb prep]	A1
+
+
+He said , `` Let me have those front seats , '' because they were the front seats of the black section .
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be seat	[verb verb]	A1
+	d:	[prep]	because of	[prep prep]	A1
+	c:	[noun]	front seat	[adj noun]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have seat	[verb noun]	A1
+	d:	[verb]	let be	[verb verb]	A1
+	d:	[verb]	let have	[verb verb]	A1
+
+
+Did n't anybody move .
+	c:	[pron]	not anybody	[adv noun]	A1
+	d:	[verb]	not move	[adv verb]	A2
+
+
+We just sat right where we were , the four of us .
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[adv]	just right	[adv adv]	A1
+
+
+Then he spoke a second time : `` Y' all better make it light on yourselves and let me have those seats . ''
+	d:	[noun]	all it	[det perPro]	A1
+	d:	[verb]	have seat	[verb noun]	A1
+	d:	[verb]	let have	[verb verb]	A1
+	c:	[verb]	light on	[noun prep]	A1
+	c:	[verb]	make it	[verb perPro]	A1
+	d:	[noun]	make light	[verb noun]	A1
+
+
+The man in the window seat next to me stood up , and I moved to let him pass by me , and then I looked across the aisle and saw that the two women were also standing .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[adj]	by stand	[prep verb]	A2
+	d:	[adv]	by the	[prep det]	A1
+	d:	[adv]	by then	[prep adv]	A1
+	d:	[verb]	in let	[prep verb]	A1
+	d:	[adv]	in pass	[prep verb]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	let be	[verb verb]	A1
+	d:	[verb]	let pass	[verb verb]	A2
+	d:	[verb]	look be	[noun verb]	A1
+	d:	[verb]	look see	[verb verb]	A1
+	c:	[verb]	move to	[noun prep]	A1
+	d:	[noun]	man and woman	[noun conj noun]	A1
+	d:	[noun]	man woman	[noun noun]	A1
+	d:	[verb]	move across	[noun prep]	A1
+	c:	[prep]	next to	[prep prep]	A1
+	d:	[adj]	next up	[prep adv]	A2
+	c:	[verb]	pass by	[noun prep]	A2
+	c:	[conj]	see that	[verb det]	A1
+	d:	[verb]	stand by	[verb prep]	A2
+	d:	[verb]	stand to	[verb prep]	A2
+	c:	[verb]	stand up	[verb prep]	A2
+	d:	[verb]	stand up to	[verb prep prep]	A2
+	d:	[adv]	that be	[det verb]	A1
+	c:	[noun]	the man	[det noun]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	c:	[adj]	the two	[det adj]	A1
+	c:	[adj]	to let	[prep verb]	A1
+	d:	[adj]	up stand	[adv verb]	A2
+	d:	[adj]	up to	[adv prep]	A2
+	c:	[noun]	window seat	[noun noun]	A1
+
+
+I moved over to the window seat .
+	c:	[verb]	move over	[noun prep]	A1
+	d:	[verb]	move to	[noun prep]	A1
+	c:	[noun]	window seat	[noun noun]	A1
+
+
+I could not see how standing up was going to `` make it light '' for me .
+	d:	[verb]	be for	[verb prep]	A1
+	c:	[verb]	be go to	[verb verb prep]	A1
+	c:	[verb]	be go	[verb verb]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adv]	could be	[other verb]	A1
+	d:	[verb]	could it	[other perPro]	A1
+	d:	[verb]	go for	[verb prep]	A1
+	d:	[verb]	go it	[verb perPro]	A1
+	d:	[noun]	go light	[verb noun]	A1
+	c:	[verb]	go to	[verb prep]	A1
+	d:	[verb]	go to it	[verb prep perPro]	A1
+	d:	[noun]	how go	[XXXXX verb]	A1
+	d:	[interj]	how go it	[XXXXX verb perPro]	A1
+	d:	[noun]	how be	[XXXXX verb]	A1
+	d:	[verb]	make for	[verb prep]	A1
+	c:	[verb]	make it	[verb perPro]	A1
+	d:	[noun]	make light	[verb noun]	A1
+	d:	[adj]	not up to	[adv adv prep]	A2
+	d:	[prep]	not for	[adv prep]	A1
+	d:	[adj]	not make it	[adv verb perPro]	A1
+	d:	[verb]	not stand for	[adv verb prep]	A2
+	d:	[verb]	not go for	[adv verb prep]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[verb]	see light	[verb noun]	A1
+	d:	[verb]	see to	[verb prep]	A1
+	d:	[verb]	stand for	[verb prep]	A2
+	d:	[verb]	stand to	[verb prep]	A2
+	c:	[verb]	stand up	[verb prep]	A2
+	d:	[verb]	stand up for	[verb prep prep]	A2
+	d:	[verb]	stand up to	[verb prep prep]	A2
+	d:	[adj]	up for	[adv prep]	A2
+	d:	[verb]	up light	[adv noun]	A2
+	d:	[adj]	up to	[adv prep]	A2
+	d:	[adj]	up it	[prep perPro]	A1
+	d:	[adj]	up to it	[adv prep perPro]	A2
+
+
+The more we gave in and complied , the worse they treated us .
+	c:	[verb]	give in	[verb prep]	A1
+	d:	[adj]	more give in	[adv verb prep]	B1
+	d:	[adj]	more treat	[adv verb]	B2
+	d:	[adj]	more comply	[adv verb]	C1
+	d:	[adj]	more give	[adv verb]	B1
+
+
+I thought back to the time when I used to sit up all night and did n't sleep , and my grandfather would have his gun right by the fireplace , or if he had his onehorse wagon going anywhere , he always had his gun in the back of the wagon .
+	d:	[adj]	all go	[det verb]	A1
+	d:	[adj]	all in	[det prep]	A1
+	d:	[adj]	all right	[det noun]	A2
+	c:	[adj]	back of	[adv prep]	A1
+	d:	[adj]	back to back	[adv prep adv]	A1
+	d:	[verb]	back up	[adv adv]	A2
+	d:	[adv]	back when	[adv XXXXX]	A1
+	d:	[adj]	by go	[prep verb]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	c:	[adv]	by the	[prep det]	A1
+	d:	[verb]	do in	[verb prep]	A1
+	d:	[verb]	do right	[verb noun]	A2
+	d:	[verb]	do right by	[verb adv prep]	A1
+	d:	[verb]	go back	[verb adv]	A1
+	d:	[verb]	go in	[verb prep]	A1
+	d:	[verb]	go the wagon	[verb det noun]	B1
+	d:	[verb]	go wagon	[verb noun]	B1
+	d:	[verb]	have go	[verb verb]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have right	[verb noun]	A2
+	d:	[adj]	in back of	[prep noun prep]	A1
+	d:	[adj]	not right	[adv noun]	A2
+	d:	[verb]	sit in	[verb prep]	A1
+	c:	[verb]	sit up	[verb prep]	A1
+	d:	[verb]	sit back	[verb prep]	A1
+	d:	[verb]	sleep in	[noun prep]	B1
+	c:	[verb]	think back	[verb prep]	A1
+	d:	[verb]	think of	[verb prep]	A1
+	d:	[verb]	think up	[verb prep]	A1
+	d:	[noun]	to do	[prep verb]	A1
+	c:	[noun]	the time	[det noun]	A1
+	d:	[noun]	think in	[verb prep]	A1
+	d:	[verb]	think to	[verb prep]	A1
+	d:	[verb]	time in	[noun prep]	A1
+	d:	[adj]	up right	[adv adv]	A2
+	d:	[verb]	use up	[verb prep]	A1
+	c:	[adj]	use to	[verb prep]	A1
+	d:	[verb]	up and do	[adv conj verb]	A2
+	d:	[verb]	up do	[adv verb]	A2
+
+
+People always say that I did n't give up my seat because I was tired , but that is n't true .
+	d:	[verb]	be true	[verb adj]	A1
+	d:	[verb]	do up	[verb prep]	A1
+	c:	[verb]	give up	[verb prep]	A1
+	d:	[verb]	say I do	[verb perPro verb]	A1
+	c:	[adv]	that be	[det verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+
+
+I was not tired physically , or no more tired than I usually was at the end of a working day .
+	d:	[noun]	a day	[det noun]	A1
+	d:	[adj]	at end	[prep noun]	A1
+	d:	[adv]	at end day	[prep noun noun]	A1
+	d:	[adv]	at end of day	[prep noun prep noun]	A1
+	c:	[adv]	at the end	[prep det noun]	A1
+	d:	[adv]	at the end day	[prep det noun noun]	A1
+	d:	[adv]	at the end of day	[prep det noun prep noun]	A1
+	d:	[adj]	at work	[prep noun]	A1
+	c:	[verb]	be at	[verb prep]	A1
+	d:	[verb]	be no more	[verb det adj]	B1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[adj]	more at	[adv prep]	B1
+	d:	[adj]	more end	[adv verb]	B1
+	d:	[adv]	more than	[adj prep]	B1
+	d:	[adj]	no end	[det noun]	A1
+	d:	[adj]	no end of	[det noun prep]	A1
+	d:	[verb]	not work	[adv verb]	A1
+	c:	[adj]	no more	[det adv]	B1
+	d:	[adv]	no more than	[det adj prep]	B1
+	c:	[adj]	the end	[det noun]	A1
+	d:	[noun]	the work	[det noun]	A1
+	c:	[noun]	work day	[verb noun]	A1
+
+
+I was not old , although some people have an image of me as being old then .
+	c:	[adj]	as be	[adv verb]	A2
+	d:	[verb]	be image of	[verb noun prep]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	c:	[noun]	image of	[noun prep]	A2
+	d:	[adj]	of old	[prep adj]	A1
+	d:	[noun]	old people	[adj noun]	A1
+	c:	[noun]	some people	[det noun]	A1
+
+
+I was forty-two .
+	notfound
+
+
+No , the only tired I was , was tired of giving in .
+	d:	[verb]	be give	[verb verb]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	give in	[verb prep]	A1
+
+
+The driver of the bus saw me still sitting there , and he asked was I going to stand up .
+	d:	[verb]	be go to	[verb verb prep]	A1
+	d:	[verb]	be go	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be up	[verb adv]	A2
+	c:	[verb]	go to	[verb prep]	A1
+	d:	[verb]	go up	[verb prep]	A1
+	d:	[verb]	sit up	[verb prep]	A1
+	d:	[verb]	see to	[verb prep]	A1
+	c:	[verb]	stand up	[verb prep]	A2
+
+
+I said , `` No . ''
+	d:	[verb]	say no	[verb det]	A1
+
+
+He said , `` Well , I 'm going to have you arrested . ''
+	c:	[verb]	be go to	[verb verb prep]	A1
+	c:	[verb]	be go	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	c:	[verb]	go to	[verb prep]	A1
+	d:	[noun]	well be	[adv verb]	A1
+
+
+Then I said , `` You may do that . ''
+	notfound
+
+
+These were the only words we said to each other .
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[pron]	each other	[det adj]	A2
+	d:	[noun]	the word	[det noun]	A1
+	c:	[adv]	to each	[prep det]	A1
+
+
+I did n't even know his name , which was James Blake , until we were in court together .
+	c:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	do in	[verb prep]	A1
+	d:	[verb]	not know	[adv verb]	A1
+	d:	[adj]	not name	[adv verb]	B1
+
+
+He got out of the bus and stayed outside for a few minutes , waiting for the police .
+	c:	[adj]	a few	[det adj]	B1
+	d:	[adv]	for a minute	[prep det noun]	A1
+	d:	[adv]	for minute	[prep noun]	A1
+	c:	[verb]	get out	[verb prep]	A1
+	c:	[verb]	get out of	[verb prep prep]	A1
+	c:	[prep]	out of	[prep prep]	A1
+	d:	[verb]	out stay	[prep noun]	B1
+	d:	[verb]	stay for	[verb prep]	A1
+	d:	[noun]	the few	[det adj]	B1
+	c:	[verb]	wait for	[verb prep]	A1
+
+
+As I sat there , I tried not to think about what might happen .
+	d:	[adj]	about happen	[prep verb]	A1
+	d:	[prep]	as to	[prep prep]	A1
+	c:	[adj]	not to	[adv prep]	A1
+	c:	[verb]	think about	[verb prep]	A1
+	d:	[noun]	what happen	[det verb]	A1
+
+
+I knew that anything was possible .
+	d:	[adv]	that be	[det verb]	A1
+
+
+I could be manhandled or beaten .
+	d:	[verb]	be beat	[verb verb]	B1
+	c:	[adv]	could be	[other verb]	A1
+
+
+I could be arrested .
+	c:	[adv]	could be	[other verb]	A1
+
+
+People have asked me if it occurred to me then that I could be the test case the NAACP had been looking for .
+	d:	[verb]	ask for	[verb prep]	A1
+	d:	[verb]	be case	[verb noun]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be the case	[verb det noun]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	c:	[adv]	could be	[other verb]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have case	[verb noun]	A1
+	d:	[verb]	have for	[verb prep]	A1
+	d:	[adj]	have it	[verb perPro]	A1
+	d:	[verb]	have it for	[verb perPro prep]	A1
+	d:	[verb]	have look	[verb noun]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[adv]	it could be	[perPro other verb]	A1
+	c:	[verb]	look for	[verb prep]	A1
+	c:	[verb]	occur to	[verb prep]	B1
+	c:	[noun]	test case	[noun noun]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	to be have	[prep verb verb]	A1
+
+
+I did not think about that at all .
+	c:	[noun]	at all	[prep det]	A1
+	d:	[adj]	do all	[verb det]	A1
+	d:	[adv]	not at all	[adv prep det]	A1
+	d:	[adv]	not all	[adv det]	A1
+	c:	[verb]	think about	[verb prep]	A1
+
+
+In fact if I had let myself think too deeply about what might happen to me , I might have gotten off the bus .
+	d:	[adj]	about happen	[prep verb]	A1
+	d:	[prep]	about to	[prep prep]	A1
+	c:	[verb]	get off	[verb prep]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	c:	[adj]	in fact	[prep noun]	A2
+	d:	[verb]	in let	[prep verb]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	let happen	[verb verb]	A1
+	d:	[verb]	let have	[verb verb]	A1
+	d:	[verb]	let off	[verb prep]	A1
+	d:	[verb]	think deeply	[verb adv]	A2
+	d:	[verb]	think about	[verb prep]	A1
+	c:	[verb]	think to	[verb prep]	A1
+	d:	[noun]	what happen	[det verb]	A1
+
+
+But I chose to remain .
+	notfound
+
+
+Meanwhile there were people getting off the bus and asking for transfers , so that began to loosen up the crowd , especially in the back of the bus .
+	d:	[adv]	and so	[conj adv]	A2
+	d:	[conj]	and that	[conj prep]	A1
+	c:	[verb]	ask for	[verb prep]	A1
+	d:	[verb]	be and up	[verb conj prep]	A1
+	d:	[verb]	be back	[verb adv]	A1
+	d:	[verb]	be back of	[verb adv prep]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be off	[verb prep]	A1
+	d:	[verb]	be the and up	[verb det conj prep]	A1
+	d:	[verb]	be the back of	[verb det noun prep]	A1
+	d:	[verb]	be the up	[verb det prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be up	[verb adv]	A2
+	c:	[adj]	back of	[adv prep]	A1
+	d:	[verb]	be get	[verb verb]	A1
+	d:	[verb]	crowd in	[noun prep]	A2
+	d:	[adv]	for that	[prep det]	A1
+	d:	[verb]	get back	[verb adv]	A1
+	d:	[verb]	get in	[verb prep]	A1
+	c:	[verb]	get off	[verb prep]	A1
+	d:	[verb]	get to	[verb prep]	A1
+	d:	[verb]	get up	[verb prep]	A1
+	d:	[adj]	in back of	[prep noun prep]	A1
+	c:	[verb]	loosen up	[verb prep]	C2
+	c:	[conj]	so that	[adv prep]	A2
+	d:	[noun]	there and back	[adv conj adv]	A1
+	d:	[noun]	there back	[adv adv]	A1
+
+
+Not everyone got off , but everybody was very quiet .
+	d:	[verb]	be quiet	[verb adj]	A1
+	c:	[verb]	get off	[verb prep]	A1
+	d:	[verb]	not get	[adv verb]	A1
+
+
+What conversation there was , was in low tones ; no one was talking out loud .
+	c:	[verb]	be in	[verb prep]	A1
+	c:	[adv]	in low tone	[prep adj noun]	A2
+	d:	[adv]	in out	[prep adv]	A1
+	d:	[verb]	in tone	[prep noun]	A2
+	c:	[noun]	low tone	[adj noun]	A2
+	c:	[pron]	no one	[det noun]	A2
+	c:	[adv]	out loud	[adv adv]	B1
+	d:	[noun]	what be	[other verb]	A1
+
+
+It would have been quite interesting to have seen the whole bus empty out .
+	d:	[verb]	be interesting to	[verb adj prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[adj]	be see	[verb verb]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have out	[verb prep]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	c:	[noun]	the whole	[det noun]	B1
+	d:	[adj]	would be	[other verb]	A1
+
+
+Or if the other three had stayed where they were , because if they 'd had to arrest four of us instead of one , then that would have given me a little support .
+	c:	[determiner]	a little	[det adj]	A1
+	d:	[verb]	be give	[verb verb]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be support	[verb verb]	B1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	be little	[verb adv]	A1
+	d:	[prep]	because of	[prep prep]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	c:	[verb]	have to	[verb prep]	A1
+	c:	[conj]	instead of	[adv prep]	A2
+	d:	[adv]	or then	[conj adv]	A1
+	d:	[noun]	we a	[perPro det]	A1
+
+
+But it did n't matter .
+	c:	[interj]	it do not matter	[perPro verb adv verb]	A2
+
+
+I never thought hard of them at all and never even bothered to criticize them .
+	c:	[noun]	at all	[prep det]	A1
+	d:	[verb]	think of	[verb prep]	A1
+	c:	[verb]	think hard	[verb adv]	A1
+	d:	[verb]	think to	[verb prep]	A1
+
+
+Eventually two policemen came .
+	notfound
+
+
+They got on the bus , and one of them asked me why I did n't stand up .
+	d:	[verb]	do up	[verb prep]	A1
+	d:	[verb]	get do	[verb verb]	A1
+	c:	[verb]	get on	[verb prep]	A1
+	d:	[verb]	get up	[verb prep]	A1
+	d:	[adv]	on and up	[prep conj prep]	A1
+	d:	[adv]	on the and up	[prep det conj prep]	A1
+	d:	[adv]	on the up	[prep det prep]	A1
+	d:	[adv]	on up	[prep adv]	A2
+	d:	[verb]	one up	[adj prep]	A1
+	c:	[verb]	stand up	[verb prep]	A2
+
+
+I asked him , `` Why do you all push us around ? ''
+	d:	[adj]	all around	[det prep]	A1
+	d:	[adj]	do all	[verb det]	A1
+	d:	[verb]	push around	[noun prep]	B1
+
+
+He said to me , and I quote him exactly , `` I do n't know , but the law is the law and you 're under arrest . ''
+	c:	[verb]	not know	[adv verb]	A1
+	d:	[verb]	say I do	[verb perPro verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	to do	[prep verb]	A1
+	c:	[adj]	under arrest	[prep noun]	B1
+
+

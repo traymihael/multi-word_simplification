@@ -1,0 +1,450 @@
+Do n't let the name fool you : a black hole is anything but empty space .
+	c:	[noun]	black hole	[adj noun]	A1
+	c:	[noun]	empty space	[adj noun]	A2
+	d:	[verb]	let be	[verb verb]	A1
+	d:	[adj]	not name	[adv verb]	B1
+	d:	[pron]	not anything	[adv noun]	A1
+	d:	[noun]	the hole	[det noun]	A1
+
+
+Rather , it is a great amount of matter packed into a very small area?think of a star ten times more massive than the Sun squeezed into a sphere approximately the diameter of New York City .
+	d:	[adj]	a ten	[det adj]	A1
+	c:	[prep]	amount of	[noun prep]	B1
+	d:	[pron]	a amount	[det noun]	B1
+	d:	[verb]	be a matter of	[verb det noun prep]	A1
+	d:	[verb]	be into	[verb prep]	A1
+	d:	[verb]	be matter of	[verb noun prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[noun]	great time	[adj noun]	A1
+	d:	[adv]	it time	[perPro noun]	A1
+	d:	[adv]	it be time	[perPro verb noun]	A1
+	d:	[adj]	more into	[adv prep]	B1
+	d:	[adj]	more squeeze	[adv verb]	B2
+	d:	[adj]	more approximately	[adv adv]	B1
+	d:	[adv]	more than	[adj prep]	B1
+	d:	[adj]	of time	[prep noun]	A1
+	d:	[adv]	rather than	[adv prep]	A2
+	d:	[adj]	small time	[adj noun]	A1
+
+
+The result is a gravitational field so strong that nothing , not even light , can escape .
+	d:	[verb]	be even	[verb adv]	A2
+	d:	[conj]	so that	[adv prep]	A2
+
+
+In recent years , NASA instruments have painted a new picture of these strange objects that are , to many , the most fascinating objects in space .
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	have a picture of	[verb det noun prep]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have picture of	[verb noun prep]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[adj]	in most	[prep adj]	A2
+	d:	[adj]	in picture	[prep noun]	A1
+	c:	[verb]	in space	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	most object	[adv verb]	B2
+	d:	[verb]	object to	[noun prep]	B1
+	c:	[noun]	picture of	[noun prep]	A1
+	c:	[adv]	that be	[det verb]	A1
+	c:	[noun]	the most	[det adv]	A2
+
+
+Although the term was not coined until 1967 by Princeton physicist John Wheeler , the idea of an object in space so massive and dense that light could not escape it has been around for centuries .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	c:	[adj]	be around	[verb prep]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[adv]	by the	[prep det]	A1
+	d:	[adv]	could be	[other verb]	A1
+	d:	[verb]	could it	[other perPro]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have for	[verb prep]	A1
+	c:	[verb]	in space	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	not for	[adv prep]	A1
+	d:	[conj]	so that	[adv prep]	A2
+	d:	[noun]	space be	[noun verb]	A2
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+
+
+Most famously , black holes were predicted by Einstein 's theory of general relativity , which showed that when a massive star dies , it leaves behind a small , dense remnant core .
+	d:	[verb]	be behind	[verb prep]	A1
+	d:	[verb]	be leave	[verb verb]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be show	[verb verb]	A1
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[adv]	by which	[prep det]	A1
+	c:	[verb]	leave behind	[verb adv]	A1
+	d:	[adj]	most behind	[adv adv]	A2
+	d:	[adj]	most by	[adv prep]	A2
+	d:	[adj]	most star	[adv verb]	B1
+	d:	[adj]	most predict	[adv verb]	A2
+	d:	[adj]	most show	[adv verb]	A2
+	d:	[noun]	theory of relativity	[noun prep noun]	B2
+	d:	[noun]	theory relativity	[noun noun]	B2
+	d:	[adj]	that it	[prep perPro]	A1
+
+
+If the core 's mass is more than about three times the mass of the Sun , the equations showed , the force of gravity overwhelms all other forces and produces a black hole .
+	d:	[verb]	be about	[verb prep]	A1
+	d:	[verb]	be force	[verb noun]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be show	[verb verb]	A1
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[verb]	mass produce	[noun verb]	B2
+	d:	[adj]	more about	[adv prep]	B1
+	d:	[adj]	more overwhelm	[adv verb]	B1
+	d:	[adj]	more time	[adv verb]	B2
+	d:	[adj]	more mass produce	[adj noun verb]	B2
+	d:	[adj]	more mass	[adv verb]	B2
+	d:	[adj]	more show	[adv verb]	B1
+	c:	[adv]	more than	[adj prep]	B1
+	c:	[noun]	the force	[det noun]	A2
+	c:	[noun]	the mass	[det noun]	B2
+	d:	[noun]	the hole	[det noun]	A1
+	d:	[noun]	the time	[det noun]	A1
+	c:	[adj]	the core	[det noun]	B2
+
+
+Scientists ca n't directly observe black holes with telescopes that detect x-rays , light , or other forms of electromagnetic radiation .
+	c:	[noun]	black hole	[adj noun]	A1
+	c:	[noun]	electromagnetic radiation	[adj noun]	unknown
+	d:	[verb]	observe of	[verb prep]	B1
+	d:	[pron]	that other	[prep adj]	A2
+
+
+We can , however , infer the presence of black holes and study them by detecting their effect on other matter nearby .
+	d:	[adj]	and on	[conj prep]	A1
+	d:	[adj]	and other	[conj noun]	A2
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[noun]	the hole	[det noun]	A1
+
+
+If a black hole passes through a cloud of interstellar matter , for example , it will draw matter inward in a process known as accretion .
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[verb]	draw in	[noun prep]	A2
+	c:	[phrase]	for example	[prep noun]	A1
+	d:	[adv]	for know	[prep verb]	A1
+	d:	[adj]	in know	[prep verb]	A1
+	d:	[adj]	in process	[prep noun]	B1
+	d:	[verb]	pass as	[noun prep]	A2
+	d:	[verb]	pass for	[noun prep]	A2
+	c:	[verb]	pass through	[noun prep]	A2
+	d:	[verb]	pass in	[noun prep]	A2
+
+
+A similar process can occur if a normal star passes close to a black hole .
+	c:	[noun]	black hole	[adj noun]	A1
+	c:	[adv]	close to	[adv prep]	A1
+	d:	[verb]	occur to	[verb prep]	B1
+	d:	[verb]	pass to	[verb prep]	A2
+
+
+In this case , the black hole can tear the star apart as it pulls it toward itself .
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[verb]	can it	[other perPro]	A1
+	d:	[adj]	in black	[prep adj]	A1
+	d:	[conj]	in case	[prep noun]	A1
+	d:	[noun]	in hole	[prep noun]	A1
+	d:	[adv]	in itself	[prep perPro]	A2
+	d:	[adj]	in star	[prep noun]	A1
+	d:	[adj]	in tear	[prep noun]	A2
+	d:	[adj]	in the black	[prep det adj]	A1
+	d:	[noun]	in the hole	[prep det noun]	A1
+	d:	[adj]	in the star	[prep det noun]	A1
+	c:	[adv]	in this	[prep det]	A1
+	d:	[verb]	tear apart	[verb adv]	B1
+	d:	[noun]	the hole	[det noun]	A1
+	c:	[noun]	the star	[det noun]	A1
+
+
+As the attracted matter accelerates and heats up , it emits x-rays that radiate into space .
+	d:	[conj]	and that	[conj prep]	A1
+	c:	[verb]	heat up	[noun prep]	A2
+	d:	[adj]	up it	[prep perPro]	A1
+
+
+Recent discoveries offer some tantalizing evidence that black holes have a dramatic influence on the neighborhoods around them?emitting powerful gamma ray bursts , devouring nearby stars , and spurring the growth of new stars in some areas while stalling it in others .
+	d:	[adj]	and other	[conj noun]	A2
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[verb]	burst in	[noun prep]	B1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have influence	[verb noun]	A2
+	d:	[adj]	have it	[verb perPro]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	d:	[adv]	in area	[prep noun]	A2
+	d:	[verb]	in stall	[prep verb]	B1
+	d:	[adv]	in while	[prep noun]	B1
+	d:	[prep]	some other	[det adj]	A2
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[pron]	that other	[prep adj]	A2
+	d:	[noun]	the star	[det noun]	A1
+
+
+Most black holes form from the remnants of a large star that dies in a supernova explosion .
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[adj]	most star	[adv verb]	B1
+	d:	[adj]	most form	[adv verb]	B1
+	d:	[adj]	most from	[adv prep]	A2
+	d:	[noun]	the star	[det noun]	A1
+
+
+Smaller stars become dense neutron stars , which are not massive enough to trap light .
+	d:	[verb]	be enough	[verb adv]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	become light	[verb noun]	A1
+	d:	[noun]	not enough	[adv noun]	A2
+	d:	[adj]	not to	[adv prep]	A1
+
+
+If the total mass of the star is large enough -LRB- about three times the mass of the Sun -RRB- , it can be proven theoretically that no force can keep the star from collapsing under the influence of gravity .
+	d:	[adj]	about be	[prep verb]	A1
+	d:	[verb]	be about	[verb prep]	A1
+	d:	[verb]	be enough	[verb adv]	A2
+	d:	[verb]	be force	[verb noun]	A2
+	d:	[verb]	be influence	[verb verb]	B2
+	d:	[verb]	be keep	[verb verb]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[adv]	can be	[other verb]	A1
+	d:	[verb]	keep from	[verb prep]	A1
+	d:	[verb]	keep under	[verb prep]	A1
+	d:	[adj]	of time	[prep noun]	A1
+	d:	[noun]	the force	[det noun]	A2
+	c:	[noun]	the mass	[det noun]	B2
+	d:	[adv]	time be	[noun verb]	A1
+	c:	[noun]	the star	[det noun]	A1
+	d:	[noun]	the time	[det noun]	A1
+	d:	[noun]	the time be	[det noun verb]	A1
+	d:	[adj]	under influence	[prep noun]	A2
+	c:	[adj]	under the influence	[prep det noun]	A2
+
+
+However , as the star collapses , a strange thing occurs .
+	d:	[noun]	the thing	[det noun]	A1
+	c:	[noun]	the star	[det noun]	A1
+
+
+As the surface of the star nears an imaginary surface called the `` event horizon , '' time on the star slows relative to the time kept by observers far away .
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[adv]	by far	[prep adv]	A2
+	d:	[verb]	call away	[verb prep]	A2
+	d:	[verb]	call on	[noun prep]	A1
+	d:	[verb]	call time	[adj noun]	A2
+	d:	[verb]	call to	[verb prep]	A2
+	c:	[adv]	far away	[adv adv]	A2
+	d:	[adv]	near far	[prep adv]	A2
+	d:	[noun]	near relative	[prep adj]	B1
+	d:	[adv]	near to	[prep prep]	A1
+	d:	[adv]	on time	[prep noun]	A1
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[adj]	of time	[prep noun]	A1
+	c:	[prep]	relative to	[adj prep]	B1
+	d:	[noun]	the call	[det noun]	A1
+	c:	[noun]	the star	[det noun]	A1
+	c:	[noun]	the time	[det noun]	A1
+
+
+When the surface reaches the event horizon , time stands still , and the star can collapse no more?it is a frozen collapsing object .
+	d:	[adv]	can be	[other verb]	A1
+	c:	[verb]	stand still	[verb adv]	A2
+	d:	[adv]	time be	[noun verb]	A1
+	c:	[noun]	the star	[det noun]	A1
+	d:	[noun]	the time	[det noun]	A1
+	d:	[noun]	the time be	[det noun verb]	A1
+
+
+Even bigger black holes can result from stellar collisions .
+	c:	[noun]	black hole	[adj noun]	A1
+	c:	[verb]	result from	[noun prep]	A1
+
+
+Soon after its launch in December 2004 , NASA 's Swift telescope observed the powerful , fleeting flashes of light known as gamma ray bursts .
+	d:	[noun]	after light	[prep noun]	A1
+	d:	[adv]	in flash	[prep noun]	B2
+	d:	[adj]	in know	[prep verb]	A1
+	d:	[adj]	in the know	[prep det verb]	A1
+	d:	[noun]	light ray	[adj noun]	A2
+	d:	[verb]	observe of	[verb prep]	B1
+	c:	[adv]	soon after	[adv prep]	A1
+
+
+Chandra and NASA 's Hubble Space Telescope later collected data from the event 's `` afterglow , '' and together the observations led astronomers to conclude that the powerful explosions can result when a black hole and a neutron star collide , producing another black hole .
+	d:	[conj]	and that	[conj prep]	A1
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[verb]	lead to	[noun prep]	A2
+	d:	[noun]	the hole	[det noun]	A1
+	d:	[noun]	the star	[det noun]	A1
+	c:	[adv]	to conclude	[prep verb]	B1
+
+
+Although the basic formation process is understood , one perennial mystery in the science of black holes is that they appear to exist on two radically different size scales .
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in on	[verb prep prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be one of	[verb adj prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	be understand	[verb verb]	A2
+	c:	[noun]	black hole	[adj noun]	A1
+	c:	[verb]	exist on	[verb prep]	A2
+	d:	[adj]	in black	[prep adj]	A1
+	d:	[adj]	in different	[prep adj]	A1
+	d:	[noun]	in hole	[prep noun]	A1
+	d:	[adj]	in on	[prep prep]	A1
+	d:	[noun]	in science	[prep noun]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[adj]	in the black	[prep det adj]	A1
+	d:	[noun]	in the hole	[prep det noun]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[noun]	one two	[adj adj]	A1
+	d:	[noun]	one in to	[adj prep prep]	A1
+	d:	[pron]	one of two	[adj prep adj]	A1
+	d:	[noun]	the hole	[det noun]	A1
+	d:	[noun]	the one two	[det adj adj]	A1
+	d:	[adj]	the two	[det adj]	A1
+
+
+On the one end , there are the countless black holes that are the remnants of massive stars .
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[adj]	on end	[prep noun]	A1
+	d:	[adv]	on that	[prep det]	A1
+	c:	[adv]	that be	[det verb]	A1
+	d:	[adj]	the end	[det noun]	A1
+	d:	[noun]	the hole	[det noun]	A1
+	d:	[noun]	the star	[det noun]	A1
+
+
+Peppered throughout the Universe , these `` stellar mass '' black holes are generally 10 to 24 times as massive as the Sun .
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[noun]	the mass	[det noun]	B2
+	d:	[noun]	the hole	[det noun]	A1
+	d:	[noun]	the time	[det noun]	A1
+	c:	[noun]	the universe	[det noun]	B1
+	d:	[conj]	throughout the time	[prep det noun]	A1
+	d:	[conj]	throughout time	[prep noun]	A1
+
+
+Astronomers spot them when another star draws near enough for some of the matter surrounding it to be snared by the black hole 's gravity , churning out x-rays in the process .
+	d:	[verb]	be in	[verb prep]	A1
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[verb]	black out	[adj prep]	A1
+	c:	[adv]	by the	[prep det]	A1
+	d:	[verb]	draw in	[noun prep]	A2
+	c:	[verb]	draw near	[noun prep]	A2
+	d:	[verb]	draw out	[verb prep]	A1
+	d:	[adj]	in process	[prep noun]	B1
+	d:	[adv]	near to	[prep prep]	A1
+	d:	[prep]	surround by	[verb prep]	B1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	the hole	[det noun]	A1
+
+
+Most stellar black holes , however , lead isolated lives and are impossible to detect .
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[verb]	lead life	[adj noun]	B1
+	d:	[verb]	lead to	[noun prep]	A2
+	d:	[verb]	life to	[noun prep]	A1
+	d:	[adj]	most detect	[adv verb]	B2
+	d:	[adj]	most isolate	[adv adj]	unknown
+	d:	[adj]	most lead	[adv verb]	B1
+
+
+Judging from the number of stars large enough to produce such black holes , however , scientists estimate that there are as many as ten million to a billion such black holes in the Milky Way alone .
+	d:	[adv]	as such	[prep adj]	A2
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[noun]	black hole	[adj noun]	A1
+	c:	[verb]	judge from	[noun prep]	B1
+	c:	[noun]	Milky Way	[noun noun]	unknown
+	d:	[conj]	such as	[adj prep]	A2
+	d:	[adj]	such such	[adj adj]	A2
+	d:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the many	[det adj]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	the hole	[det noun]	A1
+	d:	[noun]	the star	[det noun]	A1
+	c:	[noun]	the number	[det noun]	A1
+
+
+On the other end of the size spectrum are the giants known as `` supermassive '' black holes , which are millions , if not billions , of times as massive as the Sun .
+	d:	[conj]	as if	[prep prep]	A1
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[adv]	end of time	[noun prep noun]	A1
+	d:	[adv]	end time	[noun noun]	A1
+	c:	[prep]	if not	[prep adv]	A1
+	d:	[adj]	on end	[prep noun]	A1
+	d:	[adv]	on time	[prep noun]	A1
+	c:	[adj]	of time	[prep noun]	A1
+	d:	[adj]	the end	[det noun]	A1
+	d:	[adv]	the end of time	[det noun prep noun]	A1
+	d:	[adv]	the end time	[det noun noun]	A1
+	d:	[noun]	the hole	[det noun]	A1
+	d:	[noun]	the time	[det noun]	A1
+
+
+Astronomers believe that supermassive black holes lie at the center of virtually all large galaxies , even our own Milky Way .
+	d:	[noun]	at all	[prep det]	A1
+	d:	[adj]	at large	[prep adj]	A1
+	c:	[noun]	black hole	[adj noun]	A1
+	c:	[noun]	Milky Way	[noun noun]	unknown
+
+
+Astronomers can detect them by watching for their effects on nearby stars and gas .
+	d:	[noun]	for on	[prep prep]	A1
+	c:	[verb]	watch for	[noun prep]	A1
+
+
+Historically , astronomers have long believed that no mid-sized black holes exist .
+	c:	[noun]	black hole	[adj noun]	A1
+
+
+However , recent evidence from Chandra , XMM-Newton and Hubble strengthens the case that mid-size black holes do exist .
+	d:	[conj]	and that	[conj prep]	A1
+	c:	[noun]	black hole	[adj noun]	A1
+	d:	[noun]	the hole	[det noun]	A1
+
+
+One possible mechanism for the formation of supermassive black holes involves a chain reaction of collisions of stars in compact star clusters that results in the buildup of extremely massive stars , which then collapse to form intermediate-mass black holes .
+	c:	[noun]	black hole	[adj noun]	A1
+	c:	[noun]	chain reaction	[noun noun]	B2
+	d:	[adv]	for that	[prep det]	A1
+	d:	[adv]	for then	[prep adv]	A1
+	d:	[adj]	in black	[prep adj]	A1
+	d:	[verb]	in form	[prep noun]	A1
+	d:	[noun]	in hole	[prep noun]	A1
+	d:	[adj]	in star	[prep noun]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[adj]	in the black	[prep det adj]	A1
+	d:	[noun]	in the hole	[prep det noun]	A1
+	d:	[adj]	in the star	[prep det noun]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adv]	in which	[prep det]	A1
+	d:	[noun]	one in to	[adj prep prep]	A1
+	c:	[verb]	result in	[noun prep]	A1
+	c:	[noun]	star cluster	[noun noun]	unknown
+	d:	[noun]	the hole	[det noun]	A1
+	d:	[noun]	the star	[det noun]	A1
+
+
+The star clusters then sink to the center of the galaxy , where the intermediate-mass black holes merge to form a supermassive black hole .
+	c:	[noun]	black hole	[adj noun]	A1
+	c:	[noun]	star cluster	[noun noun]	unknown
+	d:	[noun]	the hole	[det noun]	A1
+	c:	[noun]	the star	[det noun]	A1
+
+

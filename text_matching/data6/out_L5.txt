@@ -1,0 +1,181 @@
+Future vehicles can be expected to present a good deal of information , especially inside vehicles , using Intelligent Transportation Systems or ITS .
+	notfound
+
+
+Their use reflects the general philosophy that safety problems can be remedied with new technology .
+	notfound
+
+
+Availability of technology , rather than driver information needs , appears to be driving the industry to add many of these features to new vehicles .
+
+
+However , our understanding of human abilities has not kept up with the rapid advances in vehicle technology .
+	notfound
+
+
+Use of such systems will be a challenge for many older drivers .
+	notfound
+
+
+Among the ITS that are already available or being developed are : in-vehicle navigation systems that tell a driver 's location , directions to a destination , alternate routes , location of congestion or accidents , when to turn at intersections , names of upcoming streets , and more E adaptive cruise control , where sensors detect the distance to the vehicle ahead and adjust speed so as to create a safe following distance E '' smart signs '' project on the windscreen containing information warning of hazards -LRB- e.g. , railroad crossing -RRB- or regulations -LRB- e.g. , speed limit change -RRB- ; these could replace or supplement existing roadside signs E collision warning systems , which let drivers know when they are closing in too fast on a fixed object or another vehicle -LRB- to prevent rear-end collisions , side swipe , and run-off-road accidents -RRB- E crash avoidance systems that actually take control of the vehicle if a collision is otherwise inevitable E vision enhancement systems -LRB- VES -RRB- that detect hazards such as pedestrians and animals on the road at night , allowing the driver to detect hazards that might otherwise be detected too late or not at all ; other VES include ultraviolet headlights which reflect more light back from special pavement markings and hazards -LRB- bridge abutments -RRB- at night E headlights that shine around curves as vehicles begin to turn , allowing vision farther ahead on curves E information of interest to tourists -LRB- accommodation , fuel , food , and so forth -RRB- which now appears mainly on signs communication devices such as phones , e-mail , and fax machines additional vehicle systems monitoring , some of which may not be necessary -LRB- e.g. , outside temperature -RRB- emergency alerting systems meant to provide to a dispatch center emergency information about breakdowns , accidents , and other events that require assistance -LRB- e.g. , ambulance , tow truck -RRB- ; such alerting devices give an increased sense of security to drivers .
+	c:	alternate route	[adj noun]	B2
+		bypass	0.6672146483739669
+		fork	0.4862125222780108
+		circuit	0.4254056111758532
+		branch	0.4229604603453544
+		diversion	0.4165527433865035
+
+
+It is also possible in the future to have devices in vehicles which communicate driver actions and condition , vehicle location , speed , and maneuvers to a central processing station for recording .
+	notfound
+
+
+This would be accomplished with sensors and transmitters in vehicles and in or beside the road .
+
+
+As the workload , both physical and mental , increases in complex systems , designers have introduced automation to reduce the load .
+	notfound
+
+
+This is the case with motor vehicles in which we now see automatic gear shifting , power steering , cruise control , and so on .
+
+
+With increased automation , and an apparently `` easier '' driving task , comes a shift in the driver 's role from operational to supervisory , raising concerns about inattention and reduced vigilance .
+	notfound
+
+
+Young and Stanton -LRB- 1997 -RRB- suggest that automated systems could reduce driver workload to such an extent that it may be detrimental to driving performance .
+	notfound
+
+
+Humans operate best at an optimal level of arousal , and either too much or too little workload can be detrimental to performance .
+
+
+One argument is that if vehicle operation becomes too automated -LRB- e.g. , adaptive cruise control , steering which keeps the car in its lane until interrupted -RRB- drivers will reduce attention and gradually lose the ability to control the vehicle when it comes to an emergency in which they must take control .
+	notfound
+
+
+Real-life tasks involve a balance of automatic and controlled processes , and mental load is determined by the proportions of each .
+
+
+Vehicle speed is an issue in many collisions ; therefore there might be an advantage to having automated speed control .
+
+
+Among the systems that have been studied to control vehicle speed is the External Vehicle Speed Control -LRB- EVSC -RRB- being tested in the U.K. Intelligent speed adaptation devices detect the vehicle speed and provide feedback to drivers or limit vehicle speed .
+	notfound
+
+
+In the case of an `` advisory '' system the driver is informed of the speed limit and changes in the speed limit -LRB- e.g. , through built-up areas -RRB- .
+	c:	built-up area	[adj noun]	unknown
+
+
+With a `` voluntary '' system the driver is able to disable the system , and in the `` mandatory '' mode the system limits the vehicle speed at all times .
+	notfound
+
+
+In addition , the speed limits can be fixed -LRB- the posted limit -RRB- , variable -LRB- changed based on location , such as reduced near pedestrian crossings -RRB- or dynamic -LRB- e.g. , modified by weather or traffic conditions -RRB- .
+	notfound
+
+
+The best estimates of the accident savings vary from ten percent for a fixed advisory system to 36 percent for a mandatory dynamic system .
+
+
+Estimates of reduction in fatal accidents are even higher -LRB- 18 to 59 percent , respectively , for the two systems -RRB- .
+
+
+With the advancement in mobile office technology comes more opportunity for drivers to process information while on the move .
+
+
+The cognitive demands of a speech-based e-mail system were examined by Jamson et al. -LRB- 2004 -RRB- .
+	notfound
+
+
+In a simulator study , incoming e-mails were either controlled by the system -LRB- the driver was alerted to the arrival of a message which was then presented by a voice system , displayed on an LCD screen in the center of the dashboard -RRB- , or controlled by the driver -LRB- who was alerted but decided when to accept the message -RRB- .
+	c:	be alert	[verb verb]	B2
+		ignore	0.42496253334840944
+		listen	0.40886007024796833
+		peg	0.31682264288361567
+		disregard	0.30044029226570185
+		notice	0.2616669120183702
+
+
+Drivers were required to respond to the messages while driving .
+
+
+Performance was generally better?reduced time to detect a collision and reduced anticipation to braking demands?when the driver controlled e-mail reception , and drivers were less responsive when processing e-mails .
+	notfound
+
+
+This showed the `` increased cognitive costs '' associated with the decision making required of the driver .
+	c:	decision making	[noun noun]	unknown
+		ruling	0.46555297894114056
+		managerial	0.34458472126541123
+		managing	0.28635747473654954
+		decision-making	0.1922380107628738
+		directing	0.18372512881758093
+	d:	the making	[det noun]	unknown
+			(NP)[(NN)]
+
+
+Speech-based interface was also studied in a car-following task by Lee et al. -LRB- 2001 -RRB- , who measured how a speech-based e-mail system influenced drivers ' response to a lead vehicle which braked periodically .
+	notfound
+
+
+There was a 30 percent increase in reaction time when the speech-based system was used , as compared with a condition where the e-mail system was not used .
+	notfound
+
+
+Traffic density was also manipulated in this simulator study .
+	notfound
+
+
+Subjective workload ratings showed that speech-based interaction led to a significant workload which was highest for the complex e-mail system -LRB- with more menus and more options -RRB- .
+	notfound
+
+
+The more complex driving environment also increased response time , but only when the system was used .
+	notfound
+
+
+Behavioral adaptation is the tendency for drivers to modify their behavior to adjust to new conditions or modifications to the road , environment , or vehicle .
+	notfound
+
+
+Drivers typically slow in poor weather , increase attention in heavy traffic , and so on .
+	notfound
+
+
+But how will they respond to the presence of ITS in vehicles ?
+
+
+Smiley -LRB- 2000 -RRB- provides a good review of the ITS that may affect driver adaptation behavior .
+
+
+Drivers who have vehicles with collision warning systems may speed or follow too closely .
+	notfound
+
+
+Adaptive cruise control -LRB- ACC -RRB- may reduce driver workload , leading to less time looking at the road or more time driving in heavy traffic when tired .
+	notfound
+
+
+ACC does not respond to stopped vehicles on the road , one of the most dangerous conditions leading to rear-end collisions .
+
+
+Fully automated highways , which relieve the driver of the driving task , would seem to be an ideal solution to safety problems .
+	notfound
+
+
+However , a number of human factors issues arise when considering how this would operate .
+	c:	human factor	[adj noun]	B2
+
+
+Drivers may become complacent about the driving task and not be paying attention when it came time to take control upon leaving an automated road , or if there were technical difficulties suddenly requiring them to take control of the vehicle .
+	notfound
+
+
+Many drivers would object to the loss of control , as steering , shifting gears , and accelerating play a major role in the `` joy of driving . ''
+	c:	object to	[verb prep]	B2
+	c:	shift gear	[verb noun]	B2
+
+

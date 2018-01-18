@@ -1,0 +1,464 @@
+Economics is the study of how humans make decisions in the face of scarcity .
+
+
+These can be individual decisions , family decisions , business decisions or societal decisions .
+
+
+If you look around carefully , you will see that scarcity is a fact of life .
+	notfound
+
+
+Scarcity means that human wants for goods , services and resources exceed what is available .
+
+
+Resources , such as labor , tools , land , and raw materials are necessary to produce the goods and services we want but they exist in limited supply .
+
+
+Of course , the ultimate scarce resource is time - everyone , rich or poor , has just 24 hours in the day to try to acquire the goods they want .
+	notfound
+
+
+At any point in time , there is only a finite amount of resources available .
+	notfound
+
+
+Think about it this way : In 2015 the labor force in the United States contained over 158.6 million workers , according to the U.S. Bureau of Labor Statistics .
+	c:	accord to	[verb prep]	unknown
+	d:	the States	[det noun]	unknown
+			(NP)[(NNP)]
+		Columbia	0.34511833678801224
+		US	0.32294035221195844
+		America	0.27188734639161133
+		USA	0.19591142447883395
+	c:	United States	[noun noun]	unknown
+		US	0.4295180969798288
+		USA	0.38857648869970607
+		Columbia	0.18722928596658908
+		America	0.1867194845245358
+
+
+Similarly , the total area of the United States is 3,794,101 square miles .
+	d:	the States	[det noun]	unknown
+			(NP)[(NNP)]
+		Columbia	0.34511833678801224
+		US	0.32294035221195844
+		America	0.27188734639161133
+		USA	0.19591142447883395
+	c:	United States	[noun noun]	unknown
+		US	0.4295180969798288
+		USA	0.38857648869970607
+		Columbia	0.18722928596658908
+		America	0.1867194845245358
+
+
+These are large numbers for such crucial resources , however , they are limited .
+
+
+Because these resources are limited , so are the numbers of goods and services we produce with them .
+
+
+Combine this with the fact that human wants seem to be virtually infinite , and you can see why scarcity is a problem .
+	notfound
+
+
+If you still do not believe that scarcity is a problem , consider the following : Does everyone need food to eat ?
+	notfound
+
+
+Does everyone need a decent place to live ?
+	notfound
+
+
+Does everyone have access to healthcare ?
+	notfound
+
+
+In every country in the world , there are people who are hungry , homeless -LRB- for example , those who call park benches their beds , as shown in -LSB- link -RSB- -RRB- , and in need of healthcare , just to focus on a few critical goods and services .
+	c:	in need	[prep noun]	B2
+		sufficient	0.5149422323263152
+		adequate	0.46882170703319825
+		poor	0.45325736293593416
+		superior	0.3976059209103177
+		reduced	0.35018184882587766
+	c:	in need of	[prep noun prep]	B2
+		poor	0.44960840955175
+		lacking	0.41323820464283967
+		without	0.385141524704452
+		secure	0.3738532131697876
+		empty	0.2596803558573149
+
+
+Why is this the case ?
+	notfound
+
+
+It is because of scarcity .
+
+
+Let 's delve into the concept of scarcity a little deeper , because it is crucial to understanding economics .
+	c:	delve into	[verb prep]	unknown
+		finger	0.20741901866098858
+		gun	0.19696081951887434
+		explore	0.18711285566589508
+		eye	0.18510965096260595
+		ignore	0.1693327207977023
+
+
+The Problem of Scarcity Think about all the things you consume : food , shelter , clothing , transportation , healthcare , and entertainment .
+
+
+How do you acquire those items ?
+	notfound
+
+
+You do not produce them yourself .
+	notfound
+
+
+You buy them .
+	notfound
+
+
+How do you afford the things you buy ?
+
+
+You work for pay .
+
+
+Or if you do not , someone else does on your behalf .
+
+
+Yet most of us never have enough to buy all the things we want .
+
+
+This is because of scarcity .
+
+
+So how do we solve it ?
+	notfound
+
+
+Every society , at every level , must make choices about how to use its resources .
+
+
+Families must decide whether to spend their money on a new car or a fancy vacation .
+	notfound
+
+
+Towns must choose whether to put more of the budget into police and fire protection or into the school system .
+	notfound
+
+
+Nations must decide whether to devote more funds to national defense or to protecting the environment .
+	notfound
+
+
+In most cases , there just is n't enough money in the budget to do everything .
+
+
+So why do we not each just produce all of the things we consume ?
+
+
+The simple answer is most of us do not know how , but that is not the main reason .
+	notfound
+
+
+-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer .
+	c:	at least	[prep adj]	B2
+		slightly	0.24320432280416113
+		relatively	0.2273319856454503
+		completely	0.14628428534309845
+		halfway	0.14587464252104518
+		totally	0.14221425303085886
+
+
+Studying economics teaches you to think in a different of way . -RRB-
+
+
+Think back to pioneer days , when individuals knew how to do so much more than we do today , from building their homes , to growing their crops , to hunting for food , to repairing their equipment .
+	c:	hunting for	[noun prep]	B2
+		demand	0.21999276900116468
+		pump	0.21959702861419397
+		direct	0.21331441709066234
+		grill	0.18924649044740557
+		query	0.1865067645648689
+
+
+Most of us do not know how to do all-or any-of those things .
+
+
+It is not because we could not learn .
+	notfound
+
+
+Rather , we do not have to .
+	notfound
+
+
+The reason why is something called the division and specialization of labor , a production innovation first put forth by Adam Smith , -LSB- link -RSB- , in his book , The Wealth of Nations .
+	notfound
+
+
+The Division of and Specialization of Labor The formal study of economics began when Adam Smith -LRB- 1723 ?
+	notfound
+
+
+1790 -RRB- published his famous book The Wealth of Nations in 1776 .
+	notfound
+
+
+Many authors had written on economics in the centuries before Smith , but he was the first to address the subject in a comprehensive way .
+	notfound
+
+
+In the first chapter , Smith introduces the division of labor , which means that the way a good or service is produced is divided into a number of tasks that are performed by different workers , instead of all the tasks being done by the same person .
+	notfound
+
+
+To illustrate the division of labor , Smith counted how many tasks went into making a pin : drawing out a piece of wire , cutting it to the right length , straightening it , putting a head on one end and a point on the other , and packaging pins for sale , to name just a few .
+	notfound
+
+
+Smith counted 18 distinct tasks that were often done by different people-all for a pin , believe it or not !
+	notfound
+
+
+Modern businesses divide tasks as well .
+
+
+Even a relatively simple business like a restaurant divides up the task of serving meals into a range of jobs like top chef , sous chefs , less-skilled kitchen help , servers to wait on the tables , a greeter at the door , janitors to clean up , and a business manager to handle paychecks and bills-not to mention the economic connections a restaurant has with suppliers of food , furniture , kitchen equipment , and the building where it is located .
+	c:	be located	[verb adj]	unknown
+		be	0.9999999999999999
+		remain	0.5527324073781956
+		occupy	0.503867471837461
+		exist	0.4791784863593932
+		stand	0.457814309878344
+	c:	sous chef	[adj noun]	unknown
+		cook	0.5257788548659356
+
+
+A complex business like a large manufacturing factory , such as the shoe factory shown in -LSB- link -RSB- , or a hospital can have hundreds of job classifications .
+
+
+Why the Division of Labor Increases Production When the tasks involved with producing a good or service are divided and subdivided , workers and businesses can produce a greater quantity of output .
+	notfound
+
+
+In his observations of pin factories , Smith observed that one worker alone might make 20 pins in a day , but that a small business of 10 workers -LRB- some of whom would need to do two or three of the 18 tasks involved with pin-making -RRB- , could make 48,000 pins in a day .
+
+
+How can a group of workers , each specializing in certain tasks , produce so much more than the same number of workers who try to produce the entire good or service by themselves ?
+	notfound
+
+
+Smith offered three reasons .
+	notfound
+
+
+First , specialization in a particular small job allows workers to focus on the parts of the production process where they have an advantage .
+	c:	a particular	[det adj]	B2
+		this	0.5036853691095898
+		the	0.46355328715659555
+		one	0.3368659989997499
+		such	0.15194411864249635
+	d:	in particular	[prep adj]	B2
+			(PP)[(DT)]
+		primarily	0.4212281146215758
+		mainly	0.4006971708668659
+		generally	0.3481413682931395
+		specifically	0.2953876610859775
+		chiefly	0.28949794287206115
+
+
+-LRB- In later chapters , we will develop this idea by discussing comparative advantage . -RRB-
+	notfound
+
+
+People have different skills , talents , and interests , so they will be better at some jobs than at others .
+	notfound
+
+
+The particular advantages may be based on educational choices , which are in turn shaped by interests and talents .
+	c:	the particular	[det adj]	B2
+		these	0.47571862835658196
+
+
+Only those with medical degrees qualify to become doctors , for instance .
+	notfound
+
+
+For some goods , specialization will be affected by geography-it is easier to be a wheat farmer in North Dakota than in Florida , but easier to run a tourist hotel in Florida than in North Dakota .
+
+
+If you live in or near a big city , it is easier to attract enough customers to operate a successful dry cleaning business or movie theater than if you live in a sparsely populated rural area .
+	c:	rural area	[adj noun]	B2
+		woodland	0.6616428481789788
+		frontier	0.4251904610947492
+		interior	0.4035754747884823
+		hinterland	0.3637158886324718
+		outback	0.31722405287212346
+
+
+Whatever the reason , if people specialize in the production of what they do best , they will be more productive than if they produce a combination of things , some of which they are good at and some of which they are not .
+	notfound
+
+
+Second , workers who specialize in certain tasks often learn to produce more quickly and with higher quality .
+	c:	higher quality	[adj noun]	unknown
+		greater	0.761719981664404
+		improved	0.6156669746375547
+		larger	0.5708338140839538
+		bigger	0.5437235232162041
+		finer	0.5386749852432391
+
+
+This pattern holds true for many workers , including assembly line laborers who build cars , stylists who cut hair , and doctors who perform heart surgery .
+	c:	assembly line	[noun noun]	B2
+		conveyor	0.27852226947302006
+
+
+In fact , specialized workers often know their jobs well enough to suggest innovative ways to do their work faster and better .
+
+
+A similar pattern often operates within businesses .
+	notfound
+
+
+In many cases , a business that focuses on one or a few products -LRB- sometimes called its `` core competency '' -RRB- is more successful than firms that try to make a wide range of products .
+	notfound
+
+
+Third , specialization allows businesses to take advantage of economies of scale , which means that for many goods , as the level of production increases , the average cost of producing each individual unit declines .
+	notfound
+
+
+For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .
+
+
+However , if a factory produces 50,000 cars each year , then it can set up an assembly line with huge machines and workers performing specialized tasks , and the average cost of production per car will be lower .
+	c:	assembly line	[noun noun]	B2
+		conveyor	0.27852226947302006
+
+
+The ultimate result of workers who can focus on their preferences and talents , learn to do their specialized jobs better , and work in larger organizations is that society as a whole can produce and consume far more than if each person tried to produce all of their own goods and services .
+	notfound
+
+
+The division and specialization of labor has been a force against the problem of scarcity .
+	notfound
+
+
+Trade and Markets Specialization only makes sense , though , if workers can use the pay they receive for doing their jobs to purchase the other goods and services that they need .
+	notfound
+
+
+In short , specialization requires trade .
+
+
+You do not have to know anything about electronics or sound systems to play music-you just buy an iPod or MP3 player , download the music and listen .
+	c:	mp3 player	[noun noun]	unknown
+	c:	sound system	[adj noun]	B2
+		stereo	0.6338884571523961
+		hi-fi	0.3885243398678561
+		phonograph	0.2275226861025684
+
+
+You do not have to know anything about artificial fibers or the construction of sewing machines if you need a jacket-you just buy the jacket and wear it .
+	notfound
+
+
+You do not need to know anything about internal combustion engines to operate a car-you just get in and drive .
+	notfound
+
+
+Instead of trying to acquire all the knowledge and skills involved in producing all of the goods and services that you wish to consume , the market allows you to learn a specialized set of skills and then use the pay you receive to buy the goods and services you need or want .
+	notfound
+
+
+This is how our modern society has evolved into a strong economy .
+	notfound
+
+
+Why Study Economics ?
+	notfound
+
+
+Now that we have gotten an overview on what economics studies , let 's quickly discuss why you are right to study it .
+	notfound
+
+
+Economics is not primarily a collection of facts to be memorized , though there are plenty of important concepts to be learned .
+
+
+Instead , economics is better thought of as a collection of questions to be answered or puzzles to be worked out .
+
+
+Most important , economics provides the tools to work out those puzzles .
+
+
+If you have yet to be been bitten by the economics `` bug , '' there are other reasons why you should study economics .
+
+
+Virtually every major problem facing the world today , from global warming , to world poverty , to the conflicts in Syria , Afghanistan , and Somalia , has an economic dimension .
+	notfound
+
+
+If you are going to be part of solving those problems , you need to be able to understand them .
+
+
+Economics is crucial .
+	notfound
+
+
+It is hard to overstate the importance of economics to good citizenship .
+	notfound
+
+
+You need to be able to vote intelligently on budgets , regulations , and laws in general .
+	notfound
+
+
+When the U.S. government came close to a standstill at the end of 2012 due to the `` fiscal cliff , '' what were the issues involved ?
+
+
+Did you know ?
+	notfound
+
+
+A basic understanding of economics makes you a well-rounded thinker .
+	notfound
+
+
+When you read articles about economic issues , you will understand and be able to evaluate the writer 's argument .
+	notfound
+
+
+When you hear classmates , co-workers , or political candidates talking about economics , you will be able to distinguish between common sense and nonsense .
+	notfound
+
+
+You will find new ways of thinking about current events and about personal and business decisions , as well as current events and politics .
+
+
+The study of economics does not dictate the answers , but it can illuminate the different choices .
+	notfound
+
+
+Key Concepts and Summary Economics seeks to solve the problem of scarcity , which is when human wants for goods and services exceed the available supply .
+	notfound
+
+
+A modern economy displays a division of labor , in which people earn income by specializing in what they produce and then use that income to purchase the products they need or want .
+	notfound
+
+
+The division of labor allows individuals and firms to specialize and to produce more for several reasons : a -RRB- It allows the agents to focus on areas of advantage due to natural factors and skill levels ; b -RRB- It encourages the agents to learn and invent ; c -RRB- It allows agents to take advantage of economies of scale .
+
+
+Division and specialization of labor only work when individuals can purchase what they do not produce in markets .
+	notfound
+
+
+Learning about economics helps you understand the major problems facing the world today , prepares you to be a good citizen , and helps you become a well-rounded thinker .
+
+

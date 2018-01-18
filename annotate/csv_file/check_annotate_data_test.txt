@@ -1,0 +1,106 @@
+TargetID	Index	InputText	Target	candidate	CEFR	judge	comment
+1	19,20	-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer .	at least	slightly	B1
+1	19,20	-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer .	at least	carelessly	B1
+1	19,20	-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer .	at least	relatively	B1
+1	19,20	-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer .	at least	completely	B1
+1	19,20	-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer .	at least	totally	B1
+2	12,13	The particular advantages may be based on educational choices , which are in turn shaped by interests and talents .	in turn	following	A1,B2
+2	12,13	The particular advantages may be based on educational choices , which are in turn shaped by interests and talents .	in turn	orderly	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	publicly	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	mostly	A2
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	largely	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	typically	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	commonly	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	roughly	A2
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	widely	A2
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	usually	A1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	normally	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	about	A1,A1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	altogether	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	approximately	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	extensively	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	primarily	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	regularly	A2
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	rarely	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	sometimes	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	unusually	B1
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	exactly	A2
+3	21,22	For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .	on average	particularly	B1
+4	0,1	In short , specialization requires trade .	in short	shortly	B1
+4	0,1	In short , specialization requires trade .	in short	permanently	B1
+5	15,16	You need to be able to vote intelligently on budgets , regulations , and laws in general .	in general	almost	A1
+5	15,16	You need to be able to vote intelligently on budgets , regulations , and laws in general .	in general	nearly	A2
+5	15,16	You need to be able to vote intelligently on budgets , regulations , and laws in general .	in general	roughly	A2
+5	15,16	You need to be able to vote intelligently on budgets , regulations , and laws in general .	in general	approximately	B1
+5	15,16	You need to be able to vote intelligently on budgets , regulations , and laws in general .	in general	away	A1
+5	15,16	You need to be able to vote intelligently on budgets , regulations , and laws in general .	in general	distant	B1
+5	15,16	You need to be able to vote intelligently on budgets , regulations , and laws in general .	in general	far	A2,B2
+5	15,16	You need to be able to vote intelligently on budgets , regulations , and laws in general .	in general	remote	A2
+5	15,16	You need to be able to vote intelligently on budgets , regulations , and laws in general .	in general	usually	A1
+6	4,5	No biological organism exists in isolation , and our behavior is influenced by our interactions with others .	in isolation	down	A1,A2,B2
+6	4,5	No biological organism exists in isolation , and our behavior is influenced by our interactions with others .	in isolation	alone	A1,A2
+6	4,5	No biological organism exists in isolation , and our behavior is influenced by our interactions with others .	in isolation	away	A1
+6	4,5	No biological organism exists in isolation , and our behavior is influenced by our interactions with others .	in isolation	out	A1
+6	4,5	No biological organism exists in isolation , and our behavior is influenced by our interactions with others .	in isolation	apart	A2
+6	4,5	No biological organism exists in isolation , and our behavior is influenced by our interactions with others .	in isolation	beside	A1
+6	4,5	No biological organism exists in isolation , and our behavior is influenced by our interactions with others .	in isolation	near	A1,B1,B1
+6	4,5	No biological organism exists in isolation , and our behavior is influenced by our interactions with others .	in isolation	nearby	B1,B1
+6	4,5	No biological organism exists in isolation , and our behavior is influenced by our interactions with others .	in isolation	middle	A1,A2
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	last	A2,A2,B1,B1
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	proceed	B1
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	conduct	B1,B2
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	stay	A1,B1
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	endure	B1
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	occur	B1
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	happen	A1
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	act	A2,B1
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	advance	B1,B2
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	bear	A1,A2
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	behave	B1
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	stop	A1,A1
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	leave	A1,B1
+7	13,14	Many of these students develop such an interest in the area that they go on to declare psychology as their major .	go on	continue	A2
+8	22,23,24	All sociologists are interested in the experiences of individuals and how those experiences are shaped by interactions with social groups and society as a whole .	as a whole	altogether	B1
+8	22,23,24	All sociologists are interested in the experiences of individuals and how those experiences are shaped by interactions with social groups and society as a whole .	as a whole	generally	B1
+8	22,23,24	All sociologists are interested in the experiences of individuals and how those experiences are shaped by interactions with social groups and society as a whole .	as a whole	together	A1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	do	A1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	finish	A1,A1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	score	B1,B1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	conclude	B1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	perform	A2
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	win	A1,B2
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	manage	A2
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	reach	A2,B1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	produce	A2
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	attain	B1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	realize	A2
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	achieve	A2
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	hit	A2,B1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	effect	A2
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	gain	B1,B1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	arrive	A1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	destroy	A2
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	fail	A2
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	lose	A2
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	miss	A1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	begin	A1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	introduce	A1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	start	A1,A1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	stop	A1,A1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	leave	A1,B1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	abandon	B1
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	exist	A2
+9	10,11	Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .	make it	endure	B1
+10	22,23,24	Ashley said that in the city they had been accustomed to getting looks and hearing comments when she and her partner walked hand in hand .	hand in hand	together	A1
+11	23,24	Ashley said that in the city they had been accustomed to getting looks and hearing comments when she and her partner walked hand in hand .	in hand	had	A1
+11	23,24	Ashley said that in the city they had been accustomed to getting looks and hearing comments when she and her partner walked hand in hand .	in hand	lost	A2
+12	10,11,12	Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .	a great deal	regularly	A2
+12	10,11,12	Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .	a great deal	often	A1
+12	10,11,12	Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .	a great deal	indeed	A2
+12	10,11,12	Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .	a great deal	highly	B1
+12	10,11,12	Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .	a great deal	very	A1,B2
+12	10,11,12	Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .	a great deal	frequently	B1
+12	10,11,12	Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .	a great deal	extremely	A2
+12	10,11,12	Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .	a great deal	repeatedly	B1
+12	10,11,12	Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .	a great deal	little	A1,A1,B1,B1
+12	10,11,12	Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .	a great deal	rarely	B1

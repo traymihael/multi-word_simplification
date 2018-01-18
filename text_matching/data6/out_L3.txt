@@ -1,0 +1,135 @@
+When Darwin first developed his theory , people assumed that animals behaved in ways that were good for the species as a whole .
+	notfound
+
+
+For example , female lionesses which suckled young cubs belonging to other females in their pride were assumed to be doing so in order to make sure that there were plenty of lions in the next generation and so the species would n't become extinct .
+	c:	next generation	[adj noun]	B2
+		past	0.34687112252481384
+		seed	0.2473533171723882
+		offspring	0.2405033732555986
+		children	0.23405419507490674
+		stock	0.2232655368403251
+
+
+However , the most important thing to note about the theory of natural selection is that it is concerned with individual survival and not with the survival of the species .
+	c:	be concern with	[verb verb prep]	B2
+	c:	be concern	[verb verb]	B2
+	c:	concern with	[verb prep]	B2
+		concern	1.0000000000000002
+		interest	0.3590264471030625
+		involve	0.3075555893947984
+		affect	0.30442216830770435
+		handle	0.2842181261734993
+
+
+Although individual reproduction inevitably has the effect of perpetuating species , this in itself is not the purpose of reproduction -LRB- or evolution -RRB- .
+
+
+Individuals are selected to behave in their own reproductive interests and the fate of the species as a whole is irrelevant to individuals ' reproductive decisions .
+	notfound
+
+
+This must obviously be the case if natural selection is to operate in the way Darwin envisaged : since the whole process is based on the notion of interindividual competition , any organism that behaves so as to benefit the species or group at some cost to its own reproductive interests is likely to leave fewer descendants than less noble-spirited individuals who just look after themselves .
+	notfound
+
+
+So how did Darwin envisage natural selection as operating ?
+
+
+While his views on the importance of natural selection in the evolutionary process changed over the course of his lifetime and evolutionary biologists today continue to argue over the relative importance of selection as a means of evolutionary change , there is no doubt whatsoever that , with this idea , Darwin changed forever the way we think about the natural world .
+	c:	as a means	[prep det noun]	B2
+		through	0.11998991298140452
+		per	0.0970836636809561
+		by	0.05154082476877571
+		over	0.051450106525134244
+		with	0.042715664990166026
+	d:	as means	[prep noun]	B2
+			(PP)[(DT)]
+		through	0.1514788825447007
+		by	0.04752939397145958
+		along	0.03514882396133319
+		with	0.03481306383124056
+		over	0.0269093209689396
+
+
+The theory of natural selection is deceptively simple and is based on three premises and their logical conclusion : Premise 1 : All individuals of a particular species show variation in their behavioural , morphological and/or physiological traits -LRB- their phenotype -RRB- .
+	c:	a particular	[det adj]	B2
+		this	0.5036853691095898
+		the	0.46355328715659555
+		one	0.3368659989997499
+		such	0.15194411864249635
+
+
+This is usually known as the Principle of Variation .
+	notfound
+
+
+Premise 2 : A part of this variation between individuals is heritable : that is , some of that variation will be passed on from one generation to the next -LRB- or to put it even more simply , offspring will tend to resemble their parents more than they do other individuals in the population -RRB- ?
+	notfound
+
+
+the Principle of Inheritance .
+	notfound
+
+
+Premise 3 : Whenever there is competition among individuals for scarce resources such as food , mates and somewhere to live , some of these variations will allow their bearers to compete more effectively than others .
+	c:	more effectively	[adv adv]	B2
+		more	1.0
+		greater	0.7066260174924552
+		worse	0.6935201134580621
+		finer	0.4288587669640324
+		preferably	0.19601747074678066
+
+
+This competition occurs because organisms have a capacity to greatly increase in numbers and produce far more offspring than can ever give rise to breeding individuals -LRB- just think of frogspawn , for example -RRB- ?
+
+
+the Principle of Adaptation .
+	notfound
+
+
+Consequence : As a result of being more effective competitors , some individuals will leave more offspring than others , because the particular traits they possess give them some sort of edge : they are more successful at finding food , or mating , or avoiding predators .
+	c:	the particular	[det adj]	B2
+		these	0.47571862835658196
+
+
+The offspring of such individuals will inherit these successful traits from their parents and ' natural selection ' can be said to have taken place .
+
+
+Through this process , organisms become adapted to their environment .
+
+
+The success with which a trait is propagated in future generations , relative to other variants of that trait , is called its fitness .
+	notfound
+
+
+Fitness is a measure of relative reproductive success -LRB- that is , relative to alternative variants of the same trait -RRB- ; strictly speaking , it is a property of traits .
+	c:	strictly speak	[adv verb]	B2
+
+
+This is sometimes known as the Principle of Evolution .
+	notfound
+
+
+By specifying a mechanism by which evolutionary change could be effected , it then became possible to formulate testable hypotheses aimed at explaining the anatomy and behaviour of organisms .
+	c:	aim at	[verb prep]	B2
+
+
+If a trait was an adaptation , then it should show evidence of being well adapted to the purpose it was supposed to serve ; and if it continued to confer a selective advantage on the organism that possessed it , then it should also help to increase the survival and reproductive success of those organisms relative to those that did not possess it -LRB- or which possessed inferior versions of it -RRB- .
+	notfound
+
+
+A second important consequence of Darwin 's position was that it made ' group selection ' -LRB- evolution for the benefit of the species -RRB- an extremely unlikely -LRB- though not entirely impossible -RRB- explanation for the evolution of anything .
+
+
+Despite this , group selection remained firmly ensconced in the public imagination .
+
+
+Indeed , even biologists often failed to appreciate this point and it was not until the 1960s that the concept of group selection was finally laid to rest .
+	notfound
+
+
+Evolutionary biologists have remained extremely cautious of mentioning group selection ever since .
+	notfound
+
+

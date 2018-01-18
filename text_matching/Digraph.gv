@@ -1,0 +1,78 @@
+digraph {
+	node [shape=circle]
+	0 [label=ROOT]
+	1 [label=S]
+		0 -> 1
+	2 [label=NP]
+		1 -> 2
+	3 [label=PRP]
+		2 -> 3
+	4 [label=I]
+		3 -> 4
+	5 [label=VP]
+		1 -> 5
+	6 [label=VBP]
+		5 -> 6
+	7 [label=pop]
+		6 -> 7
+	8 [label=NP]
+		5 -> 8
+	9 [label=DT]
+		8 -> 9
+	10 [label=the]
+		9 -> 10
+	11 [label=NN]
+		8 -> 11
+	12 [label=question]
+		11 -> 12
+	13 [label=PP]
+		5 -> 13
+	14 [label=TO]
+		13 -> 14
+	15 [label=to]
+		14 -> 15
+	16 [label=NP]
+		13 -> 16
+	17 [label=PRP]
+		16 -> 17
+	18 [label=you]
+		17 -> 18
+	19 [label=SBAR]
+		5 -> 19
+	20 [label=IN]
+		19 -> 20
+	21 [label=as]
+		20 -> 21
+	22 [label=IN]
+		19 -> 22
+	23 [label=if]
+		22 -> 23
+	24 [label=S]
+		19 -> 24
+	25 [label=NP]
+		24 -> 25
+	26 [label=PRP]
+		25 -> 26
+	27 [label=it]
+		26 -> 27
+	28 [label=VP]
+		24 -> 28
+	29 [label=VBD]
+		28 -> 29
+	30 [label=were]
+		29 -> 30
+	31 [label=NP]
+		28 -> 31
+	32 [label=DT]
+		31 -> 32
+	33 [label=a]
+		32 -> 33
+	34 [label=NN]
+		31 -> 34
+	35 [label=child]
+		34 -> 35
+	36 [label="."]
+		1 -> 36
+	37 [label="."]
+		36 -> 37
+}

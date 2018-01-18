@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../nlp100knock/3/.idea/3.iml" filepath="$PROJECT_DIR$/../../nlp100knock/3/.idea/3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../nlp100knock/4/.idea/4.iml" filepath="$PROJECT_DIR$/../../nlp100knock/4/.idea/4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../nlp100knock/5/.idea/5.iml" filepath="$PROJECT_DIR$/../../nlp100knock/5/.idea/5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../nlp100knock/6/.idea/6.iml" filepath="$PROJECT_DIR$/../../nlp100knock/6/.idea/6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dict_level/.idea/dict_level.iml" filepath="$PROJECT_DIR$/../dict_level/.idea/dict_level.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/get_multi.iml" filepath="$PROJECT_DIR$/.idea/get_multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../make_dict/.idea/make_dict.iml" filepath="$PROJECT_DIR$/../make_dict/.idea/make_dict.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../make_graph/.idea/make_graph.iml" filepath="$PROJECT_DIR$/../make_graph/.idea/make_graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../matching/.idea/matching.iml" filepath="$PROJECT_DIR$/../matching/.idea/matching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practice_core/.idea/practice_core.iml" filepath="$PROJECT_DIR$/../practice_core/.idea/practice_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../text_matching/.idea/text_matching.iml" filepath="$PROJECT_DIR$/../text_matching/.idea/text_matching.iml" />
+    </modules>
+  </component>
+</project>

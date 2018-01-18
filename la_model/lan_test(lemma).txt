@@ -1,0 +1,226 @@
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make publicly .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -108.9761 ppl= 34727.22 ppl1= 54713
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make mostly .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -111.3878 ppl= 43768.09 ppl1= 69654.15
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make largely .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -120.9839 ppl= 109899.3 ppl1= 182040.8
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make typically .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -111.2717 ppl= 43283.32 ppl1= 68849.32
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make commonly .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -111.8018 ppl= 45541.45 ppl1= 72601.62
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make roughly .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -121.8318 ppl= 119213 ppl1= 198167.9
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make widely .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -110.5793 ppl= 40501.56 ppl1= 64238.68
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make usually .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -121.2062 ppl= 112268.2 ppl1= 186137.1
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make normally .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -110.6261 ppl= 40683.92 ppl1= 64540.53
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make about .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -109.9379 ppl= 38084.45 ppl1= 60243.56
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make altogether .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -108.943 ppl= 34617.27 ppl1= 54532.24
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make approximately .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -121.0476 ppl= 110573.5 ppl1= 183206.2
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make extensively .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -122.8586 ppl= 131555 ppl1= 219622.8
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make primarily .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -111.9521 ppl= 46203.28 ppl1= 73702.91
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make regularly .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -108.7267 ppl= 33906.19 ppl1= 53363.92
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make rarely .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -111.6455 ppl= 44863.85 ppl1= 71474.79
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make sometimes .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -111.2922 ppl= 43368.73 ppl1= 68991.1
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make unusually .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -121.5623 ppl= 116170.2 ppl1= 192892.9
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make exactly .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -109.7732 ppl= 37487.14 ppl1= 59257.98
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make particularly .
+1 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -121.4772 ppl= 115226 ppl1= 191257.3
+
+you need to be able to vote intelligently on budget , regulation , and law almost .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -96.71965 ppl= 236218.6 ppl1= 489092.9
+
+you need to be able to vote intelligently on budget , regulation , and law nearly .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -77.47219 ppl= 20137.72 ppl1= 36073.42
+
+you need to be able to vote intelligently on budget , regulation , and law roughly .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -96.71965 ppl= 236218.6 ppl1= 489092.9
+
+you need to be able to vote intelligently on budget , regulation , and law approximately .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -96.71965 ppl= 236218.6 ppl1= 489092.9
+
+you need to be able to vote intelligently on budget , regulation , and law away .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -96.71965 ppl= 236218.6 ppl1= 489092.9
+
+you need to be able to vote intelligently on budget , regulation , and law distant .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -77.15562 ppl= 19338.53 ppl1= 34559.38
+
+you need to be able to vote intelligently on budget , regulation , and law far .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -96.71965 ppl= 236218.6 ppl1= 489092.9
+
+you need to be able to vote intelligently on budget , regulation , and law remote .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -96.71965 ppl= 236218.6 ppl1= 489092.9
+
+you need to be able to vote intelligently on budget , regulation , and law usually .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -96.71965 ppl= 236218.6 ppl1= 489092.9
+
+no biological organism exist down , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -101.2157 ppl= 419850.7 ppl1= 899218.4
+
+no biological organism exist alone , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -81.17363 ppl= 32332.99 ppl1= 59555.13
+
+no biological organism exist away , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -101.2157 ppl= 419850.7 ppl1= 899218.4
+
+no biological organism exist out , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -101.2157 ppl= 419850.7 ppl1= 899218.4
+
+no biological organism exist apart , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -101.2157 ppl= 419850.7 ppl1= 899218.4
+
+no biological organism exist beside , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -101.2157 ppl= 419850.7 ppl1= 899218.4
+
+no biological organism exist near , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -82.30416 ppl= 37364.01 ppl1= 69409.88
+
+no biological organism exist nearby , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -81.73025 ppl= 34719.2 ppl1= 64218.77
+
+no biological organism exist middle , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -81.61084 ppl= 34192.87 ppl1= 63188.45
+
+many of these student develop such a interest in the area that they last to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -76.93185 ppl= 3139.802 ppl1= 4607.034
+
+many of these student develop such a interest in the area that they proceed to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -76.55401 ppl= 3018.058 ppl1= 4420.068
+
+many of these student develop such a interest in the area that they conduct to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -76.65085 ppl= 3048.803 ppl1= 4467.25
+
+many of these student develop such a interest in the area that they stay to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -76.69446 ppl= 3062.752 ppl1= 4488.664
+
+many of these student develop such a interest in the area that they endure to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -78.42369 ppl= 3670.399 ppl1= 5425.772
+
+many of these student develop such a interest in the area that they occur to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -76.69537 ppl= 3063.043 ppl1= 4489.112
+
+many of these student develop such a interest in the area that they happen to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -76.35434 ppl= 2955.643 ppl1= 4324.353
+
+many of these student develop such a interest in the area that they act to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -77.04329 ppl= 3176.638 ppl1= 4663.673
+
+many of these student develop such a interest in the area that they advance to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -77.04368 ppl= 3176.767 ppl1= 4663.872
+
+many of these student develop such a interest in the area that they bear to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -76.81559 ppl= 3101.828 ppl1= 4548.679
+
+many of these student develop such a interest in the area that they behave to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -77.10571 ppl= 3197.459 ppl1= 4695.701
+
+many of these student develop such a interest in the area that they stop to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -76.43621 ppl= 2981.076 ppl1= 4363.343
+
+many of these student develop such a interest in the area that they leave to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -77.0028 ppl= 3163.206 ppl1= 4643.016
+
+many of these student develop such a interest in the area that they continue to declare psychology as they major .
+1 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -75.54768 ppl= 2716.349 ppl1= 3958.301
+
+all sociologist be interested in the experience of individual and how those experience be shape by interaction with social group and society altogether .
+1 sentences, 24 words, 0 OOVs
+0 zeroprobs, logprob= -84.19758 ppl= 2332.939 ppl1= 3222.795
+
+all sociologist be interested in the experience of individual and how those experience be shape by interaction with social group and society generally .
+1 sentences, 24 words, 0 OOVs
+0 zeroprobs, logprob= -82.36302 ppl= 1970.248 ppl1= 2702.667
+
+all sociologist be interested in the experience of individual and how those experience be shape by interaction with social group and society together .
+1 sentences, 24 words, 0 OOVs
+0 zeroprobs, logprob= -82.71331 ppl= 2034.85 ppl1= 2795.039
+
+Ashley say that in the city they have be accustom to get look and hear comment when she and she partner walk together .
+1 sentences, 24 words, 1 OOVs
+0 zeroprobs, logprob= -113.5841 ppl= 54034.32 ppl1= 86783.65
+
+file test_checked.txt: 56 sentences, 1156 words, 1 OOVs
+0 zeroprobs, logprob= -5390.601 ppl= 28272.46 ppl1= 46471.57

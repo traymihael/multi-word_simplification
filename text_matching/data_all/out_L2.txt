@@ -1,0 +1,596 @@
+Gary Becker , a University of Chicago economist who won the Nobel Prize in 1992 , has noted -LRB- borrowing from George Bernard Shaw -RRB- that `` economy is the art of making the most of life . ''
+	d:	[verb]	art make	[noun verb]	A1
+	d:	[verb]	art make of	[noun verb prep]	A1
+	c:	[verb]	art of	[noun prep]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	be make of	[verb verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have life	[verb noun]	A1
+	d:	[verb]	have make	[verb verb]	A1
+	d:	[adj]	in make	[prep verb]	A1
+	d:	[adj]	in most	[prep adj]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[verb]	make most of	[verb adj prep]	A2
+	d:	[verb]	make of	[verb prep]	A1
+	c:	[verb]	make the most of	[verb det adj prep]	A2
+	d:	[adj]	of note	[prep noun]	A1
+	d:	[adv]	that be	[det verb]	A1
+	c:	[noun]	the most	[det adv]	A2
+	d:	[interj]	that life	[prep noun]	A1
+	d:	[interj]	that be life	[det verb noun]	A1
+	c:	[noun]	the art	[det noun]	A1
+
+
+Economics is the study of how we do that .
+	d:	[verb]	be of	[verb prep]	A1
+
+
+There is a finite supply of everything worth having : oil , coconut milk , perfect bodies , clean water , people who can fix jammed photocopy machines , etc. .
+	d:	[noun]	a people	[det noun]	A1
+	d:	[verb]	be fix	[verb verb]	B1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be worth	[verb adj]	B1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[noun]	clean people	[verb noun]	A1
+	c:	[noun]	photocopy machine	[verb noun]	B1
+
+
+How do we allocate these things ?
+	d:	[verb]	do thing	[verb noun]	A1
+
+
+Why is it that Bill Gates owns a private jet and you do n't ?
+	notfound
+
+
+He is rich , you might answer .
+	notfound
+
+
+But why is he rich ?
+	notfound
+
+
+Why does he have a larger claim on the world 's finite resources than everyone else ?
+	d:	[verb]	have a claim	[verb det noun]	B1
+	d:	[verb]	have claim	[verb noun]	B1
+	d:	[verb]	have on	[verb prep]	A1
+	d:	[prep]	larger than	[adj prep]	unknown
+
+
+At the same time , how is it possible in a country as rich as the United States?a place where Alex Rodriguez can be paid $ 275 million to play baseball?that one in five children is poor or that some adults are forced to rummage through garbage cans for food ?
+	d:	[adj]	a one	[det adj]	A1
+	d:	[prep]	as for	[prep prep]	A1
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[adj]	as one	[prep adj]	A1
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[adj]	at it	[prep perPro]	A1
+	c:	[adj]	at one	[prep adj]	A1
+	d:	[adv]	at same time	[prep adj noun]	A1
+	d:	[prep]	at same time as	[prep adj noun prep]	A1
+	c:	[adv]	at the same time	[prep det adj noun]	A1
+	d:	[prep]	at the same time as	[prep det adj noun prep]	A1
+	d:	[prep]	at the time	[prep det noun]	A1
+	d:	[conj]	at the time that	[prep det noun det]	A1
+	d:	[prep]	at time	[prep noun]	A1
+	d:	[conj]	at time that	[prep noun prep]	A1
+	c:	[verb]	be for	[verb prep]	A1
+	c:	[verb]	be force	[verb noun]	A2
+	c:	[verb]	be force to	[verb verb prep]	B2
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in force	[verb prep noun]	A2
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be in to for	[verb prep prep prep]	A1
+	d:	[verb]	be in to one for	[verb prep prep adj prep]	A1
+	c:	[verb]	be pay	[verb verb]	A1
+	d:	[verb]	be place	[verb verb]	B1
+	c:	[verb]	be poor	[verb adj]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[adv]	can be	[other verb]	A1
+	d:	[noun]	can food	[verb noun]	A2
+	d:	[noun]	country place	[noun noun]	A2
+	c:	[noun]	garbage can	[noun other]	A1
+	c:	[noun]	how be	[XXXXX verb]	A1
+	d:	[noun]	how it be	[XXXXX perPro verb]	A1
+	d:	[adj]	in force	[prep noun]	A2
+	d:	[adj]	in place	[prep noun]	A1
+	d:	[adj]	in play	[prep noun]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[noun]	one in to	[adj prep prep]	A1
+	d:	[adj]	pay for	[verb prep]	A1
+	d:	[verb]	play for	[verb prep]	A1
+	d:	[verb]	play to	[verb prep]	A1
+	d:	[verb]	place in to	[noun prep prep]	A1
+	d:	[verb]	play in to	[noun prep prep]	A1
+	d:	[adj]	same as	[adj prep]	A1
+	c:	[adj]	same time	[adj noun]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the force	[det noun]	A2
+	d:	[adv]	time be	[noun verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	the time	[det noun]	A1
+	d:	[noun]	the time be	[det noun verb]	A1
+	d:	[verb]	time in	[noun prep]	A1
+
+
+Near my home in Chicago , the Three Dog Bakery sells cakes and pastries only for dogs .
+	c:	[verb]	home in	[noun prep]	A1
+	d:	[verb]	sell for	[verb prep]	A1
+
+
+Wealthy professionals pay $ 16 for birthday cakes for their pets .
+	d:	[adj]	pay for	[verb prep]	A1
+
+
+Meanwhile , the Chicago Coalition for the Homeless estimates that fifteen thousand people are homeless on any given night in that same city .
+	d:	[verb]	be give	[verb verb]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be same	[verb adj]	A1
+	d:	[adv]	for that	[prep det]	A1
+	d:	[noun]	for on	[prep prep]	A1
+	d:	[verb]	give in	[verb prep]	A1
+	d:	[noun]	homeless people	[adj noun]	B1
+	c:	[conjuction]	in that	[prep det]	A1
+	d:	[adv]	on that	[prep det]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the people	[det noun]	A1
+
+
+These kinds of disparities grow even more pronounced as we look beyond the borders of the United States .
+	c:	[adv]	kind of	[noun prep]	A1
+	d:	[adj]	more border	[adv verb]	B1
+	d:	[adj]	more beyond	[adv prep]	B1
+	d:	[adj]	more look	[adv verb]	B1
+	d:	[noun]	the States	[det noun]	unknown
+	c:	[noun]	United States	[noun noun]	unknown
+
+
+Three-quarters of the people in Chad have no access to clean drinking water , let alone pastries for their pets .
+	d:	[verb]	have for	[verb prep]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[verb]	in let	[prep verb]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	c:	[verb]	let alone	[verb adv]	A1
+	d:	[verb]	let for	[verb prep]	A1
+	c:	[noun]	the people	[det noun]	A1
+	d:	[noun]	the pet	[det noun]	A1
+	d:	[adj]	to let	[prep verb]	A1
+
+
+The World Bank estimates that half of the world 's population survives on less than $ 2 a day .
+	c:	[noun]	a day	[det noun]	A1
+	c:	[prep]	less than	[adj prep]	A2
+	d:	[adv]	on a day	[prep det noun]	A1
+	d:	[adv]	on day	[prep noun]	A1
+	d:	[adj]	of world	[prep noun]	A1
+
+
+How does it all work?or , in some cases , not work ?
+	d:	[adj]	all in	[det prep]	A1
+	d:	[verb]	do in	[verb prep]	A1
+	c:	[verb]	do it	[verb perPro]	A1
+	d:	[adj]	do all	[verb det]	A1
+	c:	[adj]	do it all	[verb perPro det]	A1
+	d:	[conj]	in case	[prep noun]	A1
+	d:	[noun]	in work	[prep noun]	A1
+	c:	[verb]	not work	[adv verb]	A1
+
+
+Economics starts with one very important assumption : Individuals act to make themselves as well off as possible .
+	d:	[verb]	act as	[noun prep]	A2
+	c:	[adv]	as well	[adv adv]	A2
+	d:	[adv]	as well as	[adv adv prep]	A2
+	d:	[verb]	make off	[verb prep]	A1
+	d:	[verb]	make possible	[verb adj]	A2
+	d:	[adj]	make well	[verb adv]	A1
+	d:	[noun]	one act	[adj noun]	A2
+	d:	[verb]	start off	[verb prep]	A1
+	c:	[adv]	start with	[verb prep]	A1
+	d:	[adv]	very well	[adv adv]	A1
+	c:	[adj]	well off	[adv prep]	A1
+
+
+To use the jargon of the profession , individuals seek to maximize their own utility , which is a similar concept to happiness , only broader .
+	d:	[verb]	be similar to	[verb adj prep]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	own to	[adj prep]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adv]	to which	[prep det]	A1
+	d:	[adj]	use to	[verb prep]	A1
+	d:	[adv]	use be	[verb verb]	A1
+	d:	[adv]	use to be	[verb prep verb]	A1
+
+
+I derive utility from getting a typhoid immunization and paying taxes .
+	d:	[verb]	derive from	[verb prep]	B1
+
+
+Neither of these things makes me particularly happy , but they do keep me from dying of typhoid or going to jail .
+	d:	[noun]	do die	[verb verb]	A2
+	d:	[adj]	die to	[verb prep]	A2
+	c:	[verb]	go to	[verb prep]	A1
+	d:	[verb]	keep from	[verb prep]	A1
+	d:	[verb]	keep go	[verb verb]	A1
+	d:	[verb]	make to	[verb prep]	A1
+	d:	[verb]	make do	[verb verb]	A1
+	d:	[verb]	make of	[verb prep]	A1
+	d:	[prep]	make from	[verb prep]	A1
+	d:	[verb]	make go	[verb noun]	B1
+	d:	[verb]	make happy	[verb adj]	A1
+	d:	[noun]	thing do	[noun verb]	A1
+
+
+That , in the long run , makes me better off .
+	c:	[adj]	better off	[adj prep]	A1
+	d:	[adv]	in long run	[prep adj noun]	A1
+	d:	[adj]	in make	[prep verb]	A1
+	d:	[adj]	in run	[prep verb]	A1
+	c:	[adv]	in the long run	[prep det adj noun]	A1
+	d:	[adj]	in the run	[prep det verb]	A1
+	c:	[noun]	long run	[adv verb]	A2
+	d:	[verb]	make off	[verb prep]	A1
+	d:	[verb]	make better	[verb adj]	A1
+	d:	[verb]	run off	[verb prep]	A1
+	d:	[noun]	the run	[det noun]	A1
+
+
+Economists do n't particularly care what gives us utility ; they simply accept that each of us has his or her own `` preferences . ''
+	d:	[adj]	do not care	[verb adv verb]	B1
+	d:	[verb]	not accept	[adv verb]	A2
+
+
+I like coffee , old houses , classic films , dogs , bicycling , and many other things .
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[noun]	many thing	[adj noun]	A1
+	d:	[noun]	old dog	[adj noun]	A1
+
+
+Everyone else in the world has preferences , which may or may not have anything in common with mine .
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[noun]	have not	[verb adv]	A1
+	c:	[adv]	in common	[prep adj]	A2
+	d:	[adv]	in preference	[prep noun]	B1
+	d:	[adv]	in which	[prep det]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[pron]	not anything	[adv noun]	A1
+	d:	[conj]	or not	[conj adv]	A1
+
+
+Indeed , this seemingly simple observation that different individuals have different preferences is sometimes lost on otherwise sophisticated policymakers .
+	d:	[verb]	be lose	[verb verb]	A2
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[noun]	this that	[det det]	A1
+
+
+For example , rich people have different preferences than poor people do .
+	c:	[phrase]	for example	[prep noun]	A1
+	d:	[verb]	have do	[verb verb]	A1
+	c:	[noun]	poor people	[adj noun]	A1
+	c:	[noun]	rich people	[adj noun]	A1
+
+
+Similarly , our individual preferences may change over the course of our life cycle as we -LRB- we hope -RRB- grow wealthier .
+	d:	[verb]	change course	[noun noun]	A1
+	d:	[noun]	change life	[noun noun]	A1
+	d:	[noun]	change of life	[noun prep noun]	A1
+	c:	[noun]	life cycle	[noun noun]	B1
+	d:	[verb]	life as	[noun prep]	A1
+	d:	[verb]	over grow	[prep verb]	A1
+
+
+The phrase `` luxury good '' actually has a technical meaning to economists ; it is a good that we buy in increasing quantities as we grow richer?things like sports cars and French wines .
+	d:	[verb]	be good	[verb adj]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be like	[verb prep]	A1
+	d:	[noun]	good buy	[adj noun]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have good	[verb adj]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[adj]	have it	[verb perPro]	A1
+	d:	[verb]	have it good	[verb perPro adj]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[adj]	in quantity	[prep noun]	B1
+	c:	[adj]	like sport	[prep noun]	A1
+	c:	[noun]	sport car	[noun noun]	A1
+	d:	[noun]	the good	[det adj]	A1
+	d:	[pron]	the like	[det adj]	B1
+	d:	[adj]	to be	[prep verb]	A1
+
+
+Less obviously , concern for the environment is a luxury good .
+	d:	[verb]	be good	[verb adj]	A1
+	d:	[adv]	for good	[prep adj]	A1
+	d:	[noun]	the good	[det adj]	A1
+
+
+Wealthy Americans are willing to spend more money to protect the environment as a fraction of their incomes than are less wealthy Americans .
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be spend	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	be willing	[verb adj]	B2
+	d:	[adv]	more less	[adv adj]	B1
+	d:	[adj]	more protect	[adv verb]	B1
+	d:	[adj]	more to be	[adj prep verb]	B1
+	d:	[adj]	more fraction	[adv noun]	C2
+	d:	[adv]	more than	[adj prep]	B1
+	d:	[noun]	spend money	[verb noun]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	c:	[prep]	willing to	[adj prep]	B2
+
+
+The same relationship holds true across countries ; wealthy nations devote a greater share of their resources to protecting the environment than do poor countries .
+	d:	[verb]	devote to	[verb prep]	B2
+	d:	[prep]	greater than	[adj prep]	unknown
+	d:	[verb]	hold to	[verb prep]	A2
+	c:	[verb]	hold true	[verb adj]	A2
+	d:	[noun]	to do	[prep verb]	A1
+
+
+The reason is simple enough : We care about the fate of the Bengal tiger because we can .
+	d:	[verb]	be about	[verb prep]	A1
+	d:	[verb]	be enough	[verb adv]	A2
+	d:	[verb]	be fate	[verb noun]	B2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	reason about	[noun prep]	A1
+
+
+We have homes and jobs and clean water and birthday cakes for our dogs .
+	d:	[verb]	have for	[verb prep]	A1
+	d:	[verb]	have job	[verb noun]	A1
+	d:	[noun]	water dog	[noun noun]	A1
+
+
+Here is a nettlesome policy question : Is it fair for those of us who live comfortably to impose our preferences on individuals in the developing world ?
+	d:	[verb]	be develop	[verb verb]	A2
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[noun]	for on	[prep prep]	A1
+	d:	[verb]	impose on	[verb prep]	B2
+	d:	[verb]	live in	[verb prep]	A1
+	d:	[verb]	live on	[verb prep]	A1
+	d:	[verb]	live to	[verb prep]	A1
+	d:	[noun]	live world	[verb noun]	A1
+	d:	[adj]	of world	[prep noun]	A1
+
+
+Economists argue that it is not , though we do it all the time .
+	c:	[adv]	all the time	[det det noun]	A1
+	d:	[adj]	all time	[det noun]	A1
+	c:	[verb]	do it	[verb perPro]	A1
+	d:	[adj]	do all	[verb det]	A1
+	c:	[adj]	do it all	[verb perPro det]	A1
+	d:	[adv]	it time	[perPro noun]	A1
+	d:	[adv]	it be time	[perPro verb noun]	A1
+	d:	[adj]	not do	[adv verb]	A1
+	d:	[adv]	not all	[adv det]	A1
+	d:	[adv]	that be	[det verb]	A1
+	c:	[adj]	that it	[prep perPro]	A1
+	d:	[noun]	that time	[det noun]	A1
+	d:	[adj]	that be it	[det verb perPro]	A1
+	c:	[noun]	the time	[det noun]	A1
+
+
+When I read a story in the Sunday New York Times about South American villagers cutting down virgin rain forest and destroying rare ecosystems , I nearly knock over my Starbucks latte in surprise and disgust .
+	c:	[verb]	cut down	[verb prep]	A1
+	d:	[verb]	cut in	[verb prep]	A1
+	c:	[verb]	knock over	[verb prep]	B1
+	c:	[noun]	rain forest	[noun noun]	A2
+	d:	[noun]	the virgin	[det noun]	C2
+	d:	[noun]	the knock	[det verb]	B1
+
+
+But I am not they .
+	notfound
+
+
+My children are not starving or at risk of dying from malaria .
+	c:	[adj]	at risk	[prep noun]	B1
+	d:	[verb]	be at	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+
+
+If they were , and if chopping down a valuable wildlife habitat enabled me to afford to feed my family and buy a mosquito net , then I would sharpen my ax and start chopping .
+	d:	[verb]	be family	[verb noun]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be net	[verb adj]	A2
+	d:	[adv]	chop chop	[verb verb]	B2
+	c:	[verb]	chop down	[verb prep]	B2
+	d:	[prep]	down to	[adv prep]	A1
+
+
+I would n't care how many butterflies or spotted weasels I killed .
+	d:	[adj]	not many	[adv adj]	A1
+
+
+This is not to suggest that the environment in the developing world does not matter .
+	d:	[verb]	be develop	[verb verb]	A2
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adv]	in matter	[prep noun]	A1
+	d:	[adj]	not do	[adv verb]	A1
+	d:	[adj]	not world	[adv noun]	A1
+	c:	[adj]	not to	[adv prep]	A1
+	d:	[noun]	to do	[prep verb]	A1
+	d:	[noun]	this that	[det det]	A1
+
+
+It does .
+	notfound
+
+
+In fact , there are many examples of environmental degradation that will make poor countries even poorer in the long run .
+	d:	[verb]	be even	[verb adv]	A2
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in run	[verb prep verb]	A1
+	d:	[verb]	be in the run	[verb prep det verb]	A1
+	d:	[verb]	be long	[verb adj]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be poor	[verb adj]	A1
+	d:	[verb]	be run	[verb verb]	A1
+	d:	[verb]	be the run	[verb det verb]	A1
+	c:	[adj]	in fact	[prep noun]	A2
+	d:	[adv]	in long run	[prep adj noun]	A1
+	d:	[adj]	in make	[prep verb]	A1
+	d:	[adj]	in run	[prep verb]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	c:	[adv]	in the long run	[prep det adj noun]	A1
+	d:	[adj]	in the run	[prep det verb]	A1
+	d:	[adv]	in there	[prep XXXXX]	A1
+	c:	[noun]	long run	[adv verb]	A2
+	d:	[verb]	make even	[verb adv]	A2
+	d:	[noun]	the run	[det noun]	A1
+
+
+Cutting down those forests is bad for the rest of us , too , since deforestation is a major contributor to rising CO2 emissions .
+	c:	[verb]	be bad	[verb adj]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	bad for	[adj prep]	A1
+	c:	[verb]	cut down	[verb prep]	A1
+	d:	[prep]	down to	[adv prep]	A1
+	d:	[noun]	we a	[perPro det]	A1
+
+
+-LRB- Economists often argue that rich countries ought to pay poor countries to protect natural resources that have global value . -RRB-
+	c:	[noun]	natural resource	[adj noun]	B1
+	c:	[verb]	ought to	[other prep]	unknown
+
+
+Obviously if the developed world were more generous , then Brazilian villagers might not have to decide between destroying the rain forest and buying mosquito nets .
+	d:	[verb]	be destroy	[verb verb]	A2
+	d:	[verb]	be generous	[verb adj]	B1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	be net	[verb adj]	A2
+	c:	[verb]	have to	[verb prep]	A1
+	d:	[prep]	if not	[prep adv]	A1
+	d:	[adj]	more net	[adv verb]	B1
+	d:	[adj]	more between	[adv prep]	B1
+	d:	[adj]	more destroy	[adv verb]	B1
+	d:	[adj]	more have	[adv verb]	B1
+	d:	[adj]	more rain	[adv verb]	B1
+	d:	[verb]	not buy	[adv verb]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	c:	[noun]	rain forest	[noun noun]	A2
+	d:	[noun]	the net	[det noun]	B1
+
+
+For now , the point is more basic : It is simply bad economics to impose our preferences on individuals whose lives are much , much different .
+	d:	[verb]	be bad	[verb adj]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adv]	for life	[prep noun]	A1
+	c:	[adv]	for now	[prep adv]	A1
+	d:	[noun]	for on	[prep prep]	A1
+	d:	[verb]	impose on	[verb prep]	B2
+	d:	[adj]	more on	[adv prep]	B1
+	d:	[adj]	more to be	[adj prep verb]	B1
+	d:	[adj]	more impose	[adv verb]	B2
+	d:	[verb]	point to	[noun prep]	A1
+	d:	[adj]	the bad	[det adj]	A1
+	c:	[adj]	the point	[det noun]	A1
+	d:	[adj]	to be	[prep verb]	A1
+
+
+Let me make one other important point regarding our individual preferences : Maximizing utility is not synonymous with acting selfishly .
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[verb]	let be	[verb verb]	A1
+	d:	[verb]	make with	[verb prep]	A1
+	c:	[verb]	make one	[verb adj]	A1
+	d:	[verb]	make point	[verb noun]	A1
+	d:	[noun]	one act	[adj noun]	A2
+	c:	[adj]	one other	[adj adj]	A2
+
+
+In 1999 , the New York Times published the obituary of Oseola McCarty , a woman who died at the age of ninety-one after spending her life working as a laundress in Hattiesburg , Mississippi .
+	d:	[noun]	after life	[prep noun]	A1
+	d:	[adj]	at work	[prep noun]	A1
+	d:	[noun]	in the work	[prep det noun]	A1
+	d:	[noun]	in work	[prep noun]	A1
+	c:	[noun]	life work	[noun noun]	A1
+	d:	[verb]	life as	[noun prep]	A1
+	d:	[verb]	life in	[noun prep]	A1
+	d:	[adj]	of age	[prep noun]	A1
+	d:	[noun]	the work	[det noun]	A1
+	d:	[verb]	work in	[noun prep]	A1
+
+
+She had lived alone in a small , sparsely furnished house with a black-and-white television that received only one channel .
+	d:	[adj]	a one	[det adj]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[adv]	in a house	[prep det noun]	A1
+	d:	[adj]	in house	[prep noun]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[verb]	live in	[verb prep]	A1
+	d:	[verb]	live with	[verb prep]	A1
+	c:	[adj]	live alone	[verb adv]	A1
+	c:	[adj]	only one	[adv adj]	A1
+	d:	[noun]	small house	[adj noun]	A1
+	d:	[pron]	that one	[prep adj]	A1
+
+
+What made Ms. McCarty exceptional is that she was by no means poor .
+	d:	[verb]	be poor	[verb adj]	A1
+	d:	[verb]	be means	[verb noun]	B2
+	d:	[adv]	by means	[prep noun]	B2
+	c:	[adv]	by no means	[prep det noun]	B2
+	d:	[adv]	that be	[det verb]	A1
+	d:	[noun]	what be	[other verb]	A1
+
+
+In fact , four years before her death she gave away $ 150,000 to the University of Southern Mississippi?a school that she had never attended?to endow a scholarship for poor students .
+	c:	[verb]	give away	[verb prep]	A1
+	d:	[verb]	give to	[verb prep]	A1
+	d:	[verb]	have for	[verb prep]	A1
+	c:	[adj]	in fact	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+
+
+Does Oseola McCarty 's behavior turn the field of economics on its head ?
+	d:	[verb]	do turn	[verb verb]	A1
+	d:	[adj]	on head	[prep noun]	A1
+	d:	[verb]	turn on	[verb prep]	A1
+	d:	[verb]	turn head	[verb noun]	A1
+
+
+Are Nobel Prizes being recalled to Stockholm ?
+	d:	[verb]	be to	[verb prep]	A1
+
+
+No .
+	notfound
+
+
+She simply derived more utility from saving her money and eventually giving it away than she would have from spending it on a big-screen TV or a fancy apartment .
+	d:	[adj]	and on	[conj prep]	A1
+	d:	[adv]	away from	[adv prep]	A1
+	d:	[verb]	derive from	[verb prep]	B1
+	d:	[verb]	give away	[verb prep]	A1
+	d:	[verb]	give on	[verb prep]	A1
+	d:	[adj]	have it	[verb perPro]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	d:	[adj]	more away	[adv adv]	B1
+	d:	[adj]	more on	[adv prep]	B1
+	c:	[adj]	more utility	[adv noun]	B2
+	d:	[adj]	more from	[adv prep]	B1
+	d:	[adj]	more give	[adv verb]	B1
+	d:	[adj]	more have	[adv verb]	B1
+	d:	[adv]	more than	[adj prep]	B1
+	d:	[verb]	save from	[verb prep]	A1
+	d:	[verb]	save it	[prep perPro]	A1
+
+

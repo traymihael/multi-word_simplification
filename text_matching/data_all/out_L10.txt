@@ -1,0 +1,690 @@
+Our goals for this conference , to strengthen families and societies by empowering women to take greater control over their own destinies , can not be fully achieved unless all governments?here and around the world?accept their responsibility to protect and promote internationally recognized human rights .
+	d:	[adj]	all around	[det prep]	A1
+	d:	[adv]	and all	[conj det]	A1
+	d:	[verb]	be promote	[verb verb]	B1
+	d:	[verb]	be recognize	[verb verb]	B1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be around	[verb prep]	A1
+	d:	[adv]	by the	[prep det]	A1
+	d:	[adv]	can be	[other verb]	A1
+	c:	[noun]	human rights	[adj noun]	unknown
+	d:	[adv]	not fully	[adv adv]	A2
+	d:	[adv]	not all	[adv det]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[verb]	over protect	[prep verb]	B1
+	d:	[verb]	own to	[adj prep]	A1
+	d:	[adj]	over promote	[prep verb]	B1
+	d:	[verb]	take all	[verb det]	A1
+	d:	[verb]	take over	[verb prep]	A1
+	d:	[verb]	take to	[verb prep]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	to rights	[prep noun]	unknown
+	d:	[verb]	take be	[verb verb]	A1
+
+
+The international community has long acknowledged?and recently reaffirmed at Vienna?that both women and men are entitled to a range of protections and personal freedoms , from the right of personal security to the right to determine freely the number and spacing of the children they bear .
+	d:	[pron]	a number	[det noun]	A1
+	d:	[verb]	be bear	[verb verb]	A2
+	d:	[verb]	be determine	[verb verb]	B1
+	c:	[verb]	be entitle to	[verb verb prep]	B2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be right	[verb adj]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	have a right	[verb det noun]	A2
+	d:	[verb]	have at	[verb prep]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have number	[verb noun]	A1
+	d:	[verb]	have right	[verb noun]	A2
+	d:	[verb]	have right to	[verb adj prep]	A1
+	d:	[verb]	have the right to	[verb det noun prep]	A2
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[adj]	long range	[adv noun]	A2
+	d:	[adj]	of right	[prep noun]	A2
+	d:	[noun]	the man	[det noun]	A1
+	c:	[noun]	the number	[det noun]	A1
+
+
+No one should be forced to remain silent for fear of religious or political persecution , arrest , abuse or torture .
+	c:	[verb]	be for	[verb prep]	A1
+	c:	[verb]	be force	[verb noun]	A2
+	c:	[verb]	be force to	[verb verb prep]	B2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be silent	[verb adj]	B1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[pron]	no one	[det noun]	A2
+
+
+Tragically , women are most often the ones whose human rights are violated .
+	d:	[noun]	human be	[adj verb]	A2
+	c:	[noun]	human rights	[adj noun]	unknown
+	c:	[adv]	most often	[adv adv]	A2
+	d:	[adj]	most violate	[adv verb]	B2
+
+
+Even now , in the late 20th century , the rape of women continues to be used as an instrument of armed conflict .
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	be use	[verb noun]	A2
+	c:	[verb]	continue to	[verb prep]	A2
+	c:	[adv]	even now	[adv adv]	A2
+	d:	[adj]	in conflict	[prep noun]	B1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	in use	[prep noun]	A2
+	d:	[adj]	of use	[prep noun]	A2
+	c:	[adj]	to be	[prep verb]	A1
+
+
+Women and children make up a large majority of the world 's refugees .
+	c:	[verb]	make up	[verb prep]	A1
+	d:	[verb]	make of	[verb prep]	A1
+	d:	[adj]	make up of	[verb prep prep]	A1
+	d:	[adj]	of world	[prep noun]	A1
+	d:	[noun]	woman of the world	[noun prep det noun]	A1
+	d:	[noun]	woman of world	[noun prep noun]	A1
+	d:	[noun]	woman the world	[noun det noun]	A1
+	d:	[noun]	woman world	[noun noun]	A1
+
+
+And when women are excluded from the political process , they become even more vulnerable to abuse .
+	d:	[verb]	be even	[verb adv]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be become	[verb verb]	A1
+
+
+I believe that now , on the eve of a new millennium , it is time to break the silence .
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	break silence	[noun noun]	A2
+	d:	[adv]	it time	[perPro noun]	A1
+	c:	[adv]	it be time	[perPro verb noun]	A1
+	d:	[adv]	on time	[prep noun]	A1
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[adj]	of time	[prep noun]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[noun]	that time	[det noun]	A1
+	d:	[noun]	the time	[det noun]	A1
+
+
+It is time for us to say here in Beijing , and for the world to hear , that it is no longer acceptable to discuss women 's rights as separate from human rights .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	be acceptable	[verb adj]	A2
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adv]	for that	[prep det]	A1
+	d:	[verb]	hear from	[verb prep]	A1
+	c:	[noun]	human rights	[adj noun]	unknown
+	d:	[adj]	in human	[prep adj]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[interj]	it rights	[perPro noun]	unknown
+	d:	[adv]	it time	[perPro noun]	A1
+	d:	[interj]	it be rights	[perPro verb noun]	unknown
+	c:	[adv]	it be time	[perPro verb noun]	A1
+	c:	[phrase]	no longer	[adv adv]	unknown
+	c:	[verb]	separate from	[adj prep]	A2
+	d:	[verb]	say no to	[verb det prep]	A1
+	d:	[verb]	say no	[verb det]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adv]	time be	[noun verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	to rights	[prep noun]	unknown
+	c:	[adj]	that it	[prep perPro]	A1
+	d:	[verb]	time in	[noun prep]	A1
+
+
+These abuses have continued because , for too long , the history of women has been a history of silence .
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[prep]	because of	[prep prep]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have for	[verb prep]	A1
+
+
+Even today , there are those who are trying to silence our words .
+	d:	[verb]	be to	[verb prep]	A1
+
+
+But the voices of this conference and of the women at Huairou must be heard loudly and clearly : It is a violation of human rights when babies are denied food , or drowned , or suffocated , or their spines broken , simply because they are born girls .
+	d:	[adj]	at it	[prep perPro]	A1
+	c:	[verb]	be bear	[verb verb]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	hear of	[verb prep]	A1
+	d:	[noun]	human be	[adj verb]	A2
+	c:	[noun]	human rights	[adj noun]	unknown
+	d:	[interj]	it rights	[perPro noun]	unknown
+	d:	[interj]	it be rights	[perPro verb noun]	unknown
+	c:	[adv]	of this	[prep det]	A1
+
+
+It is a violation of human rights when women and girls are sold into the slavery of prostitution for human greed?and the kinds of reasons that are used to justify this practice should no longer be tolerated .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be into	[verb prep]	A1
+	d:	[verb]	be into for	[verb prep prep]	A1
+	d:	[verb]	be kind to	[verb adj prep]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be of use	[verb prep noun]	A2
+	d:	[verb]	be sell for	[verb verb prep]	A1
+	c:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	be use	[verb noun]	A2
+	d:	[adv]	for reason	[prep noun]	A1
+	d:	[conj]	for reason that	[prep noun det]	A1
+	d:	[adv]	for that	[prep det]	A1
+	d:	[conj]	for the reason that	[prep det noun det]	A1
+	d:	[noun]	human be	[adj verb]	A2
+	c:	[noun]	human rights	[adj noun]	unknown
+	d:	[interj]	it rights	[perPro noun]	unknown
+	d:	[interj]	it be rights	[perPro verb noun]	unknown
+	c:	[adv]	kind of	[noun prep]	A1
+	c:	[phrase]	no longer	[adv adv]	unknown
+	d:	[adj]	of kind	[prep noun]	A1
+	d:	[adv]	of this	[prep det]	A1
+	d:	[adj]	of use	[prep noun]	A2
+	d:	[noun]	rights woman	[noun noun]	unknown
+	d:	[verb]	sell for	[verb prep]	A1
+	c:	[adv]	that be	[det verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	that be to be	[det verb prep verb]	A1
+	c:	[adj]	use to	[verb prep]	A1
+	d:	[adv]	use be	[verb verb]	A1
+	d:	[adv]	use to be	[verb prep verb]	A1
+
+
+It is a violation of human rights when women are doused with gasoline , set on fire and burned to death because their marriage dowries are deemed too small .
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be on to	[verb prep prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[verb]	be set	[verb verb]	A1
+	d:	[noun]	human be	[adj verb]	A2
+	c:	[noun]	human rights	[adj noun]	unknown
+	d:	[interj]	it rights	[perPro noun]	unknown
+	d:	[interj]	it be rights	[perPro verb noun]	unknown
+	c:	[adj]	on fire	[prep noun]	A1
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[noun]	rights woman	[noun noun]	unknown
+	d:	[verb]	set fire	[verb noun]	A1
+	d:	[verb]	set fire to	[verb noun prep]	A1
+	c:	[verb]	set on	[verb prep]	A1
+	c:	[verb]	set on fire	[verb prep noun]	A1
+	d:	[verb]	set to	[verb prep]	A1
+	d:	[adj]	to be	[prep verb]	A1
+
+
+It is a violation of human rights when individual women are raped in their own communities and when thousands of women are subjected to rape as a tactic or prize of war .
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	be subject to	[verb adj prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[noun]	human be	[adj verb]	A2
+	c:	[noun]	human rights	[adj noun]	unknown
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[interj]	it rights	[perPro noun]	unknown
+	d:	[interj]	it be rights	[perPro verb noun]	unknown
+	d:	[verb]	own to	[adj prep]	A1
+	d:	[noun]	rights of woman	[noun prep noun]	unknown
+	d:	[noun]	rights woman	[noun noun]	unknown
+	c:	[adj]	subject to	[adj prep]	A1
+
+
+It is a violation of human rights when a leading cause of death worldwide among women ages 14 to 44 is the violence they are subjected to in their own homes by their own relatives .
+	d:	[verb]	be cause	[verb verb]	A2
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	be subject to	[verb adj prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	cause be	[noun verb]	B2
+	d:	[verb]	cause to be	[verb prep verb]	A2
+	d:	[noun]	human be	[adj verb]	A2
+	c:	[noun]	human rights	[adj noun]	unknown
+	d:	[interj]	it rights	[perPro noun]	unknown
+	d:	[interj]	it be rights	[perPro verb noun]	unknown
+	d:	[noun]	lead in	[noun prep]	A2
+	d:	[verb]	lead to	[noun prep]	A2
+	d:	[noun]	lead woman	[verb noun]	B1
+	d:	[adj]	of age	[prep noun]	A1
+	d:	[noun]	rights of woman	[noun prep noun]	unknown
+	d:	[noun]	rights woman	[noun noun]	unknown
+	c:	[adj]	subject to	[adj prep]	A1
+	d:	[adj]	to be	[prep verb]	A1
+
+
+It is a violation of human rights when young girls are brutalized by the painful and degrading practice of genital mutilation .
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be painful	[verb adj]	B1
+	d:	[prep]	by of	[prep prep]	A1
+	c:	[adv]	by the	[prep det]	A1
+	d:	[noun]	human be	[adj verb]	A2
+	c:	[noun]	human rights	[adj noun]	unknown
+	d:	[interj]	it rights	[perPro noun]	unknown
+	d:	[interj]	it be rights	[perPro verb noun]	unknown
+	c:	[noun]	young girl	[adj noun]	A1
+
+
+It is a violation of human rights when women are denied the right to plan their own families , and that includes being forced to have abortions or being sterilized against their will .
+	c:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	be against	[verb prep]	A1
+	d:	[verb]	be family	[verb noun]	A1
+	c:	[verb]	be force	[verb noun]	A2
+	c:	[verb]	be force to	[verb verb prep]	B2
+	d:	[verb]	be include	[verb verb]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be of family	[verb prep noun]	A1
+	d:	[verb]	be of the family	[verb prep det noun]	A1
+	d:	[verb]	be right	[verb adj]	A1
+	d:	[verb]	be the family	[verb det noun]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[noun]	human be	[adj verb]	A2
+	c:	[noun]	human rights	[adj noun]	unknown
+	d:	[interj]	it right	[perPro adv]	A1
+	d:	[interj]	it rights	[perPro noun]	unknown
+	d:	[interj]	it be right	[perPro verb adj]	A1
+	d:	[interj]	it be rights	[perPro verb noun]	unknown
+	d:	[verb]	own to	[adj prep]	A1
+	d:	[adj]	of right	[prep noun]	A2
+	d:	[noun]	rights woman	[noun noun]	unknown
+	d:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the force	[det noun]	A2
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	that be to be	[det verb prep verb]	A1
+	d:	[adj]	to be have	[prep verb verb]	A1
+	d:	[noun]	when will	[XXXXX other]	A1
+
+
+If there is one message that echoes forth from this conference , let it be that human rights are women 's rights and women 's rights are human rights once and for all .
+	d:	[adv]	and all	[conj det]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[noun]	human be	[adj verb]	A2
+	c:	[noun]	human rights	[adj noun]	unknown
+	d:	[interj]	it rights	[perPro noun]	unknown
+	d:	[interj]	it be rights	[perPro verb noun]	unknown
+	d:	[verb]	let be	[verb verb]	A1
+	d:	[verb]	let for	[verb prep]	A1
+	c:	[adv]	once and for all	[adv conj prep det]	A1
+	d:	[adv]	once for all	[adv prep det]	A1
+	d:	[noun]	one all	[adj det]	A1
+	d:	[pron]	one and all	[adj conj det]	A1
+	d:	[noun]	one 's all	[perPro XXXXX det]	A2
+	d:	[noun]	rights woman	[noun noun]	unknown
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[noun]	this that	[det det]	A1
+
+
+Let us not forget that among those rights are the right to speak freely ?
+	d:	[verb]	be right	[verb adj]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be speak	[verb verb]	A1
+	d:	[verb]	let be	[verb verb]	A1
+	d:	[adj]	not right	[adv noun]	A2
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[adv]	that be	[det verb]	A1
+
+
+and the right to be heard .
+	c:	[adj]	to be	[prep verb]	A1
+
+
+Women must enjoy the rights to participate fully in the social and political lives of their countries if we want freedom and democracy to thrive and endure .
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	in want	[prep verb]	A1
+	c:	[verb]	life of	[noun prep]	A1
+	d:	[verb]	life to	[noun prep]	A1
+	d:	[verb]	participate in	[verb prep]	B1
+	d:	[noun]	social democracy	[adj noun]	B1
+	d:	[noun]	social life	[adj noun]	A1
+	d:	[verb]	want to	[verb prep]	A1
+
+
+It is indefensible that many women in non-governmental organizations who wished to participate in this conference have not been able to attend?or have been prohibited from fully taking part .
+	c:	[verb]	be able to	[verb adj prep]	B1
+	c:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be part	[verb noun]	A2
+	d:	[verb]	be take	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	c:	[noun]	have not	[verb adv]	A1
+	d:	[adj]	in conference	[prep noun]	B2
+	d:	[adv]	in part	[prep noun]	A2
+	d:	[noun]	in take	[prep noun]	B1
+	c:	[adv]	in this	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	not able	[adv adj]	B1
+	d:	[adv]	not fully	[adv adv]	A2
+	d:	[adj]	not to	[adv prep]	A1
+	c:	[verb]	participate in	[verb prep]	B1
+	c:	[verb]	take part	[verb noun]	A2
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	that be to be	[det verb prep verb]	A1
+	d:	[adj]	to be have	[prep verb verb]	A1
+
+
+Let me be clear .
+	d:	[verb]	let be	[verb verb]	A1
+
+
+Freedom means the right of people to assemble , organize , and debate openly .
+	d:	[noun]	right people	[adj noun]	A1
+	d:	[noun]	the people	[det noun]	A1
+
+
+It means respecting the views of those who may disagree with the views of their governments .
+	notfound
+
+
+It means not taking citizens away from their loved ones and jailing them , mistreating them , or denying them their freedom or dignity because of the peaceful expression of their ideas and opinions .
+	c:	[adv]	away from	[adv prep]	A1
+	c:	[prep]	because of	[prep prep]	A1
+	d:	[noun]	freedom expression	[noun noun]	A2
+	d:	[noun]	freedom of expression	[noun prep noun]	A2
+	c:	[noun]	love one	[verb adj]	A1
+	d:	[noun]	mean expression	[verb noun]	A2
+	d:	[pron]	not one	[adv adj]	A1
+	d:	[verb]	take away	[verb prep]	A1
+	d:	[verb]	take from	[verb prep]	A1
+
+
+In my country , we recently celebrated the 75th anniversary of women 's suffrage .
+	c:	[noun]	woman 's suffrage	[noun XXXXX noun]	unknown
+	d:	[noun]	woman suffrage	[noun noun]	unknown
+
+
+It took 150 years after the signing of our Declaration of Independence for women to win the right to vote .
+	d:	[verb]	for win	[prep verb]	A1
+	d:	[interj]	it right	[perPro adv]	A1
+	d:	[adj]	of right	[prep noun]	A2
+	d:	[verb]	take after	[verb prep]	A1
+	d:	[verb]	take for	[verb prep]	A1
+	d:	[verb]	take to	[verb prep]	A1
+
+
+It took 72 years of organized struggle , before that happened , on the part of many courageous women and men .
+	d:	[prep]	on part of	[prep noun prep]	A2
+	c:	[prep]	on the part of	[prep det noun prep]	A2
+	c:	[determiner]	part of	[noun prep]	A2
+	d:	[verb]	struggle on	[noun prep]	B1
+	d:	[verb]	take on	[verb prep]	A1
+	d:	[verb]	take part	[verb noun]	A2
+	d:	[noun]	the man	[det noun]	A1
+	d:	[noun]	the many	[det adj]	A1
+	d:	[verb]	take part of	[verb noun prep]	A2
+	d:	[verb]	take the part of	[verb det noun prep]	A2
+
+
+It was one of America 's most divisive philosophical wars .
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	be one of	[verb adj prep]	A1
+
+
+But it was a bloodless war .
+	notfound
+
+
+Suffrage was achieved without a shot being fired .
+	c:	[adv]	a shot	[det noun]	A2
+	d:	[verb]	be without	[verb prep]	A1
+
+
+But we have also been reminded , in V-J Day observances last weekend , of the good that comes when men and women join together to combat the forces of tyranny and to build a better world .
+	d:	[verb]	be come	[verb verb]	A1
+	d:	[verb]	be force	[verb noun]	A2
+	d:	[verb]	be force to	[verb verb prep]	B2
+	d:	[verb]	be good	[verb adj]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in force	[verb prep noun]	A2
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adv]	but good	[conj adj]	A1
+	d:	[verb]	come of	[verb prep]	A1
+	d:	[verb]	come together	[verb adv]	A1
+	d:	[verb]	come to	[verb prep]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have come	[verb verb]	A1
+	d:	[verb]	have force	[verb noun]	A2
+	d:	[verb]	have good	[verb adj]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[adj]	in build	[prep verb]	A1
+	d:	[noun]	in come	[prep verb]	A1
+	d:	[adj]	in force	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	c:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	join force	[verb noun]	A2
+	c:	[verb]	join together	[verb adv]	A1
+	d:	[noun]	man of world	[noun prep noun]	A1
+	d:	[noun]	man the world	[noun det noun]	A1
+	d:	[noun]	man world	[noun noun]	A1
+	c:	[noun]	man and woman	[noun conj noun]	A1
+	d:	[noun]	man woman	[noun noun]	A1
+	d:	[adj]	of world	[prep noun]	A1
+	d:	[verb]	remind of	[noun prep]	A2
+	c:	[noun]	the force	[det noun]	A2
+	c:	[noun]	the good	[det adj]	A1
+	d:	[noun]	the man	[det noun]	A1
+	d:	[noun]	we a	[perPro det]	A1
+	d:	[noun]	woman of world	[noun prep noun]	A1
+	d:	[noun]	woman the world	[noun det noun]	A1
+	d:	[noun]	woman world	[noun noun]	A1
+
+
+We have seen peace prevail in most places for a half century .
+	d:	[verb]	have for	[verb prep]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have in for	[verb prep prep]	A1
+	d:	[verb]	have place	[verb noun]	A1
+	d:	[adv]	in half	[prep noun]	A1
+	c:	[adj]	in most	[prep adj]	A2
+	d:	[adj]	in place	[prep noun]	A1
+	c:	[adj]	most place	[adv verb]	B1
+	d:	[adj]	most for	[adv prep]	A2
+	d:	[noun]	we a	[perPro det]	A1
+
+
+We have avoided another world war .
+	c:	[noun]	world war	[noun noun]	A1
+
+
+But we have not solved older , deeply-rooted problems that continue to diminish the potential of half the world 's population .
+	c:	[verb]	continue to	[verb prep]	A2
+	d:	[verb]	have to	[verb prep]	A1
+	c:	[noun]	have not	[verb adv]	A1
+	d:	[adj]	not of world	[adv prep noun]	A1
+	d:	[adj]	not world	[adv noun]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[adj]	of world	[prep noun]	A1
+
+
+Now it is time to act on behalf of women everywhere .
+	c:	[verb]	act on	[noun prep]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adv]	it time	[perPro noun]	A1
+	c:	[adv]	it be time	[perPro verb noun]	A1
+	c:	[adv]	on behalf of	[prep noun prep]	B1
+
+
+If we take bold steps to better the lives of women , we will be taking bold steps to better the lives of children and families too .
+	d:	[verb]	be bold	[verb adj]	B1
+	d:	[verb]	be family	[verb noun]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be of family	[verb prep noun]	A1
+	c:	[verb]	be take	[verb verb]	A1
+	d:	[verb]	be the family	[verb det noun]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	life of	[noun prep]	A1
+	d:	[verb]	life to	[noun prep]	A1
+	d:	[verb]	take step	[verb noun]	A2
+	d:	[verb]	take to	[verb prep]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[verb]	take be	[verb verb]	A1
+	d:	[verb]	take life	[verb noun]	A1
+	d:	[verb]	take to be	[verb prep verb]	A1
+
+
+Families rely on mothers and wives for emotional support and care ; families rely on women for labor in the home ; and increasingly , everywhere , families rely on women for income needed to raise healthy children and care for other relatives .
+	d:	[adj]	and and on	[conj conj prep]	A1
+	d:	[adj]	and on	[conj prep]	A1
+	d:	[adj]	and on and on	[conj prep conj prep]	A1
+	d:	[adj]	and on on	[conj prep prep]	A1
+	d:	[adj]	and other	[conj noun]	A2
+	c:	[verb]	care for	[noun prep]	A1
+	d:	[verb]	care to	[noun prep]	A1
+	d:	[noun]	child care	[noun noun]	A1
+	c:	[noun]	emotional support	[adj noun]	B1
+	d:	[noun]	for on	[prep prep]	A1
+	d:	[verb]	home on	[noun prep]	A1
+	d:	[adj]	in family	[prep noun]	A1
+	d:	[adj]	in need	[prep noun]	B2
+	d:	[adj]	in on	[prep prep]	A1
+	d:	[adj]	in the family	[prep det noun]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adv]	on and on	[prep conj prep]	A1
+	d:	[adv]	on on	[prep prep]	A1
+	d:	[adj]	on to	[prep prep]	A1
+	c:	[verb]	rely on	[verb prep]	B1
+
+
+As long as discrimination and inequities remain so commonplace everywhere in the world?as long as girls and women are valued less , fed less , fed last , overworked , underpaid , not schooled , subjected to violence in and outside their homes?the potential of the human family to create a peaceful , prosperous world will not be realized .
+	d:	[adv]	and so	[conj adv]	A2
+	d:	[adj]	as be	[adv verb]	A2
+	c:	[conj]	as long as	[adv adv prep]	A2
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[verb]	be create	[verb verb]	A2
+	d:	[verb]	be family	[verb noun]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be of family	[verb prep noun]	A1
+	d:	[verb]	be of the family	[verb prep det noun]	A1
+	c:	[verb]	be realize	[verb verb]	A2
+	d:	[verb]	be school	[verb verb]	A1
+	d:	[verb]	be subject to	[verb adj prep]	A1
+	d:	[verb]	be the family	[verb det noun]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	be value	[verb noun]	A2
+	d:	[noun]	human be	[adj verb]	A2
+	d:	[adj]	in family	[prep noun]	A1
+	d:	[adj]	in human	[prep adj]	A2
+	d:	[adj]	in the family	[prep det noun]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	long last	[adv verb]	B1
+	d:	[adj]	not of world	[adv prep noun]	A1
+	d:	[adv]	not outside	[adv prep]	A1
+	d:	[adj]	not world	[adv noun]	A1
+	d:	[adj]	not subject	[adv noun]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[adj]	outside of	[prep prep]	A1
+	d:	[adj]	of world	[prep noun]	A1
+	d:	[noun]	so long	[adv adv]	A2
+	c:	[adj]	subject to	[adj prep]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	woman of the world	[noun prep det noun]	A1
+	d:	[noun]	woman of world	[noun prep noun]	A1
+	d:	[noun]	woman the world	[noun det noun]	A1
+	d:	[noun]	woman world	[noun noun]	A1
+
+
+Let this conference be our?and the world 's ?
+	d:	[verb]	let be	[verb verb]	A1
+
+
+call to action .
+	c:	[verb]	call to	[verb prep]	A2
+
+
+Let us heed that call so we can create a world in which every woman is treated with respect and dignity , every boy and girl is loved and cared for equally , and every family has the hope of a strong and stable future .
+	d:	[verb]	be family	[verb noun]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	c:	[adj]	be love	[verb verb]	A1
+	d:	[verb]	call for	[noun prep]	A1
+	d:	[noun]	call girl	[noun noun]	A1
+	d:	[verb]	call in	[noun prep]	A1
+	d:	[adv]	can be	[other verb]	A1
+	c:	[verb]	care for	[noun prep]	A1
+	d:	[prep]	for every	[prep det]	A1
+	d:	[noun]	in dignity	[prep noun]	B2
+	d:	[adv]	in every respect	[prep det noun]	B1
+	d:	[adj]	in family	[prep noun]	A1
+	d:	[adv]	in future	[prep noun]	A1
+	d:	[adj]	in love	[prep noun]	A1
+	d:	[adv]	in respect	[prep noun]	B1
+	d:	[adv]	in the future	[prep det noun]	A1
+	c:	[adv]	in which	[prep det]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[verb]	let be	[verb verb]	A1
+	d:	[verb]	let for	[verb prep]	A1
+	d:	[verb]	let have	[verb verb]	A1
+	d:	[verb]	let in	[verb prep]	A1
+	d:	[verb]	let in for	[verb prep prep]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[noun]	we a	[perPro det]	A1
+	d:	[adv]	with hope	[prep noun]	A1
+	c:	[prep]	with respect	[prep noun]	B1
+
+
+That is the work before you , that is the work before all of us , who have a vision of the world we want to see for our children and our grandchildren .
+	d:	[adj]	all see	[det verb]	A1
+	d:	[noun]	all want	[det verb]	A1
+	d:	[verb]	be all for	[verb det prep]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be want	[verb verb]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[adj]	be see	[verb verb]	A1
+	c:	[verb]	have a vision	[verb det noun]	B1
+	d:	[verb]	have for	[verb prep]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[verb]	have vision	[verb noun]	B1
+	d:	[adj]	of world	[prep noun]	A1
+	c:	[adv]	that be	[det verb]	A1
+	c:	[noun]	the work	[det noun]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[noun]	we a	[perPro det]	A1
+	c:	[verb]	want to	[verb prep]	A1
+	d:	[verb]	work for	[noun prep]	A1
+
+
+The time is now .
+	c:	[adv]	time be	[noun verb]	A1
+	c:	[noun]	the time	[det noun]	A1
+	c:	[noun]	the time be	[det noun verb]	A1
+
+
+We must move beyond rhetoric , we must move beyond recognition of problems , to working together , to have the common efforts to build that common ground we hope to see .
+	c:	[noun]	common ground	[adj noun]	A2
+	d:	[verb]	have to	[verb prep]	A1
+	c:	[verb]	hope to	[noun prep]	A1
+	d:	[verb]	move to	[noun prep]	A1
+	c:	[verb]	work together	[noun adv]	A1
+
+
+God 's blessings on you , your work and all who will benefit from it .
+	d:	[noun]	all it	[det perPro]	A1
+	c:	[adv]	and all	[conj det]	A1
+	d:	[noun]	God 's will	[noun XXXXX other]	unknown
+
+
+Godspeed and thank you very much .
+	c:	[interj]	thank you	[verb perPro]	A1
+	c:	[noun]	very much	[adv noun]	A1
+
+

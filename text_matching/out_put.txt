@@ -1,0 +1,386 @@
+Resources , such as labor , tools , land , and raw materials are necessary to produce the goods and services we want but they exist in limited supply .
+	c:	such as	[adj prep]	A2	2,3
+		like	0.5021686826798235
+		essentially	0.3262892574468979
+		equally	0.2795231672718066
+		similarly	0.25174555566443646
+		comparatively	0.17154380225273
+
+Of course , the ultimate scarce resource is time - everyone , rich or poor , has just 24 hours in the day to try to acquire the goods they want .
+	c:	of course	[prep noun]	B1	0,1
+		certainly	0.11566506592560882
+		undoubtedly	0.10689924927409436
+		indeed	0.0843533217459606
+		naturally	0.08115104014355368
+		surely	0.009452228650336073
+
+At any point in time , there is only a finite amount of resources available .
+	c:	in time	[prep noun]	B1	3,4
+		chance	0.3510445225219798
+		incident	0.2624438674436934
+		corollary	0.16521365877862762
+		later	0.15530638631194732
+		joint	0.08690700783819848
+
+It is because of scarcity .
+	c:	because of	[prep prep]	B1	2,3
+		for	0.20429003030942328
+		by	0.1282293289831212
+		with	0.09552768560423819
+		using	0.06062720374519578
+		per	0.018534766855487373
+
+This is because of scarcity .
+	c:	because of	[prep prep]	B1	2,3
+		for	0.20429003030942328
+		by	0.1282293289831212
+		with	0.09552768560423819
+		using	0.06062720374519578
+		per	0.018534766855487373
+
+-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer .
+	c:	at least	[prep adj]	B2	19,20
+		slightly	0.24320432280416113
+		relatively	0.2273319856454503
+		completely	0.14628428534309845
+		halfway	0.14587464252104518
+		totally	0.14221425303085886
+
+Smith counted 18 distinct tasks that were often done by different people-all for a pin , believe it or not !
+	c:	or not	[conj adv]	A2	18,19
+		neither	0.5542236395400265
+		nor	0.5425384114617563
+		instead	0.46311945269475374
+		rather	0.28918674136043854
+
+Modern businesses divide tasks as well .
+	c:	as well	[adv adv]	A1	4,5
+		far	0.3884592820331618
+		also	0.26640752151793595
+		besides	0.24644937092652905
+		simultaneously	0.19596235283217553
+		separate	0.18055198413724155
+
+A complex business like a large manufacturing factory , such as the shoe factory shown in -LSB- link -RSB- , or a hospital can have hundreds of job classifications .
+	c:	such as	[adj prep]	A2	9,10
+		like	0.5021686826798235
+		essentially	0.3262892574468979
+		equally	0.2795231672718066
+		similarly	0.25174555566443646
+		comparatively	0.17154380225273
+
+First , specialization in a particular small job allows workers to focus on the parts of the production process where they have an advantage .
+	d:	in particular	[prep adj]	B1	13,18
+
+The particular advantages may be based on educational choices , which are in turn shaped by interests and talents .
+	c:	in turn	[prep noun]	C1	12,13
+		following	0.22824591078167578
+		sequential	0.0629695341493174
+		orderly	0.052144104350197285
+		successively	-0.011377675756573086
+		succeeding	-0.026378460003963506
+
+Only those with medical degrees qualify to become doctors , for instance .
+	c:	for instance	[prep noun]	B1	10,11
+		equally	0.32081508980122153
+		essentially	0.3170302851893785
+		comparatively	0.1935366109846573
+		being	0.16575390588189992
+		like	0.1594460460099483
+
+If you live in or near a big city , it is easier to attract enough customers to operate a successful dry cleaning business or movie theater than if you live in a sparsely populated rural area .
+	c:	movie theater	[noun noun]	A1	25,26
+		cinema	0.7654881609626574
+		multiplex	0.28056669133532913
+
+In fact , specialized workers often know their jobs well enough to suggest innovative ways to do their work faster and better .
+	c:	in fact	[prep noun]	B1	0,1
+		indeed	0.4030047728242304
+		partly	0.3824586881951905
+		completely	0.37263966065038706
+		very	0.333296159244785
+		partially	0.3247532118758436
+
+In many cases , a business that focuses on one or a few products -LRB- sometimes called its `` core competency '' -RRB- is more successful than firms that try to make a wide range of products .
+	c:	a few	[det adj]	A2	11,12
+		few	0.7433721033113679
+		several	0.5982944610348289
+		many	0.5334621784553446
+		some	0.49062859084708416
+		numerous	0.4360947102245163
+
+For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .
+	c:	for example	[prep noun]	A1	0,1
+		like	0.25593220554647456
+	c:	on average	[prep noun]	B2	21,22
+		approximately	0.4817603244624297
+		overall	0.42223671292417975
+		roughly	0.4001687252391933
+		unusually	0.2842061860957522
+		about	0.2579448303295854
+
+In short , specialization requires trade .
+	c:	in short	[prep adj]	C1	0,1
+		shortly	0.2782735280701279
+		permanently	0.09204136428599909
+		succinctly	-0.09270009696757281
+		summarily	-0.13861745225809313
+
+You do not need to know anything about internal combustion engines to operate a car-you just get in and drive .
+	c:	get in	[verb prep]	B1	16,17
+		go	0.6232182282479721
+		enter	0.6202502724397266
+		leave	0.6191188626069579
+		reach	0.4925044173456069
+		arrive	0.48102458613373333
+
+You need to be able to vote intelligently on budgets , regulations , and laws in general .
+	c:	in general	[prep adj]	B2	15,16
+		practically	0.23712731537357692
+		remote	0.22610701135974384
+		nearly	0.1954347106287991
+		almost	0.19226004413221173
+		usually	0.17960282695548466
+
+When the U.S. government came close to a standstill at the end of 2012 due to the `` fiscal cliff , '' what were the issues involved ?
+	c:	due to	[adj prep]	B1	14,15
+		considering	0.3696590316643828
+		through	0.23556164919589892
+		since	0.2297684676050737
+		for	0.19845675366800206
+		seeing	0.17196456160166176
+
+When you hear classmates , co-workers , or political candidates talking about economics , you will be able to distinguish between common sense and nonsense .
+	c:	common sense	[adj noun]	B1	21,22
+		sense	0.8184257636379754
+		logic	0.6426122707433086
+		wisdom	0.6157489918510106
+		reason	0.5049709394062977
+		cool	0.49076464418536514
+
+You will find new ways of thinking about current events and about personal and business decisions , as well as current events and politics .
+	c:	as well	[adv adv]	A1	17,18
+		far	0.3884592820331618
+		also	0.26640752151793595
+		besides	0.24644937092652905
+		simultaneously	0.19596235283217553
+		separate	0.18055198413724155
+	c:	as well as	[adv adv prep]	A2	17,18,19
+		besides	0.24644937092652905
+		including	0.223059575372609
+		rejecting	0.16131125062362545
+		and	0.1564692042586297
+		still	0.14729196273435222
+
+a -RRB- It allows the agents to focus on areas of advantage due to natural factors and skill levels ;
+	c:	due to	[adj prep]	B1	12,13
+		considering	0.3696590316643828
+		through	0.23556164919589892
+		since	0.2297684676050737
+		for	0.19845675366800206
+		seeing	0.17196456160166176
+
+Aphrodite became so jealous of Psyche that she sent her son , Eros , to make Psyche fall in love with the ugliest man in the world .
+	c:	in love	[prep noun]	B1	18,19
+		romantic	0.5782799491461161
+		passionate	0.5274079375825522
+		fond	0.3875345185105908
+		infatuated	0.37986788799010646
+		cool	0.33865716340749624
+
+However , Eros accidentally pricked himself with the tip of his arrow and fell madly in love with Psyche himself .
+	c:	in love	[prep noun]	B1	15,16
+		romantic	0.5782799491461161
+		passionate	0.5274079375825522
+		fond	0.3875345185105908
+		infatuated	0.37986788799010646
+		cool	0.33865716340749624
+
+Because of this betrayal , Eros abandoned Psyche .
+	c:	because of	[prep prep]	B1	0,1
+		for	0.20429003030942328
+		by	0.1282293289831212
+		with	0.09552768560423819
+		using	0.06062720374519578
+		per	0.018534766855487373
+
+Psyche comes to represent the human soul 's triumph over the misfortunes of life in the pursuit of true happiness -LRB- Bulfinch , 1855 -RRB- ; in fact , the Greek word psyche means soul , and it is often represented as a butterfly .
+	c:	in fact	[prep noun]	B1	26,27
+		indeed	0.4030047728242304
+		partly	0.3824586881951905
+		completely	0.37263966065038706
+		very	0.333296159244785
+		partially	0.3247532118758436
+
+A theory is the best understanding that we have of that part of the natural world .
+	c:	the best	[det adj]	A2	3,4
+
+For example , that a bird sings because it is happy is not a testable hypothesis , since we have no way to measure the happiness of a bird .
+	c:	for example	[prep noun]	A1	0,1
+		like	0.25593220554647456
+	c:	no way	[det noun]	B1	20,21
+		no	1.0
+		impossible	0.4828090411693123
+		not	0.4496930935242265
+		negative	0.39150678582262105
+		claim	0.3494729115137718
+
+In general , science deals only with matter and energy , that is , those things that can be measured , and it can not arrive at knowledge about values and morality .
+	c:	in general	[prep adj]	B2	0,1
+		practically	0.23712731537357692
+		remote	0.22610701135974384
+		nearly	0.1954347106287991
+		almost	0.19226004413221173
+		usually	0.17960282695548466
+
+This is one reason why our scientific understanding of the mind is so limited , since thoughts , at least as we experience them , are neither matter nor energy .
+	c:	at least	[prep adj]	B2	18,19
+		slightly	0.24320432280416113
+		relatively	0.2273319856454503
+		completely	0.14628428534309845
+		halfway	0.14587464252104518
+		totally	0.14221425303085886
+
+No biological organism exists in isolation , and our behavior is influenced by our interactions with others .
+	c:	in isolation	[prep noun]	C2	4,5
+		middle	0.24287015912491022
+		near	0.20648400073455336
+		apart	0.20158673723441503
+		away	0.1663423636452875
+		down	0.16507009143166732
+
+Sometimes , students take a psychology course because it either satisfies a general education requirement or is required for a program of study such as nursing or pre-med .
+	c:	such as	[adj prep]	A2	23,24
+		like	0.5021686826798235
+		essentially	0.3262892574468979
+		equally	0.2795231672718066
+		similarly	0.25174555566443646
+		comparatively	0.17154380225273
+
+Many of these students develop such an interest in the area that they go on to declare psychology as their major .
+	c:	go on	[verb prep]	C2	13,14
+		leave	0.5875875446315312
+		stay	0.5596603959200819
+		proceed	0.5313072456358223
+		stop	0.5275246349043924
+		continue	0.5126718648484969
+
+Just a few famous names on this list are Facebook 's creator Mark Zuckerberg , television personality and political satirist Jon Stewart , actress Natalie Portman , and filmmaker Wes Craven -LRB- Halonen , 2011 -RRB- .
+	c:	a few	[det adj]	A2	1,2
+		few	0.7433721033113679
+		several	0.5982944610348289
+		many	0.5334621784553446
+		some	0.49062859084708416
+		numerous	0.4360947102245163
+
+The evaluation of information-assessing its reliability and usefulness - is an important skill in a world full of competing `` facts , '' many of which are designed to be misleading .
+	d:	in full	[prep adj]	B1	39,48
+
+For example , critical thinking involves maintaining an attitude of skepticism , recognizing internal biases , making use of logical thinking , asking appropriate questions , and making observations .
+	c:	for example	[prep noun]	A1	0,1
+		like	0.25593220554647456
+
+A fourth sociologist might be part of a team developing signs to warn people living thousands of years in the future , and speaking many different languages , to stay away from still-dangerous nuclear waste .
+	c:	in the future	[prep det noun]	B1	18,19,20
+		thus	0.47599071081328964
+		then	0.31528461777831274
+		forward	0.29354147698089605
+		away	0.277256709971793
+		so	0.21792945329320995
+
+All sociologists are interested in the experiences of individuals and how those experiences are shaped by interactions with social groups and society as a whole .
+	c:	as a whole	[prep det noun]	B2	22,23,24
+		generally	0.30979672117065166
+		bodily	0.13659619709734794
+		together	0.12135002702406292
+		ensemble	0.11756639286807671
+		singly	0.11214308511721938
+
+People may lose their homes and may not be able to borrow money in the future .
+	c:	in the future	[prep det noun]	B1	13,14,15
+		thus	0.47599071081328964
+		then	0.31528461777831274
+		forward	0.29354147698089605
+		away	0.277256709971793
+		so	0.21792945329320995
+
+Do Americans view debt , including mortgages , differently than in the past ?
+	c:	the past	[det noun]	B1	11,12
+		antiquity	0.22701544697698872
+		prehistory	0.0633740899228818
+
+Sociologists identify and study patterns related to all kinds of contemporary social issues .
+	c:	kind of	[noun prep]	B1	8,9
+		somewhat	0.37227799553924196
+		rather	0.2564609022077346
+		moderately	0.17541863539414407
+
+Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .
+	c:	make it	[verb perPro]	C1	10,11
+		fail	0.5259543847249002
+		lose	0.469259418589831
+		produce	0.46355200942973734
+		stop	0.46340065593945673
+		gain	0.46321368636432986
+
+For instance , an individual 's religious practice may be influenced by what government dictates , holidays , teachers , places of worship , rituals , and so on .
+	c:	and so on	[conj adv prep]	B1	26,27,28
+		whatever	0.38462192380135435
+		thus	0.3719587266021692
+	c:	for instance	[prep noun]	B1	0,1
+		equally	0.32081508980122153
+		essentially	0.3170302851893785
+		comparatively	0.1935366109846573
+		being	0.16575390588189992
+		like	0.1594460460099483
+
+Ashley said that in the city they had been accustomed to getting looks and hearing comments when she and her partner walked hand in hand .
+	c:	hand in hand	[noun prep noun]	B2	22,23,24
+		together	0.2165467492011928
+		united	0.13676534922696013
+		related	-0.022139653524836905
+	c:	in hand	[prep noun]	B2	23,24
+		kept	0.20920275376416633
+		held	0.12983726335467832
+		lost	0.12094044865600376
+		had	0.07898405150953869
+		possessed	0.07189359298559529
+
+Otherwise , she felt that they were at least being tolerated .
+	c:	at least	[prep adj]	B2	7,8
+		slightly	0.24320432280416113
+		relatively	0.2273319856454503
+		completely	0.14628428534309845
+		halfway	0.14587464252104518
+		totally	0.14221425303085886
+
+For the first time , Ashley found herself experiencing direct discrimination because of her sexual orientation .
+	c:	because of	[prep prep]	B1	11,12
+		for	0.20429003030942328
+		by	0.1282293289831212
+		with	0.09552768560423819
+		using	0.06062720374519578
+		per	0.018534766855487373
+
+Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .
+	c:	a great deal	[det adj noun]	B2	10,11,12
+		little	0.6172520420082609
+		very	0.38463147745759174
+		decidedly	0.30189544022142933
+		indeed	0.2759610426083576
+		repeatedly	0.258261454468174
+
+When Nathan asked Ashley if she and her partner became discouraged or bitter about this new situation , Ashley said that rather than letting it get to them , they decided to do something about it .
+	c:	get to	[verb prep]	B1	25,26
+		get	1.0
+		help	0.6041464451534626
+		calm	0.4922332114317352
+		annoy	0.42548523610307115
+		improve	0.40909696643391785
+
+It also worked to raise awareness about the kinds of discrimination Ashley and her partner experienced in the town and how those could be eliminated .
+	c:	kind of	[noun prep]	B1	8,9
+		somewhat	0.37227799553924196
+		rather	0.2564609022077346
+		moderately	0.17541863539414407
+

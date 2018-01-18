@@ -1,0 +1,768 @@
+Everyone is familiar with hard power .
+	c:	[verb]	be familiar	[verb adj]	A2
+	d:	[verb]	be power	[verb noun]	A2
+	d:	[verb]	be with	[verb prep]	A1
+	c:	[adj]	familiar with	[adj prep]	A2
+
+
+We know that military and economic might often get others to change their position .
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[verb]	change position	[noun noun]	A2
+	d:	[verb]	get to	[verb prep]	A1
+	d:	[pron]	that other	[prep adj]	A2
+
+
+Hard power can rest on inducements -LRB- `` carrots '' -RRB- or threats -LRB- `` sticks '' -RRB- .
+	d:	[adj]	on stick	[prep noun]	B2
+	c:	[verb]	rest on	[noun prep]	B1
+
+
+But sometimes you can get the outcomes you want without tangible threats or payoffs .
+	d:	[noun]	get you	[verb posPro]	A1
+
+
+The indirect way to get what you want has sometimes been called `` the second face of power . ''
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be power	[verb noun]	A2
+	d:	[verb]	get face	[verb noun]	A1
+	d:	[noun]	get you	[verb posPro]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	the call	[det noun]	A1
+	d:	[noun]	what be	[other verb]	A1
+
+
+A country may obtain the outcomes it wants in world politics because other countries ?
+	c:	[noun]	world politics	[noun noun]	B1
+
+
+admiring its values , emulating its example , aspiring to its level of prosperity and openness?want to follow it .
+	c:	[verb]	aspire to	[verb prep]	B2
+
+
+In this sense , it is also important to set the agenda and attract others in world politics , and not only to force them to change by threatening military force or economic sanctions .
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[adj]	attract to	[verb prep]	B1
+	d:	[verb]	be attract	[verb verb]	B1
+	d:	[verb]	be attract to	[verb verb prep]	B1
+	d:	[verb]	be force	[verb noun]	A2
+	d:	[verb]	be force to	[verb verb prep]	B2
+	d:	[verb]	be important	[verb adj]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in force	[verb prep noun]	A2
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be sanction	[verb verb]	C2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be set	[verb verb]	A1
+	d:	[adv]	by force	[prep noun]	A2
+	d:	[adj]	in force	[prep noun]	A2
+	d:	[adv]	in sense	[prep noun]	A2
+	d:	[verb]	in set	[prep noun]	A2
+	c:	[adv]	in this	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[noun]	other world	[adj noun]	A2
+	d:	[verb]	set in	[verb prep]	A1
+	d:	[verb]	set to	[verb prep]	A1
+	d:	[noun]	the force	[det noun]	A2
+	c:	[noun]	world politics	[noun noun]	B1
+
+
+This soft power?getting others to want the outcomes that you want?co - opts people rather than coerces them .
+	d:	[adj]	other than	[adj prep]	A2
+	c:	[adv]	rather than	[adv prep]	A2
+	d:	[noun]	the people	[det noun]	A1
+	d:	[noun]	this that	[det det]	A1
+	d:	[noun]	want people	[verb noun]	A1
+
+
+Soft power rests on the ability to shape the preferences of others .
+	d:	[adj]	on to	[prep prep]	A1
+	c:	[verb]	rest on	[noun prep]	B1
+	d:	[adj]	soft on	[adj prep]	A2
+
+
+At the personal level , we are all familiar with the power of attraction and seduction .
+	d:	[noun]	at all	[prep det]	A1
+	d:	[verb]	be familiar	[verb adj]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be power	[verb noun]	A2
+	d:	[verb]	be power of	[verb noun prep]	A2
+	d:	[verb]	be the power of	[verb det noun prep]	A2
+	d:	[verb]	be with	[verb prep]	A1
+	c:	[adj]	familiar with	[adj prep]	A2
+	d:	[verb]	level with	[noun prep]	A2
+
+
+In a relationship or a marriage , power does not necessarily reside with the larger partner , but in the mysterious chemistry of attraction .
+	d:	[verb]	do in	[verb prep]	A1
+	d:	[verb]	do with	[verb prep]	A1
+	d:	[adj]	in power	[prep noun]	A2
+	d:	[adv]	in power of	[prep noun prep]	A2
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[conj]	or but	[conj conj]	A1
+	d:	[conj]	or not	[conj adv]	A1
+
+
+And in the business world , smart executives know that leadership is not just a matter of issuing commands , but also involves leading by example and attracting others to do what you want .
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[adj]	attract to	[verb prep]	B1
+	d:	[verb]	be a matter of	[verb det noun prep]	A1
+	d:	[verb]	be attract	[verb verb]	B1
+	d:	[verb]	be attract to	[verb verb prep]	B1
+	d:	[verb]	be command	[verb noun]	B1
+	d:	[verb]	be issue	[verb verb]	B2
+	d:	[verb]	be matter of	[verb noun prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be want	[verb verb]	A1
+	d:	[noun]	command lead	[verb noun]	B1
+	d:	[adj]	in know	[prep verb]	A1
+	d:	[adj]	in lead	[prep noun]	A2
+	d:	[adv]	in matter	[prep noun]	A1
+	d:	[prep]	in matter of	[prep noun prep]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[adv]	in that matter	[prep det noun]	A1
+	d:	[adj]	in the know	[prep det verb]	A1
+	d:	[adj]	in the lead	[prep det noun]	A2
+	d:	[prep]	in the matter of	[prep det noun prep]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	in want	[prep verb]	A1
+	d:	[adj]	just do	[adv verb]	A1
+	d:	[verb]	lead do	[noun verb]	A2
+	d:	[verb]	lead to	[noun prep]	A2
+	d:	[verb]	lead to do	[noun prep verb]	A2
+	d:	[adj]	not do	[adv verb]	A1
+	d:	[adj]	not issue	[adv noun]	A2
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[adj]	not want	[adv verb]	A1
+	d:	[adv]	that be	[det verb]	A1
+	c:	[noun]	the business	[det noun]	A1
+	c:	[noun]	to do	[prep verb]	A1
+	d:	[pron]	that other	[prep adj]	A2
+
+
+It is difficult to run a large organization by commands alone .
+	d:	[verb]	be command	[verb noun]	B1
+	d:	[verb]	be run	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	run by	[verb prep]	A1
+
+
+You also need to get others to buy into your values .
+	c:	[verb]	buy into	[verb prep]	A1
+	d:	[verb]	get into	[verb prep]	A1
+	d:	[verb]	get to	[verb prep]	A1
+	d:	[noun]	get you	[verb posPro]	A1
+
+
+Similarly , contemporary practices of community-based policing rely on making the police sufficiently friendly and attractive that a community wants to help them achieve shared objectives .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	make to	[verb prep]	A1
+	d:	[verb]	make attractive	[verb adj]	A2
+	c:	[adj]	on make	[prep noun]	B2
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[adj]	of help	[prep noun]	A2
+	d:	[adv]	on that	[prep det]	A1
+	c:	[verb]	rely on	[verb prep]	B1
+	c:	[verb]	want to	[verb prep]	A1
+
+
+Political leaders have long understood the power that comes from attraction .
+	c:	[verb]	come from	[verb prep]	A1
+	d:	[verb]	have come	[verb verb]	A1
+
+
+If I can get you to want to do what I want , then I do not have to use carrots or sticks to make you do it .
+	d:	[verb]	can do	[other verb]	A1
+	d:	[verb]	can it	[other perPro]	A1
+	c:	[verb]	do it	[verb perPro]	A1
+	d:	[verb]	get do	[verb verb]	A1
+	d:	[verb]	get it	[verb perPro]	A1
+	d:	[verb]	get stick	[verb verb]	B1
+	d:	[verb]	get to	[verb prep]	A1
+	d:	[verb]	get use to	[verb verb prep]	A1
+	c:	[noun]	get you	[verb posPro]	A1
+	d:	[verb]	have do	[verb verb]	A1
+	d:	[adj]	have it	[verb perPro]	A1
+	d:	[verb]	have make	[verb verb]	A1
+	c:	[verb]	have to	[verb prep]	A1
+	d:	[prep]	if not	[prep adv]	A1
+	d:	[verb]	make do	[verb verb]	A1
+	d:	[verb]	make it	[verb perPro]	A1
+	d:	[adj]	not do	[adv verb]	A1
+	d:	[adj]	not have it	[adv verb perPro]	A1
+	d:	[adj]	not make it	[adv verb perPro]	A1
+	d:	[adj]	not use	[adv verb]	A1
+	d:	[adj]	not use to	[adv verb prep]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	c:	[verb]	stick to	[noun prep]	B2
+	c:	[noun]	to do	[prep verb]	A1
+	d:	[adj]	use to	[verb prep]	A1
+	c:	[verb]	want to	[verb prep]	A1
+	d:	[noun]	what do	[det verb]	A1
+
+
+Whereas leaders in authoritarian countries can use coercion and issue commands , politicians in democracies have to rely more on a combination of inducement and attraction .
+	d:	[adj]	and on	[conj prep]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	c:	[verb]	have to	[verb prep]	A1
+	d:	[adv]	in combination	[prep noun]	B1
+	d:	[adj]	in on	[prep prep]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	in use	[prep noun]	A2
+	c:	[adj]	more on	[adv prep]	B1
+	d:	[verb]	rely on	[verb prep]	B1
+	d:	[adj]	use to	[verb prep]	A1
+
+
+Soft power is a staple of daily democratic politics .
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[noun]	power be	[noun verb]	A2
+
+
+The ability to establish preferences tends to be associated with intangible assets such as an attractive personality , culture , political values and institutions , and policies that are seen as legitimate or having moral authority .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[adj]	as be	[adv verb]	A2
+	c:	[verb]	associate with	[noun prep]	B1
+	c:	[verb]	be associate with	[verb verb prep]	B1
+	d:	[verb]	be authority	[verb noun]	B1
+	d:	[verb]	be value	[verb noun]	A2
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	c:	[adj]	be see	[verb verb]	A1
+	d:	[verb]	have authority	[verb noun]	B1
+	c:	[conj]	such as	[adj prep]	A2
+	c:	[verb]	see as	[verb prep]	A1
+	c:	[adv]	that be	[det verb]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	to be have	[prep verb verb]	A1
+	d:	[adj]	to be see	[prep verb verb]	A1
+
+
+If a leader represents values that others want to follow , it will cost less to lead .
+	d:	[adj]	that it	[prep perPro]	A1
+	c:	[pron]	that other	[prep adj]	A2
+	c:	[verb]	want to	[verb prep]	A1
+	d:	[adj]	will less	[other adv]	A2
+
+
+Soft power is not merely the same as influence .
+	d:	[verb]	be influence	[verb verb]	B2
+	d:	[verb]	be same	[verb adj]	A1
+	d:	[verb]	be the same	[verb det adj]	A1
+	d:	[adj]	not influence	[adv verb]	B2
+	c:	[noun]	power be	[noun verb]	A2
+	c:	[adj]	same as	[adj prep]	A1
+
+
+After all , influence can also rest on the hard power of threats or payments .
+	c:	[adv]	after all	[prep det]	A1
+	c:	[verb]	rest on	[noun prep]	B1
+
+
+And soft power is more than just persuasion or the ability to move people by argument , though that is an important part of it .
+	d:	[pron]	a part	[det noun]	A2
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	be a part	[verb det noun]	A2
+	d:	[verb]	be important	[verb adj]	A1
+	d:	[verb]	be move	[verb noun]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be part	[verb noun]	A2
+	d:	[verb]	be part of	[verb noun prep]	A2
+	d:	[verb]	be the move	[verb det noun]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	c:	[noun]	important part	[adj noun]	A2
+	d:	[adj]	more by	[adv prep]	B1
+	d:	[adj]	more part	[adj verb]	B2
+	d:	[adj]	more to be	[adj prep verb]	B1
+	d:	[adj]	move it	[verb perPro]	A2
+	c:	[adv]	more than	[adj prep]	B1
+	d:	[adv]	more than that	[adj prep det]	B1
+	c:	[noun]	power be	[noun verb]	A2
+	d:	[noun]	power that be	[noun det verb]	A2
+	c:	[determiner]	part of	[noun prep]	A2
+	d:	[noun]	soft part	[adj noun]	A2
+	c:	[adv]	that be	[det verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[adj]	that be it	[det verb perPro]	A1
+	d:	[noun]	the people	[det noun]	A1
+
+
+It is also the ability to attract , and attraction often leads to acquiescence .
+	d:	[adj]	attract to	[verb prep]	B1
+	d:	[verb]	be attract	[verb verb]	B1
+	d:	[verb]	be attract to	[verb verb prep]	B1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	lead to	[noun prep]	A2
+
+
+Simply put , in behavioral terms soft power is attractive power .
+	d:	[verb]	be power	[verb noun]	A2
+	d:	[adj]	in power	[prep noun]	A2
+	c:	[noun]	power be	[noun verb]	A2
+	d:	[verb]	put in	[verb prep]	A1
+
+
+In terms of resources , soft-power resources are the assets that produce such attraction .
+	d:	[conjuction]	in that	[prep det]	A1
+
+
+Whether a particular asset is a soft-power resource that produces attraction can be measured by asking people through polls or focus groups .
+	c:	[adj]	a particular	[det adj]	B2
+	d:	[noun]	a people	[det noun]	A1
+	c:	[adv]	can be	[other verb]	A1
+	c:	[noun]	focus group	[noun noun]	B2
+	d:	[adv]	that be	[det verb]	A1
+
+
+Whether that attraction in turn produces desired policy outcomes has to be judged in particular cases .
+	d:	[verb]	be case	[verb noun]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have case	[verb noun]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	c:	[verb]	have to	[verb prep]	A1
+	d:	[conj]	in case	[prep noun]	A1
+	c:	[adv]	in particular	[prep adj]	B2
+	d:	[prep]	in to	[prep prep]	A1
+	c:	[adv]	in turn	[prep noun]	A1
+	d:	[adv]	that be	[det verb]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[verb]	turn in	[noun prep]	A1
+	d:	[verb]	turn to	[verb prep]	A1
+
+
+Attraction does not always determine others ' preferences , but this gap between power measured as resources and power judged as the outcomes of behavior is not unique to soft power .
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[verb]	be power	[verb noun]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	measure to	[noun prep]	B1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[noun]	power be	[noun verb]	A2
+
+
+It occurs with all forms of power .
+	c:	[verb]	occur with	[verb prep]	B1
+
+
+Before the fall of France in 1940 , Britain and France had more tanks than Germany , but that advantage in military power resources did not accurately predict the outcome of the battle .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	do battle	[verb noun]	B1
+	d:	[verb]	fall in	[noun prep]	B1
+	d:	[verb]	have advantage	[verb noun]	A2
+	d:	[verb]	have do	[verb verb]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[noun]	have not	[verb adv]	A1
+	d:	[adv]	in accurately	[prep adv]	B1
+	d:	[adj]	in power	[prep noun]	A2
+	d:	[adv]	in power of	[prep noun prep]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[adj]	more power	[adv verb]	B1
+	c:	[adj]	more tank	[adv verb]	B1
+	d:	[adj]	more accurately	[adv adv]	B1
+	d:	[adj]	more predict	[adv verb]	B1
+	d:	[adv]	more than not	[adj prep adv]	B1
+	d:	[adj]	more battle	[adv verb]	B1
+	d:	[adv]	more than	[adj prep]	B1
+	d:	[adv]	more than that	[adj prep det]	B1
+	d:	[adv]	not predict	[adv verb]	A2
+
+
+One way to think about the difference between hard and soft power is to consider the variety of ways you can obtain the outcomes you want .
+	d:	[adj]	about be	[prep verb]	A1
+	d:	[prep]	about to	[prep prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be want	[verb verb]	A1
+	d:	[noun]	hard way	[adj noun]	A1
+	c:	[adj]	one way	[adj noun]	A1
+	c:	[noun]	power be	[noun verb]	A2
+	d:	[verb]	think of	[verb prep]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[verb]	the hard way	[det adj noun]	A1
+	c:	[verb]	think about	[verb prep]	A1
+	d:	[verb]	think hard	[verb adv]	A1
+	d:	[verb]	think to	[verb prep]	A1
+
+
+You can command me to change my preferences and do what you want by threatening me with force or economic sanctions .
+	d:	[adv]	by force	[prep noun]	A2
+	d:	[verb]	can do	[other verb]	A1
+	d:	[verb]	do with	[verb prep]	A1
+	d:	[noun]	to do	[prep verb]	A1
+	c:	[adv]	with force	[prep noun]	A2
+
+
+You can induce me to do what you want by using your economic power to pay me .
+	d:	[verb]	can do	[other verb]	A1
+	c:	[noun]	to do	[prep verb]	A1
+	d:	[adj]	use to	[verb prep]	A1
+	d:	[verb]	want to	[verb prep]	A1
+
+
+You can restrict my preferences by setting the agenda in such a way that my more extravagant wishes seem too unrealistic to pursue .
+	d:	[adv]	by the	[prep det]	A1
+	d:	[adv]	by the way	[prep det noun]	A1
+	d:	[adv]	by way	[prep noun]	A1
+	c:	[adv]	in such a way	[prep XXXXX det noun]	A2
+	c:	[conj]	in such a way that	[prep XXXXX det noun prep]	A2
+	d:	[adv]	in such way	[prep adj noun]	A2
+	d:	[conj]	in such way that	[prep adj noun prep]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adv]	in way	[prep noun]	A1
+	d:	[adj]	more wish	[adv verb]	B1
+	d:	[verb]	set in	[verb prep]	A1
+	d:	[verb]	set to	[verb prep]	A1
+	d:	[adj]	set in way	[verb prep noun]	A1
+	d:	[adj]	set way	[verb noun]	A1
+
+
+Or you can appeal to my sense of attraction , love , or duty in our relationship and appeal to our shared values about the justness of contributing to those shared values and purposes .
+	d:	[prep]	about to	[prep prep]	A1
+	c:	[verb]	appeal to	[noun prep]	B1
+	c:	[verb]	contribute to	[verb prep]	B1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[noun]	love in	[noun prep]	A1
+	d:	[adj]	of value	[prep noun]	A2
+	d:	[noun]	sense duty	[noun noun]	B1
+	d:	[noun]	sense of duty	[noun prep noun]	B1
+	d:	[adj]	the purpose	[det noun]	A2
+	d:	[adj]	to purpose	[prep noun]	A2
+	d:	[adj]	to the purpose	[prep det noun]	A2
+
+
+If I am persuaded to go along with your purposes without any explicit threat or exchange taking place?in short , if my behavior is determined by an observable but intangible attraction ?
+	c:	[adv]	along with	[prep prep]	A1
+	c:	[verb]	be determine	[verb verb]	B1
+	c:	[verb]	be determine by	[verb verb prep]	B1
+	d:	[verb]	be go	[verb verb]	A1
+	d:	[verb]	be short	[verb adj]	A1
+	d:	[verb]	be take	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[interj]	be with you	[verb prep perPro]	A1
+	d:	[verb]	be without	[verb prep]	A1
+	c:	[adj]	determine by	[verb prep]	B1
+	c:	[verb]	go along with	[verb prep prep]	A1
+	d:	[verb]	go by	[verb prep]	A1
+	d:	[adj]	go short	[verb adv]	A1
+	d:	[verb]	go with	[verb prep]	A1
+	d:	[adj]	go without	[verb prep]	A1
+	c:	[verb]	go along	[verb prep]	A1
+	d:	[conj]	or but	[conj conj]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	to purpose	[prep noun]	A2
+	d:	[verb]	take be	[verb verb]	A1
+
+
+soft power is at work .
+	c:	[adj]	at work	[prep noun]	A1
+	c:	[verb]	be at	[verb prep]	A1
+	c:	[noun]	power be	[noun verb]	A2
+
+
+Soft power uses a different type of currency -LRB- not force , not money -RRB- to engender cooperation?an attraction to shared values and the justness and duty of contributing to the achievement of those values .
+	c:	[verb]	contribute to	[verb prep]	B1
+	d:	[adj]	not duty	[adv noun]	B1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[adj]	of value	[prep noun]	A2
+	d:	[adj]	use to	[verb prep]	A1
+
+
+Much as Adam Smith observed that people are led by an invisible hand when making decisions in a free market , our decisions in the marketplace for ideas are often shaped by soft power?an intangible attraction that persuades us to go along with others ' purposes without any explicit threat or exchange taking place .
+	d:	[noun]	a hand	[det noun]	A1
+	c:	[adv]	along with	[prep prep]	A1
+	c:	[adj]	along with other	[prep prep noun]	A2
+	d:	[prep]	as for	[prep prep]	A1
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be go	[verb verb]	A1
+	d:	[verb]	be hand	[verb noun]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	be place	[verb verb]	B1
+	d:	[verb]	be take	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[verb]	be without	[verb prep]	A1
+	d:	[adv]	by by	[prep prep]	A1
+	d:	[adj]	by go	[prep verb]	A1
+	d:	[verb]	by hand	[prep noun]	A1
+	d:	[noun]	by place	[prep noun]	A1
+	d:	[adv]	by the	[prep det]	A1
+	d:	[adv]	for that	[prep det]	A1
+	d:	[noun]	free decision	[adj noun]	B1
+	c:	[noun]	free market	[adj noun]	A2
+	d:	[verb]	for go along	[prep verb prep]	A1
+	c:	[verb]	go along with	[verb prep prep]	A1
+	d:	[verb]	go place	[verb noun]	A1
+	d:	[verb]	go with	[verb prep]	A1
+	d:	[adj]	go without	[verb prep]	A1
+	c:	[verb]	go along	[verb prep]	A1
+	d:	[verb]	hand in	[noun prep]	A1
+	d:	[verb]	hand to	[noun prep]	A1
+	d:	[noun]	in any place	[prep det noun]	A1
+	d:	[noun]	in decision	[prep noun]	B1
+	d:	[adj]	in explicit	[prep adj]	C2
+	d:	[adj]	in go	[prep verb]	A1
+	d:	[adj]	in market	[prep noun]	A2
+	d:	[adj]	in place	[prep noun]	A1
+	d:	[adj]	in shape	[prep noun]	A2
+	d:	[noun]	in take	[prep noun]	B1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[noun]	lead in	[noun prep]	A2
+	d:	[verb]	lead in to	[noun prep prep]	A2
+	d:	[verb]	lead to	[noun prep]	A2
+	d:	[verb]	make a decision	[verb det noun]	B1
+	d:	[verb]	make for	[verb prep]	A1
+	d:	[verb]	make to	[verb prep]	A1
+	d:	[verb]	make with	[verb prep]	A1
+	c:	[conj]	much as	[adv prep]	A1
+	d:	[verb]	make a go	[verb det noun]	B1
+	c:	[verb]	make decision	[verb noun]	B1
+	d:	[verb]	make explicit	[verb adj]	C2
+	d:	[verb]	make free	[verb adj]	A1
+	d:	[verb]	make threat	[verb noun]	B1
+	d:	[verb]	make go	[verb noun]	B1
+	c:	[verb]	take place	[verb noun]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	the purpose	[det noun]	A2
+	d:	[adj]	to purpose	[prep noun]	A2
+	d:	[adj]	that idea	[prep noun]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[pron]	that other	[prep adj]	A2
+	d:	[adj]	that the idea	[prep det noun]	A1
+	d:	[adj]	that be idea	[det verb noun]	A1
+	d:	[adj]	that be the idea	[det verb det noun]	A1
+
+
+Hard and soft power are related because they are both aspects of the ability to achieve one 's purpose by affecting the behavior of others .
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[verb]	be affect	[verb verb]	B1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be one of	[verb adj prep]	A1
+	c:	[verb]	be related	[verb adj]	B2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[prep]	because of	[prep prep]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[adv]	by the	[prep det]	A1
+	d:	[adj]	hard by	[adv prep]	A1
+	d:	[adj]	one other	[adj adj]	A2
+	d:	[adj]	one the other	[adj det adj]	A2
+	c:	[noun]	power be	[noun verb]	A2
+	d:	[adj]	the purpose	[det noun]	A2
+	d:	[adj]	to purpose	[prep noun]	A2
+
+
+The distinction between them is one of degree , both in the nature of the behavior and in the tangibility of the resources .
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	be one of	[verb adj prep]	A1
+
+
+Command power?the ability to change what others do?can rest on coercion or inducement .
+	c:	[verb]	rest on	[noun prep]	B1
+
+
+Co-optive power?the ability to shape what others want?can rest on the attractiveness of one 's culture and values or the ability to manipulate the agenda of political choices in a manner that makes others fail to express some preferences because they seem to be too unrealistic .
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[conj]	and that	[conj prep]	A1
+	c:	[adv]	in a manner	[prep det noun]	A2
+	d:	[adj]	in make	[prep verb]	A1
+	d:	[adv]	in manner	[prep noun]	A2
+	d:	[conj]	in manner that	[prep noun prep]	A2
+	d:	[adv]	in preference	[prep noun]	B1
+	d:	[conj]	in preference to	[prep noun prep]	B1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	make to	[verb prep]	A1
+	d:	[adj]	on make	[prep noun]	B2
+	d:	[adj]	on the make	[prep det noun]	B2
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[adj]	of value	[prep noun]	A2
+	d:	[adv]	on that	[prep det]	A1
+	d:	[adj]	one and other	[adj conj adj]	A2
+	d:	[adj]	one and the other	[adj conj det adj]	A2
+	d:	[noun]	one in to	[adj prep prep]	A1
+	d:	[adj]	one other	[adj adj]	A2
+	d:	[adj]	one the other	[adj det adj]	A2
+	d:	[noun]	one choice	[adj noun]	A2
+	d:	[noun]	one 's choice	[perPro XXXXX noun]	A2
+	c:	[verb]	rest on	[noun prep]	B1
+	d:	[adv]	that be	[det verb]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[pron]	that other	[prep adj]	A2
+	d:	[noun]	what be	[other verb]	A1
+
+
+The types of behavior between command and co-option range along a spectrum from coercion to economic inducement to agenda setting to pure attraction .
+	d:	[noun]	type a	[noun noun]	A1
+	d:	[noun]	type setting	[noun noun]	B1
+
+
+Soft-power resources tend to be associated with the co-optive end of the spectrum of behavior , whereas hard-power resources are usually associated with command behavior .
+	c:	[verb]	associate with	[noun prep]	B1
+	c:	[verb]	be associate with	[verb verb prep]	B1
+	d:	[verb]	be command	[verb noun]	B1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[prep]	end with	[verb prep]	A2
+	d:	[adj]	the end	[det noun]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[adv]	to end	[prep verb]	A2
+	d:	[adv]	to the end	[prep det noun]	A1
+
+
+But the relationship is imperfect .
+	notfound
+
+
+For example , sometimes countries may be attracted to others with command power by myths of invincibility , and command power may sometimes be used to establish institutions that later become regarded as legitimate .
+	d:	[conj]	and that	[conj prep]	A1
+	c:	[adj]	attract to	[verb prep]	B1
+	c:	[verb]	be attract	[verb verb]	B1
+	c:	[verb]	be attract to	[verb verb prep]	B1
+	d:	[verb]	be command	[verb noun]	B1
+	d:	[verb]	be establish	[verb verb]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be of use	[verb prep noun]	A2
+	d:	[verb]	be power	[verb noun]	A2
+	d:	[verb]	be power of	[verb noun prep]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	be use	[verb noun]	A2
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[verb]	be become	[verb verb]	A1
+	c:	[phrase]	for example	[prep noun]	A1
+	d:	[adv]	for that	[prep det]	A1
+	d:	[adj]	of use	[prep noun]	A2
+	d:	[noun]	power be	[noun verb]	A2
+	d:	[adj]	to be	[prep verb]	A1
+	c:	[adj]	use to	[verb prep]	A1
+
+
+A strong economy not only provides resources for sanctions and payments , but can also be a source of attractiveness .
+	c:	[verb]	be a source of	[verb det noun prep]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be source of	[verb noun prep]	A2
+	d:	[adv]	can be	[other verb]	A1
+	d:	[prep]	not for	[adv prep]	A1
+	d:	[verb]	provide for	[verb prep]	A2
+
+
+On the whole , however , the general association between the types of behavior and certain resources is strong enough to allow us to employ the useful shorthand reference to hard - and soft-power resources .
+	d:	[verb]	be allow	[verb verb]	A2
+	d:	[verb]	be employ	[verb verb]	B2
+	d:	[verb]	be enough	[verb adv]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be useful	[verb adj]	A2
+	d:	[adv]	between we	[prep perPro]	A1
+	c:	[adv]	on the whole	[prep det noun]	B1
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[adv]	on whole	[prep noun]	B1
+	c:	[noun]	the whole	[det noun]	B1
+
+
+In international politics , the resources that produce soft power arise in large part from the values an organization or country expresses in its culture , in the examples it sets by its internal practices and policies , and in the way it handles its relations with others .
+	d:	[noun]	a way with	[det noun prep]	A1
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[adv]	by the	[prep det]	A1
+	d:	[adv]	by the way	[prep det noun]	A1
+	d:	[adv]	by way	[prep noun]	A1
+	d:	[noun]	country set	[noun verb]	A2
+	d:	[adv]	in part	[prep noun]	A2
+	d:	[adj]	in power	[prep noun]	A2
+	d:	[adj]	in practice	[prep noun]	A1
+	d:	[verb]	in set	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	c:	[adj]	in the way	[prep det noun]	A1
+	d:	[adv]	in way	[prep noun]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[noun]	international relation	[adj noun]	B1
+	c:	[verb]	part from	[noun prep]	A2
+	d:	[verb]	part with	[noun prep]	A2
+	d:	[verb]	practice with	[noun prep]	A1
+	d:	[verb]	set in	[verb prep]	A1
+	d:	[noun]	soft part	[adj noun]	A2
+	d:	[adj]	set in way	[verb prep noun]	A1
+	d:	[adj]	set way	[verb noun]	A1
+	d:	[noun]	that a way	[prep det noun]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[pron]	that other	[prep adj]	A2
+	c:	[noun]	way it	[noun perPro]	A1
+
+
+Governments sometimes find it difficult to control and employ soft power , but that does not diminish its importance .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[noun]	to do	[prep verb]	A1
+
+
+It was a former French foreign minister who observed that the Americans are powerful because they can `` inspire the dreams and desires of others , thanks to the mastery of global images through film and television and because , for these same reasons , large numbers of students from other countries come to the United States to finish their studies . ''
+	d:	[noun]	a finish	[det noun]	A1
+	d:	[pron]	a number	[det noun]	A1
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[verb]	be come	[verb verb]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be image of	[verb noun prep]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be same	[verb adj]	A1
+	d:	[verb]	be the image of	[verb det noun prep]	A2
+	d:	[verb]	be the same	[verb det adj]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[prep]	because of	[prep prep]	A1
+	c:	[verb]	come to	[verb prep]	A1
+	d:	[verb]	dream of	[noun prep]	A1
+	d:	[adv]	for reason	[prep noun]	A1
+	c:	[noun]	foreign minister	[adj noun]	B2
+	d:	[noun]	former student	[adj noun]	B1
+	d:	[noun]	image of	[noun prep]	A2
+	c:	[noun]	large number	[adj noun]	A1
+	d:	[verb]	minister to	[noun prep]	B2
+	d:	[verb]	observe of	[verb prep]	B1
+	c:	[conjuction]	thanks to	[noun prep]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the States	[det noun]	unknown
+	d:	[pron]	that other	[prep adj]	A2
+	d:	[noun]	the image of	[det noun prep]	A2
+	c:	[noun]	to finish	[prep noun]	A1
+	d:	[noun]	the number	[det noun]	A1
+	d:	[adj]	to come	[prep verb]	A1
+	c:	[noun]	United States	[noun noun]	unknown
+
+
+Soft power is an important reality .
+	d:	[verb]	be important	[verb adj]	A1
+	c:	[noun]	power be	[noun verb]	A2
+
+
+Even the great British realist E.H. Carr , writing in 1939 , described international power in three categories : military , economic , and power over opinion .
+	d:	[adj]	in power	[prep noun]	A2
+	c:	[verb]	write in	[verb prep]	A1
+	d:	[verb]	write over	[verb prep]	A1
+
+
+Those who deny the importance of soft power are like people who do not understand the power of seduction .
+	c:	[verb]	be like	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be power	[verb noun]	A2
+	d:	[verb]	be power of	[verb noun prep]	A2
+	d:	[verb]	be the power of	[verb det noun prep]	A2
+	d:	[verb]	be understand	[verb verb]	A2
+	d:	[noun]	like of	[prep prep]	A1
+	c:	[noun]	power be	[noun verb]	A2
+	d:	[pron]	the like	[det adj]	B1
+	d:	[noun]	the people	[det noun]	A1
+	d:	[noun]	who who	[other other]	A1
+	d:	[noun]	who be who	[other verb other]	A1
+
+

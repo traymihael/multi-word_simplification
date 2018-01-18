@@ -1,0 +1,239 @@
+One of the most provocative viral YouTube videos in the past two years begins mundanely enough : a one-year-old girl plays with an iPad , sweeping her fingers across its touch screen and shuffling groups of icons .
+	notfound
+
+
+In following scenes , she appears to pinch , swipe , and prod the pages of paper magazines as though they , too , are screens .
+	notfound
+
+
+Melodramatically , the video replays these gestures in close-up .
+	notfound
+
+
+For the girl 's father , the video?A Magazine Is an iPad That Does Not Work?is evidence of a generational transition .
+	notfound
+
+
+In an accompanying description , he writes , `` Magazines are now useless and impossible to understand , for digital natives '' ?
+	notfound
+
+
+that is , for people who have been interacting with digital technologies from a very early age , surrounded not only by paper books and magazines but also by smartphones , Kindles , and iPads .
+	notfound
+
+
+Whether or not his daughter truly expected the magazines to behave like an iPad , the video brings into focus a question that is relevant to far more than the youngest among us : How exactly does the technology we use to read change the way we read ?
+	c:	be relevant	[verb adj]	B2
+		apply	0.6079056448560334
+		pertain	0.5488543030101692
+		relate	0.5456724821240229
+		refer	0.5233349342423996
+		avoid	0.49163311261881887
+	c:	be relevant to	[verb adj prep]	B2
+		involve	0.4598655302240315
+		ignore	0.45975313407073165
+		aid	0.44140577569308326
+		touch	0.40852781963974655
+		regard	0.3973389524062551
+	c:	relevant to	[adj prep]	B2
+		regarding	0.36263362292717594
+		respecting	0.18874503003406953
+		touching	0.17903666063564774
+		about	0.17505907726260977
+		re	-0.02231604377869393
+
+
+Since at least the 1980s researchers in psychology , computer engineering , and library and information science have published more than one hundred studies exploring differences in how people read on paper and on screens .
+	c:	at least	[prep adj]	B2
+		slightly	0.24320432280416113
+		relatively	0.2273319856454503
+		completely	0.14628428534309845
+		halfway	0.14587464252104518
+		totally	0.14221425303085886
+
+
+Before 1992 most experiments concluded that people read stories and articles on screens more slowly and remember less about them .
+	notfound
+
+
+As the resolution of screens on all kinds of devices sharpened , however , a more mixed set of findings began to emerge .
+	notfound
+
+
+Recent surveys suggest that although most people still prefer paper ?
+	notfound
+
+
+especially when they need to concentrate for a long time?attitudes are changing as tablets and e-reading technology improve and as reading digital texts for facts and fun becomes more common .
+	notfound
+
+
+In the United States , e-books currently make up more than 20 percent of all books sold to the general public .
+	d:	the States	[det noun]	unknown
+			(NP)[(NNP)]
+		Columbia	0.34511833678801224
+		US	0.32294035221195844
+		America	0.27188734639161133
+		USA	0.19591142447883395
+	c:	United States	[noun noun]	unknown
+		US	0.4295180969798288
+		USA	0.38857648869970607
+		Columbia	0.18722928596658908
+		America	0.1867194845245358
+
+
+Despite all the increasingly user-friendly and popular technology , most studies published since the early 1990s confirm earlier conclusions : paper still has advantages over screens as a reading medium .
+	notfound
+
+
+Together , laboratory experiments , polls , and consumer reports indicate that digital devices prevent people from efficiently navigating long texts , which may subtly inhibit reading comprehension .
+	notfound
+
+
+Compared with paper , screens may also drain more of our mental resources while we are reading and make it a little harder to remember what we read when we are done .
+	notfound
+
+
+Whether they realize it or not , people often approach computers and tablets with a state of mind less conducive to learning than the one they bring to paper .
+	c:	conducive to	[adj prep]	unknown
+		to	0.9963924531349257
+		toward	0.43186650514643
+		concerning	0.11988384918251582
+		after	0.08337556166227861
+		notwithstanding	0.0826702396024778
+
+
+And e-readers fail to re-create certain tactile experiences of reading on paper , the absence of which some find unsettling .
+	notfound
+
+
+Understanding how reading on paper differs from reading on screens requires some explanation of how the human brain interprets written language .
+
+
+Although letters and words are symbols representing sounds and ideas , the brain also regards them as physical objects .
+	notfound
+
+
+As Maryanne Wolf of Tufts University explains in her 2007 book Proust and the Squid , we are not born with brain circuits dedicated to reading , because we did not invent writing until relatively recently in our evolutionary history , around the fourth millennium B.C. .
+	notfound
+
+
+So in childhood the brain improvises a brand-new circuit for reading by weaving together various ribbons of neural tissue devoted to other abilities , such as speaking , motor coordination , and vision .
+	c:	devote to	[verb prep]	B2
+		direct	0.3654247206781017
+		try	0.3644171660211611
+		avoid	0.25639908532588235
+		turn	0.25176451370721487
+		cut	0.24776267543062808
+
+
+Some of these repurposed brain regions specialize in object recognition : they help us instantly distinguish an apple from an orange , for example , based on their distinct features , yet classify both as fruit .
+	notfound
+
+
+Similarly , when we learn to read and write , we begin to recognize letters by their particular arrangements of lines , curves , and hollow spaces?a tactile learning process that requires both our eyes and our hands .
+	notfound
+
+
+In recent research by Karin James of Indiana University Bloomington , the reading circuits of five-year-old children crackled with activity when they practiced writing letters by hand but not when they typed letters on a keyboard .
+	notfound
+
+
+And when people read cursive writing or intricate characters such as Japanese kanji , the brain literally goes through the motions of writing , even if the hands are empty .
+	c:	go through the motion	[verb prep det noun]	B2
+
+
+Beyond treating individual letters as physical objects , the human brain may also perceive a text in its entirety as a kind of physical landscape .
+	d:	in entirety	[prep noun]	unknown
+			(PP)[(PRP$)]
+		finally	0.2832816249105391
+		ultimately	0.19336715479943778
+		effectively	0.16237177691664656
+		completely	0.16122203407076888
+		partly	0.15833713901008886
+
+
+When we read , we construct a mental representation of the text .
+	notfound
+
+
+The exact nature of such representations remains unclear , but some researchers think they are similar to the mental maps we create of terrain?such as mountains and trails?and of indoor physical spaces , such as apartments and offices .
+	notfound
+
+
+Both anecdotally and in published studies , people report that when trying to locate a particular passage in a book , they often remember where in the text it appeared .
+	c:	a particular	[det adj]	B2
+		this	0.5036853691095898
+		the	0.46355328715659555
+		one	0.3368659989997499
+		such	0.15194411864249635
+
+
+Much as we might recall that we passed the red farmhouse near the start of a hiking trail before we started climbing uphill through the forest , we remember that we read about Mr. Darcy rebuffing Elizabeth Bennet at a dance on the bottom left corner of the left-hand page in one of the earlier chapters of Jane Austen 's Pride and Prejudice .
+	notfound
+
+
+In most cases , paper books have more obvious topography than on-screen text .
+	notfound
+
+
+An open paper book presents a reader with two clearly defined domains?the left - and right-hand pages?and a total of eight corners with which to orient oneself .
+	notfound
+
+
+You can focus on a single page of a paper book without losing awareness of the whole text .
+
+
+You can even feel the thickness of the pages you have read in one hand and the pages you have yet to read in the other .
+	notfound
+
+
+Turning the pages of a paper book is like leaving one footprint after another on a trail?there is a rhythm to it and a visible record of how far one has traveled .
+
+
+All these features not only make the text in a paper book easily navigable , they also make it easier to form a coherent mental map of that text .
+	notfound
+
+
+In contrast , most digital devices interfere with intuitive navigation of a text and inhibit people from mapping the journey in their mind .
+	c:	interfere with	[verb prep]	B2
+		prevent	0.2721610707313389
+		close	0.24631898390144755
+		choke	0.24238443411360486
+		hinder	0.2378357502862448
+		push	0.23735571197355365
+
+
+A reader of digital text might scroll through a seamless stream of words , tap forward one page at a time , or use the search function to immediately locate a particular phrase?but it is difficult to see any one passage in the context of the entire text .
+	c:	a particular	[det adj]	B2
+		this	0.5036853691095898
+		the	0.46355328715659555
+		one	0.3368659989997499
+		such	0.15194411864249635
+
+
+As an analogy , imagine if Google Maps allowed people to navigate street by individual street , as well as teleport to any specific address , but prevented them from zooming out to see a neighborhood , state , or country .
+	notfound
+
+
+Likewise , glancing at a progress bar gives a far more vague sense of place than feeling the weight of read and unread pages .
+	notfound
+
+
+And although e-readers and tablets replicate pagination , the displayed pages are ephemeral .
+	notfound
+
+
+Once read , those pages vanish .
+	notfound
+
+
+Instead of hiking the trail yourself , you watch the trees , rocks , and moss pass by in flashes , with no tangible trace of what came before and no easy way to see what lies ahead .
+	c:	in flash	[prep noun]	B2
+		slowly	0.313422310103124
+		slow	0.31115467466471314
+		fast	0.26159727591899934
+		quickly	0.2453832328885646
+		immediate	0.15736310572797246
+
+

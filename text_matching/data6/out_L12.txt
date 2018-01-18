@@ -1,0 +1,167 @@
+What is literature ?
+
+
+You 'd think this would be a central question for literary theory , but in fact it has not seemed to matter very much .
+
+
+Why should this be ?
+	notfound
+
+
+There appear to be two main reasons .
+
+
+First , since theory itself intermingles ideas from philosophy , linguistics , history , political theory , and psychoanalysis , why should theorists worry about whether the texts they 're reading are literary or not ?
+	notfound
+
+
+For students and teachers of literature today there is a whole range of critical projects , topics to read and write about?such as ` images of women in the early twentieth century ' ?
+	notfound
+
+
+where you can deal with both literary and nonliterary works .
+
+
+You can study Virginia Woolf 's novels or Freud 's case histories or both , and the distinction does n't seem methodologically crucial .
+	notfound
+
+
+It 's not that all texts are somehow equal : some texts are taken to be richer , more powerful , more exemplary , more contestatory , more central , for one reason or another .
+	notfound
+
+
+But both literary and non-literary works can be studied together and in similar ways .
+	notfound
+
+
+Second , the distinction has not seemed central because works of theory have discovered what is most simply called the ' literariness ' of non-literary phenomena .
+
+
+Qualities often thought to be literary turn out to be crucial to non-literary discourses and practices as well .
+	notfound
+
+
+For instance , discussions of the nature of historical understanding have taken as a model what is involved in understanding a story .
+
+
+Characteristically , historians do not produce explanations that are like the predictive explanations of science : they can not show that when X and Y occur , Z will necessarily happen .
+	notfound
+
+
+What they do , rather , is to show how one thing led to another , how the First World War came to break out , not why it had to happen .
+	notfound
+
+
+The model for historical explanation is thus the logic of stories : the way a story shows how something came to happen , connecting the initial situation , the development , and the outcome in a way that makes sense .
+	notfound
+
+
+The model for historical intelligibility , in short , is literary narrative .
+
+
+We who hear and read stories are good at telling whether a plot makes sense , hangs together , or whether the story remains unfinished .
+	notfound
+
+
+If the same models of what makes sense and what counts as a story characterize both literary and historical narratives , then distinguishing between them need not seem an urgent theoretical matter .
+	notfound
+
+
+Similarly , theorists have come to insist on the importance in non-literary texts ?
+
+
+whether Freud 's accounts of his psychoanalytic cases or works of philosophical argument?of rhetorical devices such as metaphor , which have been thought crucial to literature but have often been considered purely ornamental in other sorts of discourses .
+	notfound
+
+
+In showing how rhetorical figures shape thought in other discourses as well , theorists demonstrate a powerful literariness at work in supposedly non-literary texts , thus complicating the distinction between the literary and the non-literary .
+
+
+But the fact that I describe this situation by speaking of the discovery of the ` literariness ' of non-literary phenomena indicates that the notion of literature continues to play a role and needs to be addressed .
+	c:	speaking of	[noun prep]	unknown
+
+
+We find ourselves back at the key question , ` What is literature ? '
+
+
+, which will not go away .
+
+
+But what sort of question is it ?
+	notfound
+
+
+If a 5-year-old is asking , it 's easy .
+	notfound
+
+
+` Literature ' , you answer ' , is stories , poems , and plays . '
+	notfound
+
+
+But if the questioner is a literary theorist , it 's harder to know how to take the query .
+
+
+It might be a question about the general nature of this object , literature , which both of you already know well .
+
+
+What sort of object or activity is it ?
+	notfound
+
+
+What does it do ?
+
+
+What purposes does it serve ?
+	notfound
+
+
+Thus understood ' , What is literature ? '
+
+
+asks not for a definition but for an analysis , even an argument about why one might concern oneself with literature at all .
+	notfound
+
+
+But ` What is literature ? '
+
+
+might also be a question about distinguishing characteristics of the works known as literature : what distinguishes them from non-literary works ?
+
+
+What differentiates literature from other human activities or pastimes ?
+	notfound
+
+
+Now people might ask this question because they were wondering how to decide which books are literature and which are not , but it is more likely that they already have an idea what counts as literature and want to know something else : are there any essential , distinguishing features that literary works share ?
+	notfound
+
+
+This is a difficult question .
+	notfound
+
+
+Theorists have wrestled with it , but without notable success .
+	c:	wrestle with	[verb prep]	unknown
+		fight	0.10823449242223086
+		battle	-0.0036033640120328825
+
+
+The reasons are not far to seek : works of literature come in all shapes and sizes and most of them seem to have more in common with works that are n't usually called literature than they do with some other works recognized as literature .
+	notfound
+
+
+Charlotte Bronte 's Jane Eyre , for instance , more closely resembles an autobiography than it does a sonnet , and a poem by Robert Burns ?
+	notfound
+
+
+` My love is like a red , red rose ' ?
+
+
+resembles a folk-song more than it does Shakespeare 's Hamlet .
+
+
+Are there qualities shared by poems , plays , and novels that distinguish them from , say , songs , transcriptions of conversations , and autobiographies ?
+	notfound
+
+

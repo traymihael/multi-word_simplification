@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../data/PPDB/.idea/PPDB.iml" filepath="$PROJECT_DIR$/../data/PPDB/.idea/PPDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/annotate.iml" filepath="$PROJECT_DIR$/.idea/annotate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eval_annotate/.idea/eval_annotate.iml" filepath="$PROJECT_DIR$/../eval_annotate/.idea/eval_annotate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../evaluation/.idea/evaluation.iml" filepath="$PROJECT_DIR$/../evaluation/.idea/evaluation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../other/.idea/other.iml" filepath="$PROJECT_DIR$/../other/.idea/other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../text_matching/.idea/text_matching.iml" filepath="$PROJECT_DIR$/../text_matching/.idea/text_matching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../word2vec/.idea/word2vec.iml" filepath="$PROJECT_DIR$/../word2vec/.idea/word2vec.iml" />
+    </modules>
+  </component>
+</project>

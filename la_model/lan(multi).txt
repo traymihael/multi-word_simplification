@@ -1,0 +1,3130 @@
+basically , command-and-control regulation require that firm increase they cost by install anti-pollution equipment ; firm be thus require to take the social cost of pollution into account .
+1 sentences, 29 words, 3 OOVs
+0 zeroprobs, logprob= -69.95994 ppl= 390.0399 ppl1= 490.6446
+
+really , command-and-control regulation require that firm increase they cost by install anti-pollution equipment ; firm be thus require to take the social cost of pollution into account .
+1 sentences, 29 words, 3 OOVs
+0 zeroprobs, logprob= -70.47492 ppl= 407.5514 ppl1= 513.5397
+
+the new budget line , with the antipoverty program engaged , be the horizontal and heavy line that be flat at $ 18,000 .
+1 sentences, 24 words, 4 OOVs
+0 zeroprobs, logprob= -52.75436 ppl= 325.1715 ppl1= 434.2282
+
+the new budget line , with the antipoverty program busy , be the horizontal and heavy line that be flat at $ 18,000 .
+1 sentences, 24 words, 3 OOVs
+0 zeroprobs, logprob= -58.83702 ppl= 472.509 ppl1= 633.5238
+
+the new budget line , with the antipoverty program active , be the horizontal and heavy line that be flat at $ 18,000 .
+1 sentences, 24 words, 3 OOVs
+0 zeroprobs, logprob= -57.2381 ppl= 399.6978 ppl1= 531.6475
+
+the new budget line , with the antipoverty program unemployed , be the horizontal and heavy line that be flat at $ 18,000 .
+1 sentences, 24 words, 3 OOVs
+0 zeroprobs, logprob= -59.23645 ppl= 492.6809 ppl1= 661.8858
+
+the new budget line , with the antipoverty program working , be the horizontal and heavy line that be flat at $ 18,000 .
+1 sentences, 24 words, 3 OOVs
+0 zeroprobs, logprob= -58.0774 ppl= 436.3972 ppl1= 582.8954
+
+too -lrb- though not show in the figure -rrb- , if ad increase , the economy could experience a inflationary gap , where demand be attempt to push the economy past potential output .
+1 sentences, 34 words, 4 OOVs
+0 zeroprobs, logprob= -83.23327 ppl= 484.1103 ppl1= 594.8979
+
+besides -lrb- though not show in the figure -rrb- , if ad increase , the economy could experience a inflationary gap , where demand be attempt to push the economy past potential output .
+1 sentences, 34 words, 4 OOVs
+0 zeroprobs, logprob= -84.30235 ppl= 524.1198 ppl1= 645.7706
+
+along -lrb- though not show in the figure -rrb- , if ad increase , the economy could experience a inflationary gap , where demand be attempt to push the economy past potential output .
+1 sentences, 34 words, 4 OOVs
+0 zeroprobs, logprob= -84.93813 ppl= 549.4646 ppl1= 678.0645
+
+further -lrb- though not show in the figure -rrb- , if ad increase , the economy could experience a inflationary gap , where demand be attempt to push the economy past potential output .
+1 sentences, 34 words, 4 OOVs
+0 zeroprobs, logprob= -83.40532 ppl= 490.3365 ppl1= 602.8057
+
+furthermore -lrb- though not show in the figure -rrb- , if ad increase , the economy could experience a inflationary gap , where demand be attempt to push the economy past potential output .
+1 sentences, 34 words, 4 OOVs
+0 zeroprobs, logprob= -83.85606 ppl= 507.0307 ppl1= 624.0251
+
+more -lrb- though not show in the figure -rrb- , if ad increase , the economy could experience a inflationary gap , where demand be attempt to push the economy past potential output .
+1 sentences, 34 words, 4 OOVs
+0 zeroprobs, logprob= -82.47763 ppl= 457.6873 ppl1= 561.3768
+
+moreover -lrb- though not show in the figure -rrb- , if ad increase , the economy could experience a inflationary gap , where demand be attempt to push the economy past potential output .
+1 sentences, 34 words, 4 OOVs
+0 zeroprobs, logprob= -83.97399 ppl= 511.4915 ppl1= 629.6991
+
+so -lrb- though not show in the figure -rrb- , if ad increase , the economy could experience a inflationary gap , where demand be attempt to push the economy past potential output .
+1 sentences, 34 words, 4 OOVs
+0 zeroprobs, logprob= -83.03612 ppl= 477.0727 ppl1= 585.9638
+
+opposite -lrb- though not show in the figure -rrb- , if ad increase , the economy could experience a inflationary gap , where demand be attempt to push the economy past potential output .
+1 sentences, 34 words, 4 OOVs
+0 zeroprobs, logprob= -84.96008 ppl= 550.3611 ppl1= 679.2078
+
+thus , the economy experience inflation .
+1 sentences, 7 words, 2 OOVs
+0 zeroprobs, logprob= -17.3062 ppl= 766.2432 ppl1= 2892.277
+
+properly , the economy experience inflation .
+1 sentences, 7 words, 2 OOVs
+0 zeroprobs, logprob= -19.71258 ppl= 1929.431 ppl1= 8760.223
+
+therefore , the economy experience inflation .
+1 sentences, 7 words, 2 OOVs
+0 zeroprobs, logprob= -17.57825 ppl= 850.5675 ppl1= 3278.314
+
+consequently , the economy experience inflation .
+1 sentences, 7 words, 2 OOVs
+0 zeroprobs, logprob= -17.96888 ppl= 988.1286 ppl1= 3924.426
+
+equally , the economy experience inflation .
+1 sentences, 7 words, 2 OOVs
+0 zeroprobs, logprob= -19.12996 ppl= 1542.861 ppl1= 6698.725
+
+so , the economy experience inflation .
+1 sentences, 7 words, 2 OOVs
+0 zeroprobs, logprob= -17.52661 ppl= 833.8769 ppl1= 3201.27
+
+then , the economy experience inflation .
+1 sentences, 7 words, 2 OOVs
+0 zeroprobs, logprob= -17.30444 ppl= 765.725 ppl1= 2889.93
+
+a wide array of indexing arrangement be observe inside market and government program .
+1 sentences, 14 words, 1 OOVs
+0 zeroprobs, logprob= -38.20363 ppl= 535.5882 ppl1= 868.4426
+
+a wide array of indexing arrangement be observe private market and government program .
+1 sentences, 14 words, 1 OOVs
+0 zeroprobs, logprob= -37.61227 ppl= 485.9488 ppl1= 782.0803
+
+a wide array of indexing arrangement be observe secret market and government program .
+1 sentences, 14 words, 1 OOVs
+0 zeroprobs, logprob= -39.35261 ppl= 646.9943 ppl1= 1064.446
+
+a wide array of indexing arrangement be observe honest market and government program .
+1 sentences, 14 words, 1 OOVs
+0 zeroprobs, logprob= -38.93562 ppl= 604.1093 ppl1= 988.6611
+
+a wide array of indexing arrangement be observe open market and government program .
+1 sentences, 14 words, 1 OOVs
+0 zeroprobs, logprob= -36.65961 ppl= 415.4735 ppl1= 660.6475
+
+these issue will be take up thorough in other chapter .
+1 sentences, 11 words, 1 OOVs
+0 zeroprobs, logprob= -29.02534 ppl= 435.1784 ppl1= 798.9765
+
+these issue will be take up complete in other chapter .
+1 sentences, 11 words, 1 OOVs
+0 zeroprobs, logprob= -28.30645 ppl= 374.3809 ppl1= 677.088
+
+these issue will be take up diligent in other chapter .
+1 sentences, 11 words, 1 OOVs
+0 zeroprobs, logprob= -28.63672 ppl= 401.1791 ppl1= 730.5872
+
+these issue will be take up extensively in other chapter .
+1 sentences, 11 words, 1 OOVs
+0 zeroprobs, logprob= -25.70343 ppl= 217.1077 ppl1= 371.8285
+
+in the meantime , the economy literally collapse as people leave job and fend for themselves because it be not worth the time to work for money that will be worthless in a few day .
+1 sentences, 36 words, 2 OOVs
+0 zeroprobs, logprob= -76.24686 ppl= 150.828 ppl1= 174.8054
+
+in the meantime , the economy literally break as people leave job and fend for themselves because it be not worth the time to work for money that will be worthless in a few day .
+1 sentences, 36 words, 2 OOVs
+0 zeroprobs, logprob= -76.57775 ppl= 154.1472 ppl1= 178.7668
+
+in the meantime , the economy literally build as people leave job and fend for themselves because it be not worth the time to work for money that will be worthless in a few day .
+1 sentences, 36 words, 2 OOVs
+0 zeroprobs, logprob= -76.21531 ppl= 150.5152 ppl1= 174.4323
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will achieve .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.76419 ppl= 269.5054 ppl1= 340.2837
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will realize .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -62.31977 ppl= 311.0218 ppl1= 395.0546
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will secure .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -61.0887 ppl= 277.6821 ppl1= 351.0447
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will conclude .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -61.30258 ppl= 283.2065 ppl1= 358.3225
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will buy .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -61.34397 ppl= 284.2882 ppl1= 359.7484
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will sell .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.89681 ppl= 272.8177 ppl1= 344.6412
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will perform .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.68121 ppl= 267.4537 ppl1= 337.5856
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will make .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -59.46088 ppl= 239.0205 ppl1= 300.287
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will cause .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.01356 ppl= 251.5025 ppl1= 316.6394
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will begin .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.3572 ppl= 259.59 ppl1= 327.2528
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will complete .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -61.06522 ppl= 277.0823 ppl1= 350.2548
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will produce .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.16213 ppl= 254.9677 ppl1= 321.1851
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will generate .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.58054 ppl= 264.9853 ppl1= 334.3408
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will create .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.30655 ppl= 258.3817 ppl1= 325.6662
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will prevent .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.30258 ppl= 258.2874 ppl1= 325.5423
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will destroy .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.15085 ppl= 254.7029 ppl1= 320.8376
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will ruin .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -61.26479 ppl= 282.2225 ppl1= 357.0258
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will deny .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -62.13294 ppl= 305.7156 ppl1= 388.0365
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will refuse .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -62.03363 ppl= 302.9322 ppl1= 384.357
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will ignore .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -62.31977 ppl= 311.0218 ppl1= 395.0546
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will stop .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.62797 ppl= 266.1452 ppl1= 335.8654
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will fail .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -61.56408 ppl= 290.1104 ppl1= 367.4262
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will lose .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -61.34397 ppl= 284.2882 ppl1= 359.7484
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will discourage .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -62.03363 ppl= 302.9322 ppl1= 384.357
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will end .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -60.3617 ppl= 259.6977 ppl1= 327.3941
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will finish .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -61.56408 ppl= 290.1104 ppl1= 367.4262
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will close .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -61.64378 ppl= 292.2476 ppl1= 370.2462
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will forget .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -61.76685 ppl= 295.5792 ppl1= 374.6439
+
+at the five-to-ten-year time scale , we have to piece thing together as best we can , and look for a hybrid model that will miss .
+1 sentences, 27 words, 3 OOVs
+0 zeroprobs, logprob= -61.86391 ppl= 298.2335 ppl1= 378.149
+
+most people be unlikely to fight this kind of tax or even inform themselves about the issue especially .
+1 sentences, 19 words, 1 OOVs
+0 zeroprobs, logprob= -46.26113 ppl= 272.1425 ppl1= 371.589
+
+most people be unlikely to fight this kind of tax or even inform themselves about the issue mostly .
+1 sentences, 19 words, 1 OOVs
+0 zeroprobs, logprob= -46.85706 ppl= 292.5238 ppl1= 401.0238
+
+most people be unlikely to fight this kind of tax or even inform themselves about the issue largely .
+1 sentences, 19 words, 1 OOVs
+0 zeroprobs, logprob= -47.19117 ppl= 304.6112 ppl1= 418.535
+
+most people be unlikely to fight this kind of tax or even inform themselves about the issue mainly .
+1 sentences, 19 words, 1 OOVs
+0 zeroprobs, logprob= -46.73531 ppl= 288.2394 ppl1= 394.8266
+
+most people be unlikely to fight this kind of tax or even inform themselves about the issue primarily .
+1 sentences, 19 words, 1 OOVs
+0 zeroprobs, logprob= -46.82625 ppl= 291.4335 ppl1= 399.4462
+
+most people be unlikely to fight this kind of tax or even inform themselves about the issue usually .
+1 sentences, 19 words, 1 OOVs
+0 zeroprobs, logprob= -46.60948 ppl= 283.8774 ppl1= 388.5222
+
+most people be unlikely to fight this kind of tax or even inform themselves about the issue initially .
+1 sentences, 19 words, 1 OOVs
+0 zeroprobs, logprob= -46.51518 ppl= 280.6514 ppl1= 383.8632
+
+of country , by country , and for country .
+1 sentences, 10 words, 3 OOVs
+0 zeroprobs, logprob= -22.51886 ppl= 652.9157 ppl1= 1648.085
+
+of land , by land , and for land .
+1 sentences, 10 words, 3 OOVs
+0 zeroprobs, logprob= -21.12728 ppl= 437.431 ppl1= 1042.755
+
+of nation , by nation , and for nation .
+1 sentences, 10 words, 3 OOVs
+0 zeroprobs, logprob= -24.08395 ppl= 1024.457 ppl1= 2757.811
+
+of state , by state , and for state .
+1 sentences, 10 words, 3 OOVs
+0 zeroprobs, logprob= -20.55279 ppl= 370.7647 ppl1= 863.2019
+
+as same vein , some people would argue that sale of certain goods , like pornography or extremely violent movie , do not represent a gain to society?s standard of living .
+1 sentences, 32 words, 5 OOVs
+0 zeroprobs, logprob= -69.40454 ppl= 301.1158 ppl1= 371.9962
+
+being same vein , some people would argue that sale of certain goods , like pornography or extremely violent movie , do not represent a gain to society?s standard of living .
+1 sentences, 32 words, 5 OOVs
+0 zeroprobs, logprob= -72.93867 ppl= 402.673 ppl1= 502.8428
+
+for same vein , some people would argue that sale of certain goods , like pornography or extremely violent movie , do not represent a gain to society?s standard of living .
+1 sentences, 32 words, 5 OOVs
+0 zeroprobs, logprob= -69.71156 ppl= 308.8151 ppl1= 381.8647
+
+over same vein , some people would argue that sale of certain goods , like pornography or extremely violent movie , do not represent a gain to society?s standard of living .
+1 sentences, 32 words, 5 OOVs
+0 zeroprobs, logprob= -71.1195 ppl= 346.7225 ppl1= 430.5816
+
+since same vein , some people would argue that sale of certain goods , like pornography or extremely violent movie , do not represent a gain to society?s standard of living .
+1 sentences, 32 words, 5 OOVs
+0 zeroprobs, logprob= -69.699 ppl= 308.4962 ppl1= 381.4558
+
+through same vein , some people would argue that sale of certain goods , like pornography or extremely violent movie , do not represent a gain to society?s standard of living .
+1 sentences, 32 words, 5 OOVs
+0 zeroprobs, logprob= -69.91779 ppl= 314.0972 ppl1= 388.6404
+
+because same vein , some people would argue that sale of certain goods , like pornography or extremely violent movie , do not represent a gain to society?s standard of living .
+1 sentences, 32 words, 5 OOVs
+0 zeroprobs, logprob= -69.39164 ppl= 300.7964 ppl1= 371.587
+
+within same vein , some people would argue that sale of certain goods , like pornography or extremely violent movie , do not represent a gain to society?s standard of living .
+1 sentences, 32 words, 5 OOVs
+0 zeroprobs, logprob= -69.50317 ppl= 303.5681 ppl1= 375.1384
+
+in many of the national economy across Europe , the rate of unemployment in recent decade have only drop to about 10 % or all lower , even in good economic year .
+1 sentences, 33 words, 4 OOVs
+0 zeroprobs, logprob= -66.81328 ppl= 168.6978 ppl1= 201.3289
+
+in many of the national economy across Europe , the rate of unemployment in recent decade have only drop to about 10 % or several lower , even in good economic year .
+1 sentences, 33 words, 4 OOVs
+0 zeroprobs, logprob= -67.68494 ppl= 180.3701 ppl1= 215.7562
+
+in many of the national economy across Europe , the rate of unemployment in recent decade have only drop to about 10 % or either lower , even in good economic year .
+1 sentences, 33 words, 4 OOVs
+0 zeroprobs, logprob= -68.40776 ppl= 190.6596 ppl1= 228.5011
+
+in many of the national economy across Europe , the rate of unemployment in recent decade have only drop to about 10 % or each lower , even in good economic year .
+1 sentences, 33 words, 4 OOVs
+0 zeroprobs, logprob= -68.58287 ppl= 193.2394 ppl1= 231.7003
+
+in many of the national economy across Europe , the rate of unemployment in recent decade have only drop to about 10 % or whatever lower , even in good economic year .
+1 sentences, 33 words, 4 OOVs
+0 zeroprobs, logprob= -69.01218 ppl= 199.7128 ppl1= 239.7344
+
+in many of the national economy across Europe , the rate of unemployment in recent decade have only drop to about 10 % or extremely lower , even in good economic year .
+1 sentences, 33 words, 4 OOVs
+0 zeroprobs, logprob= -68.76704 ppl= 195.9903 ppl1= 235.1133
+
+in many of the national economy across Europe , the rate of unemployment in recent decade have only drop to about 10 % or little lower , even in good economic year .
+1 sentences, 33 words, 4 OOVs
+0 zeroprobs, logprob= -67.56581 ppl= 178.7284 ppl1= 213.7251
+
+in many of the national economy across Europe , the rate of unemployment in recent decade have only drop to about 10 % or violently lower , even in good economic year .
+1 sentences, 33 words, 4 OOVs
+0 zeroprobs, logprob= -69.5849 ppl= 208.6877 ppl1= 250.8877
+
+in many of the national economy across Europe , the rate of unemployment in recent decade have only drop to about 10 % or few lower , even in good economic year .
+1 sentences, 33 words, 4 OOVs
+0 zeroprobs, logprob= -68.53208 ppl= 192.4876 ppl1= 230.7678
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and escape overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -67.91631 ppl= 409.4167 ppl1= 520.7775
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and fly overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -67.25991 ppl= 386.2955 ppl1= 490.2261
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and remain overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -67.08385 ppl= 380.319 ppl1= 482.3407
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and fasten overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -71.51144 ppl= 562.9116 ppl1= 725.2
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and mend overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -71.27484 ppl= 551.2388 ppl1= 709.567
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and cause overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -69.72938 ppl= 480.7279 ppl1= 615.4252
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and hide overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -69.34871 ppl= 464.7914 ppl1= 594.2215
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and wait overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -67.19281 ppl= 384.0067 ppl1= 487.2057
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and face overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -69.07544 ppl= 453.6779 ppl1= 579.452
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and stay overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -66.03301 ppl= 346.5222 ppl1= 437.8449
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and attach overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -70.31433 ppl= 506.2875 ppl1= 649.4909
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and fix overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -69.8421 ppl= 485.5506 ppl1= 621.8475
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and join overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -69.07282 ppl= 453.5728 ppl1= 579.3125
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and secure overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -68.2841 ppl= 422.9719 ppl1= 538.721
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and agree overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -71.13615 ppl= 544.5097 ppl1= 700.5608
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and strengthen overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -69.24695 ppl= 460.6216 ppl1= 588.6783
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and allow overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -67.06719 ppl= 379.7585 ppl1= 481.6014
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and secret overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -70.49695 ppl= 514.5425 ppl1= 660.508
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and leave overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -66.89517 ppl= 374.0168 ppl1= 474.031
+
+show a budget constraint that represent kimberly?s choice between concert ticket at $ 50 each and retire overnight to a bed-and-breakfast for $ 200 per night .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -68.89606 ppl= 446.5277 ppl1= 569.9573
+
+still , many home heating bill rise , so people adjust they consumption in other way , too .
+1 sentences, 19 words, 4 OOVs
+0 zeroprobs, logprob= -47.18987 ppl= 889.953 ppl1= 1399.56
+
+yet , many home heating bill rise , so people adjust they consumption in other way , too .
+1 sentences, 19 words, 4 OOVs
+0 zeroprobs, logprob= -47.18709 ppl= 889.5965 ppl1= 1398.962
+
+though , many home heating bill rise , so people adjust they consumption in other way , too .
+1 sentences, 19 words, 4 OOVs
+0 zeroprobs, logprob= -46.4967 ppl= 805.4592 ppl1= 1258.287
+
+nonetheless , many home heating bill rise , so people adjust they consumption in other way , too .
+1 sentences, 19 words, 4 OOVs
+0 zeroprobs, logprob= -47.3179 ppl= 906.5017 ppl1= 1427.337
+
+although , many home heating bill rise , so people adjust they consumption in other way , too .
+1 sentences, 19 words, 4 OOVs
+0 zeroprobs, logprob= -45.9508 ppl= 744.6032 ppl1= 1157.142
+
+but , many home heating bill rise , so people adjust they consumption in other way , too .
+1 sentences, 19 words, 4 OOVs
+0 zeroprobs, logprob= -46.17568 ppl= 769.0953 ppl1= 1197.785
+
+however , many home heating bill rise , so people adjust they consumption in other way , too .
+1 sentences, 19 words, 4 OOVs
+0 zeroprobs, logprob= -45.56699 ppl= 704.591 ppl1= 1090.937
+
+nevertheless , many home heating bill rise , so people adjust they consumption in other way , too .
+1 sentences, 19 words, 4 OOVs
+0 zeroprobs, logprob= -46.8982 ppl= 853.3707 ppl1= 1338.28
+
+thus , many home heating bill rise , so people adjust they consumption in other way , too .
+1 sentences, 19 words, 4 OOVs
+0 zeroprobs, logprob= -46.51254 ppl= 807.2975 ppl1= 1261.351
+
+yes , many home heating bill rise , so people adjust they consumption in other way , too .
+1 sentences, 19 words, 4 OOVs
+0 zeroprobs, logprob= -48.16885 ppl= 1024.596 ppl1= 1626.509
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland reach to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -36.69249 ppl= 1142.11 ppl1= 2166.114
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland surround to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -37.83681 ppl= 1422.549 ppl1= 2752.389
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland near to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -36.11971 ppl= 1023.236 ppl1= 1921.365
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland contact to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -37.03232 ppl= 1219.064 ppl1= 2325.811
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland meet to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -37.79947 ppl= 1412.394 ppl1= 2730.961
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland come to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -35.42425 ppl= 895.4074 ppl1= 1661.063
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland match to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -36.46287 ppl= 1092.88 ppl1= 2064.459
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland advance to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -35.99433 ppl= 998.9125 ppl1= 1871.594
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland resemble to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -37.80101 ppl= 1412.81 ppl1= 2731.839
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland equal to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -35.97634 ppl= 995.4698 ppl1= 1864.559
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland bear to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -36.52172 ppl= 1105.292 ppl1= 2090.049
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland progress to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -36.46089 ppl= 1092.465 ppl1= 2063.603
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland border to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -36.72251 ppl= 1148.707 ppl1= 2179.768
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland avoid to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -38.74071 ppl= 1691.97 ppl1= 3325.698
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland decrease to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -37.58741 ppl= 1356.077 ppl1= 2612.387
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland distance to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -36.43776 ppl= 1087.626 ppl1= 2053.635
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland depart to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -37.21683 ppl= 1262.997 ppl1= 2417.398
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland go to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -34.99873 ppl= 825.2032 ppl1= 1519.507
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland leave to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -36.23009 ppl= 1045.138 ppl1= 1966.274
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland miss to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -37.7912 ppl= 1410.155 ppl1= 2726.239
+
+meanwhile , can middle-income country like South Korea , Brazil , Egypt , or Poland stop to the higher-income country ?
+1 sentences, 21 words, 10 OOVs
+0 zeroprobs, logprob= -36.81061 ppl= 1168.291 ppl1= 2220.34
+
+in the 1980s , inflation rate decline in the United States and in Europe and have largely stay down .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -32.09305 ppl= 101.348 ppl1= 137.8911
+
+in the 1980s , inflation rate decrease in the United States and in Europe and have largely stay down .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -31.73496 ppl= 96.25755 ppl1= 130.516
+
+in the 1980s , inflation rate fail in the United States and in Europe and have largely stay down .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -34.39693 ppl= 141.1913 ppl1= 196.3941
+
+in the 1980s , inflation rate fall in the United States and in Europe and have largely stay down .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -31.39992 ppl= 91.7265 ppl1= 123.9732
+
+in the 1980s , inflation rate reduce in the United States and in Europe and have largely stay down .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -33.81035 ppl= 129.7618 ppl1= 179.4829
+
+in the 1980s , inflation rate suffer in the United States and in Europe and have largely stay down .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -34.2046 ppl= 137.337 ppl1= 190.6807
+
+in the 1980s , inflation rate improve in the United States and in Europe and have largely stay down .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -33.50844 ppl= 124.2445 ppl1= 171.3546
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which respond just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -75.50084 ppl= 497.1172 ppl1= 625.6444
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which do just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -73.77679 ppl= 431.4053 ppl1= 540.0995
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which develop just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -73.36062 ppl= 416.8906 ppl1= 521.2667
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which pursue just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -76.38816 ppl= 534.7474 ppl1= 674.8251
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which create just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -73.59592 ppl= 425.036 ppl1= 531.8325
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which move just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -73.46112 ppl= 420.3504 ppl1= 525.7536
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which serve just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -73.78969 ppl= 431.8631 ppl1= 540.6939
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which begin just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -71.43729 ppl= 355.9032 ppl1= 442.4107
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which function just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -74.15462 ppl= 445.0196 ppl1= 557.7856
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which operate just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -73.26217 ppl= 413.529 ppl1= 516.9085
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which accomplish just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -75.88723 ppl= 513.1664 ppl1= 646.6036
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which practice just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -75.61075 ppl= 501.6306 ppl1= 631.5362
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which labor just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -76.22777 ppl= 527.7404 ppl1= 665.6573
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which cook just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -75.66829 ppl= 504.0097 ppl1= 634.6426
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which achieve just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -74.56918 ppl= 460.4528 ppl1= 577.8586
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which destroy just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -74.57046 ppl= 460.501 ppl1= 577.9214
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which ignore just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -75.63559 ppl= 502.6561 ppl1= 632.8751
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which hesitate just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -76.83736 ppl= 554.87 ppl1= 701.1775
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which fail just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -72.80766 ppl= 398.3579 ppl1= 497.2558
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which miss just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -74.50078 ppl= 457.87 ppl1= 574.4976
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which abandon just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -74.92625 ppl= 474.1737 ppl1= 595.7257
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which forget just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -76.83869 ppl= 554.9309 ppl1= 701.2573
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which leave just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -73.25823 ppl= 413.395 ppl1= 516.7347
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which end just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -71.99649 ppl= 372.6518 ppl1= 464.0199
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which stop just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -73.0528 ppl= 406.4701 ppl1= 507.7609
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which quit just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -76.05667 ppl= 520.3668 ppl1= 656.0148
+
+with the AD/AS framework in mind , many economist might readily believe that the Reagan tax cut of 1981 , which follow just after two serious recession , be beneficial economic policy .
+1 sentences, 33 words, 6 OOVs
+0 zeroprobs, logprob= -74.64829 ppl= 463.4578 ppl1= 581.77
+
+another person might take a overall view and instead consider the entire ecosystem of the lake very ; what eat what , how the system stay in a rough balance , and what environmental stress affect this balance .
+1 sentences, 39 words, 4 OOVs
+0 zeroprobs, logprob= -95.46139 ppl= 448.4409 ppl1= 533.9102
+
+another person might take a overall view and instead consider the entire ecosystem of the lake fully ; what eat what , how the system stay in a rough balance , and what environmental stress affect this balance .
+1 sentences, 39 words, 4 OOVs
+0 zeroprobs, logprob= -96.5959 ppl= 482.1912 ppl1= 575.2846
+
+another person might take a overall view and instead consider the entire ecosystem of the lake completely ; what eat what , how the system stay in a rough balance , and what environmental stress affect this balance .
+1 sentences, 39 words, 4 OOVs
+0 zeroprobs, logprob= -95.41872 ppl= 447.2187 ppl1= 532.4136
+
+another person might take a overall view and instead consider the entire ecosystem of the lake carefully ; what eat what , how the system stay in a rough balance , and what environmental stress affect this balance .
+1 sentences, 39 words, 4 OOVs
+0 zeroprobs, logprob= -97.58428 ppl= 513.6583 ppl1= 613.9347
+
+another person might take a overall view and instead consider the entire ecosystem of the lake highly ; what eat what , how the system stay in a rough balance , and what environmental stress affect this balance .
+1 sentences, 39 words, 4 OOVs
+0 zeroprobs, logprob= -97.23198 ppl= 502.2136 ppl1= 599.8694
+
+another person might take a overall view and instead consider the entire ecosystem of the lake extremely ; what eat what , how the system stay in a rough balance , and what environmental stress affect this balance .
+1 sentences, 39 words, 4 OOVs
+0 zeroprobs, logprob= -97.00524 ppl= 494.9827 ppl1= 590.9876
+
+another person might take a overall view and instead consider the entire ecosystem of the lake all ; what eat what , how the system stay in a rough balance , and what environmental stress affect this balance .
+1 sentences, 39 words, 4 OOVs
+0 zeroprobs, logprob= -95.41872 ppl= 447.2187 ppl1= 532.4136
+
+another person might take a overall view and instead consider the entire ecosystem of the lake hard ; what eat what , how the system stay in a rough balance , and what environmental stress affect this balance .
+1 sentences, 39 words, 4 OOVs
+0 zeroprobs, logprob= -96.68319 ppl= 484.8909 ppl1= 578.5977
+
+another person might take a overall view and instead consider the entire ecosystem of the lake throughout ; what eat what , how the system stay in a rough balance , and what environmental stress affect this balance .
+1 sentences, 39 words, 4 OOVs
+0 zeroprobs, logprob= -95.06728 ppl= 437.278 ppl1= 520.245
+
+another person might take a overall view and instead consider the entire ecosystem of the lake little ; what eat what , how the system stay in a rough balance , and what environmental stress affect this balance .
+1 sentences, 39 words, 4 OOVs
+0 zeroprobs, logprob= -95.51389 ppl= 449.9493 ppl1= 535.7574
+
+another person might take a overall view and instead consider the entire ecosystem of the lake partly ; what eat what , how the system stay in a rough balance , and what environmental stress affect this balance .
+1 sentences, 39 words, 4 OOVs
+0 zeroprobs, logprob= -96.68319 ppl= 484.8909 ppl1= 578.5977
+
+when most people think of tax levy by the federal government , the first tax that hit be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -73.16448 ppl= 94.93327 ppl1= 107.7325
+
+when most people think of tax levy by the federal government , the first tax that get be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -74.03912 ppl= 100.2438 ppl1= 113.9311
+
+when most people think of tax levy by the federal government , the first tax that move be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -72.46064 ppl= 90.86482 ppl1= 102.9901
+
+when most people think of tax levy by the federal government , the first tax that reach be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -73.47281 ppl= 96.77243 ppl1= 109.8782
+
+when most people think of tax levy by the federal government , the first tax that carry be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -73.02388 ppl= 94.10621 ppl1= 106.768
+
+when most people think of tax levy by the federal government , the first tax that touch be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -72.96614 ppl= 93.76866 ppl1= 106.3744
+
+when most people think of tax levy by the federal government , the first tax that affect be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -72.03034 ppl= 88.46385 ppl1= 100.1942
+
+when most people think of tax levy by the federal government , the first tax that look be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -73.18511 ppl= 95.05524 ppl1= 107.8748
+
+when most people think of tax levy by the federal government , the first tax that impress be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -74.02249 ppl= 100.1401 ppl1= 113.81
+
+when most people think of tax levy by the federal government , the first tax that register be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -73.27264 ppl= 95.57443 ppl1= 108.4804
+
+when most people think of tax levy by the federal government , the first tax that influence be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -72.9817 ppl= 93.85954 ppl1= 106.4804
+
+when most people think of tax levy by the federal government , the first tax that seem be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -73.57577 ppl= 97.39448 ppl1= 110.6042
+
+when most people think of tax levy by the federal government , the first tax that inspire be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -73.25315 ppl= 95.45855 ppl1= 108.3452
+
+when most people think of tax levy by the federal government , the first tax that fail be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -72.77965 ppl= 92.68676 ppl1= 105.1132
+
+when most people think of tax levy by the federal government , the first tax that lose be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -73.1098 ppl= 94.61075 ppl1= 107.3563
+
+when most people think of tax levy by the federal government , the first tax that miss be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -73.01223 ppl= 94.03803 ppl1= 106.6885
+
+when most people think of tax levy by the federal government , the first tax that depart be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -74.27464 ppl= 101.7238 ppl1= 115.6603
+
+when most people think of tax levy by the federal government , the first tax that leave be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -72.64826 ppl= 91.93192 ppl1= 104.2334
+
+when most people think of tax levy by the federal government , the first tax that discourage be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -74.45163 ppl= 102.8504 ppl1= 116.9771
+
+when most people think of tax levy by the federal government , the first tax that tap be the individual income tax that be due every year on April 15 -lrb- or the first business day after -rrb- .
+1 sentences, 39 words, 3 OOVs
+0 zeroprobs, logprob= -73.70723 ppl= 98.19452 ppl1= 111.538
+
+even if the line between positive and normative statement be not always apparent , economic analysis do try to remain rooted in the study of the actual people who inhabit the actual economy .
+1 sentences, 34 words, 2 OOVs
+0 zeroprobs, logprob= -73.34663 ppl= 166.9649 ppl1= 195.9216
+
+even if the line between positive and normative statement be not always clear , economic analysis do try to remain rooted in the study of the actual people who inhabit the actual economy .
+1 sentences, 34 words, 2 OOVs
+0 zeroprobs, logprob= -72.39122 ppl= 156.1972 ppl1= 182.905
+
+even if the line between positive and normative statement be not always evident , economic analysis do try to remain rooted in the study of the actual people who inhabit the actual economy .
+1 sentences, 34 words, 2 OOVs
+0 zeroprobs, logprob= -73.84548 ppl= 172.8788 ppl1= 203.0818
+
+even if the line between positive and normative statement be not always noticeable , economic analysis do try to remain rooted in the study of the actual people who inhabit the actual economy .
+1 sentences, 34 words, 2 OOVs
+0 zeroprobs, logprob= -74.3689 ppl= 179.3094 ppl1= 210.8764
+
+even if the line between positive and normative statement be not always plain , economic analysis do try to remain rooted in the study of the actual people who inhabit the actual economy .
+1 sentences, 34 words, 2 OOVs
+0 zeroprobs, logprob= -75.79308 ppl= 198.0433 ppl1= 233.6328
+
+even if the line between positive and normative statement be not always obvious , economic analysis do try to remain rooted in the study of the actual people who inhabit the actual economy .
+1 sentences, 34 words, 2 OOVs
+0 zeroprobs, logprob= -73.21123 ppl= 165.3949 ppl1= 194.022
+
+statistics briefly / profile ?
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -22.71352 ppl= 34890.23 ppl1= 476847.7
+
+statistics shortly / profile ?
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -23.27434 ppl= 45171.77 ppl1= 658542.6
+
+estimate break one month after that .
+1 sentences, 7 words, 1 OOVs
+0 zeroprobs, logprob= -19.43772 ppl= 598.1607 ppl1= 1736.284
+
+estimate appear one month after that .
+1 sentences, 7 words, 1 OOVs
+0 zeroprobs, logprob= -18.54778 ppl= 446.3576 ppl1= 1233.948
+
+estimate out one month after that .
+1 sentences, 7 words, 1 OOVs
+0 zeroprobs, logprob= -19.3689 ppl= 584.7701 ppl1= 1691.022
+
+estimate hide one month after that .
+1 sentences, 7 words, 1 OOVs
+0 zeroprobs, logprob= -19.885 ppl= 692.9702 ppl1= 2061.422
+
+estimate conclude one month after that .
+1 sentences, 7 words, 1 OOVs
+0 zeroprobs, logprob= -18.52429 ppl= 442.9226 ppl1= 1222.876
+
+furthermore , we must also subtract spending on imports?goods produce in other country that be purchase by resident of this country .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.19735 ppl= 256.9612 ppl1= 344.1143
+
+also , we must also subtract spending on imports?goods produce in other country that be purchase by resident of this country .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -47.65525 ppl= 241.4141 ppl1= 322.2339
+
+besides , we must also subtract spending on imports?goods produce in other country that be purchase by resident of this country .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.34641 ppl= 261.409 ppl1= 350.387
+
+further , we must also subtract spending on imports?goods produce in other country that be purchase by resident of this country .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.20313 ppl= 257.1323 ppl1= 344.3555
+
+more , we must also subtract spending on imports?goods produce in other country that be purchase by resident of this country .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -47.99311 ppl= 250.9895 ppl1= 335.7014
+
+too , we must also subtract spending on imports?goods produce in other country that be purchase by resident of this country .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -49.51156 ppl= 298.9358 ppl1= 403.526
+
+yet , we must also subtract spending on imports?goods produce in other country that be purchase by resident of this country .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.58407 ppl= 268.6603 ppl1= 360.6254
+
+certainly the largest part of GDP , however , be service .
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -19.84901 ppl= 160.4891 ppl1= 302.7794
+
+actually the largest part of GDP , however , be service .
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -20.38202 ppl= 183.9368 ppl1= 352.9817
+
+definitely the largest part of GDP , however , be service .
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -22.41885 ppl= 309.7302 ppl1= 634.3903
+
+surely the largest part of GDP , however , be service .
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -21.68179 ppl= 256.5004 ppl1= 513.1261
+
+probably the largest part of GDP , however , be service .
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -19.17386 ppl= 135.0296 ppl1= 249.3059
+
+clearly the largest part of GDP , however , be service .
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -20.34671 ppl= 182.2828 ppl1= 349.4129
+
+really the largest part of GDP , however , be service .
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -22.43971 ppl= 311.3878 ppl1= 638.2111
+
+absolutely the largest part of GDP , however , be service .
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -23.47687 ppl= 406.0138 ppl1= 860.2176
+
+indeed the largest part of GDP , however , be service .
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -19.99072 ppl= 166.4147 ppl1= 315.3846
+
+positively the largest part of GDP , however , be service .
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -23.06834 ppl= 365.7204 ppl1= 764.7912
+
+truly the largest part of GDP , however , be service .
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -22.29359 ppl= 299.9618 ppl1= 611.9264
+
+during economic boom , case filings decline .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -24.21356 ppl= 2877.926 ppl1= 10854.08
+
+during economic boom , case filings collapse .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -25.6146 ppl= 4562.766 ppl1= 18582.31
+
+during economic boom , case filings tumble .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -26.86665 ppl= 6888.004 ppl1= 30045.24
+
+during economic boom , case filings reduce .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -24.21356 ppl= 2877.926 ppl1= 10854.08
+
+during economic boom , case filings drop .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -24.21356 ppl= 2877.926 ppl1= 10854.08
+
+during economic boom , case filings decrease .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -25.56861 ppl= 4494.26 ppl1= 18257.22
+
+during economic boom , case filings sink .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -25.68013 ppl= 4662.197 ppl1= 19055.59
+
+during economic boom , case filings fold .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -25.87566 ppl= 4971.9 ppl1= 20540.43
+
+during economic boom , case filings lessen .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -26.70116 ppl= 6523.062 ppl1= 28196.39
+
+during economic boom , case filings set .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -24.56422 ppl= 3229.786 ppl1= 12417.55
+
+during economic boom , case filings increase .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -24.21356 ppl= 2877.926 ppl1= 10854.08
+
+during economic boom , case filings grow .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -24.92314 ppl= 3634.535 ppl1= 14251.38
+
+during economic boom , case filings gain .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -24.21356 ppl= 2877.926 ppl1= 10854.08
+
+during economic boom , case filings rise .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -24.98588 ppl= 3710.318 ppl1= 14598.66
+
+during economic boom , case filings expand .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -25.16 ppl= 3929.039 ppl1= 15607.53
+
+during economic boom , case filings raise .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -25.003 ppl= 3731.27 ppl1= 14694.88
+
+during economic boom , case filings strengthen .
+1 sentences, 8 words, 2 OOVs
+0 zeroprobs, logprob= -25.8464 ppl= 4924.285 ppl1= 20311.11
+
+furthermore , if high-income country want stronger environmental standard in low-income country , they have many option bar the threat of protectionism .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -63.95984 ppl= 1110.981 ppl1= 1577.582
+
+in the real world , many factor that affect demand and supply can change all shortly .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -36.62341 ppl= 194.5196 ppl1= 276.4146
+
+in the real world , many factor that affect demand and supply can change all immediately .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -34.64114 ppl= 146.2417 ppl1= 203.8962
+
+in the real world , many factor that affect demand and supply can change all quickly .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -34.48624 ppl= 143.0177 ppl1= 199.1051
+
+in the real world , many factor that affect demand and supply can change all dead .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -33.68278 ppl= 127.4012 ppl1= 176.0024
+
+in the real world , many factor that affect demand and supply can change all due .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -33.78901 ppl= 129.3638 ppl1= 178.8959
+
+in the real world , many factor that affect demand and supply can change all later .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -33.30041 ppl= 120.5801 ppl1= 165.9692
+
+in the real world , many factor that affect demand and supply can change all eventually .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -33.64739 ppl= 126.754 ppl1= 175.0488
+
+in the real world , many factor that affect demand and supply can change all indirectly .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -35.23096 ppl= 159.1971 ppl1= 223.2189
+
+in the real world , many factor that affect demand and supply can change all fast .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -34.65373 ppl= 146.5068 ppl1= 204.2906
+
+in the real world , many factor that affect demand and supply can change all directly .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -34.23582 ppl= 137.9553 ppl1= 191.5966
+
+in the real world , many factor that affect demand and supply can change altogether .
+1 sentences, 16 words, 2 OOVs
+0 zeroprobs, logprob= -31.51395 ppl= 126.1624 ppl1= 178.2364
+
+in the real world , many factor that affect demand and supply can change distinctly .
+1 sentences, 16 words, 2 OOVs
+0 zeroprobs, logprob= -32.5536 ppl= 147.9926 ppl1= 211.4741
+
+in the real world , many factor that affect demand and supply can change together .
+1 sentences, 16 words, 2 OOVs
+0 zeroprobs, logprob= -30.80835 ppl= 113.2113 ppl1= 158.7071
+
+in the real world , many factor that affect demand and supply can change unexpectedly .
+1 sentences, 16 words, 2 OOVs
+0 zeroprobs, logprob= -31.39744 ppl= 123.9261 ppl1= 174.8536
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which hit in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.8602 ppl= 523.9833 ppl1= 655.2935
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which develop in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.23735 ppl= 498.7002 ppl1= 622.5739
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which appear in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.01721 ppl= 490.0593 ppl1= 611.4049
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which arise in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.6932 ppl= 517.0812 ppl1= 646.3557
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which fall in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -77.81432 ppl= 482.2278 ppl1= 601.2882
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which result in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.23735 ppl= 498.7002 ppl1= 622.574
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which pass in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.40707 ppl= 505.4661 ppl1= 631.3243
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which meet in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.4054 ppl= 505.3992 ppl1= 631.2377
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which arrive in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -77.48696 ppl= 469.8552 ppl1= 585.3172
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which proceed in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -79.64732 ppl= 557.7752 ppl1= 699.1124
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which bump in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -80.2313 ppl= 584.247 ppl1= 733.5057
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which light in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.92616 ppl= 526.7346 ppl1= 658.8576
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which shake in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -80.2873 ppl= 586.8505 ppl1= 736.8913
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which spring in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -77.7174 ppl= 478.5313 ppl1= 596.5151
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which down in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.49304 ppl= 508.9283 ppl1= 635.8034
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which chance in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -79.48473 ppl= 550.6211 ppl1= 689.8274
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which smoke in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -80.07802 ppl= 577.1795 ppl1= 724.3178
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which follow in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.58048 ppl= 512.474 ppl1= 640.3919
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which issue in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.6932 ppl= 517.0812 ppl1= 646.3556
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which stumble in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -80.50916 ppl= 597.2801 ppl1= 750.4595
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which luck in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -79.74163 ppl= 561.9678 ppl1= 704.5559
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which disappear in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -79.24185 ppl= 540.1043 ppl1= 676.1859
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which fail in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -79.06031 ppl= 532.3751 ppl1= 666.1663
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which lose in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.66897 ppl= 516.0873 ppl1= 645.0689
+
+another fascinating and underreported fact be the high level of income , compare to other at that time , attain by the islamic empire abbasid caliphate?which stop in present-day Iraq in 730 c.e.
+1 sentences, 33 words, 5 OOVs
+0 zeroprobs, logprob= -78.6932 ppl= 517.0812 ppl1= 646.3557
+
+mostly borrowing from the public and promising to repay with interest in the future .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -37.81262 ppl= 331.7732 ppl1= 502.2286
+
+primarily borrowing from the public and promising to repay with interest in the future .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -37.14618 ppl= 299.5106 ppl1= 450.0894
+
+extra borrowing from the public and promising to repay with interest in the future .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -37.96942 ppl= 339.856 ppl1= 515.3494
+
+almost borrowing from the public and promising to repay with interest in the future .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -38.06611 ppl= 344.9374 ppl1= 523.6095
+
+basically borrowing from the public and promising to repay with interest in the future .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -38.08007 ppl= 345.6779 ppl1= 524.8138
+
+indeed , it have be say that democracy be the worst form of government except for all of the other form which have be try occasionally .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -53.48355 ppl= 114.0406 ppl1= 137.8294
+
+indeed , it have be say that democracy be the worst form of government except for all of the other form which have be try sometimes .
+1 sentences, 27 words, 2 OOVs
+0 zeroprobs, logprob= -52.00395 ppl= 100.035 ppl1= 120.2702
+
+-lsb- e -rsb- conomic theory , alone , preach no doctrine and can not establish any universally valid law .
+1 sentences, 20 words, 3 OOVs
+0 zeroprobs, logprob= -58.90824 ppl= 1873.614 ppl1= 2918.708
+
+anyway , the price of a bond be always the present value of a stream of future expect payment .
+1 sentences, 20 words, 2 OOVs
+0 zeroprobs, logprob= -44.06309 ppl= 208.502 ppl1= 280.5109
+
+about , the price of a bond be always the present value of a stream of future expect payment .
+1 sentences, 20 words, 2 OOVs
+0 zeroprobs, logprob= -41.91065 ppl= 160.6288 ppl1= 212.9949
+
+around , the price of a bond be always the present value of a stream of future expect payment .
+1 sentences, 20 words, 2 OOVs
+0 zeroprobs, logprob= -42.15072 ppl= 165.3708 ppl1= 219.6375
+
+however , the price of a bond be always the present value of a stream of future expect payment .
+1 sentences, 20 words, 2 OOVs
+0 zeroprobs, logprob= -40.89134 ppl= 141.9631 ppl1= 186.9566
+
+nevertheless , the price of a bond be always the present value of a stream of future expect payment .
+1 sentences, 20 words, 2 OOVs
+0 zeroprobs, logprob= -42.22255 ppl= 166.8166 ppl1= 221.6649
+
+still , the price of a bond be always the present value of a stream of future expect payment .
+1 sentences, 20 words, 2 OOVs
+0 zeroprobs, logprob= -42.51421 ppl= 172.8185 ppl1= 230.0916
+
+if this remain , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -46.35827 ppl= 789.5717 ppl1= 1231.831
+
+if this operate , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -47.40343 ppl= 917.729 ppl1= 1446.201
+
+if this last , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -45.68318 ppl= 716.4717 ppl1= 1110.569
+
+if this stay , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -47.36177 ppl= 912.2437 ppl1= 1436.983
+
+if this resist , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -49.0773 ppl= 1167.7 ppl1= 1869.907
+
+if this exist , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -46.35827 ppl= 789.5717 ppl1= 1231.831
+
+if this wear , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -47.87765 ppl= 982.5461 ppl1= 1555.404
+
+if this apply , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -45.99809 ppl= 749.6879 ppl1= 1165.572
+
+if this release , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -46.35827 ppl= 789.5717 ppl1= 1231.831
+
+if this desert , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -47.37522 ppl= 914.0106 ppl1= 1439.952
+
+if this go , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -45.88871 ppl= 737.9799 ppl1= 1146.166
+
+if this leave , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -46.31712 ppl= 784.9106 ppl1= 1224.075
+
+if this quit , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -49.50232 ppl= 1241.353 ppl1= 1995.974
+
+if this stop , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -46.93218 ppl= 857.5535 ppl1= 1345.278
+
+if this drop , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -46.96278 ppl= 861.3378 ppl1= 1351.611
+
+if this abandon , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -47.83626 ppl= 976.7107 ppl1= 1545.552
+
+if this cancel , government can be view as demander of financial capital instead of supplier .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -48.00842 ppl= 1001.212 ppl1= 1586.942
+
+instead , it may be that when union worker storm to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -49.05873 ppl= 283.7505 ppl1= 381.9782
+
+instead , it may be that when union worker progress to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.1976 ppl= 256.9687 ppl1= 344.1248
+
+instead , it may be that when union worker promote to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.6149 ppl= 269.6156 ppl1= 361.9753
+
+instead , it may be that when union worker speed to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -49.48926 ppl= 298.1694 ppl1= 402.437
+
+instead , it may be that when union worker achieve to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -49.02996 ppl= 282.8122 ppl1= 380.6487
+
+instead , it may be that when union worker march to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -47.36906 ppl= 233.5892 ppl1= 311.2491
+
+instead , it may be that when union worker proceed to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.05539 ppl= 252.7955 ppl1= 338.2447
+
+instead , it may be that when union worker launch to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.80886 ppl= 275.7039 ppl1= 370.5846
+
+instead , it may be that when union worker drive to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -47.38013 ppl= 233.8873 ppl1= 311.6673
+
+instead , it may be that when union worker conquer to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -50.76456 ppl= 345.3252 ppl1= 469.6985
+
+instead , it may be that when union worker hesitate to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -49.50296 ppl= 298.64 ppl1= 403.1056
+
+instead , it may be that when union worker decrease to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.03518 ppl= 252.208 ppl1= 337.4172
+
+instead , it may be that when union worker stop to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.37095 ppl= 262.1487 ppl1= 351.4307
+
+instead , it may be that when union worker hold to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.43175 ppl= 263.9901 ppl1= 354.0296
+
+instead , it may be that when union worker keep to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.7484 ppl= 273.7914 ppl1= 367.879
+
+instead , it may be that when union worker turn to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -46.12458 ppl= 202.4087 ppl1= 267.6762
+
+instead , it may be that when union worker depart to other job or retire , they be not always replace .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -48.2143 ppl= 257.4631 ppl1= 344.8218
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year short , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -75.82794 ppl= 198.5255 ppl1= 234.2195
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year solid , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -76.62382 ppl= 209.862 ppl1= 248.0244
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year smooth , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -77.4839 ppl= 222.842 ppl1= 263.859
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year even , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -74.23079 ppl= 177.5897 ppl1= 208.7912
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year right , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -75.28799 ppl= 191.1852 ppl1= 225.294
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year level , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -74.89813 ppl= 186.0546 ppl1= 219.0618
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year direct , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -74.23079 ppl= 177.5897 ppl1= 208.7912
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year running , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -77.11756 ppl= 217.2179 ppl1= 256.9944
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year square , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -76.71399 ppl= 211.1867 ppl1= 249.6389
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year continuous , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -76.00186 ppl= 200.9494 ppl1= 237.1692
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year near , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -75.28799 ppl= 191.1852 ppl1= 225.294
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year sheer , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -77.40808 ppl= 221.6662 ppl1= 262.4234
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year through , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -73.76611 ppl= 171.924 ppl1= 201.9253
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year true , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -76.78655 ppl= 212.2585 ppl1= 250.9456
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year dishonest , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -78.04572 ppl= 231.7512 ppl1= 274.7444
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year indirect , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -77.18647 ppl= 218.265 ppl1= 258.272
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year unfair , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -77.36984 ppl= 221.0756 ppl1= 261.7024
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year broken , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -77.20484 ppl= 218.5449 ppl1= 258.6136
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year different , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -75.57412 ppl= 195.0406 ppl1= 229.9807
+
+while some investment adviser be better than average in any given year , and some even succeed for a number of year following , the majority of financial investor do not outguess the market .
+1 sentences, 35 words, 3 OOVs
+0 zeroprobs, logprob= -76.43 ppl= 207.043 ppl1= 244.5893
+
+when credit reduce , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -25.92868 ppl= 391.6232 ppl1= 760.2649
+
+when credit decline , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -26.69859 ppl= 467.5834 ppl1= 925.7848
+
+when credit sink , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -27.48084 ppl= 559.8653 ppl1= 1130.905
+
+when credit drop , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -26.54331 ppl= 451.1603 ppl1= 889.7264
+
+when credit lessen , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -28.2181 ppl= 663.4526 ppl1= 1365.665
+
+when credit settle , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -27.03821 ppl= 505.6168 ppl1= 1009.825
+
+when credit modify , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -27.10655 ppl= 513.6354 ppl1= 1027.635
+
+when credit quiet , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -27.55608 ppl= 569.6493 ppl1= 1152.886
+
+when credit wither , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -28.71972 ppl= 744.6832 ppl1= 1552.671
+
+when credit fade , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -26.69859 ppl= 467.5834 ppl1= 925.7848
+
+when credit waste , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -27.2329 ppl= 528.7987 ppl1= 1061.398
+
+when credit check , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -25.07414 ppl= 321.6729 ppl1= 610.9646
+
+when credit increase , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -25.59547 ppl= 362.6996 ppl1= 698.1378
+
+when credit grow , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -26.54331 ppl= 451.1603 ppl1= 889.7264
+
+when credit improve , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -26.96833 ppl= 497.5461 ppl1= 991.931
+
+when credit compliment , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -28.02439 ppl= 634.5112 ppl1= 1299.635
+
+when credit praise , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -26.54331 ppl= 451.1603 ppl1= 889.7264
+
+when credit liberate , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -27.95799 ppl= 624.8834 ppl1= 1277.742
+
+when credit rise , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -26.25227 ppl= 421.9165 ppl1= 825.8828
+
+when credit raise , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -27.48084 ppl= 559.8653 ppl1= 1130.905
+
+when credit develop , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -26.96833 ppl= 497.5461 ppl1= 991.931
+
+when credit expand , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -26.41953 ppl= 438.4837 ppl1= 861.9931
+
+when credit extend , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -25.41938 ppl= 348.2875 ppl1= 667.3834
+
+when credit strengthen , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -27.36334 ppl= 544.9216 ppl1= 1097.416
+
+when credit irritate , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -28.93399 ppl= 782.3458 ppl1= 1640.165
+
+when credit upset , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -27.48084 ppl= 559.8653 ppl1= 1130.905
+
+when credit build , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -26.54331 ppl= 451.1603 ppl1= 889.7264
+
+when credit add , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -25.96345 ppl= 394.7705 ppl1= 767.0566
+
+when credit dry , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -27.01399 ppl= 502.8047 ppl1= 1003.586
+
+when credit decrease , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -26.96833 ppl= 497.5461 ppl1= 991.931
+
+when credit silence , the economy be on its knee .
+1 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -27.6123 ppl= 577.0719 ppl1= 1169.589
+
+the follow clear it up help explain how antitrust law arise .
+1 sentences, 12 words, 1 OOVs
+0 zeroprobs, logprob= -32.75267 ppl= 536.2771 ppl1= 949.545
+
+the follow clear it up help explain how antitrust law occur .
+1 sentences, 12 words, 1 OOVs
+0 zeroprobs, logprob= -32.91632 ppl= 553.3838 ppl1= 982.6357
+
+the follow clear it up help explain how antitrust law result .
+1 sentences, 12 words, 1 OOVs
+0 zeroprobs, logprob= -32.5258 ppl= 513.4326 ppl1= 905.5053
+
+the follow clear it up help explain how antitrust law happen .
+1 sentences, 12 words, 1 OOVs
+0 zeroprobs, logprob= -35.12538 ppl= 845.5021 ppl1= 1560.329
+
+probably , the demand curve face by a monopoly and by a monopolistic competitor look similar?that be , they both slope down .
+1 sentences, 23 words, 4 OOVs
+0 zeroprobs, logprob= -54.70064 ppl= 543.2903 ppl1= 756.7997
+
+supposedly , the demand curve face by a monopoly and by a monopolistic competitor look similar?that be , they both slope down .
+1 sentences, 23 words, 4 OOVs
+0 zeroprobs, logprob= -55.36801 ppl= 586.6791 ppl1= 820.5517
+
+possibly , the demand curve face by a monopoly and by a monopolistic competitor look similar?that be , they both slope down .
+1 sentences, 23 words, 4 OOVs
+0 zeroprobs, logprob= -54.87227 ppl= 554.1323 ppl1= 772.7058
+
+unlikely , the demand curve face by a monopoly and by a monopolistic competitor look similar?that be , they both slope down .
+1 sentences, 23 words, 4 OOVs
+0 zeroprobs, logprob= -56.51068 ppl= 669.1662 ppl1= 942.4239
+
+uncertain , the demand curve face by a monopoly and by a monopolistic competitor look similar?that be , they both slope down .
+1 sentences, 23 words, 4 OOVs
+0 zeroprobs, logprob= -56.02222 ppl= 632.5734 ppl1= 888.2553
+
+apparently , the demand curve face by a monopoly and by a monopolistic competitor look similar?that be , they both slope down .
+1 sentences, 23 words, 4 OOVs
+0 zeroprobs, logprob= -54.60716 ppl= 537.4746 ppl1= 748.2745
+
+briefly , let?s imagine that at the beginning of any year , there be no way of identify the driver who be low-risk , medium-risk , or high-risk .
+1 sentences, 29 words, 6 OOVs
+0 zeroprobs, logprob= -64.48181 ppl= 486.1183 ppl1= 636.146
+
+from a monetary policy perspective , the Federal Reserve lower short-term interest rate to between 0 % and 0.25 % , to accustom credit throughout the financial system .
+1 sentences, 29 words, 5 OOVs
+0 zeroprobs, logprob= -61.12074 ppl= 278.5028 ppl1= 352.1255
+
+from a monetary policy perspective , the Federal Reserve lower short-term interest rate to between 0 % and 0.25 % , to educate credit throughout the financial system .
+1 sentences, 29 words, 5 OOVs
+0 zeroprobs, logprob= -59.14475 ppl= 232.1615 ppl1= 291.3163
+
+from a monetary policy perspective , the Federal Reserve lower short-term interest rate to between 0 % and 0.25 % , to train credit throughout the financial system .
+1 sentences, 29 words, 5 OOVs
+0 zeroprobs, logprob= -59.0746 ppl= 230.6663 ppl1= 289.3622
+
+from a monetary policy perspective , the Federal Reserve lower short-term interest rate to between 0 % and 0.25 % , to practice credit throughout the financial system .
+1 sentences, 29 words, 5 OOVs
+0 zeroprobs, logprob= -58.75453 ppl= 223.9655 ppl1= 280.6114
+
+from a monetary policy perspective , the Federal Reserve lower short-term interest rate to between 0 % and 0.25 % , to modify credit throughout the financial system .
+1 sentences, 29 words, 5 OOVs
+0 zeroprobs, logprob= -59.21393 ppl= 233.6453 ppl1= 293.2561
+
+from a monetary policy perspective , the Federal Reserve lower short-term interest rate to between 0 % and 0.25 % , to program credit throughout the financial system .
+1 sentences, 29 words, 5 OOVs
+0 zeroprobs, logprob= -58.8349 ppl= 225.6295 ppl1= 282.7834
+
+from a monetary policy perspective , the Federal Reserve lower short-term interest rate to between 0 % and 0.25 % , to ready credit throughout the financial system .
+1 sentences, 29 words, 5 OOVs
+0 zeroprobs, logprob= -59.68673 ppl= 244.0446 ppl1= 306.8648
+
+from a monetary policy perspective , the Federal Reserve lower short-term interest rate to between 0 % and 0.25 % , to forget credit throughout the financial system .
+1 sentences, 29 words, 5 OOVs
+0 zeroprobs, logprob= -59.68385 ppl= 243.9798 ppl1= 306.7799
+
+from a monetary policy perspective , the Federal Reserve lower short-term interest rate to between 0 % and 0.25 % , to relax credit throughout the financial system .
+1 sentences, 29 words, 5 OOVs
+0 zeroprobs, logprob= -58.72632 ppl= 223.3843 ppl1= 279.8529
+
+nevertheless , by the early 1990s , a price war have begin among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -27.04237 ppl= 120.277 ppl1= 179.2797
+
+nevertheless , by the early 1990s , a price war have appear among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -27.60375 ppl= 132.8511 ppl1= 199.6697
+
+nevertheless , by the early 1990s , a price war have start among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -27.47908 ppl= 129.9497 ppl1= 194.9501
+
+nevertheless , by the early 1990s , a price war have arise among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -27.0849 ppl= 121.1864 ppl1= 180.7487
+
+nevertheless , by the early 1990s , a price war have occur among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -27.02773 ppl= 119.9655 ppl1= 178.7768
+
+nevertheless , by the early 1990s , a price war have complete among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -30.58795 ppl= 225.3818 ppl1= 353.9936
+
+nevertheless , by the early 1990s , a price war have conclude among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -28.14447 ppl= 146.2039 ppl1= 221.4993
+
+nevertheless , by the early 1990s , a price war have end among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -28.10208 ppl= 145.1104 ppl1= 219.705
+
+nevertheless , by the early 1990s , a price war have finish among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -27.22312 ppl= 124.1899 ppl1= 185.6066
+
+nevertheless , by the early 1990s , a price war have die among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -27.52363 ppl= 130.9792 ppl1= 196.6237
+
+nevertheless , by the early 1990s , a price war have stop among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -29.42748 ppl= 183.5069 ppl1= 283.3283
+
+nevertheless , by the early 1990s , a price war have escape among they .
+1 sentences, 15 words, 3 OOVs
+0 zeroprobs, logprob= -29.04412 ppl= 171.4601 ppl1= 263.2348
+
+if loose monetary policy seek to end a recession stretch , it may push aggregate demand so far to the right that it trigger inflation .
+1 sentences, 26 words, 2 OOVs
+0 zeroprobs, logprob= -70.00413 ppl= 631.1977 ppl1= 825.7317
+
+if loose monetary policy seek to end a recession overwork , it may push aggregate demand so far to the right that it trigger inflation .
+1 sentences, 26 words, 2 OOVs
+0 zeroprobs, logprob= -71.84426 ppl= 747.7742 ppl1= 985.1693
+
+if loose monetary policy seek to end a recession pressure , it may push aggregate demand so far to the right that it trigger inflation .
+1 sentences, 26 words, 2 OOVs
+0 zeroprobs, logprob= -68.62443 ppl= 555.875 ppl1= 723.3545
+
+if loose monetary policy seek to end a recession decrease , it may push aggregate demand so far to the right that it trigger inflation .
+1 sentences, 26 words, 2 OOVs
+0 zeroprobs, logprob= -68.35468 ppl= 542.2348 ppl1= 704.8746
+
+if loose monetary policy seek to end a recession lessen , it may push aggregate demand so far to the right that it trigger inflation .
+1 sentences, 26 words, 2 OOVs
+0 zeroprobs, logprob= -69.13693 ppl= 582.7431 ppl1= 759.8107
+
+if loose monetary policy seek to end a recession ignore , it may push aggregate demand so far to the right that it trigger inflation .
+1 sentences, 26 words, 2 OOVs
+0 zeroprobs, logprob= -70.20633 ppl= 643.0623 ppl1= 841.906
+
+these factor be fairly economy of scale in the narrow sense of the production function of a single firm , but they be related to growth in the overall size of population and market in a area .
+1 sentences, 38 words, 2 OOVs
+0 zeroprobs, logprob= -74.45993 ppl= 102.9036 ppl1= 117.0392
+
+these factor be rather economy of scale in the narrow sense of the production function of a single firm , but they be related to growth in the overall size of population and market in a area .
+1 sentences, 38 words, 2 OOVs
+0 zeroprobs, logprob= -73.80696 ppl= 98.80584 ppl1= 112.2518
+
+these factor be quite economy of scale in the narrow sense of the production function of a single firm , but they be related to growth in the overall size of population and market in a area .
+1 sentences, 38 words, 2 OOVs
+0 zeroprobs, logprob= -73.90329 ppl= 99.39999 ppl1= 112.9456
+
+these factor be slightly economy of scale in the narrow sense of the production function of a single firm , but they be related to growth in the overall size of population and market in a area .
+1 sentences, 38 words, 2 OOVs
+0 zeroprobs, logprob= -74.23656 ppl= 101.483 ppl1= 115.3789
+
+these factor be pretty economy of scale in the narrow sense of the production function of a single firm , but they be related to growth in the overall size of population and market in a area .
+1 sentences, 38 words, 2 OOVs
+0 zeroprobs, logprob= -73.99723 ppl= 99.98279 ppl1= 113.6263
+
+these factor be enough economy of scale in the narrow sense of the production function of a single firm , but they be related to growth in the overall size of population and market in a area .
+1 sentences, 38 words, 2 OOVs
+0 zeroprobs, logprob= -72.90997 ppl= 93.44148 ppl1= 105.9929
+
+these factor be some economy of scale in the narrow sense of the production function of a single firm , but they be related to growth in the overall size of population and market in a area .
+1 sentences, 38 words, 2 OOVs
+0 zeroprobs, logprob= -72.08603 ppl= 88.77098 ppl1= 100.5518
+
+these factor be something economy of scale in the narrow sense of the production function of a single firm , but they be related to growth in the overall size of population and market in a area .
+1 sentences, 38 words, 2 OOVs
+0 zeroprobs, logprob= -73.79253 ppl= 98.71715 ppl1= 112.1482
+
+Notice that the horizontal and vertical axis on the graph for the supply curve be the same about the demand curve .
+1 sentences, 22 words, 2 OOVs
+0 zeroprobs, logprob= -42.8882 ppl= 110.2289 ppl1= 139.4473
+
+Notice that the horizontal and vertical axis on the graph for the supply curve be the same against the demand curve .
+1 sentences, 22 words, 2 OOVs
+0 zeroprobs, logprob= -43.47252 ppl= 117.5223 ppl1= 149.151
+
+Notice that the horizontal and vertical axis on the graph for the supply curve be the same regarding the demand curve .
+1 sentences, 22 words, 2 OOVs
+0 zeroprobs, logprob= -49.82329 ppl= 235.7968 ppl1= 309.8594
+
+Notice that the horizontal and vertical axis on the graph for the supply curve be the same toward the demand curve .
+1 sentences, 22 words, 2 OOVs
+0 zeroprobs, logprob= -45.06718 ppl= 139.9768 ppl1= 179.2087
+
+however , that financial capital be , generally , invest in project like railroad that bring a substantial economic payoff .
+1 sentences, 21 words, 4 OOVs
+0 zeroprobs, logprob= -50.2241 ppl= 616.9184 ppl1= 900.2409
+
+however , that financial capital be , all , invest in project like railroad that bring a substantial economic payoff .
+1 sentences, 21 words, 4 OOVs
+0 zeroprobs, logprob= -49.31436 ppl= 549.1449 ppl1= 795.8752
+
+however , that financial capital be , partly , invest in project like railroad that bring a substantial economic payoff .
+1 sentences, 21 words, 4 OOVs
+0 zeroprobs, logprob= -50.91603 ppl= 674.0133 ppl1= 988.6914
+
+however , that financial capital be , usually , invest in project like railroad that bring a substantial economic payoff .
+1 sentences, 21 words, 4 OOVs
+0 zeroprobs, logprob= -50.11456 ppl= 608.334 ppl1= 886.9827
+
+short-run loss will end by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.25223 ppl= 1377.642 ppl1= 3400.387
+
+short-run loss will pass by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.49465 ppl= 1465.792 ppl1= 3646.122
+
+short-run loss will stop by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -27.76929 ppl= 1217.52 ppl1= 2959.107
+
+short-run loss will fall by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -27.84058 ppl= 1239.931 ppl1= 3020.455
+
+short-run loss will fail by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.91731 ppl= 1633.18 ppl1= 4117.781
+
+short-run loss will disappear by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.52703 ppl= 1477.984 ppl1= 3680.26
+
+short-run loss will decline by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.59223 ppl= 1502.846 ppl1= 3749.978
+
+short-run loss will fade by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -29.64445 ppl= 1967.105 ppl1= 5076.402
+
+short-run loss will moderate by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -30.31544 ppl= 2335.515 ppl1= 6157.87
+
+short-run loss will sink by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -29.45159 ppl= 1872.399 ppl1= 4802.288
+
+short-run loss will increase by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -27.79639 ppl= 1225.991 ppl1= 2982.278
+
+short-run loss will grow by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.16566 ppl= 1347.467 ppl1= 3316.714
+
+short-run loss will improve by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -27.80752 ppl= 1229.487 ppl1= 2991.847
+
+short-run loss will begin by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.05933 ppl= 1311.303 ppl1= 3216.741
+
+short-run loss will start by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.01743 ppl= 1297.322 ppl1= 3178.183
+
+short-run loss will bear by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -30.08405 ppl= 2201.262 ppl1= 5761.103
+
+short-run loss will advance by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -29.10297 ppl= 1712.63 ppl1= 4343.816
+
+short-run loss will reach by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -27.68043 ppl= 1190.154 ppl1= 2884.386
+
+short-run loss will win by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.72362 ppl= 1554.222 ppl1= 3894.505
+
+short-run loss will appear by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.79312 ppl= 1582.105 ppl1= 3973.194
+
+short-run loss will arrive by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -29.22351 ppl= 1766.27 ppl1= 4497.168
+
+short-run loss will rise by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.39182 ppl= 1427.732 ppl1= 3539.791
+
+short-run loss will build by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.18041 ppl= 1352.559 ppl1= 3330.818
+
+short-run loss will develop by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -29.51972 ppl= 1905.323 ppl1= 4897.391
+
+short-run loss will strengthen by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.83613 ppl= 1599.611 ppl1= 4022.687
+
+short-run loss will continue by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.55778 ppl= 1489.657 ppl1= 3712.974
+
+short-run loss will forward by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -29.68365 ppl= 1986.935 ppl1= 5134.01
+
+short-run loss will extend by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.9225 ppl= 1635.352 ppl1= 4123.943
+
+short-run loss will live by reverse this process .
+1 sentences, 9 words, 1 OOVs
+0 zeroprobs, logprob= -28.75486 ppl= 1566.693 ppl1= 3929.679
+
+in particular , even though wage increase may occur with relative ease , wage decrease be minority .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -48.35588 ppl= 1052.55 ppl1= 1673.885
+
+in particular , even though wage increase may occur with relative ease , wage decrease be less .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -46.25182 ppl= 777.5689 ppl1= 1211.866
+
+in particular , even though wage increase may occur with relative ease , wage decrease be slight .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -47.94171 ppl= 991.646 ppl1= 1570.774
+
+in particular , even though wage increase may occur with relative ease , wage decrease be lean .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -48.124 ppl= 1018.005 ppl1= 1615.35
+
+in particular , even though wage increase may occur with relative ease , wage decrease be short .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -46.89999 ppl= 853.5896 ppl1= 1338.646
+
+in particular , even though wage increase may occur with relative ease , wage decrease be minute .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -48.38504 ppl= 1056.976 ppl1= 1681.394
+
+in particular , even though wage increase may occur with relative ease , wage decrease be minor .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -47.59777 ppl= 943.7583 ppl1= 1489.995
+
+in particular , even though wage increase may occur with relative ease , wage decrease be occasional .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -47.99114 ppl= 998.7261 ppl1= 1582.74
+
+in particular , even though wage increase may occur with relative ease , wage decrease be rare .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -46.88238 ppl= 851.4298 ppl1= 1335.033
+
+in particular , even though wage increase may occur with relative ease , wage decrease be slim .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -48.29954 ppl= 1044.05 ppl1= 1659.47
+
+in particular , even though wage increase may occur with relative ease , wage decrease be some .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -46.27699 ppl= 780.3899 ppl1= 1216.557
+
+in particular , even though wage increase may occur with relative ease , wage decrease be thin .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -47.57259 ppl= 940.3447 ppl1= 1484.247
+
+in particular , even though wage increase may occur with relative ease , wage decrease be useful .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -46.82223 ppl= 844.0908 ppl1= 1322.762
+
+in particular , even though wage increase may occur with relative ease , wage decrease be large .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -46.83428 ppl= 845.5559 ppl1= 1325.211
+
+in particular , even though wage increase may occur with relative ease , wage decrease be many .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -46.37207 ppl= 791.1417 ppl1= 1234.444
+
+in particular , even though wage increase may occur with relative ease , wage decrease be much .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -46.2419 ppl= 776.4591 ppl1= 1210.022
+
+in particular , even though wage increase may occur with relative ease , wage decrease be important .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -46.31529 ppl= 784.7033 ppl1= 1223.731
+
+in particular , even though wage increase may occur with relative ease , wage decrease be major .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -47.22409 ppl= 894.3462 ppl1= 1406.931
+
+in particular , even though wage increase may occur with relative ease , wage decrease be significant .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -46.84734 ppl= 847.1469 ppl1= 1327.871
+
+in particular , even though wage increase may occur with relative ease , wage decrease be big .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -47.56583 ppl= 939.4304 ppl1= 1482.708
+
+in particular , even though wage increase may occur with relative ease , wage decrease be fat .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -48.38104 ppl= 1056.367 ppl1= 1680.361
+
+in particular , even though wage increase may occur with relative ease , wage decrease be tall .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -47.37707 ppl= 914.2545 ppl1= 1440.362
+
+in particular , even though wage increase may occur with relative ease , wage decrease be thick .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -47.46969 ppl= 926.5214 ppl1= 1460.985
+
+apparently , a similar situation occur with regard to measure of inflation .
+1 sentences, 13 words, 2 OOVs
+0 zeroprobs, logprob= -25.1391 ppl= 124.4301 ppl1= 192.9181
+
+probably , a similar situation occur with regard to measure of inflation .
+1 sentences, 13 words, 2 OOVs
+0 zeroprobs, logprob= -25.23258 ppl= 126.6821 ppl1= 196.7303
+
+as the budget set , give up one burger mean gain four bus ticket .
+1 sentences, 15 words, 2 OOVs
+0 zeroprobs, logprob= -41.90433 ppl= 984.3885 ppl1= 1672.669
+
+meanwhile the budget set , give up one burger mean gain four bus ticket .
+1 sentences, 15 words, 2 OOVs
+0 zeroprobs, logprob= -43.1194 ppl= 1202.146 ppl1= 2074.326
+
+over the budget set , give up one burger mean gain four bus ticket .
+1 sentences, 15 words, 2 OOVs
+0 zeroprobs, logprob= -43.52969 ppl= 1286.068 ppl1= 2230.684
+
+throughout the budget set , give up one burger mean gain four bus ticket .
+1 sentences, 15 words, 2 OOVs
+0 zeroprobs, logprob= -43.85597 ppl= 1356.966 ppl1= 2363.392
+
+until the budget set , give up one burger mean gain four bus ticket .
+1 sentences, 15 words, 2 OOVs
+0 zeroprobs, logprob= -44.17333 ppl= 1429.677 ppl1= 2500.049
+
+when the budget set , give up one burger mean gain four bus ticket .
+1 sentences, 15 words, 2 OOVs
+0 zeroprobs, logprob= -42.08962 ppl= 1014.849 ppl1= 1728.474
+
+while the budget set , give up one burger mean gain four bus ticket .
+1 sentences, 15 words, 2 OOVs
+0 zeroprobs, logprob= -42.1265 ppl= 1021.023 ppl1= 1739.803
+
+despite a big push to increase investment in human capital , the result have not yet grow .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -31.82971 ppl= 74.53083 ppl1= 97.57914
+
+despite a big push to increase investment in human capital , the result have not yet blow .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -32.91582 ppl= 86.34255 ppl1= 114.0877
+
+despite a big push to increase investment in human capital , the result have not yet develop .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -30.92899 ppl= 65.97088 ppl1= 85.71598
+
+despite a big push to increase investment in human capital , the result have not yet burst .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -35.98435 ppl= 130.8357 ppl1= 177.4278
+
+despite a big push to increase investment in human capital , the result have not yet wax .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -36.2565 ppl= 135.7486 ppl1= 184.5148
+
+despite a big push to increase investment in human capital , the result have not yet succeed .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -31.70008 ppl= 73.23361 ppl1= 95.77559
+
+despite a big push to increase investment in human capital , the result have not yet open .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -31.57866 ppl= 72.03905 ppl1= 94.11654
+
+despite a big push to increase investment in human capital , the result have not yet wither .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -37.08722 ppl= 151.9152 ppl1= 207.9464
+
+despite a big push to increase investment in human capital , the result have not yet fail .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -32.73391 ppl= 84.24115 ppl1= 111.1398
+
+despite a big push to increase investment in human capital , the result have not yet lose .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -31.82971 ppl= 74.53083 ppl1= 97.57914
+
+despite a big push to increase investment in human capital , the result have not yet die .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -31.89041 ppl= 75.1461 ppl1= 98.43524
+
+despite a big push to increase investment in human capital , the result have not yet stop .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -32.5032 ppl= 81.64936 ppl1= 107.5102
+
+despite a big push to increase investment in human capital , the result have not yet decline .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -34.29087 ppl= 104.0183 ppl1= 139.0526
+
+despite a big push to increase investment in human capital , the result have not yet end .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -31.82971 ppl= 74.53083 ppl1= 97.57914
+
+Friendster emerge the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -26.92462 ppl= 280.3449 ppl1= 492.5632
+
+Friendster set the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -26.05965 ppl= 233.9154 ppl1= 403.6126
+
+Friendster appear the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -27.06816 ppl= 288.896 ppl1= 509.1148
+
+Friendster rise the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -27.09643 ppl= 290.6111 ppl1= 512.4405
+
+Friendster start the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -25.86964 ppl= 224.7945 ppl1= 386.3351
+
+Friendster enter the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -25.64775 ppl= 214.5923 ppl1= 367.0925
+
+Friendster happen the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -27.13622 ppl= 293.0415 ppl1= 517.1566
+
+Friendster occur the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -26.92462 ppl= 280.3451 ppl1= 492.5634
+
+Friendster spring the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -27.06765 ppl= 288.8653 ppl1= 509.0553
+
+Friendster arise the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -27.61085 ppl= 323.6516 ppl1= 576.88
+
+Friendster disappear the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -27.7282 ppl= 331.7001 ppl1= 592.6799
+
+Friendster hide the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -26.89498 ppl= 278.6112 ppl1= 489.2136
+
+Friendster complete the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -26.16893 ppl= 239.3282 ppl1= 413.898
+
+Friendster leave the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -25.61009 ppl= 212.9072 ppl1= 363.9228
+
+Friendster end the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -25.74382 ppl= 218.951 ppl1= 375.3027
+
+Friendster finish the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -26.92462 ppl= 280.345 ppl1= 492.5633
+
+Friendster stop the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -26.63849 ppl= 264.0466 ppl1= 461.1568
+
+Friendster die the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -26.96973 ppl= 283.0049 ppl1= 497.7065
+
+Friendster conclude the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -26.80182 ppl= 273.2303 ppl1= 478.8304
+
+Friendster begin the social networking business in 2003 , and Twitter and Facebook follow .
+1 sentences, 15 words, 5 OOVs
+0 zeroprobs, logprob= -26.54306 ppl= 258.8246 ppl1= 451.1345
+
+the finding that conformity be more likely to occur when response be public than when they be private be the reason government election require voting quietly , so we be not coerce by other -lrb- -rrb- .
+1 sentences, 37 words, 2 OOVs
+0 zeroprobs, logprob= -92.61008 ppl= 373.682 ppl1= 442.5906
+
+the finding that conformity be more likely to occur when response be public than when they be private be the reason government election require voting personally , so we be not coerce by other -lrb- -rrb- .
+1 sentences, 37 words, 2 OOVs
+0 zeroprobs, logprob= -92.0672 ppl= 360.9294 ppl1= 427.0625
+
+the finding that conformity be more likely to occur when response be public than when they be private be the reason government election require voting publicly , so we be not coerce by other -lrb- -rrb- .
+1 sentences, 37 words, 2 OOVs
+0 zeroprobs, logprob= -91.8742 ppl= 356.5012 ppl1= 421.6742
+
+the finding that conformity be more likely to occur when response be public than when they be private be the reason government election require voting secretly , so we be not coerce by other -lrb- -rrb- .
+1 sentences, 37 words, 2 OOVs
+0 zeroprobs, logprob= -92.24477 ppl= 365.0519 ppl1= 432.0806
+
+if other people show concern and climb to leave , you be likely to do the same .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -37.28012 ppl= 155.9367 ppl1= 213.7999
+
+if other people show concern and awake to leave , you be likely to do the same .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -38.55115 ppl= 185.2315 ppl1= 256.7124
+
+if other people show concern and stand to leave , you be likely to do the same .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -38.07528 ppl= 173.6691 ppl1= 239.7205
+
+if other people show concern and arise to leave , you be likely to do the same .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -38.67544 ppl= 188.376 ppl1= 261.3453
+
+if other people show concern and increase to leave , you be likely to do the same .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -36.03829 ppl= 131.7951 ppl1= 178.8104
+
+if other people show concern and rise to leave , you be likely to do the same .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -35.64143 ppl= 124.8978 ppl1= 168.8844
+
+if other people show concern and scale to leave , you be likely to do the same .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -37.85666 ppl= 168.6017 ppl1= 232.2956
+
+it later emerge that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -31.80204 ppl= 38.91365 ppl1= 47.18365
+
+it later develop that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -35.1406 ppl= 57.1518 ppl1= 70.71397
+
+it later show that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -34.04141 ppl= 50.35822 ppl1= 61.89463
+
+it later surface that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -33.48658 ppl= 47.2421 ppl1= 57.86977
+
+it later occur that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -38.77193 ppl= 86.81536 ppl1= 109.8065
+
+it later arrive that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -36.98837 ppl= 70.69987 ppl1= 88.46194
+
+it later come that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -36.12697 ppl= 64.02485 ppl1= 79.69288
+
+it later present that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -37.39057 ppl= 74.05061 ppl1= 92.88057
+
+it later attend that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -37.35471 ppl= 73.74552 ppl1= 92.4778
+
+it later spring that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -38.82383 ppl= 87.33566 ppl1= 110.4993
+
+it later expose that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -37.49641 ppl= 74.95841 ppl1= 94.07952
+
+it later rise that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -37.31157 ppl= 73.38012 ppl1= 91.99553
+
+it later arise that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -34.63266 ppl= 53.90551 ppl1= 66.49235
+
+it later issue that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -37.26331 ppl= 72.97355 ppl1= 91.45908
+
+it later disappear that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -37.08088 ppl= 71.45691 ppl1= 89.45931
+
+it later hide that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -38.74457 ppl= 86.5423 ppl1= 109.443
+
+it later leave that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -36.36081 ppl= 65.77192 ppl1= 81.98357
+
+it later abandon that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -36.31796 ppl= 65.44824 ppl1= 81.55894
+
+it later go that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -36.01488 ppl= 63.20394 ppl1= 78.61766
+
+it later miss that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -38.51698 ppl= 84.30418 ppl1= 106.4657
+
+it later depart that Iraq do not have weapon of mass destruction , but not until the invasion be well underway .
+1 sentences, 22 words, 3 OOVs
+0 zeroprobs, logprob= -37.78254 ppl= 77.46885 ppl1= 97.39908
+
+a number of environmental factor that could impact normal brain development might be guilty .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -30.79749 ppl= 113.0227 ppl1= 158.4239
+
+a number of environmental factor that could impact normal brain development might be responsible .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -29.8944 ppl= 98.39202 ppl1= 136.5571
+
+a number of environmental factor that could impact normal brain development might be wrong .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -33.05408 ppl= 159.8106 ppl1= 229.618
+
+people who reach this level of stress feel tire ; they be fatigue , exhaust , and they performance begin to decline .
+1 sentences, 23 words, 4 OOVs
+0 zeroprobs, logprob= -48.77263 ppl= 274.5562 ppl1= 368.9609
+
+forensic psychologist carry out activity related to psychology with the justice system .
+1 sentences, 13 words, 1 OOVs
+0 zeroprobs, logprob= -29.42724 ppl= 183.4992 ppl1= 283.3155
+
+forensic psychologist carry out activity related to psychology outside the justice system .
+1 sentences, 13 words, 1 OOVs
+0 zeroprobs, logprob= -31.14833 ppl= 248.9003 ppl1= 394.1797
+
+forensic psychologist carry out activity related to psychology separate the justice system .
+1 sentences, 13 words, 1 OOVs
+0 zeroprobs, logprob= -32.19908 ppl= 299.8145 ppl1= 482.2331
+
+subconscious , Joe feel sexually attract to male .
+1 sentences, 9 words, 3 OOVs
+0 zeroprobs, logprob= -19.20059 ppl= 553.2764 ppl1= 1585.255
+
+temporary , Joe feel sexually attract to male .
+1 sentences, 9 words, 3 OOVs
+0 zeroprobs, logprob= -17.33067 ppl= 299.0959 ppl1= 773.4738
+
+inside , Joe feel sexually attract to male .
+1 sentences, 9 words, 3 OOVs
+0 zeroprobs, logprob= -16.3567 ppl= 217.1061 ppl1= 532.252
+
+begin and come in ?
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -15.09538 ppl= 1044.904 ppl1= 5940.808
+
+continue and come in ?
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -14.72157 ppl= 879.6575 ppl1= 4790.623
+
+advance and come in ?
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -14.29163 ppl= 721.649 ppl1= 3740.309
+
+progress and come in ?
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -14.65136 ppl= 851.6705 ppl1= 4600.865
+
+complete and come in ?
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -14.28648 ppl= 719.9403 ppl1= 3729.242
+
+end and come in ?
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -14.638 ppl= 846.4458 ppl1= 4565.612
+
+finish and come in ?
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -14.49959 ppl= 794.1795 ppl1= 4215.978
+
+stop and come in ?
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -14.42854 ppl= 768.6141 ppl1= 4047.021
+
+proceed and come in ?
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -15.42368 ppl= 1215.445 ppl1= 7176.61
+
+a live model demonstrate a behavior honestly , as when Ben stand up on he surfboard so that Julian could see how he do it .
+1 sentences, 26 words, 4 OOVs
+0 zeroprobs, logprob= -58.88828 ppl= 363.379 ppl1= 475.0505
+
+a live model demonstrate a behavior personally , as when Ben stand up on he surfboard so that Julian could see how he do it .
+1 sentences, 26 words, 4 OOVs
+0 zeroprobs, logprob= -57.80916 ppl= 326.1683 ppl1= 424.3157
+
+a live model demonstrate a behavior face-to-face , as when Ben stand up on he surfboard so that Julian could see how he do it .
+1 sentences, 26 words, 4 OOVs
+0 zeroprobs, logprob= -58.82201 ppl= 360.9765 ppl1= 471.7674
+
+a live model demonstrate a behavior indirectly , as when Ben stand up on he surfboard so that Julian could see how he do it .
+1 sentences, 26 words, 4 OOVs
+0 zeroprobs, logprob= -56.55752 ppl= 287.7547 ppl1= 372.217
+
+people who have transformational leadership possess four attribute to vary degree : they be charismatic -lrb- highly like hero -rrb- , inspirational -lrb- optimistic about goal attainment -rrb- , intellectually stimulate -lrb- encourage critical thinking and problem solve -rrb- , and considerate -lrb- Bass , Avolio , & Atwater , 1996 -rrb- .
+1 sentences, 53 words, 11 OOVs
+0 zeroprobs, logprob= -131.884 ppl= 1166.994 ppl1= 1380.683
+
+people who have transformational leadership possess four attribute to vary degree : they be charismatic -lrb- highly like example -rrb- , inspirational -lrb- optimistic about goal attainment -rrb- , intellectually stimulate -lrb- encourage critical thinking and problem solve -rrb- , and considerate -lrb- Bass , Avolio , & Atwater , 1996 -rrb- .
+1 sentences, 53 words, 11 OOVs
+0 zeroprobs, logprob= -132.3749 ppl= 1198.082 ppl1= 1418.352
+
+people who have transformational leadership possess four attribute to vary degree : they be charismatic -lrb- highly like idol -rrb- , inspirational -lrb- optimistic about goal attainment -rrb- , intellectually stimulate -lrb- encourage critical thinking and problem solve -rrb- , and considerate -lrb- Bass , Avolio , & Atwater , 1996 -rrb- .
+1 sentences, 53 words, 11 OOVs
+0 zeroprobs, logprob= -132.448 ppl= 1202.782 ppl1= 1424.048
+
+people who have transformational leadership possess four attribute to vary degree : they be charismatic -lrb- highly like star -rrb- , inspirational -lrb- optimistic about goal attainment -rrb- , intellectually stimulate -lrb- encourage critical thinking and problem solve -rrb- , and considerate -lrb- Bass , Avolio , & Atwater , 1996 -rrb- .
+1 sentences, 53 words, 11 OOVs
+0 zeroprobs, logprob= -131.6472 ppl= 1152.293 ppl1= 1362.879
+
+people who have transformational leadership possess four attribute to vary degree : they be charismatic -lrb- highly like superstar -rrb- , inspirational -lrb- optimistic about goal attainment -rrb- , intellectually stimulate -lrb- encourage critical thinking and problem solve -rrb- , and considerate -lrb- Bass , Avolio , & Atwater , 1996 -rrb- .
+1 sentences, 53 words, 11 OOVs
+0 zeroprobs, logprob= -132.6167 ppl= 1213.697 ppl1= 1437.28
+
+insistence nevertheless , she parent believe that these be sign that she be try to communicate with they .
+1 sentences, 19 words, 2 OOVs
+0 zeroprobs, logprob= -39.39867 ppl= 154.4597 ppl1= 207.7633
+
+insistence yet , she parent believe that these be sign that she be try to communicate with they .
+1 sentences, 19 words, 2 OOVs
+0 zeroprobs, logprob= -38.92293 ppl= 145.3399 ppl1= 194.7978
+
+insistence nonetheless , she parent believe that these be sign that she be try to communicate with they .
+1 sentences, 19 words, 2 OOVs
+0 zeroprobs, logprob= -38.10523 ppl= 130.9053 ppl1= 174.375
+
+insistence against , she parent believe that these be sign that she be try to communicate with they .
+1 sentences, 19 words, 2 OOVs
+0 zeroprobs, logprob= -37.32299 ppl= 118.4403 ppl1= 156.8447
+
+insistence but , she parent believe that these be sign that she be try to communicate with they .
+1 sentences, 19 words, 2 OOVs
+0 zeroprobs, logprob= -36.34481 ppl= 104.5095 ppl1= 137.382
+
+insistence despite , she parent believe that these be sign that she be try to communicate with they .
+1 sentences, 19 words, 2 OOVs
+0 zeroprobs, logprob= -37.16771 ppl= 116.1108 ppl1= 153.5804
+
+insistence though , she parent believe that these be sign that she be try to communicate with they .
+1 sentences, 19 words, 2 OOVs
+0 zeroprobs, logprob= -38.10523 ppl= 130.9053 ppl1= 174.375
+
+several day pass and Savannah never hear back from she potential new friend .
+1 sentences, 14 words, 2 OOVs
+0 zeroprobs, logprob= -29.12495 ppl= 173.9324 ppl1= 267.3492
+
+several day proceed and Savannah never hear back from she potential new friend .
+1 sentences, 14 words, 2 OOVs
+0 zeroprobs, logprob= -33.39706 ppl= 370.6848 ppl1= 606.8599
+
+how might observation help Julian learn to surf , as oppose to learn by analysis alone ?
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -46.01803 ppl= 1169.145 ppl1= 1936.431
+
+how might observation help Julian learn to surf , as oppose to learn by examination alone ?
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -45.53408 ppl= 1085.438 ppl1= 1788.274
+
+how might observation help Julian learn to surf , as oppose to learn by experiment alone ?
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -45.69867 ppl= 1113.212 ppl1= 1837.345
+
+how might observation help Julian learn to surf , as oppose to learn by research alone ?
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -45.86763 ppl= 1142.462 ppl1= 1889.118
+
+how might observation help Julian learn to surf , as oppose to learn by study alone ?
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -43.11674 ppl= 748.9439 ppl1= 1201.62
+
+how might observation help Julian learn to surf , as oppose to learn by test alone ?
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -45.79123 ppl= 1129.143 ppl1= 1865.531
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and sit to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -78.39527 ppl= 630.7121 ppl1= 800.8084
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and drop to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -77.40812 ppl= 581.5348 ppl1= 736.1519
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and stop to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -77.75789 ppl= 598.5044 ppl1= 758.4408
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and rest to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -78.55416 ppl= 639.0072 ppl1= 811.7334
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and settle to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -75.71797 ppl= 506.0731 ppl1= 637.3372
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and arrive to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -74.87896 ppl= 472.3334 ppl1= 593.3281
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and continue to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -74.10789 ppl= 443.3128 ppl1= 555.5671
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and do to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -78.30414 ppl= 626.0031 ppl1= 794.6089
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and go to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -75.35543 ppl= 491.2077 ppl1= 617.9334
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and move to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -75.38478 ppl= 492.3948 ppl1= 619.4821
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and depart to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -77.70045 ppl= 595.684 ppl1= 754.7347
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and leave to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -76.42335 ppl= 536.297 ppl1= 676.8531
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and dull to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -78.86309 ppl= 655.4492 ppl1= 833.4035
+
+know there would be abundant food each year as long as crop be tend lead people to abandon the nomadic life of hunter-gatherer and mount to farm .
+1 sentences, 28 words, 1 OOVs
+0 zeroprobs, logprob= -78.36953 ppl= 629.3785 ppl1= 799.0525
+
+exactly , Peter think , a gray-haired old man guilty of ?
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -24.15762 ppl= 483.259 ppl1= 1046.411
+
+actually , Peter think , a gray-haired old man guilty of ?
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -23.87672 ppl= 449.7476 ppl1= 965.1392
+
+definitely , Peter think , a gray-haired old man guilty of ?
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -24.94199 ppl= 590.6522 ppl1= 1311.44
+
+surely , Peter think , a gray-haired old man guilty of ?
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -24.62596 ppl= 544.7757 ppl1= 1197.416
+
+truly , Peter think , a gray-haired old man guilty of ?
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -24.66758 ppl= 550.6074 ppl1= 1211.846
+
+positively , Peter think , a gray-haired old man guilty of ?
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -25.24537 ppl= 638.324 ppl1= 1431.104
+
+really , Peter think , a gray-haired old man guilty of ?
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -24.50587 ppl= 528.292 ppl1= 1156.733
+
+easily , Peter think , a gray-haired old man guilty of ?
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -24.68541 ppl= 553.1253 ppl1= 1218.082
+
+uncertain , Peter think , a gray-haired old man guilty of ?
+1 sentences, 12 words, 4 OOVs
+0 zeroprobs, logprob= -24.92136 ppl= 587.5429 ppl1= 1303.676
+
+suspect be two approach to classroom education : the notion that teacher impart knowledge that student be obligate to absorb , versus the concept of student-centered learning that seek to teach child not fact , but problem solve ability and learn skill .
+1 sentences, 43 words, 4 OOVs
+0 zeroprobs, logprob= -102.7464 ppl= 370.3898 ppl1= 431.0445
+
+open be two approach to classroom education : the notion that teacher impart knowledge that student be obligate to absorb , versus the concept of student-centered learning that seek to teach child not fact , but problem solve ability and learn skill .
+1 sentences, 43 words, 4 OOVs
+0 zeroprobs, logprob= -103.5396 ppl= 387.6952 ppl1= 451.7124
+
+controversial be two approach to classroom education : the notion that teacher impart knowledge that student be obligate to absorb , versus the concept of student-centered learning that seek to teach child not fact , but problem solve ability and learn skill .
+1 sentences, 43 words, 4 OOVs
+0 zeroprobs, logprob= -103.9539 ppl= 397.0518 ppl1= 462.8969
+
+uncertain be two approach to classroom education : the notion that teacher impart knowledge that student be obligate to absorb , versus the concept of student-centered learning that seek to teach child not fact , but problem solve ability and learn skill .
+1 sentences, 43 words, 4 OOVs
+0 zeroprobs, logprob= -103.5747 ppl= 388.4783 ppl1= 452.6482
+
+certain be two approach to classroom education : the notion that teacher impart knowledge that student be obligate to absorb , versus the concept of student-centered learning that seek to teach child not fact , but problem solve ability and learn skill .
+1 sentences, 43 words, 4 OOVs
+0 zeroprobs, logprob= -103.7328 ppl= 392.0311 ppl1= 456.8945
+
+sure be two approach to classroom education : the notion that teacher impart knowledge that student be obligate to absorb , versus the concept of student-centered learning that seek to teach child not fact , but problem solve ability and learn skill .
+1 sentences, 43 words, 4 OOVs
+0 zeroprobs, logprob= -103.4328 ppl= 385.3185 ppl1= 448.8724
+
+definite be two approach to classroom education : the notion that teacher impart knowledge that student be obligate to absorb , versus the concept of student-centered learning that seek to teach child not fact , but problem solve ability and learn skill .
+1 sentences, 43 words, 4 OOVs
+0 zeroprobs, logprob= -105.077 ppl= 423.5694 ppl1= 494.6313
+
+it?s criminal to rob a bank , and bank go to great length to prevent such crime .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -29.80482 ppl= 72.9124 ppl1= 97.04835
+
+it?s legal to rob a bank , and bank go to great length to prevent such crime .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -31.9709 ppl= 99.58204 ppl1= 135.3297
+
+it?s illegal to rob a bank , and bank go to great length to prevent such crime .
+1 sentences, 18 words, 3 OOVs
+0 zeroprobs, logprob= -31.68331 ppl= 95.54472 ppl1= 129.4853
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain control , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -60.10553 ppl= 410.4725 ppl1= 539.5972
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain law , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -61.65353 ppl= 479.2789 ppl1= 634.5024
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain peace , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -60.47221 ppl= 425.8204 ppl1= 560.7079
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain quiet , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -62.95295 ppl= 545.8642 ppl1= 726.9383
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain calm , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -61.75292 ppl= 484.0714 ppl1= 641.1368
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain goodness , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -64.60792 ppl= 644.2284 ppl1= 864.4173
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain chaos , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -62.79766 ppl= 537.444 ppl1= 715.2194
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain noise , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -63.73519 ppl= 590.3306 ppl1= 788.9585
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain violence , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -63.73519 ppl= 590.3306 ppl1= 788.9585
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain liberty , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -62.5866 ppl= 526.207 ppl1= 699.5931
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain answer , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -63.24042 ppl= 561.8021 ppl1= 749.1424
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain turbulence , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -64.53436 ppl= 639.5017 ppl1= 857.788
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain confusion , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -63.73519 ppl= 590.3306 ppl1= 788.9585
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain mess , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -64.07294 ppl= 610.6325 ppl1= 817.3467
+
+accord to functionalism , the government have four main purpose : planning and direct society , meeting social need , maintain license , and manage international relation .
+1 sentences, 28 words, 6 OOVs
+0 zeroprobs, logprob= -63.73519 ppl= 590.3306 ppl1= 788.9585
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , decline .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -42.30883 ppl= 440.861 ppl1= 661.5893
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , lessen .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -43.69745 ppl= 538.3824 ppl1= 818.7731
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , reduce .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -42.05615 ppl= 425.1179 ppl1= 636.4193
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , temper .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -43.4954 ppl= 522.953 ppl1= 793.7679
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , decrease .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -42.5649 ppl= 457.4106 ppl1= 688.1134
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , cut .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -42.14264 ppl= 430.4422 ppl1= 644.925
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , close .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -41.8228 ppl= 411.0789 ppl1= 614.0262
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , moderate .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -42.86168 ppl= 477.37 ppl1= 720.1872
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , increase .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -41.73789 ppl= 406.0861 ppl1= 606.0745
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , grow .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -41.91943 ppl= 416.8355 ppl1= 623.2022
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , compliment .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -43.50375 ppl= 523.5814 ppl1= 794.7853
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , praise .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -42.371 ppl= 444.8233 ppl1= 667.9338
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , rise .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -41.98217 ppl= 420.6159 ppl1= 629.2328
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , raise .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -41.99929 ppl= 421.6534 ppl1= 630.8885
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , develop .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -41.68651 ppl= 403.0942 ppl1= 601.3127
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , expand .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -42.1563 ppl= 431.2892 ppl1= 646.2787
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , extend .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -42.10031 ppl= 427.8284 ppl1= 640.7484
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , strengthen .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -42.8427 ppl= 476.0674 ppl1= 718.0913
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , pause .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -43.53379 ppl= 525.8502 ppl1= 798.4595
+
+later sociologist study the lifecycle of social movements?how they emerge , grow , and in some case , disappear .
+1 sentences, 20 words, 5 OOVs
+0 zeroprobs, logprob= -42.75094 ppl= 469.8224 ppl1= 708.048
+
+this outlet bend to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -41.0854 ppl= 261.0888 ppl1= 369.6898
+
+this outlet shift to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -39.58868 ppl= 213.1796 ppl1= 298.0522
+
+this outlet move to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -37.76051 ppl= 166.4203 ppl1= 229.1034
+
+this outlet influence to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -40.52747 ppl= 242.0855 ppl1= 341.1668
+
+this outlet push to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -39.94557 ppl= 223.7379 ppl1= 313.7605
+
+this outlet slide to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -41.084 ppl= 261.0395 ppl1= 369.6156
+
+this outlet persuade to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -40.65859 ppl= 246.4234 ppl1= 347.6658
+
+this outlet remove to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -40.1724 ppl= 230.7183 ppl1= 324.1714
+
+this outlet inch to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -41.05256 ppl= 259.9299 ppl1= 367.9465
+
+this outlet convince to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -40.87842 ppl= 253.8709 ppl1= 358.8404
+
+this outlet stir to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -40.102 ppl= 228.5289 ppl1= 320.9039
+
+this outlet roll to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -40.87101 ppl= 253.6162 ppl1= 358.4578
+
+this outlet change to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -37.99571 ppl= 171.8074 ppl1= 236.9911
+
+this outlet remain to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -39.63104 ppl= 214.4065 ppl1= 299.875
+
+this outlet prevent to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -41.39117 ppl= 272.129 ppl1= 386.3209
+
+this outlet hold to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -40.2336 ppl= 232.639 ppl1= 327.0394
+
+this outlet keep to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -41.17828 ppl= 264.3939 ppl1= 374.6642
+
+this outlet fix to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -40.89757 ppl= 254.5304 ppl1= 359.8308
+
+this outlet stay to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -40.82259 ppl= 251.9583 ppl1= 355.9687
+
+this outlet stop to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -39.63228 ppl= 214.4422 ppl1= 299.9282
+
+this outlet discourage to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -41.67534 ppl= 282.8072 ppl1= 402.447
+
+this outlet steady to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -41.9928 ppl= 295.2327 ppl1= 421.2595
+
+this outlet fall to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -39.16717 ppl= 201.3499 ppl1= 280.51
+
+this outlet retire to reproduction , which be a necessary part of ensure the survival of society .
+1 sentences, 18 words, 2 OOVs
+0 zeroprobs, logprob= -39.94024 ppl= 223.5762 ppl1= 313.5196
+
+but gradually , they become stress by interact with people from a different culture who speak another language and use different regional expression .
+1 sentences, 24 words, 2 OOVs
+0 zeroprobs, logprob= -52.69949 ppl= 195.5609 ppl1= 248.5599
+
+these leader work hard to build consensus before choose a position and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -34.84382 ppl= 210.3397 ppl1= 308.2083
+
+these leader work hard to build consensus before choose a program and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -34.33713 ppl= 194.5995 ppl1= 283.5646
+
+these leader work hard to build consensus before choose a system and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -34.41775 ppl= 197.023 ppl1= 287.3499
+
+these leader work hard to build consensus before choose a course and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -35.09866 ppl= 218.731 ppl1= 321.4007
+
+these leader work hard to build consensus before choose a approach and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -36.25122 ppl= 261.0646 ppl1= 388.4838
+
+these leader work hard to build consensus before choose a practice and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -36.04304 ppl= 252.8539 ppl1= 375.4077
+
+these leader work hard to build consensus before choose a principle and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -37.08276 ppl= 296.6089 ppl1= 445.419
+
+these leader work hard to build consensus before choose a avenue and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -36.56436 ppl= 273.9203 ppl1= 409.016
+
+these leader work hard to build consensus before choose a method and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -35.77005 ppl= 242.4768 ppl1= 358.925
+
+these leader work hard to build consensus before choose a entertainment and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -36.45995 ppl= 269.5647 ppl1= 402.0517
+
+these leader work hard to build consensus before choose a fun and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -36.08491 ppl= 254.4839 ppl1= 378.0013
+
+these leader work hard to build consensus before choose a speech and move forward .
+1 sentences, 15 words, 1 OOVs
+0 zeroprobs, logprob= -36.19162 ppl= 258.6869 ppl1= 384.6941
+
+a professionally trained researcher , Schoepflin wonder what effect drive a hearse have on he friend and what effect it might have on other bound .
+1 sentences, 26 words, 3 OOVs
+0 zeroprobs, logprob= -58.03052 ppl= 261.781 ppl1= 333.477
+
+a professionally trained researcher , Schoepflin wonder what effect drive a hearse have on he friend and what effect it might have on other roadside .
+1 sentences, 26 words, 3 OOVs
+0 zeroprobs, logprob= -57.41868 ppl= 246.8567 ppl1= 313.6637
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make publicly .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -50.38419 ppl= 250.7535 ppl1= 330.5289
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make mostly .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -50.6043 ppl= 256.8789 ppl1= 339.0119
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make largely .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -50.04273 ppl= 241.5389 ppl1= 317.7873
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make typically .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -51.07385 ppl= 270.4507 ppl1= 357.843
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make commonly .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -51.79868 ppl= 292.8222 ppl1= 388.9862
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make roughly .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -51.35999 ppl= 279.0703 ppl1= 369.8275
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make widely .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -50.90413 ppl= 265.4643 ppl1= 350.9186
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make usually .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -50.47846 ppl= 253.3589 ppl1= 334.1358
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make normally .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -51.67491 ppl= 288.875 ppl1= 383.4824
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make about .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -49.50337 ppl= 227.6688 ppl1= 298.6543
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make altogether .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -51.25661 ppl= 275.925 ppl1= 365.4522
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make approximately .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -50.3428 ppl= 249.618 ppl1= 328.9575
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make extensively .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -52.73621 ppl= 324.525 ppl1= 433.3218
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make primarily .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -51.07385 ppl= 270.4507 ppl1= 357.843
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make regularly .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -51.07385 ppl= 270.4507 ppl1= 357.843
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make rarely .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -52.73621 ppl= 324.525 ppl1= 433.3218
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make sometimes .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -51.35999 ppl= 279.0703 ppl1= 369.8275
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make unusually .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -51.25661 ppl= 275.925 ppl1= 365.4522
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make exactly .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -50.6043 ppl= 256.8789 ppl1= 339.0119
+
+for example , if a factory produce only 100 car per year , each car will be quite expensive to make particularly .
+1 sentences, 23 words, 3 OOVs
+0 zeroprobs, logprob= -50.68399 ppl= 259.1334 ppl1= 342.1366
+
+you need to be able to vote intelligently on budget , regulation , and law almost .
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -38.67856 ppl= 378.9399 ppl1= 579.1005
+
+you need to be able to vote intelligently on budget , regulation , and law nearly .
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -39.23062 ppl= 412.4529 ppl1= 634.1424
+
+you need to be able to vote intelligently on budget , regulation , and law roughly .
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -39.39788 ppl= 423.1805 ppl1= 651.8304
+
+you need to be able to vote intelligently on budget , regulation , and law approximately .
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -39.02098 ppl= 399.3912 ppl1= 612.6503
+
+you need to be able to vote intelligently on budget , regulation , and law away .
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -38.97959 ppl= 396.8615 ppl1= 608.4937
+
+you need to be able to vote intelligently on budget , regulation , and law distant .
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -40.15371 ppl= 475.2411 ppl1= 738.1118
+
+you need to be able to vote intelligently on budget , regulation , and law far .
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -39.67694 ppl= 441.702 ppl1= 682.4442
+
+you need to be able to vote intelligently on budget , regulation , and law remote .
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -39.94444 ppl= 460.2168 ppl1= 713.1389
+
+you need to be able to vote intelligently on budget , regulation , and law usually .
+1 sentences, 17 words, 3 OOVs
+0 zeroprobs, logprob= -38.09156 ppl= 346.2878 ppl1= 525.8061
+
+no biological organism exist down , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -39.9933 ppl= 315.9232 ppl1= 463.682
+
+no biological organism exist alone , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -40.08045 ppl= 319.9104 ppl1= 469.9268
+
+no biological organism exist away , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -40.43264 ppl= 336.5424 ppl1= 496.0314
+
+no biological organism exist out , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -40.29433 ppl= 329.9103 ppl1= 485.6114
+
+no biological organism exist apart , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -41.77393 ppl= 408.198 ppl1= 609.4371
+
+no biological organism exist beside , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -40.08045 ppl= 319.9104 ppl1= 469.9268
+
+no biological organism exist near , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -38.75594 ppl= 264.3908 ppl1= 383.4683
+
+no biological organism exist nearby , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -39.23192 ppl= 283.136 ppl1= 412.5357
+
+no biological organism exist middle , and we behavior be influence by we interaction with other .
+1 sentences, 17 words, 2 OOVs
+0 zeroprobs, logprob= -40.0347 ppl= 317.8107 ppl1= 466.6377
+
+many of these student develop such a interest in the area that they last to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -46.70442 ppl= 167.5021 ppl1= 216.3821
+
+many of these student develop such a interest in the area that they proceed to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -45.37429 ppl= 144.7706 ppl1= 185.6583
+
+many of these student develop such a interest in the area that they conduct to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -46.78384 ppl= 168.967 ppl1= 218.3695
+
+many of these student develop such a interest in the area that they stay to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -46.06028 ppl= 156.0798 ppl1= 200.9158
+
+many of these student develop such a interest in the area that they endure to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -47.50787 ppl= 182.9278 ppl1= 237.3524
+
+many of these student develop such a interest in the area that they occur to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -46.72449 ppl= 167.8711 ppl1= 216.8826
+
+many of these student develop such a interest in the area that they happen to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -45.65114 ppl= 149.2326 ppl1= 191.6712
+
+many of these student develop such a interest in the area that they act to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -45.33258 ppl= 144.11 ppl1= 184.7689
+
+many of these student develop such a interest in the area that they advance to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -46.72571 ppl= 167.8935 ppl1= 216.913
+
+many of these student develop such a interest in the area that they bear to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -46.80963 ppl= 169.4454 ppl1= 219.0188
+
+many of these student develop such a interest in the area that they behave to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -47.24327 ppl= 177.6968 ppl1= 230.2309
+
+many of these student develop such a interest in the area that they stop to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -45.80703 ppl= 151.8053 ppl1= 195.1422
+
+many of these student develop such a interest in the area that they leave to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -46.26461 ppl= 159.6161 ppl1= 205.6982
+
+many of these student develop such a interest in the area that they continue to declare psychology as they major .
+1 sentences, 21 words, 1 OOVs
+0 zeroprobs, logprob= -44.57362 ppl= 132.603 ppl1= 169.3094
+
+all sociologist be interested in the experience of individual and how those experience be shape by interaction with social group and society altogether .
+1 sentences, 24 words, 1 OOVs
+0 zeroprobs, logprob= -54.70125 ppl= 190.2036 ppl1= 238.9545
+
+all sociologist be interested in the experience of individual and how those experience be shape by interaction with social group and society generally .
+1 sentences, 24 words, 1 OOVs
+0 zeroprobs, logprob= -52.93478 ppl= 160.552 ppl1= 200.2221
+
+all sociologist be interested in the experience of individual and how those experience be shape by interaction with social group and society together .
+1 sentences, 24 words, 1 OOVs
+0 zeroprobs, logprob= -53.32889 ppl= 166.7389 ppl1= 208.2798
+
+Ashley say that in the city they have be accustom to get look and hear comment when she and she partner walk together .
+1 sentences, 24 words, 2 OOVs
+0 zeroprobs, logprob= -50.15983 ppl= 151.6568 ppl1= 190.5426
+
+file checked_lemma.txt: 782 sentences, 17113 words, 2465 OOVs
+0 zeroprobs, logprob= -38712.24 ppl= 322.7709 ppl1= 439.3741

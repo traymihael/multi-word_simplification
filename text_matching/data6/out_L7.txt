@@ -1,0 +1,181 @@
+The history of life on earth has been a history of interaction between living things and their surroundings .
+	notfound
+
+
+To a large extent , the physical form and the habits of the earth 's vegetation and its animal life have been molded by the environment .
+	notfound
+
+
+Considering the whole span of earthly time , the opposite effect , in which life actually modifies its surroundings , has been relatively slight .
+	notfound
+
+
+Only within the moment of time represented by the present century has one species ?
+	notfound
+
+
+man?acquired significant power to alter the nature of his world .
+	notfound
+
+
+During the past quarter century this power has not only increased to one of disturbing magnitude but it has changed in character .
+	notfound
+
+
+The most alarming of all man 's assaults upon the environment is the contamination of air , earth , rivers , and sea with dangerous and even lethal materials .
+	notfound
+
+
+This pollution is for the most part irrecoverable ; the chain of evil it initiates not only in the world that must support life but in living tissues is for the most part irreversible .
+	notfound
+
+
+In this now universal contamination of the environment , chemicals are the sinister and littlerecognized partners of radiation in changing the very nature of the world?the very nature of its life .
+
+
+-LRB- 1 -RRB- Strontium 90 , released through nuclear explosions into the air , comes to earth in rain or drifts down as fallout , lodges in soil , enters into the grass or corn or wheat grown there , and in time takes up its abode in the bones of a human being , there to remain until his death .
+	notfound
+
+
+Similarly , chemicals sprayed on croplands or forests or gardens lie long in soil , entering into living organisms , passing from one to another in a chain of poisoning and death .
+	notfound
+
+
+Or they pass mysteriously by underground streams until they emerge and , through the alchemy of air and sunlight , combine into new forms that kill vegetation , sicken cattle , and work unknown harm on those who drink from once pure wells .
+	notfound
+
+
+As Albert Schweitzer has said , `` Man can hardly even recognize -LRB- 2 -RRB- the devils of his own creation . ''
+
+
+It took hundreds of millions of years to produce the life that now inhabits the earth?eons of time in which that developing and evolving and diversifying life reached a state of adjustment and balance with its surroundings .
+
+
+The environment , rigorously shaping and directing the life it supported , contained elements that were hostile as well as supporting .
+
+
+Certain rocks gave out dangerous radiation ; even within the light of the sun , from which all life draws its energy , there were short-wave radiations with power to injure .
+	notfound
+
+
+Given time?time not in years but in millennia?life adjusts , and a balance has been reached .
+	notfound
+
+
+For time is the essential ingredient ; but in the modern world there is no time .
+	notfound
+
+
+The rapidity of change and the speed with which new situations are created follow the impetuous and heedless pace of man rather than the deliberate pace of nature .
+	notfound
+
+
+Radiation is no longer merely the background radiation of rocks , the bombardment of cosmic rays , the ultraviolet of the sun that have existed before there was any life on earth ; radiation is now the unnatural creation of man 's tampering with the atom .
+	c:	cosmic ray	[adj noun]	unknown
+		radiation	0.8398930139571361
+	c:	no longer	[adv adv]	unknown
+		previously	0.18845090117492494
+		earlier	0.15208436974587766
+		once	0.14649248561234443
+		back	0.10292273611977973
+		bygone	-0.0065375339483784035
+	c:	tamper with	[verb prep]	unknown
+		resolve	0.17170313605063445
+		temper	0.15776845449096813
+		warp	0.1545990729124314
+		keep	0.15245706930350755
+		moderate	0.15166968181911927
+
+
+The chemicals to which life is asked to make its adjustment are no longer merely the calcium and silica and copper and all the rest of the minerals washed out of the rocks and carried in rivers to the sea ; they are the synthetic creations of man 's inventive mind , brewed in his laboratories , and having no counterparts in nature .
+	c:	no longer	[adv adv]	unknown
+		previously	0.18845090117492494
+		earlier	0.15208436974587766
+		once	0.14649248561234443
+		back	0.10292273611977973
+		bygone	-0.0065375339483784035
+
+
+To adjust to these chemicals would require time on the scale that is nature 's ; it would require not merely the years of a man 's life but the life of generations .
+	notfound
+
+
+-LRB- 3 -RRB- And even this , were it by some miracle possible , would be futile , for the new chemicals come from our laboratories in an endless stream ; almost five hundred annually find their way into actual use in the United States alone .
+	d:	the States	[det noun]	unknown
+			(NP)[(NNP)]
+		Columbia	0.34511833678801224
+		US	0.32294035221195844
+		America	0.27188734639161133
+		USA	0.19591142447883395
+	c:	United States	[noun noun]	unknown
+		US	0.4295180969798288
+		USA	0.38857648869970607
+		Columbia	0.18722928596658908
+		America	0.1867194845245358
+
+
+The figure is staggering and its implications are not easily grasped ?
+
+
+500 new chemicals to which the bodies of men and animals are required somehow to adapt each year , chemicals totally outside the limits of biologic experience .
+	notfound
+
+
+Among them are many that are used in man 's war against nature .
+
+
+Since the mid - 1940 's over 200 basic chemicals have been created for use in killing insects , weeds , rodents , and other organisms described in the modern vernacular as `` pests '' ; and they are sold under several thousand different brand names .
+	notfound
+
+
+These sprays , dusts , and aerosols are now applied almost universally to farms , gardens , forests , and homes?nonselective chemicals that have the power to kill every insect , the `` good '' and the `` bad , '' to still the song of birds and the leaping of fish in the streams , to coat the leaves with a deadly film , and to linger on in soil?all this though the intended target may be only a few weeds or insects .
+	notfound
+
+
+Can anyone believe it is possible to lay down such a barrage of poisons on the surface of the earth without making it unfit for all life ?
+	notfound
+
+
+They should not be called `` insecticides , '' but `` biocides . ''
+	notfound
+
+
+The whole process of spraying seems caught up in an endless spiral .
+
+
+Since DDT was released for civilian use , a process of escalation has been going on in which ever more toxic materials must be found .
+	notfound
+
+
+This has happened because insects , in a triumphant vindication of Darwin 's principle of the survival of the fittest , have evolved super races immune to the particular insecticide used , hence a deadlier one has always to be developed?and then a deadlier one than that .
+	c:	immune to	[adj prep]	C2
+		sensitive	0.32583620453326406
+		responsive	0.3043423085634868
+		insensitive	0.27420076468870874
+		feeling	0.24397225871581774
+		aware	0.23830026892229925
+	c:	survival of the fittest	[noun prep det adj]	unknown
+	c:	the particular	[det adj]	B2
+		these	0.47571862835658196
+
+
+It has happened also because destructive insects often undergo a `` flareback , '' or resurgence , after spraying , in numbers greater than before .
+	c:	greater than	[adj prep]	unknown
+		less	0.5071935682002149
+		fewer	0.43073127104120246
+		exceeding	0.4215545996473231
+		beyond	0.3757326121833301
+		inferior	0.3512969583626821
+
+
+Thus the chemical war is never won , and all life is caught in its violent crossfire .
+	notfound
+
+
+Along with the possibility of the extinction of mankind by nuclear war , the central problem of our age has therefore become the contamination of man 's total environment with such substances of incredible potential for harm ?
+	notfound
+
+
+substances that accumulate in the tissues of plants and animals and even penetrate the germ cells to shatter or alter the very material of heredity upon which the shape of the future depends .
+
+

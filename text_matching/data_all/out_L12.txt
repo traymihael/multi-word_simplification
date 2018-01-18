@@ -1,0 +1,570 @@
+What is literature ?
+	c:	[noun]	what be	[other verb]	A1
+
+
+You 'd think this would be a central question for literary theory , but in fact it has not seemed to matter very much .
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	be seem	[verb verb]	A2
+	d:	[adv]	for fact	[prep noun]	A2
+	d:	[verb]	have to	[verb prep]	A1
+	c:	[noun]	have not	[verb adv]	A1
+	c:	[adj]	in fact	[prep noun]	A2
+	d:	[adv]	in matter	[prep noun]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adv]	it seem	[perPro verb]	A2
+	d:	[adj]	matter much	[verb adv]	A2
+	d:	[adv]	not much	[adv adv]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[adv]	this much	[det adj]	A1
+	d:	[noun]	think in	[verb prep]	A1
+	d:	[verb]	think to	[verb prep]	A1
+	c:	[noun]	very much	[adv noun]	A1
+	c:	[adj]	would be	[other verb]	A1
+
+
+Why should this be ?
+	notfound
+
+
+There appear to be two main reasons .
+	d:	[verb]	appear be	[verb verb]	A2
+	c:	[verb]	appear to be	[verb prep verb]	A2
+	c:	[adj]	to be	[prep verb]	A1
+
+
+First , since theory itself intermingles ideas from philosophy , linguistics , history , political theory , and psychoanalysis , why should theorists worry about whether the texts they 're reading are literary or not ?
+	d:	[adj]	about be	[prep verb]	A1
+	c:	[verb]	be read	[verb verb]	A1
+	c:	[conj]	or not	[conj adv]	A1
+	c:	[noun]	political theory	[adj noun]	B1
+	d:	[adv]	whether or not	[prep conj adv]	A1
+	c:	[verb]	worry about	[noun prep]	A1
+	d:	[adv]	whether not	[prep adv]	A1
+
+
+For students and teachers of literature today there is a whole range of critical projects , topics to read and write about?such as ` images of women in the early twentieth century ' ?
+	d:	[verb]	be early	[verb adj]	A2
+	d:	[verb]	be image of	[verb noun prep]	A2
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be read	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[noun]	image of	[noun prep]	A2
+	d:	[noun]	student teacher	[noun noun]	A1
+	d:	[verb]	write in	[verb prep]	A1
+
+
+where you can deal with both literary and nonliterary works .
+	c:	[verb]	deal with	[noun prep]	A2
+	c:	[noun]	literary work	[adj noun]	B1
+
+
+You can study Virginia Woolf 's novels or Freud 's case histories or both , and the distinction does n't seem methodologically crucial .
+	d:	[verb]	can do	[other verb]	A1
+	c:	[noun]	case history	[noun noun]	A1
+	d:	[conj]	or not	[conj adv]	A1
+
+
+It 's not that all texts are somehow equal : some texts are taken to be richer , more powerful , more exemplary , more contestatory , more central , for one reason or another .
+	d:	[adv]	all more	[det adj]	B1
+	d:	[noun]	all powerful	[det noun]	A2
+	d:	[verb]	be all for	[verb det prep]	A1
+	d:	[verb]	be equal to	[verb adj prep]	B1
+	d:	[verb]	be for	[verb prep]	A1
+	c:	[verb]	be take	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	equal to	[adj prep]	B1
+	d:	[adv]	for reason	[prep noun]	A1
+	d:	[adj]	more another	[adv det]	B1
+	d:	[adv]	more more	[adv adv]	B1
+	d:	[adj]	more reason	[adv verb]	B1
+	d:	[adj]	more for	[adv prep]	B1
+	d:	[prep]	not for	[adv prep]	A1
+	d:	[adv]	not all	[adv det]	A1
+	d:	[adj]	not equal to	[adv adj prep]	B1
+	d:	[pron]	not one	[adv adj]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[pron]	one another	[adj det]	A1
+	d:	[adv]	somehow another	[adv det]	B1
+	d:	[adv]	somehow or another	[adv conj det]	B1
+	d:	[verb]	take for	[verb prep]	A1
+	c:	[verb]	take to	[verb prep]	A1
+	d:	[adv]	that be	[det verb]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[verb]	take be	[verb verb]	A1
+	c:	[verb]	take to be	[verb prep verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	that be to be	[det verb prep verb]	A1
+	d:	[pron]	that one	[prep adj]	A1
+
+
+But both literary and non-literary works can be studied together and in similar ways .
+	d:	[verb]	be in	[verb prep]	A1
+	c:	[adv]	can be	[other verb]	A1
+	d:	[adv]	in way	[prep noun]	A1
+	c:	[noun]	literary work	[adj noun]	B1
+	d:	[verb]	work in	[noun prep]	A1
+	d:	[verb]	work together	[noun adv]	A1
+
+
+Second , the distinction has not seemed central because works of theory have discovered what is most simply called the ' literariness ' of non-literary phenomena .
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[prep]	because of	[prep prep]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	c:	[noun]	have not	[verb adv]	A1
+	d:	[noun]	most call	[adv verb]	A2
+	d:	[adj]	not what be	[adv other verb]	A1
+	d:	[verb]	not work	[adv verb]	A1
+	d:	[noun]	the most	[det adv]	A2
+	d:	[noun]	the work	[det noun]	A1
+	d:	[noun]	the call	[det noun]	A1
+	c:	[noun]	what be	[other verb]	A1
+
+
+Qualities often thought to be literary turn out to be crucial to non-literary discourses and practices as well .
+	c:	[adv]	as well	[adv adv]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be turn to	[verb verb prep]	A1
+	c:	[adj]	out to	[prep prep]	A1
+	d:	[verb]	think out	[verb prep]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	to turn	[prep verb]	A1
+	c:	[verb]	turn out	[verb prep]	A1
+	d:	[verb]	turn to	[verb prep]	A1
+	d:	[verb]	think as	[verb prep]	A1
+	d:	[verb]	turn out be	[verb prep verb]	A1
+	c:	[verb]	turn out to be	[verb prep prep verb]	A1
+	c:	[verb]	think to	[verb prep]	A1
+	d:	[verb]	turn out well	[verb prep adv]	A1
+
+
+For instance , discussions of the nature of historical understanding have taken as a model what is involved in understanding a story .
+	d:	[adj]	as be	[adv verb]	A2
+	c:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be understand	[verb verb]	A2
+	c:	[conj]	for instance	[prep noun]	B1
+	d:	[adv]	for what	[prep det]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	take in	[verb prep]	A1
+	d:	[verb]	take be	[verb verb]	A1
+	c:	[verb]	take as	[verb adv]	A2
+	c:	[noun]	what be	[other verb]	A1
+
+
+Characteristically , historians do not produce explanations that are like the predictive explanations of science : they can not show that when X and Y occur , Z will necessarily happen .
+	c:	[verb]	be like	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be show	[verb verb]	A1
+	d:	[verb]	do like	[verb prep]	A1
+	d:	[noun]	like of	[prep prep]	A1
+	c:	[verb]	not show	[adv verb]	A1
+	c:	[adv]	that be	[det verb]	A1
+	d:	[noun]	when will	[XXXXX other]	A1
+
+
+What they do , rather , is to show how one thing led to another , how the First World War came to break out , not why it had to happen .
+	d:	[verb]	be come	[verb verb]	A1
+	d:	[verb]	be show	[verb verb]	A1
+	c:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	break it to	[verb perPro prep]	A1
+	c:	[verb]	break out	[verb prep]	A1
+	d:	[verb]	break to	[noun prep]	A2
+	d:	[verb]	come have	[verb verb]	A1
+	d:	[verb]	come out	[verb prep]	A1
+	d:	[verb]	come to have	[verb prep verb]	A1
+	c:	[verb]	come to	[verb prep]	A1
+	d:	[verb]	do it	[verb perPro]	A1
+	d:	[verb]	do one thing	[verb adj noun]	A1
+	d:	[verb]	do thing	[verb noun]	A1
+	c:	[verb]	have to	[verb prep]	A1
+	d:	[noun]	lead out	[verb prep]	B1
+	c:	[verb]	lead to	[noun prep]	A2
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[pron]	one another	[adj det]	A1
+	d:	[adj]	out it	[prep perPro]	A1
+	c:	[noun]	one thing	[adj noun]	A1
+	d:	[adj]	out to	[prep prep]	A1
+	c:	[verb]	show how	[verb XXXXX]	A1
+	d:	[verb]	show out	[verb prep]	A1
+	d:	[adj]	to come	[prep verb]	A1
+	d:	[noun]	what do	[det verb]	A1
+	d:	[noun]	what happen	[det verb]	A1
+	d:	[noun]	what be	[other verb]	A1
+	d:	[noun]	what be happen	[other verb verb]	A1
+
+
+The model for historical explanation is thus the logic of stories : the way a story shows how something came to happen , connecting the initial situation , the development , and the outcome in a way that makes sense .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	be come	[verb verb]	A1
+	d:	[verb]	be connect	[verb verb]	B1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be show	[verb verb]	A1
+	d:	[verb]	be something	[verb noun]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	come in	[verb prep]	A1
+	c:	[verb]	come to	[verb prep]	A1
+	d:	[noun]	for show	[prep noun]	A2
+	d:	[adv]	for that	[prep det]	A1
+	d:	[adv]	in a sense	[prep det noun]	A2
+	d:	[adj]	in make	[prep verb]	A1
+	d:	[adv]	in sense	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[adv]	in way	[prep noun]	A1
+	c:	[verb]	make sense	[verb noun]	A2
+	d:	[verb]	show the way	[verb det noun]	A1
+	c:	[verb]	show how	[verb XXXXX]	A1
+	d:	[verb]	show in	[noun prep]	A2
+	d:	[verb]	show way	[noun noun]	A2
+	d:	[noun]	way in	[noun prep]	A1
+
+
+The model for historical intelligibility , in short , is literary narrative .
+	c:	[adv]	in short	[prep adj]	A1
+
+
+We who hear and read stories are good at telling whether a plot makes sense , hangs together , or whether the story remains unfinished .
+	d:	[verb]	be at	[verb prep]	A1
+	c:	[verb]	be good	[verb adj]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	be tell	[verb verb]	A1
+	d:	[verb]	be hang	[verb verb]	B1
+	c:	[adj]	good at	[adj prep]	A1
+	d:	[noun]	good sense	[adj noun]	A2
+	c:	[verb]	hang together	[verb adv]	B1
+	d:	[verb]	hear tell	[verb verb]	A1
+	c:	[verb]	make sense	[verb noun]	A2
+	d:	[verb]	tell a story	[verb det noun]	A1
+	d:	[verb]	tell story	[verb noun]	A1
+	d:	[noun]	we a	[perPro det]	A1
+
+
+If the same models of what makes sense and what counts as a story characterize both literary and historical narratives , then distinguishing between them need not seem an urgent theoretical matter .
+	c:	[verb]	distinguish between	[verb prep]	B1
+	d:	[prep]	if not	[prep adv]	A1
+	c:	[verb]	make sense	[verb noun]	A2
+	d:	[adj]	same as	[adj prep]	A1
+	d:	[noun]	what what	[det det]	A1
+
+
+Similarly , theorists have come to insist on the importance in non-literary texts ?
+	d:	[verb]	come in	[verb prep]	A1
+	d:	[verb]	come on	[verb prep]	A1
+	c:	[verb]	come to	[verb prep]	A1
+	c:	[verb]	have come	[verb verb]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	c:	[verb]	insist on	[verb prep]	B1
+
+
+whether Freud 's accounts of his psychoanalytic cases or works of philosophical argument?of rhetorical devices such as metaphor , which have been thought crucial to literature but have often been considered purely ornamental in other sorts of discourses .
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be often in	[verb adv prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	c:	[verb]	be think	[verb verb]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[conj]	or but	[conj conj]	A1
+	c:	[adv]	sort of	[noun prep]	B1
+	c:	[conj]	such as	[adj prep]	A2
+	d:	[verb]	think of	[verb prep]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	think in	[verb prep]	A1
+	d:	[verb]	think to	[verb prep]	A1
+	d:	[verb]	work in	[noun prep]	A1
+
+
+In showing how rhetorical figures shape thought in other discourses as well , theorists demonstrate a powerful literariness at work in supposedly non-literary texts , thus complicating the distinction between the literary and the non-literary .
+	c:	[adv]	as well	[adv adv]	A2
+	c:	[adj]	at work	[prep noun]	A1
+	d:	[verb]	figure in	[noun prep]	A2
+	d:	[adj]	in shape	[prep noun]	A2
+	d:	[noun]	in work	[prep noun]	A1
+	c:	[verb]	show how	[verb XXXXX]	A1
+	d:	[verb]	show in	[noun prep]	A2
+	d:	[verb]	think as	[verb prep]	A1
+	c:	[noun]	think in	[verb prep]	A1
+	d:	[adj]	well in	[adv prep]	A1
+	c:	[verb]	work in	[noun prep]	A1
+
+
+But the fact that I describe this situation by speaking of the discovery of the ` literariness ' of non-literary phenomena indicates that the notion of literature continues to play a role and needs to be addressed .
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[noun]	by play	[prep noun]	A1
+	d:	[adv]	by the	[prep det]	A1
+	c:	[verb]	continue to	[verb prep]	A2
+	d:	[verb]	play to	[verb prep]	A1
+	c:	[verb]	play a role	[verb det noun]	A1
+	d:	[verb]	play role	[verb noun]	A1
+	c:	[prep]	speaking of	[noun prep]	unknown
+	d:	[adv]	that be	[det verb]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	c:	[noun]	the fact	[det noun]	A2
+	d:	[adj]	the indicate	[det verb]	A2
+	d:	[noun]	this that	[det det]	A1
+
+
+We find ourselves back at the key question , ` What is literature ? '
+	d:	[verb]	find key	[verb noun]	A1
+	d:	[verb]	find the key	[verb det noun]	A1
+	d:	[pron]	the question	[det noun]	A1
+	c:	[noun]	what be	[other verb]	A1
+
+
+, which will not go away .
+	c:	[verb]	go away	[verb adv]	A1
+
+
+But what sort of question is it ?
+	c:	[adv]	sort of	[noun prep]	B1
+	d:	[noun]	what be	[other verb]	A1
+
+
+If a 5-year-old is asking , it 's easy .
+	notfound
+
+
+` Literature ' , you answer ' , is stories , poems , and plays . '
+	notfound
+
+
+But if the questioner is a literary theorist , it 's harder to know how to take the query .
+	d:	[verb]	be take	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[noun]	know how	[verb XXXXX]	A1
+
+
+It might be a question about the general nature of this object , literature , which both of you already know well .
+	d:	[verb]	be about	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[adv]	might be	[other verb]	A2
+	c:	[adv]	of this	[prep det]	A1
+
+
+What sort of object or activity is it ?
+	c:	[adv]	sort of	[noun prep]	B1
+	d:	[noun]	what be	[other verb]	A1
+
+
+What does it do ?
+	c:	[verb]	do it	[verb perPro]	A1
+	c:	[noun]	what do	[det verb]	A1
+
+
+What purposes does it serve ?
+	c:	[verb]	do it	[verb perPro]	A1
+	d:	[noun]	what do	[det verb]	A1
+
+
+Thus understood ' , What is literature ? '
+	c:	[noun]	what be	[other verb]	A1
+
+
+asks not for a definition but for an analysis , even an argument about why one might concern oneself with literature at all .
+	d:	[adj]	a one	[det adj]	A1
+	d:	[verb]	ask about	[verb prep]	A1
+	d:	[verb]	ask for	[verb prep]	A1
+	d:	[verb]	ask oneself	[verb noun]	B1
+	c:	[noun]	at all	[prep det]	A1
+	c:	[adj]	but for	[conj prep]	A1
+	c:	[verb]	concern oneself	[noun noun]	B1
+	c:	[verb]	concern oneself with	[noun noun prep]	B1
+	d:	[verb]	concern with	[noun prep]	A2
+	d:	[prep]	even with	[adv prep]	A2
+	d:	[adv]	for oneself	[prep noun]	B1
+	d:	[adv]	not at all	[adv prep det]	A1
+	d:	[adj]	not oneself	[adv noun]	B1
+	c:	[prep]	not for	[adv prep]	A1
+	d:	[adv]	not all	[adv det]	A1
+	d:	[pron]	not one	[adv adj]	A1
+	d:	[noun]	one all	[adj det]	A1
+
+
+But ` What is literature ? '
+	c:	[noun]	what be	[other verb]	A1
+
+
+might also be a question about distinguishing characteristics of the works known as literature : what distinguishes them from non-literary works ?
+	d:	[adv]	also know as	[adv verb prep]	A1
+	d:	[verb]	be about	[verb prep]	A1
+	d:	[verb]	be characteristic of	[verb adj prep]	B2
+	d:	[verb]	be distinguish from	[verb verb prep]	B1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[noun]	distinguish characteristic	[verb adj]	B2
+	d:	[adv]	might be	[other verb]	A2
+	c:	[noun]	the work	[det noun]	A1
+
+
+What differentiates literature from other human activities or pastimes ?
+	notfound
+
+
+Now people might ask this question because they were wondering how to decide which books are literature and which are not , but it is more likely that they already have an idea what counts as literature and want to know something else : are there any essential , distinguishing features that literary works share ?
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[verb]	ask question	[verb noun]	A1
+	d:	[verb]	be feature	[verb verb]	B2
+	d:	[verb]	be something	[verb noun]	A1
+	c:	[verb]	be there	[verb XXXXX]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be want	[verb verb]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[noun]	how be	[XXXXX verb]	A1
+	d:	[noun]	how it be	[XXXXX perPro verb]	A1
+	d:	[noun]	how to book	[XXXXX prep noun]	A1
+	d:	[adj]	likely to	[adv prep]	A2
+	c:	[noun]	literary work	[adj noun]	B1
+	d:	[adj]	more to be	[adj prep verb]	B1
+	d:	[noun]	might have be	[other verb verb]	A2
+	d:	[adv]	might be	[other verb]	A2
+	d:	[adj]	more already	[adv adv]	B1
+	d:	[adj]	more count	[adv verb]	B1
+	d:	[adj]	more have	[adv verb]	B1
+	d:	[adj]	more have be	[adv verb verb]	B1
+	d:	[adj]	more something	[adv noun]	B1
+	d:	[conjuction]	now that	[adv prep]	A1
+	d:	[verb]	not know	[adv verb]	A1
+	d:	[adj]	not what be	[adv other verb]	A1
+	d:	[verb]	not work	[adv verb]	A1
+	d:	[pron]	not any	[adv det]	A1
+	d:	[adv]	not count	[adv verb]	A2
+	d:	[adv]	not likely	[adv adj]	A2
+	d:	[adj]	not there	[adv adv]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[adj]	not want	[adv verb]	A1
+	c:	[noun]	something else	[noun adv]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[noun]	this and that	[det conj prep]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that idea	[prep noun]	A1
+	d:	[adv]	to which	[prep det]	A1
+	d:	[noun]	this that	[det det]	A1
+	d:	[adj]	to be have	[prep verb verb]	A1
+	c:	[verb]	want to	[verb prep]	A1
+	d:	[verb]	want know	[verb verb]	A1
+	c:	[verb]	want to know	[verb prep verb]	A1
+	d:	[noun]	what be	[other verb]	A1
+
+
+This is a difficult question .
+	notfound
+
+
+Theorists have wrestled with it , but without notable success .
+	d:	[adj]	have it	[verb perPro]	A1
+	c:	[adj]	with it	[prep perPro]	A1
+	c:	[verb]	wrestle with	[verb prep]	unknown
+
+
+The reasons are not far to seek : works of literature come in all shapes and sizes and most of them seem to have more in common with works that are n't usually called literature than they do with some other works recognized as literature .
+	d:	[adj]	all in	[det prep]	A1
+	d:	[adv]	all more	[det adj]	B1
+	c:	[noun]	all shape and size	[det noun conj noun]	A2
+	d:	[noun]	all shape size	[det noun noun]	A2
+	d:	[noun]	all that	[det det]	A1
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	be come	[verb verb]	A1
+	d:	[verb]	be common	[verb adj]	A2
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be recognize	[verb verb]	B1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	be seem	[verb verb]	A2
+	d:	[verb]	be seek	[verb verb]	A2
+	d:	[verb]	come be	[verb verb]	A1
+	d:	[verb]	come have	[verb verb]	A1
+	c:	[verb]	come in	[verb prep]	A1
+	d:	[verb]	come in to	[verb prep prep]	A1
+	d:	[verb]	come in to be	[verb prep prep verb]	A1
+	d:	[verb]	come of	[verb prep]	A1
+	d:	[verb]	come to be	[verb prep verb]	A1
+	d:	[verb]	come to have	[verb prep verb]	A1
+	d:	[verb]	come to	[verb prep]	A1
+	d:	[verb]	come with	[verb prep]	A1
+	c:	[verb]	do with	[verb prep]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have do	[verb verb]	A1
+	d:	[verb]	have do with	[verb verb prep]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[noun]	have not	[verb adv]	A1
+	c:	[adv]	in all	[prep det]	A1
+	c:	[adv]	in common	[prep adj]	A2
+	d:	[adj]	in most	[prep adj]	A2
+	d:	[adj]	in shape	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[noun]	in work	[prep noun]	A1
+	d:	[adj]	most to be	[adv prep verb]	A2
+	d:	[noun]	more call	[adv verb]	B1
+	d:	[adj]	more recognize	[adv verb]	B1
+	d:	[adv]	more than	[adj prep]	B1
+	d:	[adj]	more with	[adv prep]	B1
+	d:	[noun]	most call	[adv verb]	A2
+	d:	[adj]	most have	[adv verb]	A2
+	d:	[adj]	most have be	[adv verb verb]	A2
+	d:	[adj]	most have not	[adv verb adv]	A2
+	d:	[adj]	most recognize	[adv verb]	B1
+	d:	[adj]	most with	[adv prep]	A2
+	d:	[adj]	not do	[adv verb]	A1
+	c:	[noun]	not far	[adv adv]	A2
+	d:	[verb]	not work	[adv verb]	A1
+	d:	[adv]	not all	[adv det]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	c:	[prep]	some other	[det adj]	A2
+	c:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the most	[det adv]	A2
+	d:	[noun]	the work	[det noun]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	to do	[prep verb]	A1
+	d:	[pron]	that other	[prep adj]	A2
+	d:	[noun]	the call	[det noun]	A1
+	d:	[adj]	to come	[prep verb]	A1
+	d:	[verb]	work in	[noun prep]	A1
+	d:	[verb]	work in to	[noun prep prep]	A1
+	d:	[verb]	work with	[noun prep]	A1
+
+
+Charlotte Bronte 's Jane Eyre , for instance , more closely resembles an autobiography than it does a sonnet , and a poem by Robert Burns ?
+	c:	[conj]	for instance	[prep noun]	B1
+	d:	[adj]	more by	[adv prep]	B1
+	d:	[adv]	more than	[adj prep]	B1
+
+
+` My love is like a red , red rose ' ?
+	c:	[verb]	be like	[verb prep]	A1
+
+
+resembles a folk-song more than it does Shakespeare 's Hamlet .
+	c:	[adv]	more than	[adj prep]	B1
+
+
+Are there qualities shared by poems , plays , and novels that distinguish them from , say , songs , transcriptions of conversations , and autobiographies ?
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	be distinguish from	[verb verb prep]	B1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	be there	[verb XXXXX]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[noun]	by play	[prep noun]	A1
+
+

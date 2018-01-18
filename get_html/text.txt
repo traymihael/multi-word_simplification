@@ -1,0 +1,815 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="ja"
+	itemscope
+	itemtype="http://schema.org/WebSite"
+	prefix="og: http://ogp.me/ns#" >
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="ja"
+	itemscope
+	itemtype="http://schema.org/WebSite"
+	prefix="og: http://ogp.me/ns#" >
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="ja"
+	itemscope
+	itemtype="http://schema.org/WebSite"
+	prefix="og: http://ogp.me/ns#" >
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width">
+	<title>今すぐ使える英語のことわざ・慣用句 100本 | オンライン英会話コラム</title>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://eikaiwa.weblio.jp/column/xmlrpc.php">
+        <link rel="stylesheet" href="https://eikaiwa.weblio.jp/column/wp-content/themes/twentyfourteen/css/wpp.css">
+	<!--[if lt IE 9]>
+	<script src="https://eikaiwa.weblio.jp/column/wp-content/themes/twentyfourteen/js/html5.js"></script>
+	<![endif]-->
+			<script type="text/javascript">
+		var ajaxurl = 'https://eikaiwa.weblio.jp/column/wp-admin/admin-ajax.php';
+		</script>
+
+<!-- All in One SEO Pack 2.2.7.5 by Michael Torbert of Semper Fi Web Design[-1,-1] -->
+<meta name="description" itemprop="description" content="ことわざ（諺、名言、格言、金言）は長い時代を経て受け継がれてきた貴重な人生訓。英語のことわざには日本語のことわざとはまた違った含蓄があり、思わず口ずさみたくなる語感があったり、西洋の文化的背景が感じられたりと、ためになる知見が満載です。 お気に入りの英語ことわざを見つけて、英語学習の座右の銘にしてみてはいかがでし" />
+
+<meta name="keywords" itemprop="keywords" content="座右の銘にしたい言葉,気の利いた一言,英語の慣用句" />
+
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="オンライン英会話コラム &raquo; フィード" href="https://eikaiwa.weblio.jp/column/feed" />
+<link rel="alternate" type="application/rss+xml" title="オンライン英会話コラム &raquo; コメントフィード" href="https://eikaiwa.weblio.jp/column/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/eikaiwa.weblio.jp\/column\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style type="text/css">
+	.wp-pagenavi{float:left !important; }
+	</style>
+  <link rel='stylesheet' id='seo-pagination-css'  href='https://eikaiwa.weblio.jp/column/wp-content/plugins/seo-pagination/seo-pagination.css' type='text/css' media='all' />
+<link rel='stylesheet' id='weblio-sns-plugins-css'  href='https://eikaiwa.weblio.jp/column/wp-content/plugins/weblio-sns-plugins/weblio-sns-plugins.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='https://eikaiwa.weblio.jp/column/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pz-linkcard-css'  href='https://eikaiwa.weblio.jp/column/wp-content/uploads/pz-linkcard/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='related-posts-helper-styles-css'  href='https://eikaiwa.weblio.jp/column/wp-content/plugins/related-posts-helper//css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sab-plugin-css'  href='https://eikaiwa.weblio.jp/column/wp-content/plugins/simple-author-box/css/simple-author-box.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sab-author-name-font-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='toc-screen-css'  href='https://eikaiwa.weblio.jp/column/wp-content/plugins/table-of-contents-plus/screen.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://eikaiwa.weblio.jp/column/wp-content/themes/twentyfourteen/genericons/genericons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfourteen-style-css'  href='https://eikaiwa.weblio.jp/column/wp-content/themes/twentyfourteen/style.css' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='https://eikaiwa.weblio.jp/column/wp-content/themes/twentyfourteen/css/ie.css' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='wp-pagenavi-style-css'  href='https://eikaiwa.weblio.jp/column/wp-content/plugins/wp-pagenavi-style/css/css3_black.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://eikaiwa.weblio.jp/column/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://eikaiwa.weblio.jp/column/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://eikaiwa.weblio.jp/column/wp-content/themes/twentyfourteen/js/eikaiwa-content.js'></script>
+<script type='text/javascript' src='https://eikaiwa.weblio.jp/column/wp-content/themes/twentyfourteen/js/jquery-scrolltofixed-min.js'></script>
+<link rel='https://api.w.org/' href='https://eikaiwa.weblio.jp/column/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://eikaiwa.weblio.jp/column/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://eikaiwa.weblio.jp/column/wp-includes/wlwmanifest.xml" />
+<link rel='prev' title='英語で「ギリギリ」を表現する場面別の英語フレーズ集' href='https://eikaiwa.weblio.jp/column/phrases/vocabulary/that_was_close' />
+<link rel='next' title='【2016年7月】月間アクセスランキング10＋オマケ' href='https://eikaiwa.weblio.jp/column/knowledge/most-popular-pages-2016-07' />
+<link rel='shortlink' href='https://eikaiwa.weblio.jp/column/?p=9186' />
+<link rel="alternate" type="application/json+oembed" href="https://eikaiwa.weblio.jp/column/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feikaiwa.weblio.jp%2Fcolumn%2Fphrases%2Fhandy_english_phrases%2Fuseful-english-proverbs-and-sayings" />
+<link rel="alternate" type="text/xml+oembed" href="https://eikaiwa.weblio.jp/column/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feikaiwa.weblio.jp%2Fcolumn%2Fphrases%2Fhandy_english_phrases%2Fuseful-english-proverbs-and-sayings&#038;format=xml" />
+<style type="text/css">div#toc_container ul li {font-size: 90%;}</style><meta property="og:title" content="＜Weblio英会話コラム＞今すぐ使える英語のことわざ・慣用句 100本" /><meta property="og:type" content="blog" /><meta property="og:url" content="https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/useful-english-proverbs-and-sayings" /><meta property="og:image" content="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/04/05023620/glasses-glass-452549_640.jpg" /><meta property="og:description" content="ことわざ（諺、名言、格言、金言）は長い時代を経て受け継がれてきた貴重な人生訓。英語のことわざには日本語のことわざとはまた違った含蓄があり、思わず口ずさみたくなる語感があったり、西洋の文化的背景が感じられたりと、ためになる知見が満載です。 お気に入りの英語ことわざを見つけて、英語学習の座右の銘にしてみてはいかがでしょうか。" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@eikaiwa_weblio" /><meta name="twitter:domain" content="eikaiwa.weblio.jp" /><meta name="twitter:title" content="＜Weblio英会話コラム＞今すぐ使える英語のことわざ・慣用句 100本" /><meta name="twitter:description" content="ことわざ（諺、名言、格言、金言）は長い時代を経て受け継がれてきた貴重な人生訓。英語のことわざには日本語のことわざとはまた違った含蓄があり、思わず口ずさみたくなる語感があったり、西洋の文化的背景が感じられたりと、ためになる知見が満載です。 お気に入りの英語ことわざを見つけて、英語学習の座右の銘にしてみてはいかがでしょうか。" /><meta name="twitter:image" content="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/04/05023620/glasses-glass-452549_640.jpg" /><meta itemprop="image" content="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/04/05023620/glasses-glass-452549_640.jpg" /><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">	<style type="text/css">
+	 .wp-pagenavi
+	{
+		font-size:12px !important;
+	}
+	</style>
+	<link rel="dns-prefetch" href="//platform.twitter.com">
+	<style type="text/css" id="twentyfourteen-header-css">
+			.site-title,
+		.site-description {
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+			position: absolute;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+<style type="text/css">.saboxplugin-wrap {border-color:#aeaeae;}.saboxplugin-wrap .saboxplugin-socials {-webkit-box-shadow: 0 0.05em 0 0 #aeaeae inset; -moz-box-shadow:0 0.05em 0 0 #aeaeae inset;box-shadow:0 0.05em 0 0 #aeaeae inset;}.saboxplugin-wrap .saboxplugin-gravatar img {-webkit-border-radius:50%;-moz-border-radius:50%;-ms-border-radius:50%;-o-border-radius:50%;border-radius:50%;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color:before {text-shadow: none;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color {border: medium none !important;}.saboxplugin-wrap .saboxplugin-socials{background-color:#eeeeee;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-grey {color:#2fccff;}.saboxplugin-wrap .saboxplugin-authorname a {color:#757575;}.saboxplugin-wrap .saboxplugin-authorname {font-family:"Source Sans Pro";}.saboxplugin-wrap {margin-top:0px;}.saboxplugin-wrap {margin-bottom:0px;}.saboxplugin-wrap .saboxplugin-authorname {font-size:18px; line-height:25px;}.saboxplugin-wrap .saboxplugin-desc {font-size:13px; line-height:20px;}.saboxplugin-wrap .saboxplugin-web {font-size:14px;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color {font-size:18px;}.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color:before {width:30px; height:30px; line-height:31px; }.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-grey {font-size:15px;}</style>
+
+<meta name="twitter:widgets:csp" content="on"><meta name="twitter:widgets:link-color" content="#8080ff"><meta name="twitter:widgets:border-color" content="#c0c0c0"><meta name="twitter:partner" content="tfwp">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W3ZP79');</script>
+<!-- End Google Tag Manager -->
+
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/2211331/eikaiwa-column_kiji_main_kijishita_600-170', [468, 60], 'div-gpt-ad-1490610158720-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+</head>
+
+<body class="single single-post postid-9186 single-format-standard custom-background group-blog header-image full-width singular">
+<div id="page" class="hfeed site">
+		<div id="site-header">
+		<div class="site-header-center">
+			<a class="left-logo" href="https://eikaiwa.weblio.jp/column/">
+				<img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/08/19203432/Weblio-Eikaiwa-Column-Logo.png" alt="Weblio英会話コラム">
+			</a>
+			<a href="https://eikaiwa.weblio.jp/business/?utm_source=column_header&utm_medium=button&utm_campaign=eikaiwa_b_contact" class="top-hojin-link"><span class="right-arrow20"></span>法人のお客様</a>
+
+			<h1 style="display:inline;"><a href="https://eikaiwa.weblio.jp/?utm_source=eikaiwa-column&utm_medium=link&utm_content=PC_eikaiwa-column_header_logolink&utm_campaign=%E3%80%90Weblio%E8%8B%B1%E4%BC%9A%E8%A9%B1%E3%83%88%E3%83%83%E3%83%97%E3%81%B8%E3%81%AE%E8%AA%98%E5%B0%8E%E3%80%91%E3%83%98%E3%83%83%E3%83%80%E3%83%BC%E3%83%AD%E3%82%B4" class=right-logo>
+				<img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/08/19204803/Weblio-Eikaiwa-mini-Logo21.png" alt="weblio英会話">
+			</a></h1>
+		</div>
+	</div>
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<div class="site-title"><a href="https://eikaiwa.weblio.jp/column/" rel="home">オンライン英会話コラム</a></div>
+
+
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="menu-global_navi-container"><ul id="menu-global_navi" class="nav-menu"><li id="menu-item-3507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3507"><a href="https://eikaiwa.weblio.jp/wte/reslstfrm/">レッスン予約</a></li>
+<li id="menu-item-921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-921"><a title="講師一覧" href="https://eikaiwa.weblio.jp/wte/prflstfrm/">講師一覧</a></li>
+<li id="menu-item-922" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-922"><a title="料金プラン" href="https://eikaiwa.weblio.jp/wte/plan/">料金プラン</a></li>
+<li id="menu-item-926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-926"><a title="お問い合わせ" href="https://eikaiwa.weblio.jp/WTE/site.cgi?m=inqfrmshw">お問い合わせ</a></li>
+<li id="menu-item-924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-924"><a title="英会話力診断" href="https://uwl.weblio.jp/speaking-test?utm_source=eikaiwa-column&#038;utm_campaign=speaking-test&#038;utm_medium=link&#038;utm_content=eikaiwa-column_glonavi_link">英会話力診断</a></li>
+<li id="menu-item-927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-927"><a title="英会話コラム" href="https://eikaiwa.weblio.jp/column/">英会話コラム</a></li>
+<li id="menu-item-8918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8918"><a href="https://eikaiwa.weblio.jp/business/?utm_source=column_header&#038;utm_medium=button&#038;utm_campaign=eikaiwa_b_lp">法人向けサービス</a></li>
+</ul></div>			</nav>
+		</div>
+
+	</header><!-- #masthead -->
+<!-- https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/useful-english-proverbs-and-sayings --><div id="main-content" class="main-content">
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+<article id="post-9186" class="post-9186 post type-post status-publish format-standard hentry category-handy_english_phrases tag-2051 tag-129 tag-2014">
+
+	<header class="entry-header">
+				<div class="entry-meta">
+		</div>
+		<h1 class="entry-title">今すぐ使える英語のことわざ・慣用句 100本</h1><div class="bread-crumb-wrapper"><a href="https://eikaiwa.weblio.jp/column/">英会話コラムトップ</a><span class="right-arrow"></span><a href="https://eikaiwa.weblio.jp/column/category/phrases">今すぐ使える英会話表現</a><span class="right-arrow"></span><a href="https://eikaiwa.weblio.jp/column/category/phrases/handy_english_phrases">今すぐ使える英語フレーズ集</a><span class="right-arrow"></span><span class="current">今すぐ使える英語のことわざ・慣用句 100本</span></div>		<div class="entry-meta">
+			<span class="entry-date"><a href="https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/useful-english-proverbs-and-sayings" rel="bookmark"><time class="entry-date updated" datetime="2016-08-08T11:00:20+00:00">2016年8月8日</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://eikaiwa.weblio.jp/column/author/weblio" rel="author">weblio</a></span></span>		</div><!-- .entry-meta -->
+<footer class="entry-meta"><span class="tag-links"><a href="https://eikaiwa.weblio.jp/column/tag/%e5%ba%a7%e5%8f%b3%e3%81%ae%e9%8a%98%e3%81%ab%e3%81%97%e3%81%9f%e3%81%84%e8%a8%80%e8%91%89" rel="tag">座右の銘にしたい言葉</a><a href="https://eikaiwa.weblio.jp/column/tag/%e6%b0%97%e3%81%ae%e5%88%a9%e3%81%84%e3%81%9f%e4%b8%80%e8%a8%80" rel="tag">気の利いた一言</a><a href="https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e8%aa%9e%e3%81%ae%e6%85%a3%e7%94%a8%e5%8f%a5" rel="tag">英語の慣用句</a></span></footer>
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<div class="sns-buttons-area-non-border"><div class="facebook"><a href="http://www.facebook.com/share.php?u=https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/useful-english-proverbs-and-sayings" onclick="window.open(this.href, 'window', 'width=550, height=450,personalbar=0,toolbar=0,scrollbars=1,resizable=1'); return false;"><span class="fa fa-facebook"></span>&nbsp;Facebook</a></div>
+<div class="googleplus"><a href="javascript:(function(){window.open('https://plusone.google.com/_/+1/confirm?hl=ja&url=https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/useful-english-proverbs-and-sayings'+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title),'_blank');})();"><span class="fa fa-google-plus">&nbsp;Google+</span></a></div>
+<div class="twitter"><a class="button-twitter" href="http://twitter.com/" onclick="window.open(encodeURI(decodeURI('http://twitter.com/intent/tweet?text=%EF%BC%9CWeblio%E8%8B%B1%E4%BC%9A%E8%A9%B1%E3%82%B3%E3%83%A9%E3%83%A0%EF%BC%9E今すぐ使える英語のことわざ・慣用句 100本オンライン英会話コラム&nbsp;|&nbsp;&amp;url=https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/useful-english-proverbs-and-sayings')),'tweetwindow','width=550, height=450, personalbar=0, toolbar=0, scrollbars=1, resizable=1');return false;" target="_blank"><span class="fa fa-twitter">&nbsp;Twitter</span></a></div>
+<div class="hatebu"><a href="http://b.hatena.ne.jp/add?mode=confirm&url=https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/useful-english-proverbs-and-sayings&title=今すぐ使える英語のことわざ・慣用句 100本オンライン英会話コラム" target="_blank">はてブ</a></div>
+<div class="line"><a href="https://line.me/R/ti/p/%40jvy8420y">LINE&nbsp;友だち追加</a></div></div><p><img class="alignnone size-full wp-image-10793" src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/04/05023620/glasses-glass-452549_640.jpg" alt="glasses-glass-452549_640" width="640" height="480" srcset="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/04/05023620/glasses-glass-452549_640-300x225.jpg 300w, https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/04/05023620/glasses-glass-452549_640.jpg 640w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p>ことわざ（諺、名言、格言、金言）は長い時代を経て受け継がれてきた貴重な人生訓。英語のことわざには日本語のことわざとはまた違った含蓄があり、思わず口ずさみたくなる語感があったり、西洋の文化的背景が感じられたりと、ためになる知見が満載です。</p>
+<p>お気に入りの英語ことわざを見つけて、英語学習の座右の銘にしてみてはいかがでしょうか。</p>
+<p><span id="more-9186"></span><br />
+<span style="font-size: 80%;"><a href="https://eikaiwa.weblio.jp/column/phrases/natural_english/proverb" target="_blank">→英語圏でも意味が通じる英語・日本語で共通のことわざ</a></span></p>
+<div id="toc_container" class="no_bullets"><p class="toc_title">もくじ</p><ul class="toc_list"><li><a href="#i"><span class="toc_number toc_depth_1">1</span> もくじをスキップするならここをクリック</a></li><li><a href="#100"><span class="toc_number toc_depth_1">2</span> ことわざ100選</a><ul><li><a href="#the-first-step-is-always-the-hardest"><span class="toc_number toc_depth_2">2.1</span> The first step is always the hardest.</a></li><li><a href="#failure-teaches-success"><span class="toc_number toc_depth_2">2.2</span> Failure teaches success.</a></li><li><a href="#there-is-no-royal-road-to-learning"><span class="toc_number toc_depth_2">2.3</span> There is no royal road to learning.</a></li><li><a href="#good-seed-makes-a-good-crop"><span class="toc_number toc_depth_2">2.4</span> Good seed makes a good crop.</a></li><li><a href="#adversity-makes-a-man-wise"><span class="toc_number toc_depth_2">2.5</span> Adversity makes a man wise.</a></li><li><a href="#practice-makes-perfect"><span class="toc_number toc_depth_2">2.6</span> Practice makes perfect.</a></li><li><a href="#cheats-never-prosper"><span class="toc_number toc_depth_2">2.7</span> Cheats never prosper.</a></li><li><a href="#never-put-off-till-tomorrow-what-can-be-done-today"><span class="toc_number toc_depth_2">2.8</span> Never put off till tomorrow what can be done today.</a></li><li><a href="#faith-will-move-mountains"><span class="toc_number toc_depth_2">2.9</span> Faith will move mountains.</a></li><li><a href="#better-late-than-never"><span class="toc_number toc_depth_2">2.10</span> Better late than never.</a></li><li><a href="#it8217s-never-too-late-to-learn"><span class="toc_number toc_depth_2">2.11</span> It&#8217;s never too late to learn.</a></li><li><a href="#every-man-is-the-architect-of-his-own-fortune"><span class="toc_number toc_depth_2">2.12</span> Every man is the architect of his own fortune.</a></li><li><a href="#life-is-what-you-make-it"><span class="toc_number toc_depth_2">2.13</span> Life is what you make it.</a></li><li><a href="#no-pain-no-gain"><span class="toc_number toc_depth_2">2.14</span> No pain no gain.</a></li><li><a href="#nothing-ventured-nothing-gained"><span class="toc_number toc_depth_2">2.15</span> Nothing ventured, nothing gained.</a></li><li><a href="#easy-come-easy-go"><span class="toc_number toc_depth_2">2.16</span> Easy come, easy go.</a></li><li><a href="#first-come-first-served"><span class="toc_number toc_depth_2">2.17</span> First come, first served.</a></li><li><a href="#no-sweet-without-sweat"><span class="toc_number toc_depth_2">2.18</span> No sweet without sweat.</a></li><li><a href="#second-thoughts-are-best"><span class="toc_number toc_depth_2">2.19</span> Second thoughts are best.</a></li><li><a href="#pride-will-have-a-fall"><span class="toc_number toc_depth_2">2.20</span> Pride will have a fall.</a></li><li><a href="#might-is-right"><span class="toc_number toc_depth_2">2.21</span> Might is right.</a></li><li><a href="#where-theres-smoke-theres-fire"><span class="toc_number toc_depth_2">2.22</span> Where there’s smoke, there’s fire.</a></li><li><a href="#seeing-is-believing"><span class="toc_number toc_depth_2">2.23</span> Seeing is believing.</a></li><li><a href="#no-news-is-good-news"><span class="toc_number toc_depth_2">2.24</span> No news is good news.</a></li><li><a href="#the-older-the-wiser"><span class="toc_number toc_depth_2">2.25</span> The older, the wiser.</a></li><li><a href="#so-many-countries-so-many-customs"><span class="toc_number toc_depth_2">2.26</span> So many countries, so many customs</a></li><li><a href="#love-begets-love"><span class="toc_number toc_depth_2">2.27</span> Love begets love.</a></li><li><a href="#money-begets-money"><span class="toc_number toc_depth_2">2.28</span> Money begets money. </a></li><li><a href="#what-will-be-will-be"><span class="toc_number toc_depth_2">2.29</span> What will be, will be.</a></li><li><a href="#like-attracts-like"><span class="toc_number toc_depth_2">2.30</span> Like attracts like.</a></li><li><a href="#when-in-rome-do-as-the-romans-do"><span class="toc_number toc_depth_2">2.31</span> When in Rome do as the Romans do.</a></li><li><a href="#a-good-beginning-makes-a-good-ending"><span class="toc_number toc_depth_2">2.32</span> A good beginning makes a good ending.</a></li><li><a href="#haste-makes-waste"><span class="toc_number toc_depth_2">2.33</span> Haste makes waste.</a></li><li><a href="#make-haste-slowly"><span class="toc_number toc_depth_2">2.34</span> Make haste slowly.</a></li><li><a href="#too-far-east-is-west"><span class="toc_number toc_depth_2">2.35</span> Too far east is west.</a></li><li><a href="#nothing-comes-of-nothing"><span class="toc_number toc_depth_2">2.36</span> Nothing comes of nothing.</a></li><li><a href="#the-more-one-has-the-more-one-wants"><span class="toc_number toc_depth_2">2.37</span> The more one has, the more one wants.</a></li><li><a href="#grasp-all-lose-all"><span class="toc_number toc_depth_2">2.38</span> Grasp all, lose all.</a></li><li><a href="#all-covet-all-lose"><span class="toc_number toc_depth_2">2.39</span> All covet, all lose.</a></li><li><a href="#a-friend-to-everybody-is-a-friend-to-nobody"><span class="toc_number toc_depth_2">2.40</span> A friend to everybody is a friend to nobody.</a></li><li><a href="#set-a-thief-to-catch-a-thief"><span class="toc_number toc_depth_2">2.41</span> Set a thief to catch a thief</a></li><li><a href="#who-knows-most-speaks-least"><span class="toc_number toc_depth_2">2.42</span> Who knows most, speaks least.</a></li><li><a href="#soon-learnt-soon-forgotten"><span class="toc_number toc_depth_2">2.43</span> Soon learnt, soon forgotten.</a></li><li><a href="#what8217s-done-is-done"><span class="toc_number toc_depth_2">2.44</span> What&#8217;s done is done.</a></li><li><a href="#so-many-men-so-many-minds"><span class="toc_number toc_depth_2">2.45</span> So many men, so many minds</a></li><li><a href="#different-strokes-for-different-folks"><span class="toc_number toc_depth_2">2.46</span> Different strokes for different folks.</a></li><li><a href="#think-today-and-speak-tomorrow"><span class="toc_number toc_depth_2">2.47</span> Think today and speak tomorrow.</a></li><li><a href="#no-answer-is-also-an-answer"><span class="toc_number toc_depth_2">2.48</span> No answer is also an answer.</a></li><li><a href="#nothing-seek-nothing-find"><span class="toc_number toc_depth_2">2.49</span> Nothing seek, nothing find.</a></li><li><a href="#live-and-let-live"><span class="toc_number toc_depth_2">2.50</span> Live and let live.</a></li><li><a href="#he-laughs-best-who-laughs-last"><span class="toc_number toc_depth_2">2.51</span> He laughs best who laughs last.</a></li><li><a href="#like-father-like-son"><span class="toc_number toc_depth_2">2.52</span> Like father, like son.</a></li><li><a href="#look-before-you-leap"><span class="toc_number toc_depth_2">2.53</span> Look before you leap.</a></li><li><a href="#a-stitch-in-time-saves-nine"><span class="toc_number toc_depth_2">2.54</span> A stitch in time saves nine.</a></li><li><a href="#first-catch-your-hare"><span class="toc_number toc_depth_2">2.55</span> First catch your hare.</a></li><li><a href="#thats-life"><span class="toc_number toc_depth_2">2.56</span> That’s life.</a></li><li><a href="#knowledge-is-power"><span class="toc_number toc_depth_2">2.57</span> Knowledge is power.</a></li><li><a href="#travel-broadens-mind"><span class="toc_number toc_depth_2">2.58</span> Travel broadens mind.</a></li><li><a href="#every-medal-has-two-sides"><span class="toc_number toc_depth_2">2.59</span> Every medal has two sides.</a></li><li><a href="#never-judge-by-appearances"><span class="toc_number toc_depth_2">2.60</span> Never judge by appearances.</a></li><li><a href="#never-do-things-by-halves"><span class="toc_number toc_depth_2">2.61</span> Never do things by halves.</a></li><li><a href="#many-a-little-makes-a-mickle"><span class="toc_number toc_depth_2">2.62</span> Many a little makes a mickle.</a></li><li><a href="#never-spur-a-willing-horse"><span class="toc_number toc_depth_2">2.63</span> Never spur a willing horse.</a></li><li><a href="#a-word-to-the-wise-is-sufficient"><span class="toc_number toc_depth_2">2.64</span> A word to the wise is sufficient.</a></li><li><a href="#prevention-is-better-than-cure"><span class="toc_number toc_depth_2">2.65</span> Prevention is better than cure.</a></li><li><a href="#the-pot-calls-the-kettle-black"><span class="toc_number toc_depth_2">2.66</span> The pot calls the kettle black.</a></li><li><a href="#time-lost-cannot-be-recalled"><span class="toc_number toc_depth_2">2.67</span> Time lost cannot be recalled.</a></li><li><a href="#one-cannot-put-back-the-clock"><span class="toc_number toc_depth_2">2.68</span> One cannot put back the clock.</a></li><li><a href="#an-occasion-lost-cannot-be-redeemed"><span class="toc_number toc_depth_2">2.69</span> An occasion lost cannot be redeemed.</a></li><li><a href="#you-never-miss-the-water-till-the-well-runs-dry"><span class="toc_number toc_depth_2">2.70</span> You never miss the water till the well runs dry.</a></li><li><a href="#strike-while-the-iron-is-hot"><span class="toc_number toc_depth_2">2.71</span> Strike while the iron is hot.</a></li><li><a href="#a-stumble-might-prevent-a-fall"><span class="toc_number toc_depth_2">2.72</span> A stumble might prevent a fall.</a></li><li><a href="#words-have-wings-and-cannot-be-called"><span class="toc_number toc_depth_2">2.73</span> Words have wings, and cannot be called.</a></li><li><a href="#you-can8217t-eat-your-cake-and-have-it"><span class="toc_number toc_depth_2">2.74</span> You can&#8217;t eat your cake and have it.</a></li><li><a href="#the-peacock-has-fair-feathers-but-foul-feet"><span class="toc_number toc_depth_2">2.75</span> The peacock has fair feathers, but foul feet.</a></li><li><a href="#the-rotten-apple-injures-its-neighbor"><span class="toc_number toc_depth_2">2.76</span> The rotten apple injures its neighbor.</a></li><li><a href="#a-friend-in-need-is-a-friend-indeed"><span class="toc_number toc_depth_2">2.77</span> A friend in need is a friend indeed.</a></li><li><a href="#after-a-storm-comes-a-calm"><span class="toc_number toc_depth_2">2.78</span> After a storm comes a calm</a></li><li><a href="#let-sleeping-dogs-lie"><span class="toc_number toc_depth_2">2.79</span> Let sleeping dogs lie.</a></li><li><a href="#the-last-straw-breaks-the-camel8217s-back"><span class="toc_number toc_depth_2">2.80</span> The last straw breaks the camel&#8217;s back.</a></li><li><a href="#while-there-is-life-there-is-hope"><span class="toc_number toc_depth_2">2.81</span> While there is life there is hope.</a></li><li><a href="#penny-wise-and-pound-foolish"><span class="toc_number toc_depth_2">2.82</span> Penny wise and pound foolish.</a></li><li><a href="#a-creaking-gate-hangs-longest"><span class="toc_number toc_depth_2">2.83</span> A creaking gate hangs longest.</a></li><li><a href="#even-a-worm-will-turn"><span class="toc_number toc_depth_2">2.84</span> Even a worm will turn.</a></li><li><a href="#innocence-is-bliss"><span class="toc_number toc_depth_2">2.85</span> Innocence is bliss.</a></li><li><a href="#two-heads-are-better-than-one"><span class="toc_number toc_depth_2">2.86</span> Two heads are better than one.</a></li><li><a href="#out-of-the-mouth-comes-evil"><span class="toc_number toc_depth_2">2.87</span> Out of the mouth comes evil.</a></li><li><a href="#learn-to-walk-before-you-run"><span class="toc_number toc_depth_2">2.88</span> Learn to walk before you run.</a></li><li><a href="#don8217t-teach-fishes-to-swim"><span class="toc_number toc_depth_2">2.89</span> Don&#8217;t teach fishes to swim.</a></li><li><a href="#spare-the-rod-and-spoil-the-child"><span class="toc_number toc_depth_2">2.90</span> Spare the rod and spoil the child.</a></li><li><a href="#count-not-your-chicken-before-they-are-hatched"><span class="toc_number toc_depth_2">2.91</span> Count not your chicken before they are hatched.</a></li><li><a href="#lookers-on-see-most-of-the-game"><span class="toc_number toc_depth_2">2.92</span> Lookers-on see most of the game.</a></li><li><a href="#throw-a-sprat-to-catch-a-mackerel"><span class="toc_number toc_depth_2">2.93</span> Throw a sprat to catch a mackerel.</a></li><li><a href="#the-apple-never-falls-far-from-the-tree"><span class="toc_number toc_depth_2">2.94</span> The apple never falls far from the tree.</a></li><li><a href="#better-to-ask-the-way-than-go-astray"><span class="toc_number toc_depth_2">2.95</span> Better to ask the way than go astray.</a></li><li><a href="#no-time-like-the-present"><span class="toc_number toc_depth_2">2.96</span> No time like the present.</a></li><li><a href="#don8217t-cry-over-spilt-milk"><span class="toc_number toc_depth_2">2.97</span> Don&#8217;t cry over spilt milk.</a></li><li><a href="#stoop-to-conquer"><span class="toc_number toc_depth_2">2.98</span> Stoop to conquer.</a></li><li><a href="#money-talks"><span class="toc_number toc_depth_2">2.99</span> Money talks.</a></li><li><a href="#more-is-not-always-better"><span class="toc_number toc_depth_2">2.100</span> More is not always better.</a></li></ul></li><li><a href="#i-2"><span class="toc_number toc_depth_1">3</span> ことわざを日常に取り入れよう</a></li><li><a href="#i-3"><span class="toc_number toc_depth_1">4</span> ことわざは口で覚える</a></li></ul></div>
+<h2><span id="i">もくじをスキップするならここをクリック</span></h2>
+<p>（便宜的なリンクです）</p>
+<h2><span id="100">ことわざ100選</span></h2>
+<p><strong>【やる気がもらえる感動的な英語のことわざ】</strong></p>
+<h3><span id="the-first-step-is-always-the-hardest"><a href="http://ejje.weblio.jp/content/The+first+step+is+always+the+hardest.">The first step is always the hardest.</a></span></h3>
+<p>最初の一歩がいつでも一番難しい</p>
+<h3><span id="failure-teaches-success"><a href="http://ejje.weblio.jp/content/Failure+teaches+success.">Failure teaches success.</a></span></h3>
+<p>失敗は成功のもと</p>
+<h3><span id="there-is-no-royal-road-to-learning"><a href="http://ejje.weblio.jp/content/There+is+no+royal+road+to+learning.">There is no royal road to learning.</a></span></h3>
+<p>学問に王道なし</p>
+<h3><span id="good-seed-makes-a-good-crop"><a href="http://ejje.weblio.jp/content/Good+seed+makes+a+good+crop.">Good seed makes a good crop.</a></span></h3>
+<p>よい種はよい作物をつくる</p>
+<h3><span id="adversity-makes-a-man-wise"><a href="http://ejje.weblio.jp/content/Adversity+makes+a+man+wise.">Adversity makes a man wise.</a></span></h3>
+<p>逆境が人を賢くする</p>
+<h3><span id="practice-makes-perfect"><a href="http://ejje.weblio.jp/content/Practice+makes+perfect.">Practice makes perfect.</a></span></h3>
+<p>習うより慣れよ</p>
+<h3><span id="cheats-never-prosper"><a href="http://ejje.weblio.jp/content/Cheats+never+prosper.">Cheats never prosper.</a></span></h3>
+<p>不正が栄えることはない</p>
+<h3><span id="never-put-off-till-tomorrow-what-can-be-done-today"><a href="http://ejje.weblio.jp/content/Never+put+off+till+tomorrow+what+can+be+done+today.">Never put off till tomorrow what can be done today.</a></span></h3>
+<p>今日できることを明日に延ばすな</p>
+<h3><span id="faith-will-move-mountains"><a href="http://ejje.weblio.jp/content/Faith+will+move+mountains.">Faith will move mountains.</a></span></h3>
+<p>信念は山をも動かす</p>
+<h3><span id="better-late-than-never"><a href="http://ejje.weblio.jp/content/Better+late+than+never.">Better late than never.</a></span></h3>
+<p>遅れてもやらないよりはまし</p>
+<h3><span id="it8217s-never-too-late-to-learn"><a href="http://ejje.weblio.jp/content/It's+never+too+late+to+learn.">It&#8217;s never too late to learn.</a></span></h3>
+<p>学ぶのに遅すぎるということはない</p>
+<h3><span id="every-man-is-the-architect-of-his-own-fortune"><a href="http://ejje.weblio.jp/content/Every+man+is+the+architect+of+his+own+fortune.">Every man is the architect of his own fortune.</a></span></h3>
+<p>誰もが自らの運命の設計者である</p>
+<h3><span id="life-is-what-you-make-it">Life is what you make it.</span></h3>
+<p>人生は自分でつくるもの</p>
+<p>&nbsp;</p>
+<p><strong>【口ずさみたくなる軽妙な英語のことわざ】</strong></p>
+<h3><span id="no-pain-no-gain"><a href="http://ejje.weblio.jp/content/No+pain+no+gain.">No pain no gain.</a></span></h3>
+<p>何事も苦労なくしては得られない</p>
+<p>苦労はつきものである</p>
+<h3><span id="nothing-ventured-nothing-gained"><a href="http://ejje.weblio.jp/content/Nothing+ventured%2C+nothing+gained.">Nothing ventured, nothing gained.</a></span></h3>
+<p>危険を冒さないなら得られるものはない</p>
+<p>虎穴に入らずんば虎児を得ず</p>
+<h3><span id="easy-come-easy-go"><a href="http://ejje.weblio.jp/content/Easy+come%2C+easy+go.">Easy come, easy go.</a></span></h3>
+<p>得やすいものは失いやすい</p>
+<p>（悪銭は身につかない）</p>
+<h3><span id="first-come-first-served"><a href="http://ejje.weblio.jp/content/First+come%2C+first+served">First come, first served.</a></span></h3>
+<p>早く来た者からもてなしを受ける</p>
+<p>（先んずれば人を制す）</p>
+<h3><span id="no-sweet-without-sweat"><a href="http://ejje.weblio.jp/content/No+sweet+without+sweat.">No sweet without sweat.</a></span></h3>
+<p>汗をかかずにうまい飯にはありつけない</p>
+<h3><span id="second-thoughts-are-best"><a href="http://ejje.weblio.jp/content/Second+thoughts+are+best.">Second thoughts are best.</a></span></h3>
+<p>再考は最高である</p>
+<p>考えすぎるということはない</p>
+<h3><span id="pride-will-have-a-fall"><a href="http://ejje.weblio.jp/content/Pride+will+have+a+fall.">Pride will have a fall.</a></span></h3>
+<p>高慢は失脚を招く</p>
+<p>（驕れる者久しからず）</p>
+<h3><span id="might-is-right"><a href="http://ejje.weblio.jp/content/Might+is+right.">Might is right.</a></span></h3>
+<p>力は正義である</p>
+<p>（勝てば官軍）</p>
+<h3><span id="where-theres-smoke-theres-fire"><a href="http://ejje.weblio.jp/content/Where+there’s+smoke%2C+there’s+fire.">Where there’s smoke, there’s fire.</a></span></h3>
+<p>煙のあるところには火がある</p>
+<p>火の無い所に煙は立たぬ</p>
+<h3><span id="seeing-is-believing"><a href="http://ejje.weblio.jp/content/Seeing+is+believing.">Seeing is believing.</a></span></h3>
+<p>目にすることが信じることである</p>
+<p>見れば分かる、百聞は一見に如かず</p>
+<h3><span id="no-news-is-good-news"><a href="http://ejje.weblio.jp/content/No+news+is+good+news.">No news is good news.</a></span></h3>
+<p>便りのないのはよい便り</p>
+<h3><span id="the-older-the-wiser"><a href="http://ejje.weblio.jp/content/The+older%2C+the+wiser.">The older, the wiser.</a></span></h3>
+<p>歳をとるごとに賢くなる</p>
+<p>（亀の甲より年の功）</p>
+<h3><span id="so-many-countries-so-many-customs"><a href="http://ejje.weblio.jp/content/So+many+countries%2C+so+many+customs">So many countries, so many customs</a></span></h3>
+<p>色々な国があって色々な慣習がある</p>
+<p>（所変われば品変わる）</p>
+<h3><span id="love-begets-love"><a href="http://ejje.weblio.jp/content/Love+begets+love.">Love begets love.</a></span></h3>
+<p>愛は愛を生む</p>
+<h3><span id="money-begets-money"><a href="http://ejje.weblio.jp/content/Money+begets+money.">Money begets money. </a></span></h3>
+<p>金は金が生む</p>
+<h3><span id="what-will-be-will-be"><a href="http://ejje.weblio.jp/content/What+will+be%2C+will+be.">What will be, will be.</a></span></h3>
+<p>または What must be, must be.</p>
+<p>なるようになる</p>
+<h3><span id="like-attracts-like"><a href="http://ejje.weblio.jp/content/Like+attracts+like.">Like attracts like.</a></span></h3>
+<p>似たものは似たものを引き寄せる</p>
+<h3><span id="when-in-rome-do-as-the-romans-do"><a href="http://ejje.weblio.jp/content/When+in+Rome+do+as+the+Romans+do.">When in Rome do as the Romans do.</a></span></h3>
+<p>ローマではローマ人のように振る舞え</p>
+<p>（郷に入っては郷に従え）</p>
+<h3><span id="a-good-beginning-makes-a-good-ending"><a href="http://ejje.weblio.jp/content/A+good+beginning+makes+a+good+ending.">A good beginning makes a good ending.</a></span></h3>
+<p>始めよければ終わりよし</p>
+<h3><span id="haste-makes-waste"><a href="http://ejje.weblio.jp/content/Haste+makes+waste.">Haste makes waste.</a></span></h3>
+<p>性急は浪費の元</p>
+<p>急いては事をし損じる、短気は損気</p>
+<h3><span id="make-haste-slowly"><a href="http://ejje.weblio.jp/content/Make+haste+slowly.">Make haste slowly.</a></span></h3>
+<p>ゆっくり急げ</p>
+<h3><span id="too-far-east-is-west"><a href="http://ejje.weblio.jp/content/Too+far+east+is+west.">Too far east is west.</a></span></h3>
+<p>東へ行きすぎると西になる</p>
+<h3><span id="nothing-comes-of-nothing"><a href="http://ejje.weblio.jp/content/Nothing+comes+of+nothing.">Nothing comes of nothing.</a></span></h3>
+<p>無から生じるものは何もない</p>
+<h3><span id="the-more-one-has-the-more-one-wants">The more one has, the more one wants.</span></h3>
+<p>持てば持つほど欲しくなる</p>
+<p>欲望に限りはない</p>
+<h3><span id="grasp-all-lose-all"><a href="http://ejje.weblio.jp/content/Grasp+all%2C+lose+all.">Grasp all, lose all.</a></span></h3>
+<p>全部を手中に収めようとすれば、全部を失う</p>
+<h3><span id="all-covet-all-lose"><a href="http://ejje.weblio.jp/content/All+covet%2C+all+lose.">All covet, all lose.</a></span></h3>
+<p>全てを欲しがると全てを失う</p>
+<h3><span id="a-friend-to-everybody-is-a-friend-to-nobody"><a href="http://ejje.weblio.jp/content/A+friend+to+everybody+is+a+friend+to+nobody.">A friend to everybody is a friend to nobody.</a></span></h3>
+<p>全員と友達という者はその誰とも友達でない</p>
+<h3><span id="set-a-thief-to-catch-a-thief"><a href="http://ejje.weblio.jp/content/Set+a+thief+to+catch+a+thief">Set a thief to catch a thief</a></span></h3>
+<p>泥棒は泥棒に捕まえさせろ</p>
+<p>蛇の道は蛇、毒をもって毒を制す</p>
+<h3><span id="who-knows-most-speaks-least"><a href="http://ejje.weblio.jp/content/Who+knows+most%2C+speaks+least.">Who knows most, speaks least.</a></span></h3>
+<p>よく知るものほど多く語らない</p>
+<h3><span id="soon-learnt-soon-forgotten"><a href="http://ejje.weblio.jp/content/Soon+learnt%2C+soon+forgotten.">Soon learnt, soon forgotten.</a></span></h3>
+<p>すぐ覚えてしまったことはすぐに忘れる</p>
+<h3><span id="what8217s-done-is-done"><a href="http://ejje.weblio.jp/content/What's+done+is+done.">What&#8217;s done is done.</a></span></h3>
+<p>終わった事は終わった事なのだ</p>
+<p>覆水盆に返らず</p>
+<h3><span id="so-many-men-so-many-minds"><a href="http://ejje.weblio.jp/content/So+many+men%2C+so+many+minds">So many men, so many minds</a></span></h3>
+<p>人の数だけ心は違う</p>
+<h3><span id="different-strokes-for-different-folks"><a href="http://ejje.weblio.jp/content/Different+strokes+for+different+folks.">Different strokes for different folks.</a></span></h3>
+<p>人が違うとやり方も違う</p>
+<h3><span id="think-today-and-speak-tomorrow"><a href="http://ejje.weblio.jp/content/Think+today+and+speak+tomorrow.">Think today and speak tomorrow.</a></span></h3>
+<p>今日考えて、明日話せ</p>
+<p>軽率に喋るな</p>
+<h3><span id="no-answer-is-also-an-answer"><a href="http://ejje.weblio.jp/content/No+answer+is+also+an+answer.">No answer is also an answer.</a></span></h3>
+<p>返事をしないことも返事の一つである</p>
+<p>シカトという返事のしかたもある</p>
+<h3><span id="nothing-seek-nothing-find"><a href="http://ejje.weblio.jp/content/Nothing+seek%2C+nothing+find.">Nothing seek, nothing find.</a></span></h3>
+<p>何も探さないのなら何も見つからない</p>
+<p>求めなければ、見いだすこともない</p>
+<h3><span id="live-and-let-live"><a href="http://ejje.weblio.jp/content/Live+and+let+live.">Live and let live.</a></span></h3>
+<p>自分も生き、人も生かせ</p>
+<h3><span id="he-laughs-best-who-laughs-last"><a href="http://ejje.weblio.jp/content/He+laughs+best+who+laughs+last.">He laughs best who laughs last.</a></span></h3>
+<p>最後に笑う者が最もよく笑う</p>
+<h3><span id="like-father-like-son"><a href="http://ejje.weblio.jp/content/Like+father%2C+like+son.">Like father, like son.</a></span></h3>
+<p>この父にしてこの息子</p>
+<p><strong>【叡智を感じる深遠な英語のことわざ】</strong></p>
+<h3><span id="look-before-you-leap"><a href="http://ejje.weblio.jp/content/Look+before+you+leap.">Look before you leap.</a></span></h3>
+<p>飛び立つ前によく見よ</p>
+<h3><span id="a-stitch-in-time-saves-nine"><a href="http://ejje.weblio.jp/content/A+stitch+in+time+saves+nine.">A stitch in time saves nine.</a></span></h3>
+<p>頃合いに縫う一針は九針分にも値する</p>
+<p>今日の一針は明日の十針</p>
+<h3><span id="first-catch-your-hare"><a href="http://ejje.weblio.jp/content/First+catch+your+hare.">First catch your hare.</a></span></h3>
+<p>まずはウサギを捕えろ</p>
+<p>（捕まえもしない段階でとやかく言うな）</p>
+<h3><span id="thats-life"><a href="http://ejje.weblio.jp/content/That’s+life.">That’s life.</a></span></h3>
+<p>それが人生というものだ</p>
+<p>人生なんてそういうものだ</p>
+<h3><span id="knowledge-is-power"><a href="http://ejje.weblio.jp/content/Knowledge+is+power.">Knowledge is power.</a></span></h3>
+<p>知は力である</p>
+<h3><span id="travel-broadens-mind"><a href="http://ejje.weblio.jp/content/Travel+broadens+mind.">Travel broadens mind.</a></span></h3>
+<p>旅は知性を広げる</p>
+<h3><span id="every-medal-has-two-sides"><a href="http://ejje.weblio.jp/content/Every+medal+has+two+sides.">Every medal has two sides.</a></span></h3>
+<p>勲章メダルには裏と表があるものだ</p>
+<h3><span id="never-judge-by-appearances"><a href="http://ejje.weblio.jp/content/Never+judge+by+appearances.">Never judge by appearances.</a></span></h3>
+<p>見かけで判断してはいけない</p>
+<h3><span id="never-do-things-by-halves"><a href="http://ejje.weblio.jp/content/Never+do+things+by+halves.">Never do things by halves.</a></span></h3>
+<p>物事は中途半端にするな</p>
+<h3><span id="many-a-little-makes-a-mickle"><a href="http://ejje.weblio.jp/content/Many+a+little+makes+a+mickle.">Many a little makes a mickle.</a></span></h3>
+<p>ちりも積もれば山となる</p>
+<h3><span id="never-spur-a-willing-horse"><a href="http://ejje.weblio.jp/content/Never+spur+a+willing+horse.">Never spur a willing horse.</a></span></h3>
+<p>意欲ある馬に拍車をかけるな</p>
+<p>（すでにやる気でいる者に発破をかけてはいけない）</p>
+<h3><span id="a-word-to-the-wise-is-sufficient"><a href="http://ejje.weblio.jp/content/A+word+to+the+wise+is+sufficient.">A word to the wise is sufficient.</a></span></h3>
+<p>賢者には一言で事足りる</p>
+<p>（一を聞いて十を知る）</p>
+<h3><span id="prevention-is-better-than-cure"><a href="http://ejje.weblio.jp/content/Prevention+is+better+than+cure.">Prevention is better than cure.</a></span></h3>
+<p>予防は治療にまさる</p>
+<p>予防にまさる治療はない</p>
+<h3><span id="the-pot-calls-the-kettle-black"><a href="http://ejje.weblio.jp/content/The+pot+calls+the+kettle+black.">The pot calls the kettle black.</a></span></h3>
+<p>ナベがヤカンを真っ黒け呼ばわりする</p>
+<p>（自分を棚に上げて他人をあざける）</p>
+<h3><span id="time-lost-cannot-be-recalled"><a href="http://ejje.weblio.jp/content/Time+lost+cannot+be+recalled.">Time lost cannot be recalled.</a></span></h3>
+<p>失った時間は取り返せない</p>
+<h3><span id="one-cannot-put-back-the-clock"><a href="http://ejje.weblio.jp/content/One+cannot+put+back+the+clock.">One cannot put back the clock.</a></span></h3>
+<p>時計は逆には戻せない</p>
+<h3><span id="an-occasion-lost-cannot-be-redeemed"><a href="http://ejje.weblio.jp/content/An+occasion+lost+cannot+be+redeemed.">An occasion lost cannot be redeemed.</a></span></h3>
+<p>逃した機会は二度と取り返せない</p>
+<h3><span id="you-never-miss-the-water-till-the-well-runs-dry"><a href="http://ejje.weblio.jp/content/You+never+miss+the+water+till+the+well+runs+dry.">You never miss the water till the well runs dry.</a></span></h3>
+<p>井戸が干上がるまではだれも水のありがたさを感じない</p>
+<p>（身近なものは失ってはじめて大切さに気付く）</p>
+<h3><span id="strike-while-the-iron-is-hot"><a href="http://ejje.weblio.jp/content/Strike+while+the+iron+is+hot.">Strike while the iron is hot.</a></span></h3>
+<p>鉄は熱いうちに打て</p>
+<h3><span id="a-stumble-might-prevent-a-fall"><a href="http://ejje.weblio.jp/content/A+stumble+might+prevent+a+fall.">A stumble might prevent a fall.</a></span></h3>
+<p>よろめきは転倒を防ぐ</p>
+<p>（多少失敗している方が大失敗に陥らない）</p>
+<h3><span id="words-have-wings-and-cannot-be-called"><a href="http://ejje.weblio.jp/content/Words+have+wings%2C+and+cannot+be+called.">Words have wings, and cannot be called.</a></span></h3>
+<p>言葉は翼を持つ、そして呼び戻すことはできない</p>
+<p>（発言は制御できず広がっていく）</p>
+<h3><span id="you-can8217t-eat-your-cake-and-have-it">You can&#8217;t eat your cake and have it.</span></h3>
+<p>菓子を食べてなお手元に持っておくことはできない</p>
+<p>（二者択一を両取りはできない）</p>
+<h3><span id="the-peacock-has-fair-feathers-but-foul-feet"><a href="http://ejje.weblio.jp/content/The+peacock+has+fair+feathers%2C+but+foul+feet.">The peacock has fair feathers, but foul feet.</a></span></h3>
+<p>孔雀の羽は美しいが足は汚い</p>
+<p>（美しいものにも難点はある）</p>
+<h3><span id="the-rotten-apple-injures-its-neighbor"><a href="http://ejje.weblio.jp/content/The+rotten+apple+injures+its+neighbor.">The rotten apple injures its neighbor.</a></span></h3>
+<p>腐ったリンゴは周りのリンゴも損なう</p>
+<h3><span id="a-friend-in-need-is-a-friend-indeed"><a href="http://ejje.weblio.jp/content/A+friend+in+need+is+a+friend+indeed.">A friend in need is a friend indeed.</a></span></h3>
+<p>難事の友こそ誠の友</p>
+<h3><span id="after-a-storm-comes-a-calm"><a href="http://ejje.weblio.jp/content/After+a+storm+comes+a+calm">After a storm comes a calm</a></span></h3>
+<p>待てば海路の日和あり</p>
+<h3><span id="let-sleeping-dogs-lie"><a href="http://ejje.weblio.jp/content/Let+sleeping+dogs+lie.">Let sleeping dogs lie.</a></span></h3>
+<p>寝た子を起こすな</p>
+<h3><span id="the-last-straw-breaks-the-camel8217s-back"><a href="http://ejje.weblio.jp/content/The+last+straw+breaks+the+camel's+back.">The last straw breaks the camel&#8217;s back.</a></span></h3>
+<p>最後のわら一本がラクダの背中を折る</p>
+<p>（わずかでも限度を超えれば大変なことになる）</p>
+<h3><span id="while-there-is-life-there-is-hope"><a href="http://ejje.weblio.jp/content/While+there+is+life+there+is+hope.">While there is life there is hope.</a></span></h3>
+<p>生きているかぎり希望がある</p>
+<h3><span id="penny-wise-and-pound-foolish"><a href="http://ejje.weblio.jp/content/Penny+wise+and+pound+foolish.">Penny wise and pound foolish.</a></span></h3>
+<p>小銭を惜しみ大金に疎い</p>
+<p>（安物買いの銭失い）</p>
+<h3><span id="a-creaking-gate-hangs-longest"><a href="http://ejje.weblio.jp/content/A+creaking+gate+hangs+longest.">A creaking gate hangs longest.</a></span></h3>
+<p>軋る門は長持ちする</p>
+<p>（一病息災）</p>
+<h3><span id="even-a-worm-will-turn"><a href="http://ejje.weblio.jp/content/Even+a+worm+will+turn.">Even a worm will turn.</a></span></h3>
+<p>毛虫だって立ち向かってくる</p>
+<p>（一寸の虫にも五分の魂）</p>
+<h3><span id="innocence-is-bliss"><a href="http://ejje.weblio.jp/content/Innocence+is+bliss.">Innocence is bliss.</a></span></h3>
+<p>無知が至福である</p>
+<p>（知らぬが仏）</p>
+<h3><span id="two-heads-are-better-than-one"><a href="http://ejje.weblio.jp/content/Two+heads+are+better+than+one.">Two heads are better than one.</a></span></h3>
+<p>頭ふたつの方がひとつより良い</p>
+<p>（三人寄れば文殊の知恵）</p>
+<h3><span id="out-of-the-mouth-comes-evil"><a href="http://ejje.weblio.jp/content/Out+of+the+mouth+comes+evil.">Out of the mouth comes evil.</a></span></h3>
+<p>口外は災いをもたらす</p>
+<p>（口は災いの元）</p>
+<h3><span id="learn-to-walk-before-you-run"><a href="http://ejje.weblio.jp/content/Learn+to+walk+before+you+run.">Learn to walk before you run.</a></span></h3>
+<p>走るより前に歩き方を学べ</p>
+<h3><span id="don8217t-teach-fishes-to-swim"><a href="http://ejje.weblio.jp/content/Don't+teach+fishes+to+swim.">Don&#8217;t teach fishes to swim.</a></span></h3>
+<p>魚に泳ぎ方を教えるな</p>
+<p>（釈迦に説法）</p>
+<h3><span id="spare-the-rod-and-spoil-the-child"><a href="http://ejje.weblio.jp/content/Spare+the+rod+and+spoil+the+child.">Spare the rod and spoil the child.</a></span></h3>
+<p>むち打たなければ子はダメになる</p>
+<p>（可愛い子には旅させよ）</p>
+<h3><span id="count-not-your-chicken-before-they-are-hatched"><a href="http://ejje.weblio.jp/content/Count+not+your+chicken+before+they+are+hatched.">Count not your chicken before they are hatched.</a></span></h3>
+<p>孵化する前の鶏を勘定に入れるな</p>
+<p>（捕らぬ狸の皮算用）</p>
+<h3><span id="lookers-on-see-most-of-the-game"><a href="http://ejje.weblio.jp/content/Lookers-on+see+most+of+the+game.">Lookers-on see most of the game.</a></span></h3>
+<p>または The outsider sees most of the game.</p>
+<p>見物者が一番よく形勢が見えている</p>
+<p>（岡目八目）</p>
+<h3><span id="throw-a-sprat-to-catch-a-mackerel"><a href="http://ejje.weblio.jp/content/Throw+a+sprat+to+catch+a+mackerel.">Throw a sprat to catch a mackerel.</a></span></h3>
+<p>雑魚で鯖を釣る</p>
+<p>（海老で鯛を釣る）</p>
+<h3><span id="the-apple-never-falls-far-from-the-tree"><a href="http://ejje.weblio.jp/content/The+apple+never+falls+far+from+the+tree.">The apple never falls far from the tree.</a></span></h3>
+<p>リンゴが木から遠く離れて落ちることはない</p>
+<p>（親子は似るものだ）</p>
+<h3><span id="better-to-ask-the-way-than-go-astray"><a href="http://ejje.weblio.jp/content/Better+to+ask+the+way+than+go+astray.">Better to ask the way than go astray.</a></span></h3>
+<p>道に迷うよりは道を尋ねたほうがよい</p>
+<p>聞くは一時の恥</p>
+<h3><span id="no-time-like-the-present"><a href="http://ejje.weblio.jp/content/No+time+like+the+present.">No time like the present.</a></span></h3>
+<p>今以上の好機はない</p>
+<p>思い立ったが吉日</p>
+<h3><span id="don8217t-cry-over-spilt-milk"><a href="http://ejje.weblio.jp/content/Don't+cry+over+spilt+milk.">Don&#8217;t cry over spilt milk.</a></span></h3>
+<p>こぼしてしまった牛乳を嘆くな</p>
+<h3><span id="stoop-to-conquer"><a href="http://ejje.weblio.jp/content/Stoop+to+conquer.">Stoop to conquer.</a></span></h3>
+<p>負けて勝つ</p>
+<p>負けるが勝ち</p>
+<h3><span id="money-talks"><a href="http://ejje.weblio.jp/content/Money+talks.">Money talks.</a></span></h3>
+<p>カネがモノを言う</p>
+<p>地獄の沙汰も金次第</p>
+<h3><span id="more-is-not-always-better">More is not always better.</span></h3>
+<p>多けりゃよいとは限らない</p>
+<p>過ぎたるは及ばざるが如し</p>
+<h2><span id="i-2">ことわざを日常に取り入れよう</span></h2>
+<p>ことわざに接して、感心する、それで終わらせてしまうのは少々もったいない。気に入ったことわざだけでも、身につけてしまって、フッと口から出てくるようにしてみてはいかがでしょうか。</p>
+<h2><span id="i-3">ことわざは口で覚える</span></h2>
+<p>ことわざの多くは語呂・語感が洗練されており、リズムに乗ってさらっと言える代物です。内容も単文で簡潔明瞭、覚えることもさほど困難ではありません。つまり、英語のことわざを声に出して読むことは「英語口」を鍛えるためにもなかなかよい方法なのです。</p>
+<p>英会話中にあまりに多用すると、さすがにくどい印象になってしまうでしょうけれど、ここぞという時に的確なことわざが言えるととてもスマートです。そんな風にことわざを活用できたら、英語スキルへの自信もついて、さらに学習が加速できるでしょう。</p>
+<script type="text/javascript" async src="https://eikaiwa.weblio.jp/column/?top_ten_id=9186&amp;top_ten_blog_id=1&amp;activate_counter=11"></script><div style="margin:0px 0 40px 0;"><a href="https://uwl.weblio.jp/speaking-test?utm_source=eikaiwa-column&utm_campaign=speaking-test&utm_medium=link&utm_content=eikaiwa-column_bodytext_link">&raquo;英会話力を診断を受けてみる！</a></div><div style="margin:0px 0 40px 0;"><a href="https://eikaiwa.weblio.jp/?utm_source=eikaiwa-column&utm_medium=link&utm_content=eikaiwa-column_chotto&utm_campaign=eikaiwa-column-kiji-shita_textlink_lead_eikaiwa-top">&raquo;オンライン英会話で覚えた英語を使ってみた！</a></div><!-- /2211331/eikaiwa-column_kiji_main_kijishita_600-170 --><div id='div-gpt-ad-1490610158720-0' style='height:170px; width:600px;margin:0 auto;border-left: #f0f0f0 solid 1px;border-top: #f0f0f0 solid 1px;box-shadow: 3px 3px 3px #ccc;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1490610158720-0'); });</script></div>
+		<div class='yarpp-related'>
+<div class="wp_rp_content">
+	<h3 class="related_post_title">この記事に関連したほかの記事</h3>
+	<ul class="related_post wp_rp">
+				<li>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/gotta-go-run" class="wp_rp_thumbnail">
+			<div class="related_thumbnail_wrap">
+			    <img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2015/09/22074510/181928090-215x215.jpg" alt="英語で伝える「もう行くね」、好印象で退席する英会話フレーズ"/>
+			</div>
+		</a>
+		<small class="wp_rp_publish_date">2016年11月5日</small>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/gotta-go-run" class="wp_rp_title">
+			英語で伝える「もう行くね」、好印象で退席する英会話フレーズ		</a>
+		</li>
+				<li>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/how-to-say-in-english/mottainai_in_english" class="wp_rp_thumbnail">
+			<div class="related_thumbnail_wrap">
+			    <img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2015/11/30025315/303882032-215x215.jpg" alt="英語で表現する「もったいない」浪費をいさめる英語表現"/>
+			</div>
+		</a>
+		<small class="wp_rp_publish_date">2017年2月2日</small>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/how-to-say-in-english/mottainai_in_english" class="wp_rp_title">
+			英語で表現する「もったいない」浪費をいさめる英語表現		</a>
+		</li>
+				<li>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/idioms-of-salt" class="wp_rp_thumbnail">
+			<div class="related_thumbnail_wrap">
+			    <img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2015/12/12035313/salt-273105_640-215x215.jpg" alt="【英語】アヤシイ話は「一粒の塩で」聞け。塩に関する英語イディオム5種"/>
+			</div>
+		</a>
+		<small class="wp_rp_publish_date">2015年12月12日</small>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/idioms-of-salt" class="wp_rp_title">
+			【英語】アヤシイ話は「一粒の塩で」聞け。塩に関する英語イディオム5種		</a>
+		</li>
+				<li>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/cheer-up-take-care" class="wp_rp_thumbnail">
+			<div class="related_thumbnail_wrap">
+			    <img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/08/25143523/217503100-215x215.png" alt="英語で伝える励ましの言葉、相手を気づかう英会話フレーズ"/>
+			</div>
+		</a>
+		<small class="wp_rp_publish_date">2016年8月25日</small>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/cheer-up-take-care" class="wp_rp_title">
+			英語で伝える励ましの言葉、相手を気づかう英会話フレーズ		</a>
+		</li>
+				<li>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/vocabulary/secret-confidence" class="wp_rp_thumbnail">
+			<div class="related_thumbnail_wrap">
+			    <img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/11/04170125/381168862-215x215.jpg" alt="英語で表現する「秘密」のニュアンス別表現と使い分け方"/>
+			</div>
+		</a>
+		<small class="wp_rp_publish_date">2016年11月7日</small>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/vocabulary/secret-confidence" class="wp_rp_title">
+			英語で表現する「秘密」のニュアンス別表現と使い分け方		</a>
+		</li>
+				<li>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/refuse-softly" class="wp_rp_thumbnail">
+			<div class="related_thumbnail_wrap">
+			    <img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/11/05125016/317551316-215x215.jpg" alt="英語で「やんわりと断る」ための上手な表現・フレーズ集"/>
+			</div>
+		</a>
+		<small class="wp_rp_publish_date">2016年11月7日</small>
+		<a href="https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/refuse-softly" class="wp_rp_title">
+			英語で「やんわりと断る」ための上手な表現・フレーズ集		</a>
+		</li>
+			</ul>
+</div>
+</div>
+<div class=facebook_like_box_wrap>
+<table class=facebook_like_box_table>
+<tr>
+<td class=facebook_like_box_l><img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/08/20205247/street1.png" alt=""></td>
+<td class=facebook_like_box_r><div class="fb-like" data-href="https://www.facebook.com/eikaiwa" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+<p style="text-align:center;padding:20px 0 20px 0;">この記事が気に入ったら
+<br />いいね！しよう</p>
+<p style="color:#666;font-size:12px;text-align:center;">英会話に関する気になる情報をお届け</p>
+</td>
+</tr>
+</table>
+</div>
+	</div><!-- .entry-content -->
+
+</article><!-- #post-## -->
+		</div><!-- #content -->
+
+	</div><!-- #primary -->
+	<div id="secondary">
+
+<div class="space50"></div>
+
+<div id="eikaiwa-contents">
+
+    <div id="eikaiwa-content-before" class="content">
+        <div class="font-color-black">こんにちは&nbsp;ゲスト&nbsp;さん</div>
+        <div class="left item1">
+            <a href="https://eikaiwa.weblio.jp/WTE/mypage.cgi?m=athlinfrm&amp;s=&amp;utm_source=colmun&amp;utm_medium=button&amp;utm_content=login_button&amp;utm_campaign=eikaiwa_login"><img src="https://eikaiwa.weblio.jp/column/wp-content/themes/twentyfourteen/images/avatar.png" alt="" class="icon"></a>
+            <br />
+            <a href="https://eikaiwa.weblio.jp/WTE/mypage.cgi?m=athlinfrm&amp;s=&amp;utm_source=colmun&amp;utm_medium=button&amp;utm_content=login_button&amp;utm_campaign=eikaiwa_login" title="" class="login">ログイン</a>
+        </div>
+        <div class="right item2">
+            <div class="rgstBtn commonBtn" onclick="location.href='https://eikaiwa.weblio.jp/WTE/reg.cgi?utm_source=colmun-sidebar&amp;utm_medium=button&amp;utm_content=login_button&amp;utm_campaign=eikaiwa_free';">
+                <a href="https://eikaiwa.weblio.jp/WTE/reg.cgi?utm_source=colmun-sidebar&amp;utm_medium=button&amp;utm_content=login_button&amp;utm_campaign=eikaiwa_free" title="">無料で会員登録する</a>
+            </div>
+        </div>
+        <br class="clear"/>
+    </div>
+    <div id="eikaiwa-content-after" class="content">
+        <div class="font-color-black">こんにちは&nbsp;<span id="eikaiwa-user-handle"></span>&nbsp;さん</div>
+        <div class="left item1">
+            <a href="https://eikaiwa.weblio.jp/WTE/mypage.cgi?m=athlinfrm&amp;s=&amp;utm_source=colmun&amp;utm_medium=button&amp;utm_content=login_button&amp;utm_campaign=eikaiwa_login"><img src="https://eikaiwa.weblio.jp/column/wp-content/themes/twentyfourteen/images/avatar.png" alt="" class="icon"></a>
+            <br />
+            <span class="login" onclick="EikaiwaColumnContent.logout();">ログアウト</span>
+        </div>
+        <div class="right item2">
+            <ul>
+                <li><a href="https://eikaiwa.weblio.jp/WTE/mypage.cgi?m=reslstfrm&amp;d=20160104&amp;pg=1">レッスン予約</a></li>
+                <li><a href="https://eikaiwa.weblio.jp/WTE/mypage.cgi?m=mbrmodfrm">プロフィール変更</a></li>
+                <li><a href="https://eikaiwa.weblio.jp/WTE/mypage.cgi?m=prflstfrm">講師一覧</a></li>
+                <li><a href="https://eikaiwa.weblio.jp/WTE/mypage.cgi?m=plnsct">料金プラン</a></li>
+                <li><a href="https://eikaiwa.weblio.jp/wte/text/">教科書・テキスト</a></li>
+            </ul>
+        </div>
+        <br class="clear"/>
+    </div>
+</div>
+<script type="text/javascript">EikaiwaColumnContent.checkLoggedIn();</script>
+
+		<div class="site-description">WebRTCで無料英会話</div>
+
+        <div id="top-ten-sidebar" class="primary-sidebar widget-area" role="complementary">
+    <aside id="widget_tptn_pop-3" class="widget widget_widget_tptn_pop"><div class="widget-title">よく読まれてる記事</div><div class="tptn_posts  tptn_posts_widget"><aside class='top-ten-list-container'><ul class='top-ten-list'><li class="top-ten-item"><a href="https://eikaiwa.weblio.jp/column/phrases/how-to-say-in-english/golden-week"     class="tptn_link"><img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2017/03/30105026/549459175.jpg" alt="英語でどう言う？「ゴールデンウィーク」「大型連休」" title="英語でどう言う？「ゴールデンウィーク」「大型連休」"  class="tptn_thumb tptn_correctfirst" /></a><span class="tptn_after_thumb"><a href="https://eikaiwa.weblio.jp/column/phrases/how-to-say-in-english/golden-week"     class="tptn_link"><span class="tptn_title">英語でどう言う？「ゴールデンウィーク」「大型連休」</span></a></span></li><li class="top-ten-item"><a href="https://eikaiwa.weblio.jp/column/phrases/vocabulary/cold_variation"     class="tptn_link"><img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/01/19053644/285361811.jpg" alt="英語で「性格が冷たい」「冷たい人」と表現する言い方" title="英語で「性格が冷たい」「冷たい人」と表現する言い方"  class="tptn_thumb tptn_correctfirst" /></a><span class="tptn_after_thumb"><a href="https://eikaiwa.weblio.jp/column/phrases/vocabulary/cold_variation"     class="tptn_link"><span class="tptn_title">英語で「性格が冷たい」「冷たい人」と表現する言い方</span></a></span></li><li class="top-ten-item"><a href="https://eikaiwa.weblio.jp/column/phrases/vocabulary/break-destroy"     class="tptn_link"><img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/07/06041734/417718975.png" alt="英語で「壊す・破壊する」を表現する動詞の種類と使い分け方" title="英語で「壊す・破壊する」を表現する動詞の種類と使い分け方"  class="tptn_thumb tptn_correctfirst" /></a><span class="tptn_after_thumb"><a href="https://eikaiwa.weblio.jp/column/phrases/vocabulary/break-destroy"     class="tptn_link"><span class="tptn_title">英語で「壊す・破壊する」を表現する動詞の種類と使い分け方</span></a></span></li><li class="top-ten-item"><a href="https://eikaiwa.weblio.jp/column/study/eigo-bunpo/confusing-verbs"     class="tptn_link"><img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2017/05/01120013/387989749.jpg" alt="英語の「使い方を間違えやすい動詞」基本パターンと具体例" title="英語の「使い方を間違えやすい動詞」基本パターンと具体例"  class="tptn_thumb tptn_correctfirst" /></a><span class="tptn_after_thumb"><a href="https://eikaiwa.weblio.jp/column/study/eigo-bunpo/confusing-verbs"     class="tptn_link"><span class="tptn_title">英語の「使い方を間違えやすい動詞」基本パターンと具体例</span></a></span></li><li class="top-ten-item"><a href="https://eikaiwa.weblio.jp/column/phrases/how-to-say-in-english/say-quibble"     class="tptn_link"><img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2015/10/03050727/525806434.jpg" alt="英語でどう言う？「そりゃ屁理屈だよ」" title="英語でどう言う？「そりゃ屁理屈だよ」"  class="tptn_thumb tptn_correctfirst" /></a><span class="tptn_after_thumb"><a href="https://eikaiwa.weblio.jp/column/phrases/how-to-say-in-english/say-quibble"     class="tptn_link"><span class="tptn_title">英語でどう言う？「そりゃ屁理屈だよ」</span></a></span></li><li class="top-ten-item"><a href="https://eikaiwa.weblio.jp/column/study/good_tools_for_learning_english/pen_english_core"     class="tptn_link"><img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2017/05/11105129/558026794.jpg" alt="英語学習サイト「PEN英語教師塾」で本気で学ぶ「英語のコア理論」" title="英語学習サイト「PEN英語教師塾」で本気で学ぶ「英語のコア理論」"  class="tptn_thumb tptn_correctfirst" /></a><span class="tptn_after_thumb"><a href="https://eikaiwa.weblio.jp/column/study/good_tools_for_learning_english/pen_english_core"     class="tptn_link"><span class="tptn_title">英語学習サイト「PEN英語教師塾」で本気で学ぶ「英語のコア理論」</span></a></span></li><li class="top-ten-item"><a href="https://eikaiwa.weblio.jp/column/study/english_study_skills/uses-of-used-to"     class="tptn_link"><img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2017/05/15133758/491758174.jpg" alt="英語の助動詞表現「used to」の基礎イメージと覚え方・使い方" title="英語の助動詞表現「used to」の基礎イメージと覚え方・使い方"  class="tptn_thumb tptn_correctfirst" /></a><span class="tptn_after_thumb"><a href="https://eikaiwa.weblio.jp/column/study/english_study_skills/uses-of-used-to"     class="tptn_link"><span class="tptn_title">英語の助動詞表現「used to」の基礎イメージと覚え方・使い方</span></a></span></li><li class="top-ten-item"><a href="https://eikaiwa.weblio.jp/column/phrases/vocabulary/easy-and-simple"     class="tptn_link"><img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2017/05/08095158/300489305.jpg" alt="英語で「簡単」「容易」を意味する単語の違いと使い分け方" title="英語で「簡単」「容易」を意味する単語の違いと使い分け方"  class="tptn_thumb tptn_correctfirst" /></a><span class="tptn_after_thumb"><a href="https://eikaiwa.weblio.jp/column/phrases/vocabulary/easy-and-simple"     class="tptn_link"><span class="tptn_title">英語で「簡単」「容易」を意味する単語の違いと使い分け方</span></a></span></li></ul></aside><div class="tptn_clear"></div></div><!-- Cached output. Cached time is 3600 seconds --></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><div class="top-10-like-item">
+<a href="https://uwl.weblio.jp/speaking-test?utm_source=eikaiwa-column&utm_campaign=speaking-test&utm_medium=link&utm_content=eikaiwa-column_side_banner" class="tptn_link">
+<img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2017/02/14161710/white-room.png" alt="" title="" class="tptn_thumb tptn_correctfirst"/>
+</a>
+<span class="tptn_after_thumb" style="border-bottom:1px solid #e5e5e5;display:block;">
+<a href="https://uwl.weblio.jp/speaking-test?utm_source=eikaiwa-column&utm_campaign=speaking-test&utm_medium=link&utm_content=eikaiwa-column_side_banner" class="tptn_link">
+<span class="tptn_title">発音の正確さを診断するスピーキングテストを受けてみた！</span>
+</a>
+</span>
+
+<br />
+
+<a href="https://eikaiwa.weblio.jp/?utm_source=eikaiwa-column&utm_medium=link&utm_content=PC_eikaiwa-column_ranking&utm_campaign=eikaiwa-free" class="tptn_link">
+<img src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/08/20142044/hand-girl.png" alt="" title="" class="tptn_thumb tptn_correctfirst"/>
+</a>
+<span class="tptn_after_thumb">
+<a href="https://eikaiwa.weblio.jp/?utm_source=eikaiwa-column&utm_medium=link&utm_content=PC_eikaiwa-column_ranking&utm_campaign=eikaiwa-free" class="tptn_link">
+<span class="tptn_title">【PR】覚えた英語をオンライン英会話で実際に使ってみた！</span>
+</a>
+</span>
+</div>
+</div>
+		</aside>    </div>
+
+<div id="search">
+<form method="get" id="searchform" action="https://eikaiwa.weblio.jp/column/"><label class="hidden" for="s"></label>
+    <input type="text" value=""  name="s" id="s" />
+    <input type="image" src="https://d3fr49y3ejekk5.cloudfront.net/column/wp-content/uploads/2016/09/19210650/search-button3.png" alt="コラム検索" id="searchsubmit"  value="Search" />
+    </form>
+</div>
+<br>
+<br>
+<br>
+
+
+
+<div class=primary-sidebar-sub>
+<a class="twitter-timeline"
+  data-show-replies="true"
+  width="300"
+  data-tweet-limit="2"
+  href="https://twitter.com/eikaiwa_weblio">
+</a>
+</div>
+
+<div class=primary-sidebar-sub>
+<div class="fb-page" data-href="https://www.facebook.com/eikaiwa" data-tabs="timeline" data-height="800" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/eikaiwa" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/eikaiwa">英会話で使えるヒント by weblio英会話</a></blockquote></div>
+</div>
+
+		<div id="primary-sidebar" class="primary-sidebar-sub widget-area" role="complementary">
+		<aside id="categories-2" class="widget widget_categories"><div class="widget-title">英会話コラムのカテゴリ</div>		<ul>
+	<li class="cat-item cat-item-1605"><a href="https://eikaiwa.weblio.jp/column/category/toeic" >TOEIC</a>
+<ul class='children'>
+	<li class="cat-item cat-item-1606"><a href="https://eikaiwa.weblio.jp/column/category/toeic/about_toeic_score" >TOEICのスコアと目安</a>
+</li>
+	<li class="cat-item cat-item-1607"><a href="https://eikaiwa.weblio.jp/column/category/toeic/business" >TOEICビジネス問題対策</a>
+</li>
+	<li class="cat-item cat-item-1608"><a href="https://eikaiwa.weblio.jp/column/category/toeic/toeic%e5%9f%ba%e7%a4%8e%e7%9f%a5%e8%ad%98" >TOEIC基礎知識</a>
+</li>
+	<li class="cat-item cat-item-1609"><a href="https://eikaiwa.weblio.jp/column/category/toeic/recommended-materials" >おすすめ教材・学習法</a>
+</li>
+	<li class="cat-item cat-item-1610"><a href="https://eikaiwa.weblio.jp/column/category/toeic/test-preparation" >テスト対策術</a>
+</li>
+	<li class="cat-item cat-item-1614"><a href="https://eikaiwa.weblio.jp/column/category/toeic/%e6%b5%b7%e5%a4%96%e7%95%99%e5%ad%a6" >海外留学</a>
+</li>
+	<li class="cat-item cat-item-1615"><a href="https://eikaiwa.weblio.jp/column/category/toeic/toeic_of_society" >社会・就職とTOEIC</a>
+</li>
+	<li class="cat-item cat-item-1616"><a href="https://eikaiwa.weblio.jp/column/category/toeic/test-related-info" >試験まわりの諸事項</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-62"><a href="https://eikaiwa.weblio.jp/column/category/omotenashi" >おもてなし英会話</a>
+<ul class='children'>
+	<li class="cat-item cat-item-64"><a href="https://eikaiwa.weblio.jp/column/category/omotenashi/omotenashi_train-bus-taxi" >1. 乗り物案内</a>
+</li>
+	<li class="cat-item cat-item-73"><a href="https://eikaiwa.weblio.jp/column/category/omotenashi/omotenashi_guidance" >2. 道案内</a>
+</li>
+	<li class="cat-item cat-item-74"><a href="https://eikaiwa.weblio.jp/column/category/omotenashi/omotenashi_restaurant" >3. レストラン</a>
+</li>
+	<li class="cat-item cat-item-75"><a href="https://eikaiwa.weblio.jp/column/category/omotenashi/omotenashi_sightseeing" >4. 観光案内</a>
+</li>
+	<li class="cat-item cat-item-76"><a href="https://eikaiwa.weblio.jp/column/category/omotenashi/omotenashi_store" >5. お店での案内</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1303"><a href="https://eikaiwa.weblio.jp/column/category/phrases" >今すぐ使える英会話表現</a>
+<ul class='children'>
+	<li class="cat-item cat-item-2107"><a href="https://eikaiwa.weblio.jp/column/category/phrases/how-to-say-in-english" >コレは英語でどう言うの？</a>
+</li>
+	<li class="cat-item cat-item-694"><a href="https://eikaiwa.weblio.jp/column/category/phrases/natural_english" >ネイティブはこう言う</a>
+</li>
+	<li class="cat-item cat-item-215"><a href="https://eikaiwa.weblio.jp/column/category/phrases/business-english" >ビジネス英会話</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://eikaiwa.weblio.jp/column/category/phrases/handy_english_phrases" >今すぐ使える英語フレーズ集</a>
+</li>
+	<li class="cat-item cat-item-1377"><a href="https://eikaiwa.weblio.jp/column/category/phrases/vocabulary" >英語表現の種類と使い分け方</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1305"><a href="https://eikaiwa.weblio.jp/column/category/knowledge" >知って得する英語の知識</a>
+<ul class='children'>
+	<li class="cat-item cat-item-9"><a href="https://eikaiwa.weblio.jp/column/category/knowledge/interesting_thing_about_english" >映画・音楽・偉人・先人に学ぶ英語</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="https://eikaiwa.weblio.jp/column/category/knowledge/tourism" >海外・異文化情報</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://eikaiwa.weblio.jp/column/category/knowledge/make_an_earnest_effort" >英語試験対策（TOEICやTOEFL）</a>
+</li>
+	<li class="cat-item cat-item-693"><a href="https://eikaiwa.weblio.jp/column/category/knowledge/unnatural_english" >間違いだらけの英語表現</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-1304"><a href="https://eikaiwa.weblio.jp/column/category/study" >英語が身につく勉強法</a>
+<ul class='children'>
+	<li class="cat-item cat-item-189"><a href="https://eikaiwa.weblio.jp/column/category/study/eigo-bunpo" >英語の文法解説</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://eikaiwa.weblio.jp/column/category/study/good_tools_for_learning_english" >英語学習に役立つツール</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://eikaiwa.weblio.jp/column/category/study/english_study_skills" >英語学習のコツ</a>
+</li>
+</ul>
+</li>
+		</ul>
+</aside>	</div><!-- #primary-sidebar -->
+
+
+		<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+		<aside id="tag_cloud-5" class="widget widget_tag_cloud"><div class="widget-title">タグ</div><div class="tagcloud"><a href='https://eikaiwa.weblio.jp/column/tag/toeic%e3%82%b9%e3%82%b3%e3%82%a2' class='tag-link-1620' title='33件のトピック' style='font-size: 11.571428571429pt;'>TOEICスコア</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e3%81%8a%e3%82%82%e3%81%a6%e3%81%aa%e3%81%97%e8%8b%b1%e8%aa%9e' class='tag-link-97' title='89件のトピック' style='font-size: 17.571428571429pt;'>おもてなし英語</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e3%81%8a%e5%ba%97' class='tag-link-108' title='42件のトピック' style='font-size: 13pt;'>お店</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e3%82%b9%e3%83%94%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0' class='tag-link-58' title='37件のトピック' style='font-size: 12.285714285714pt;'>スピーキング</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e3%83%86%e3%82%b9%e3%83%88%e5%95%8f%e9%a1%8c' class='tag-link-1622' title='76件のトピック' style='font-size: 16.714285714286pt;'>テスト問題</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e3%83%86%e3%82%b9%e3%83%88%e6%94%bb%e7%95%a5' class='tag-link-1648' title='37件のトピック' style='font-size: 12.285714285714pt;'>テスト攻略</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e3%83%8d%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96' class='tag-link-231' title='26件のトピック' style='font-size: 10.142857142857pt;'>ネイティブ</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9' class='tag-link-217' title='179件のトピック' style='font-size: 22pt;'>ビジネス</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%82%b7%e3%83%bc%e3%83%b3' class='tag-link-1965' title='33件のトピック' style='font-size: 11.571428571429pt;'>ビジネスシーン</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e3%83%95%e3%83%ac%e3%83%bc%e3%82%ba' class='tag-link-66' title='30件のトピック' style='font-size: 11pt;'>フレーズ</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e3%83%aa%e3%82%b9%e3%83%8b%e3%83%b3%e3%82%b0' class='tag-link-59' title='19件のトピック' style='font-size: 8.2857142857143pt;'>リスニング</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e4%bd%bf%e3%81%84%e5%88%86%e3%81%91' class='tag-link-183' title='24件のトピック' style='font-size: 9.7142857142857pt;'>使い分け</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e5%85%ac%e9%96%8b%e3%83%86%e3%82%b9%e3%83%88' class='tag-link-1628' title='20件のトピック' style='font-size: 8.5714285714286pt;'>公開テスト</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e5%8b%89%e5%bc%b7%e6%b3%95' class='tag-link-35' title='31件のトピック' style='font-size: 11.285714285714pt;'>勉強法</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e5%92%8c%e8%a3%bd%e8%8b%b1%e8%aa%9e' class='tag-link-625' title='37件のトピック' style='font-size: 12.285714285714pt;'>和製英語</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e6%80%9d%e8%80%83%e3%82%92%e8%8b%b1%e8%aa%9e%e5%8c%96%e3%81%99%e3%82%8b%e6%96%b9%e6%b3%95' class='tag-link-2044' title='22件のトピック' style='font-size: 9.1428571428571pt;'>思考を英語化する方法</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e6%84%9f%e6%83%85%e8%a1%a8%e7%8f%be' class='tag-link-2033' title='19件のトピック' style='font-size: 8.2857142857143pt;'>感情表現</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e6%8e%a5%e5%ae%a2' class='tag-link-111' title='40件のトピック' style='font-size: 12.714285714286pt;'>接客</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e6%95%99%e6%9d%90' class='tag-link-40' title='23件のトピック' style='font-size: 9.4285714285714pt;'>教材</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e6%96%99%e7%90%86%e3%83%bb%e9%a3%9f%e3%81%b9%e7%89%a9' class='tag-link-2010' title='18件のトピック' style='font-size: 8pt;'>料理・食べ物</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e6%a1%88%e5%86%85' class='tag-link-110' title='27件のトピック' style='font-size: 10.428571428571pt;'>案内</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e6%b0%97%e3%81%ae%e5%88%a9%e3%81%84%e3%81%9f%e4%b8%80%e8%a8%80' class='tag-link-129' title='32件のトピック' style='font-size: 11.428571428571pt;'>気の利いた一言</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e6%b5%b7%e5%a4%96%e6%96%87%e5%8c%96%e3%82%92%e7%9f%a5%e3%82%8b' class='tag-link-2017' title='21件のトピック' style='font-size: 8.8571428571429pt;'>海外文化を知る</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e7%9b%b8%e6%89%8b%e3%82%92%e6%b0%97%e3%81%a5%e3%81%8b%e3%81%86%e8%a1%a8%e7%8f%be' class='tag-link-1996' title='28件のトピック' style='font-size: 10.571428571429pt;'>相手を気づかう表現</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e7%a8%8b%e5%ba%a6%e3%81%ae%e8%a1%a8%e7%8f%be' class='tag-link-2011' title='23件のトピック' style='font-size: 9.4285714285714pt;'>程度の表現</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e4%bc%9a%e8%a9%b1' class='tag-link-19' title='131件のトピック' style='font-size: 20pt;'>英会話</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e4%bc%9a%e8%a9%b1%e3%83%bb%e9%9b%91%e8%ab%87%e5%8a%9b' class='tag-link-2052' title='46件のトピック' style='font-size: 13.571428571429pt;'>英会話・雑談力</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e5%8d%98%e8%aa%9e' class='tag-link-248' title='84件のトピック' style='font-size: 17.285714285714pt;'>英単語</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e6%96%87%e6%b3%95' class='tag-link-57' title='42件のトピック' style='font-size: 13pt;'>英文法</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e8%aa%9e' class='tag-link-56' title='52件のトピック' style='font-size: 14.285714285714pt;'>英語</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e8%aa%9e%e3%81%a7%e8%a1%a8%e7%8f%be%e3%81%a7%e3%81%8d%e3%81%be%e3%81%99%e3%81%8b' class='tag-link-1971' title='48件のトピック' style='font-size: 13.857142857143pt;'>英語で表現できますか</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e8%aa%9e%e3%81%ae%e3%83%8b%e3%83%a5%e3%82%a2%e3%83%b3%e3%82%b9' class='tag-link-675' title='27件のトピック' style='font-size: 10.428571428571pt;'>英語のニュアンス</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e8%aa%9e%e3%81%ae%e7%99%ba%e9%9f%b3' class='tag-link-1435' title='30件のトピック' style='font-size: 11pt;'>英語の発音</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e8%aa%9e%e3%82%b9%e3%83%a9%e3%83%b3%e3%82%b0' class='tag-link-931' title='20件のトピック' style='font-size: 8.5714285714286pt;'>英語スラング</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e8%aa%9e%e3%83%95%e3%83%ac%e3%83%bc%e3%82%ba' class='tag-link-362' title='152件のトピック' style='font-size: 20.857142857143pt;'>英語フレーズ</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e8%aa%9e%e4%b8%8a%e9%81%94' class='tag-link-1362' title='31件のトピック' style='font-size: 11.285714285714pt;'>英語上達</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e8%aa%9e%e5%88%9d%e5%bf%83%e8%80%85' class='tag-link-1359' title='22件のトピック' style='font-size: 9.1428571428571pt;'>英語初心者</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e8%aa%9e%e5%8b%89%e5%bc%b7%ef%bd%a5%e5%ad%a6%e7%bf%92%e6%b3%95' class='tag-link-1360' title='23件のトピック' style='font-size: 9.4285714285714pt;'>英語勉強･学習法</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%8b%b1%e8%aa%9e%e8%a1%a8%e7%8f%be' class='tag-link-278' title='67件のトピック' style='font-size: 15.857142857143pt;'>英語表現</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%a6%81%e6%b3%a8%e6%84%8f%e3%83%95%e3%83%ac%e3%83%bc%e3%82%ba' class='tag-link-2079' title='21件のトピック' style='font-size: 8.8571428571429pt;'>要注意フレーズ</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%a8%b3%e3%81%97%e3%81%ab%e3%81%8f%e3%81%84%e8%a1%a8%e7%8f%be' class='tag-link-2108' title='22件のトピック' style='font-size: 9.1428571428571pt;'>訳しにくい表現</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e8%a9%a6%e9%a8%93%e5%af%be%e7%ad%96' class='tag-link-78' title='23件のトピック' style='font-size: 9.4285714285714pt;'>試験対策</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e9%80%9a%e3%81%98%e3%81%aa%e3%81%84' class='tag-link-177' title='47件のトピック' style='font-size: 13.714285714286pt;'>通じない</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e9%96%93%e9%81%95%e3%81%a3%e3%81%9f%e8%8b%b1%e8%aa%9e' class='tag-link-1363' title='36件のトピック' style='font-size: 12.142857142857pt;'>間違った英語</a>
+<a href='https://eikaiwa.weblio.jp/column/tag/%e9%a1%9e%e7%be%a9%e8%aa%9e%e3%83%bb%e9%a1%9e%e4%bc%bc%e8%a1%a8%e7%8f%be' class='tag-link-1358' title='90件のトピック' style='font-size: 17.714285714286pt;'>類義語・類似表現</a></div>
+</aside>	</div><!-- #primary-sidebar -->
+	</div>
+
+		</div><!-- #main -->
+
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+<nav id="sitemap">
+<ul>
+<li><a href="https://eikaiwa.weblio.jp/wte/company/">運営会社</a></li>
+<li><a href="https://eikaiwa.weblio.jp/WTE/site.cgi?m=inqfrmshw">お問合せ</a></li>
+<li><a href="https://eikaiwa.weblio.jp/wte/agree/">利用規約</a></li>
+<li><a href="https://eikaiwa.weblio.jp/wte/privacy/">プライバシーポリシー</a></li>
+<li><a href="http://www.weblio-inc.jp/wordpress/recruit/" title="ウェブリオへの転職">ウェブリオへの転職</a></li>
+<li><a href="https://www.ryugaku-hiyo.com/" title="シルキー">シルキー</a></li>
+<li><a href="https://www.smart-translation.com/" title="スマート翻訳">スマート翻訳</a></li>
+<li><a href="https://www.kaigai-ryoko-hoken.com/" title="海外旅行保険比較ナビ">海外旅行保険比較ナビ</a></li>
+</ul>
+</nav>
+<div id="f_box">
+<div id="copyright"><p>&copy;Weblio, Inc.</p></div>
+</div>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+	<link rel='stylesheet' id='yarppRelatedCss-css'  href='https://eikaiwa.weblio.jp/column/wp-content/plugins/yet-another-related-posts-plugin/style/related.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://eikaiwa.weblio.jp/column/wp-content/plugins/table-of-contents-plus/front.min.js'></script>
+<script type='text/javascript' src='https://eikaiwa.weblio.jp/column/wp-content/themes/twentyfourteen/js/functions.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+window.twttr=(function(w){t=w.twttr||{};t._e=[];t.ready=function(f){t._e.push(f);};return t;}(window));
+/* ]]> */
+</script>
+<script type="text/javascript" id="twitter-wjs" async defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script type='text/javascript' src='https://eikaiwa.weblio.jp/column/wp-includes/js/wp-embed.min.js'></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3ZP79"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5&appId=535161399994098";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+</html>

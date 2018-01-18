@@ -1,0 +1,383 @@
+Resources , such as labor , tools , land , and raw materials are necessary to produce the goods and services we want but they exist in limited supply .
+	c:	such as	[adj prep]	A2	2,3
+		being
+		equally
+		like
+		similarly
+
+Of course , the ultimate scarce resource is time - everyone , rich or poor , has just 24 hours in the day to try to acquire the goods they want .
+	c:	of course	[prep noun]	B1	0,1
+		certainly
+		definitely
+		indeed
+		naturally
+		obviously
+		surely
+
+At any point in time , there is only a finite amount of resources available .
+	c:	in time	[prep noun]	B1	3,4
+		joint
+		fellow
+		incident
+		satellite
+		accessory
+		accidental
+		chance
+		unrelated
+		later
+
+It is because of scarcity .
+	c:	because of	[prep prep]	B1	2,3
+		by
+		for
+		per
+		via
+		with
+		around
+
+-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer .
+	c:	at least	[prep adj]	B2	19,20
+		slightly
+		carelessly
+		relatively
+		completely
+		totally
+
+Smith counted 18 distinct tasks that were often done by different people-all for a pin , believe it or not !
+	c:	or not	[conj adv]	A2	18,19
+		instead
+		rather
+		nor
+
+Modern businesses divide tasks as well .
+	c:	as well	[adv adv]	A1	4,5
+		also
+		simultaneously
+		too
+		besides
+		furthermore
+		moreover
+		with
+		apart
+		separate
+		far
+
+First , specialization in a particular small job allows workers to focus on the parts of the production process where they have an advantage .
+	d:	in particular	[prep adj]	B1	13,18
+		specially
+		mainly
+		primarily
+		strangely
+		unusually
+		curiously
+		commonly
+		generally
+		normally
+		usually
+
+The particular advantages may be based on educational choices , which are in turn shaped by interests and talents .
+	c:	in turn	[prep noun]	C1	12,13
+		following
+		orderly
+
+Only those with medical degrees qualify to become doctors , for instance .
+	c:	for instance	[prep noun]	B1	10,11
+		being
+		equally
+		like
+		similarly
+
+If you live in or near a big city , it is easier to attract enough customers to operate a successful dry cleaning business or movie theater than if you live in a sparsely populated rural area .
+	c:	movie theater	[noun noun]	A1	25,26
+		cinema
+
+In fact , specialized workers often know their jobs well enough to suggest innovative ways to do their work faster and better .
+	c:	in fact	[prep noun]	B1	0,1
+		absolutely
+		indeed
+		very
+		really
+		partly
+		completely
+
+In many cases , a business that focuses on one or a few products -LRB- sometimes called its `` core competency '' -RRB- is more successful than firms that try to make a wide range of products .
+	c:	a few	[det adj]	A2	11,12
+		precise
+		specific
+		individual
+		various
+		numerous
+		special
+		express
+		many
+		marked
+		one
+		regular
+		several
+		singular
+		some
+		unimportant
+		usual
+		uncertain
+		unpredictable
+		general
+		common
+		ordinary
+		few
+		any
+
+For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .
+	c:	for example	[prep noun]	A1	0,1
+		like
+	c:	on average	[prep noun]	B2	21,22
+		publicly
+		mostly
+		largely
+		typically
+		commonly
+		roughly
+		widely
+		usually
+		normally
+		about
+		altogether
+		approximately
+		extensively
+		primarily
+		regularly
+		rarely
+		sometimes
+		unusually
+		exactly
+		particularly
+
+In short , specialization requires trade .
+	c:	in short	[prep adj]	C1	0,1
+		shortly
+		permanently
+
+You do not need to know anything about internal combustion engines to operate a car-you just get in and drive .
+	c:	get in	[verb prep]	B1	16,17
+		come
+		enter
+		appear
+		arrive
+		include
+		land
+		mount
+		reach
+		show
+		depart
+		go
+		leave
+
+You need to be able to vote intelligently on budgets , regulations , and laws in general .
+	c:	in general	[prep adj]	B2	15,16
+		almost
+		nearly
+		roughly
+		approximately
+		away
+		distant
+		far
+		remote
+		usually
+
+When the U.S. government came close to a standstill at the end of 2012 due to the `` fiscal cliff , '' what were the issues involved ?
+	c:	due to	[adj prep]	B1	14,15
+		as
+		being
+		for
+		over
+		since
+		through
+
+When you hear classmates , co-workers , or political candidates talking about economics , you will be able to distinguish between common sense and nonsense .
+	c:	common sense	[adj noun]	B1	21,22
+		intelligence
+		sense
+		wisdom
+		logic
+		cool
+		experience
+		reason
+
+You will find new ways of thinking about current events and about personal and business decisions , as well as current events and politics .
+	c:	as well as	[adv adv prep]	A2	17,18,19
+		again
+		too
+		further
+		still
+		more
+		besides
+		along
+		and
+		furthermore
+		including
+		moreover
+		plus
+
+Aphrodite became so jealous of Psyche that she sent her son , Eros , to make Psyche fall in love with the ugliest man in the world .
+	c:	in love	[prep noun]	B1	18,19
+		romantic
+		fond
+		hot
+		unfriendly
+		cold
+		cool
+
+For example , that a bird sings because it is happy is not a testable hypothesis , since we have no way to measure the happiness of a bird .
+	c:	no way	[det noun]	B1	20,21
+		negative
+		prohibition
+		confirmation
+		permission
+		claim
+		allowance
+		approval
+		agreement
+		impossible
+		useless
+		not
+		no
+		hopeless
+
+No biological organism exists in isolation , and our behavior is influenced by our interactions with others .
+	c:	in isolation	[prep noun]	C2	4,5
+		down
+		alone
+		away
+		out
+		apart
+		beside
+		near
+		nearby
+		middle
+
+Many of these students develop such an interest in the area that they go on to declare psychology as their major .
+	c:	go on	[verb prep]	C2	13,14
+		last
+		proceed
+		conduct
+		stay
+		endure
+		occur
+		happen
+		act
+		advance
+		bear
+		behave
+		stop
+		leave
+		continue
+
+The evaluation of information-assessing its reliability and usefulness - is an important skill in a world full of competing `` facts , '' many of which are designed to be misleading .
+	d:	in full	[prep adj]	B1	39,48
+		perfectly
+		absolutely
+		fully
+		altogether
+		finally
+		quite
+		totally
+		extensively
+		partly
+		entirely
+		completely
+
+A fourth sociologist might be part of a team developing signs to warn people living thousands of years in the future , and speaking many different languages , to stay away from still-dangerous nuclear waste .
+	c:	in the future	[prep det noun]	B1	18,19,20
+		so
+		thus
+		away
+		consequently
+		forward
+		out
+		then
+
+All sociologists are interested in the experiences of individuals and how those experiences are shaped by interactions with social groups and society as a whole .
+	c:	as a whole	[prep det noun]	B2	22,23,24
+		altogether
+		generally
+		together
+
+Sociologists identify and study patterns related to all kinds of contemporary social issues .
+	c:	kind of	[noun prep]	B1	8,9
+		rather
+
+Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .
+	c:	make it	[verb perPro]	C1	10,11
+		do
+		finish
+		score
+		conclude
+		perform
+		win
+		manage
+		reach
+		produce
+		attain
+		realize
+		achieve
+		hit
+		effect
+		gain
+		arrive
+		destroy
+		fail
+		lose
+		miss
+		begin
+		introduce
+		start
+		stop
+		leave
+		abandon
+		exist
+		endure
+
+For instance , an individual 's religious practice may be influenced by what government dictates , holidays , teachers , places of worship , rituals , and so on .
+	c:	and so on	[conj adv prep]	B1	26,27,28
+		whatever
+		thus
+
+Ashley said that in the city they had been accustomed to getting looks and hearing comments when she and her partner walked hand in hand .
+	c:	hand in hand	[noun prep noun]	B2	22,23,24
+		together
+	c:	in hand	[prep noun]	B2	23,24
+		had
+		lost
+
+Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .
+	c:	a great deal	[det adj noun]	B2	10,11,12
+		regularly
+		often
+		indeed
+		highly
+		very
+		frequently
+		extremely
+		repeatedly
+		little
+		rarely
+
+When Nathan asked Ashley if she and her partner became discouraged or bitter about this new situation , Ashley said that rather than letting it get to them , they decided to do something about it .
+	c:	get to	[verb prep]	B1	25,26
+		bother
+		irritate
+		needle
+		get
+		tease
+		dog
+		gall
+		bug
+		aid
+		delight
+		calm
+		soothe
+		improve
+		help
+		please
+		annoy
+		horrify
+

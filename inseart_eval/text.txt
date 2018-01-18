@@ -1,0 +1,2170 @@
+In the same way -LRB- though not shown in the figure -RRB- , if AD increases , the economy could experience an inflationary gap , where demand is attempting to push the economy past potential output .
+	d:	the past	[det adj]	B1	31,33
+			[(NN)]
+
+If U.S. goods are relatively cheaper compared with goods made in other places , perhaps because a group of U.S. producers has mastered certain productivity breakthroughs , then U.S. exports are likely to rise .
+	d:	in place	[prep noun]	B2	10,12
+			[(JJ)]
+
+summarizes the reasons given here for changes in aggregate demand .
+	d:	in demand	[prep noun]	C1	7,9
+			[(JJ)]
+
+Examples of indexing in the private sector include wage contracts with cost-of-living adjustments -LRB- COLAs -RRB- and loan agreements like adjustable-rate mortgages -LRB- ARMs -RRB- .
+	d:	in private	[prep adj]	B2	3,5
+			[(DT)]
+
+First , specialization in a particular small job allows workers to focus on the parts of the production process where they have an advantage .
+	d:	in particular	[prep adj]	B1	3,5
+			[(DT)]
+
+It is possible to construct a somewhat complex mathematical model where aggregate demand and sticky wages and prices matter in the short run , but wages , prices , and aggregate supply adjust in the long run .
+	d:	in short	[prep adj]	C1	19,21
+			[(DT)]
+
+The level of potential GDP is determined by long term productivity growth and that the economy typically will return to full employment after a change in aggregate demand .
+	d:	in demand	[prep noun]	C1	25,27
+			[(JJ)]
+
+The Clear it Up discusses the outcome of deregulation in one industry in particular?airlines .
+	d:	clear up	[adj prep]	B2	1,3
+			[(NP)]
+
+Shifts in Aggregate Demand
+	d:	in demand	[prep noun]	C1	1,3
+			[(NNP)]
+
+This chapter introduces the macroeconomic model of aggregate supply and aggregate demand , how the two interact to reach a macroeconomic equilibrium , and how shifts in aggregate demand or aggregate supply will affect that equilibrium .
+	d:	in demand	[prep noun]	C1	26,28
+			[(JJ)]
+
+The chapter on The Keynesian Perspective focuses on the macroeconomy in the short run , where aggregate demand plays a crucial role .
+	d:	in short	[prep adj]	C1	10,12
+			[(DT)]
+
+In the short run , GDP falls and rises in every economy , as the economy dips into recession or expands out of recession .
+	d:	in short	[prep adj]	C1	0,2
+			[(DT)]
+
+Inflation fluctuates in the short run .
+	d:	in short	[prep adj]	C1	2,4
+			[(DT)]
+
+Read the next Clear It Up to learn about how buying decisions are influenced by who controls the household income .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+Traditionally , the child allowance had been distributed to families by withholding less in taxes from the paycheck of the family wage earner?typically the father in this time period .
+	d:	in time	[prep noun]	B1	25,27
+			[(DT)]
+
+A rich resource of information about countries and their economies can be found on the Heritage Foundation?s website , as the following Clear It Up feature discusses .
+	d:	clear up	[adj prep]	B2	22,24
+			[(NP)]
+
+There is no such thing as an absolutely free market .
+	d:	such as	[adj prep]	A2	3,5
+			[(NN)]
+
+-LRB- This is discussed further in the appendix on Present Discounted Value . -RRB-
+	d:	the present	[det adj]	B1	6,9
+			[(ADJP)]
+
+The trend in the stock market is generally up over time , but with some large dips along the way .
+	d:	in stock	[prep noun]	B2	2,4
+			[(DT)]
+
+There can , however , be different outcomes , as the Clear It Up on the housing market shows .
+	d:	clear up	[adj prep]	B2	11,13
+			[(NP)]
+
+The next Clear It Up feature explains the issues in the recent U.S. housing market crisis .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+The high risk of such investments refers to the fact that in shorter time frames , from months to a few years , the rate of return may fluctuate a great deal .
+	d:	in time	[prep noun]	B1	11,13
+			[(JJR)]
+
+In the 1980s , inflation rates came down in the United States and in Europe and have largely stayed down .
+	d:	come in	[verb prep]	C2	6,8
+			[(ADVP)]
+
+The answer is that shutting down can reduce variable costs to zero , but in the short run , the firm has already paid for fixed costs .
+	d:	in short	[prep adj]	C1	14,16
+			[(DT)]
+
+In the short run , though , the decision varies depending on the level of losses and whether the firm can cover its variable costs .
+	d:	in short	[prep adj]	C1	0,2
+			[(DT)]
+
+In contrast , in scenario 3 the revenue that the center can earn is high enough that the losses diminish when it remains open , so the center should remain open in the short run .
+	d:	in short	[prep adj]	C1	31,33
+			[(DT)]
+
+If price falls in the zone between the shutdown point and the zero-profit point , then the firm is making losses but will continue to operate in the short run , since it is covering its variable costs .
+	d:	in short	[prep adj]	C1	26,28
+			[(DT)]
+
+At any price above that level , the firm will earn profits in the short run .
+	d:	in short	[prep adj]	C1	12,14
+			[(DT)]
+
+Marginal Cost and the Firm?s Supply CurveFor a perfectly competitive firm , the marginal cost curve is identical to the firm?s supply curve starting from the minimum point on the average variable cost curve .
+	d:	on average	[prep adj]	B2	28,30
+			[(DT)]
+
+In other words , the marginal cost curve above the minimum point on the average variable cost curve becomes the firm?s supply curve .
+	d:	on average	[prep adj]	B2	12,14
+			[(DT)]
+
+The following Work It Out feature will walk you through an example.At What Price Should the Firm Continue Producing in the Short Run ?
+	d:	in short	[prep adj]	C1	19,21
+			[(DT)]
+
+If the market price faced by a perfectly competitive firm is above average variable cost , but below average cost , then the firm should continue producing in the short run , but exit in the long run .
+	d:	in short	[prep adj]	C1	27,29
+			[(DT)]
+
+-LRB- Read the following Clear It Up feature for explanation of why imports are subtracted from exports and what this means for aggregate demand . -RRB-
+	d:	clear up	[adj prep]	B2	4,6
+			[(NP)]
+
+The survey results are then reported at http://www.sca.isr.umich.edu , which break down the change in consumer confidence among different income levels .
+	d:	in confidence	[prep noun]	C2	14,16
+			[(NN)]
+
+Read the following Clear It Up feature to consider the question of whether economists favor tax cuts or oppose them .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+The use of government spending and tax cuts can be a useful tool to affect aggregate demand and it will be discussed in greater detail in the Government Budgets and Fiscal Policy chapter and The Impacts of Government Borrowing .
+	d:	in detail	[prep noun]	B1	22,24
+			[(JJR)]
+
+But economists also believe that the choices people make are influenced by their incomes , by the prices of goods and services they consume , and by factors like where they live .
+	d:	the people	[det noun]	C1	5,7
+			[(NNS)]
+
+The World Bank , which assists the poorest people in the world , and the International Monetary Fund , which addresses issues raised by international financial transactions , were both created in 1946 .
+	d:	the people	[det noun]	C1	6,8
+			[(JJS)]
+
+The marginal tax rates -LRB- the tax that must be paid on all yearly income -RRB- for a single taxpayer range from 10 % to 35 % , depending on income , as the following Clear It Up feature explains .
+	d:	clear up	[adj prep]	B2	35,37
+			[(NP)]
+
+The messy ways in which people and societies operate somehow doesn?t look much like neat budget constraints or smoothly curving production possibilities frontiers .
+	d:	look like	[noun prep]	B1	11,13
+			[(RB)]
+
+Even if the line between positive and normative statements is not always crystal clear , economic analysis does try to remain rooted in the study of the actual people who inhabit the actual economy .
+	d:	the people	[det noun]	C1	26,28
+			[(JJ)]
+
+Fourth , even people who focus on their own self-interest in the economic part of their life often set aside their own narrow self-interest in other parts of life .
+	d:	in part	[prep noun]	B1	24,26
+			[(JJ)]
+
+The budget constraint/production possibilities frontier diagram is always just a tool for thinking carefully about scarcity , tradeoffs , and efficiency in a particular situation .
+	d:	in particular	[prep adj]	B1	21,23
+			[(DT)]
+
+Read this article for an example of price elasticity that may have affected you .
+	d:	for example	[prep noun]	A1	3,5
+			[(DT)]
+
+The Clear It Up box discusses how these issues relate to coffee.How do coffee prices fluctuate?Coffee is an international crop .
+	d:	clear up	[adj prep]	B2	1,3
+			[(NP)]
+
+By 2001 it had fallen back to 46 cents a pound ; by early 2011 it went back up to about $ 2.31 per pound .
+	d:	go up	[verb adv]	C2	16,18
+			[(RB)]
+
+Higher costs , like a higher tax on cigarette companies for the example given in the text , lead supply to shift to the left .
+	d:	for example	[prep noun]	A1	10,12
+			[(DT)]
+
+Long-Run vs. Short-Run ImpactElasticities are often lower in the short run than in the long run .
+	d:	in short	[prep adj]	C1	7,9
+			[(DT)]
+
+On the demand side of the market , it can sometimes be difficult to change Qd in the short run , but easier in the long run .
+	d:	in short	[prep adj]	C1	16,18
+			[(DT)]
+
+In the short run , it is not easy for a person to make substantial changes in the energy consumption .
+	d:	in short	[prep adj]	C1	0,2
+			[(DT)]
+
+As a result , the elasticity of demand for energy is somewhat inelastic in the short run , but much more elastic in the long run .
+	d:	in short	[prep adj]	C1	13,15
+			[(DT)]
+
+-LRB- a -RRB- shows inelastic demand for oil in the short run similar to that which existed for the United States in 1973 .
+	d:	in short	[prep adj]	C1	8,10
+			[(DT)]
+
+After all , in the short run it can be costly or difficult to build a new factory , hire many new workers , or open new stores .
+	d:	in short	[prep adj]	C1	3,5
+			[(DT)]
+
+Indeed , in most markets for goods and services , prices bounce up and down more than quantities in the short run , but quantities often move more than prices in the long run .
+	d:	in short	[prep adj]	C1	18,20
+			[(DT)]
+
+The underlying reason for this pattern is that supply and demand are often inelastic in the short run , so that shifts in either demand or supply can cause a relatively greater change in prices .
+	d:	in demand	[prep noun]	C1	22,24
+			[(DT)]
+	d:	in short	[prep adj]	C1	14,16
+			[(DT)]
+
+In the market for goods and services , quantity supplied and quantity demanded are often relatively slow to react to changes in price in the short run , but react more substantially in the long run .
+	d:	in short	[prep adj]	C1	23,25
+			[(DT)]
+
+As a result , demand and supply often -LRB- but not always -RRB- tend to be relatively inelastic in the short run and relatively elastic in the long run .
+	d:	in short	[prep adj]	C1	18,20
+			[(DT)]
+
+See the following Clear It Up feature for an example of how human capital , physical capital , and technology can combine to significantly impact lives .
+	d:	for example	[prep noun]	A1	7,9
+			[(DT)]
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+Consider this example : Yelberton is a young man starting off at his first job .
+	d:	at first	[prep adj]	B1	11,13
+			[(PRP$)]
+
+The following Clear It Up further explores America 's saving rates .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+decision would be to pay off the debt , since a $ 1,000 savings account with $ 0 in debt is the equivalent net worth , and she would now net $ 20 per year .
+	d:	the net	[det adj]	A2	???,???
+			[(JJ)]
+
+Both have their advantages , but behavioral economists have at least shed a light on trying to describe and explain behavior that has historically been dismissed as irrational .
+	d:	shed light on	[verb noun prep]	C2	11,13,14
+			[(DT)()]
+
+Such programs are called the safety net , in recognition of the fact that they offer some protection for those who find themselves without jobs or income .
+	d:	the net	[det noun]	A2	4,6
+			[(NN)]
+
+The group of government programs that assist the poor are called the safety net .
+	d:	the net	[det noun]	A2	11,13
+			[(NN)]
+
+-LRB- See the following Clear It Up feature to understand what is meant by investment . -RRB-
+	d:	clear up	[adj prep]	B2	4,6
+			[(NP)]
+
+If you are curious about the awesome undertaking of adding up GDP , read the following Clear It Up feature .
+	d:	clear up	[adj prep]	B2	16,18
+			[(NP)]
+
+Does it mean sleeping on the ground , eating roots , and getting close to wild animals ?
+	d:	get to	[verb prep]	B1	12,14
+			[(JJ)]
+
+The following Clear It Up feature delves into how the EPA measures its policies ?
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+These devices can be used to communicate with other workers , measure product quality or do any other task in less time , improving worker productivity .
+	d:	in time	[prep noun]	B1	19,21
+			[(JJR)]
+
+-LRB- See the following Clear It Up feature on the relationship between compound growth rates and compound interest rates . -RRB-
+	d:	clear up	[adj prep]	B2	4,6
+			[(NP)]
+
+Allocative efficiency means that among the points on the production possibility frontier , the point that is chosen is socially preferred?at least in a particular and specific sense .
+	d:	in particular	[prep adj]	B1	22,24
+			[(DT)]
+
+in a particular and specific sense , not as a synonym for ?
+	d:	in particular	[prep adj]	B1	0,2
+			[(DT)]
+
+ability to pay reflects the income distribution in a particular society .
+	d:	in particular	[prep adj]	B1	7,9
+			[(DT)]
+
+The following Clear It Up feature discusses how this sort of dynamic played out in Colonial India .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+The fundamental economic question is not whether a nation?s economy is borrowing or lending at all , but whether the particular borrowing or lending in the particular economic conditions of that country makes sense .
+	d:	in particular	[prep adj]	B1	24,26
+			[(DT)]
+
+The following Clear it Up might surprise you .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+The major concern with this policy is that exchange rates can move a great deal in a short time .
+	d:	in short	[prep adj]	C1	15,17
+			[(DT)]
+
+In addition , a central bank that causes a large increase in the supply of money is also risking an inflationary surge in aggregate demand .
+	d:	in demand	[prep noun]	C1	22,24
+			[(JJ)]
+
+The following Clear It Up feature discusses the effects of international capital flows?capital that flows across national boundaries as either portfolio investment or direct investment .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+Like a hard peg , a merged currency means that a nation has given up altogether on domestic monetary policy , and instead has put its interest rate policies in other hands .
+	d:	in hand	[prep noun]	B2	29,31
+			[(JJ)]
+
+Traveler?s checks are a also included in M1 , but have decreased in use over the recent past .
+	d:	the past	[det noun]	B1	15,17
+			[(JJ)]
+
+Changes in banking practices and technology have made the savings accounts in M2 more similar to the checking accounts in M1 .
+	d:	in practice	[prep noun]	B2	1,3
+			[(NN)]
+
+Exchange rates will be discussed in more detail in Exchange Rates and International Capital Flows .
+	d:	in detail	[prep noun]	B1	5,7
+			[(JJR)]
+
+Read the following Clear It Up feature to find out .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+The Chinese people are still quite poor relative to the United States and other developed countries .
+	d:	the people	[det noun]	C1	0,2
+			[(JJ)]
+
+The next Clear It Up feature focuses on the difference between shifts of supply or demand and movements along a curve .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+More realistically , when an economic event causes demand or supply to shift , prices and quantities set off in the general direction of equilibrium .
+	d:	in general	[prep adj]	B2	19,21
+			[(DT)]
+
+In many parts of the world , including the European Union and the United States , it is illegal for firms to divide up markets and set prices collaboratively .
+	d:	in part	[prep noun]	B1	0,2
+			[(JJ)]
+
+Read the following Clear It Up feature for the answer .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+We investigate the patterns of government borrowing and debt in more detail later in this chapter , but first we need to clarify the difference between the deficit and the debt .
+	d:	in detail	[prep noun]	B1	9,11
+			[(JJR)]
+
+The difference between the deficit and the debt lies in the time frame .
+	d:	in time	[prep noun]	B1	9,11
+			[(DT)]
+
+Physical capital related to the military or to residences where people live is omitted from this table , because the focus here is on public investments that have a direct effect on raising output in the private sector .
+	d:	in private	[prep adj]	B2	34,36
+			[(DT)]
+
+However , when these people stand up , they block the view for other people , and the others need to stand up as well if they wish to see .
+	d:	as if	[adv prep]	B1	23,25
+			[(RB)]
+
+There is no such thing as a perfect system , and democracy , for all its popularity , is not without its problems , a few of which we will examine here .
+	d:	such as	[adj prep]	A2	3,5
+			[(NN)]
+
+-LRB- Total surplus is discussed in the Demand and Supply chapter , and tariffs are discussed in the The International Trade and Capital Flows chapter . -RRB-
+	d:	in demand	[prep noun]	C1	5,7
+			[(DT)]
+
+The following modules discuss each of these possible effects in more detail .
+	d:	in detail	[prep noun]	B1	9,11
+			[(JJR)]
+
+See the following Clear It Up feature for the answer to this question .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+an increase in the demand for financial capital of $ 142 billion .
+	d:	in demand	[prep noun]	C1	2,4
+			[(DT)]
+
+In the short run , trade imbalances can be affected by whether an economy is in a recession or on the upswing .
+	d:	in short	[prep adj]	C1	0,2
+			[(DT)]
+
+Let?s discuss each of these four explanations in more detail .
+	d:	in detail	[prep noun]	B1	7,9
+			[(JJR)]
+
+Youth unemployment is a significant issue in many parts of the world .
+	d:	in part	[prep noun]	B1	6,8
+			[(JJ)]
+
+Imagine if you are working for the Wisconsin government , and are able to find a higher-paying job in the private sector .
+	d:	in private	[prep adj]	B2	18,20
+			[(DT)]
+
+Thanks in large part to improvements in communication technology , sharing information , and transportation , it has become easier to split up the value chain .
+	d:	in part	[prep noun]	B1	1,3
+			[(JJ)]
+
+Instead of production in a single large factory , all of these steps can be split up among different firms operating in different places and even different countries .
+	d:	in place	[prep noun]	B2	21,23
+			[(JJ)]
+
+In the case of intra-industry trade between economies with similar income levels , the gains from trade come from specialized learning in very particular tasks and from economies of scale .
+	d:	in particular	[prep adj]	B1	21,23
+			[(RB)]
+
+Principles of Economics is organized as a collection of sections that can be rearranged , modified , and enhanced through localized examples or to incorporate a specific theme of your course .
+	d:	of course	[prep noun]	B1	28,30
+			[(PRP$)]
+
+This customization feature will ensure that your textbook truly reflects the goals of your course .
+	d:	of course	[prep noun]	B1	12,14
+			[(PRP$)]
+
+Clear It Up : This boxed feature , which includes pre-existing features from Taylor?s text , addresses common student misconceptions about the content .
+	d:	clear up	[adj prep]	B2	0,2
+			[(NP)]
+
+Clear It Ups are usually deeper explanations of something in the main body of the text .
+	d:	clear up	[adj noun]	B2	0,2
+			[(NP)]
+
+The foreign exchange market involves firms , households , and investors who demand and supply currencies coming together through their banks and the key foreign exchange dealers .
+	d:	come through	[verb prep]	C2	16,18
+			[(ADVP)]
+
+This example also helps to explain why exchange rates often move quite substantially in a short period of a few weeks or months .
+	d:	move in	[verb prep]	B1	10,13
+			[(ADVP)]
+	d:	in short	[prep adj]	C1	13,15
+			[(DT)]
+
+Since a nation?s central bank can use monetary policy to affect its interest rates , a central bank can also cause changes in exchange rates?a connection that will be discussed in more detail later in this chapter .
+	d:	in detail	[prep noun]	B1	30,32
+			[(JJR)]
+
+The second function of PPP is that exchanges rates will often get closer and closer to it as time passes .
+	d:	get to	[verb prep]	B1	11,15
+			[(ADJP)]
+
+In the demand and supply analysis of financial markets , the ?
+	d:	in demand	[prep noun]	C1	0,2
+			[(DT)]
+
+-LRB- Read the Clear It Up about the sex-discrimination suit brought against Wal-Mart . -RRB-
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+Further , as the following Clear It Up feature explains , there is evidence to support that discrimination in the housing market is connected to employment discrimination .
+	d:	clear up	[adj prep]	B2	5,7
+			[(NP)]
+
+Anti-discrimination policy , at its best , seeks to help society move toward the more optimistic outcome .
+	d:	at best	[prep adj]	C2	3,5
+			[(PRP$)]
+
+If expectations determine stock price , then shifts in expectations will determine shifts in the stock price .
+	d:	in stock	[prep noun]	B2	13,15
+			[(DT)]
+
+The following Clear It Up feature explains the poverty lines set by the World Bank for low-income countries around the world .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+Suppose a decrease in aggregate demand causes the economy to go into recession with high unemployment .
+	d:	in demand	[prep noun]	C1	3,5
+			[(JJ)]
+
+To learn about this issue further , read the following Clear It Up feature .
+	d:	clear up	[adj prep]	B2	10,12
+			[(NP)]
+
+In turn , the public may expect expansionary monetary policy , and the lowering of interest rates , in the short run .
+	d:	in short	[prep adj]	C1	18,20
+			[(DT)]
+
+The short run upward sloping aggregate supply curve implies a downward sloping Phillips curve ; thus , there is a tradeoff between inflation and unemployment in the short run .
+	d:	in short	[prep adj]	C1	25,27
+			[(DT)]
+
+For example , in 1975 the economy appeared to have an increase in aggregate demand ; the unemployment rate fell to 3 % but inflation increased from 2 % to 3 % .
+	d:	in demand	[prep noun]	C1	12,14
+			[(JJ)]
+
+This would be consistent with a decrease in aggregate demand .
+	d:	in demand	[prep noun]	C1	7,9
+			[(JJ)]
+
+In 1995 the economy again rebounded and unemployment fell to 2 % , but inflation increased to 4 % , which is consistent with a large increase in aggregate demand .
+	d:	in demand	[prep noun]	C1	27,29
+			[(JJ)]
+
+We also know that productivity growth varies a great deal in the short term due to cyclical factors .
+	d:	in short	[prep adj]	C1	10,12
+			[(DT)]
+
+An acquisition may not look just like a merger , since the newly purchased firm may continue to be operated under its former company name .
+	d:	look like	[verb prep]	B1	4,6
+			[(ADVP)]
+
+The following Clear it Up helps explain how antitrust laws came about .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+But if a bank sells its local loans , and then buys a mortgage-backed security based on home loans in many parts of the country , it can avoid being exposed to local financial risks .
+	d:	in part	[prep noun]	B1	19,21
+			[(JJ)]
+
+The plan was quite successful in the short run .
+	d:	in short	[prep adj]	C1	5,7
+			[(DT)]
+
+To learn more about measuring economic growth , read the following Clear It Up feature .
+	d:	clear up	[adj prep]	B2	11,13
+			[(NP)]
+
+It can be a controversial issue , as the next Clear it Up feature points out .
+	d:	clear up	[adj prep]	B2	10,12
+			[(NP)]
+
+captures this mixture of mini-monopoly and tough competition , and the following Clear It Up feature introduces its derivation .
+	d:	clear up	[adj prep]	B2	12,14
+			[(NP)]
+
+Take a swing , then see the following Clear It Up feature .
+	d:	clear up	[adj prep]	B2	8,10
+			[(NP)]
+
+Thus , although a monopolistically competitive firm may earn positive economic profits in the short term , the process of new entry will drive down economic profits to zero in the long run .
+	d:	in short	[prep adj]	C1	12,14
+			[(DT)]
+
+Monopolistic competitors can make an economic profit or loss in the short run , but in the long run , entry and exit will drive these firms toward a zero economic profit outcome .
+	d:	in short	[prep adj]	C1	9,11
+			[(DT)]
+
+The long-term result of entry and exit in a perfectly competitive market is that all firms end up selling at the price level determined by the lowest point on the average cost curve .
+	d:	on average	[prep adj]	B2	28,30
+			[(DT)]
+
+In a perfectly competitive market , each firm produces at a quantity where price is set equal to marginal cost , both in the short run and in the long run .
+	d:	in short	[prep adj]	C1	22,24
+			[(DT)]
+
+See the following Clear It Up feature for more detail on the impact of demand shifts .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+Read the following Clear It Up feature for a discussion on the role that advertising plays in monopolistic competition .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+Trade on low-wage workers depends a lot on the structure of labor markets and indirect effects felt in other parts of the economy .
+	d:	in part	[prep noun]	B1	17,19
+			[(JJ)]
+
+For example , low wages and long working hours in poor countries are unpleasant to think about , but for people in low-income parts of the world , it may well be the best option open to them .
+	d:	in part	[prep noun]	B1	21,23
+			[(JJ)]
+
+With a private good like pizza , if Max is eating the pizza then Michelle can not also eat it ; that is , the two people are rivals in consumption .
+	d:	the people	[det noun]	C1	24,26
+			[(CD)]
+
+For example , if people come together through the political process and agree to pay taxes and make group decisions about the quantity of public goods , they can defeat the free rider problem by requiring , through the law , that everyone contributes .
+	d:	come through	[verb prep]	C2	5,7
+			[(ADVP)]
+
+Conversely , if shifts in aggregate demand run ahead of increases in aggregate supply , inflationary increases in the price level will result .
+	d:	in demand	[prep noun]	C1	4,6
+			[(JJ)]
+
+If you are unclear about the difference between asymmetric information and imperfect information , read the following Clear It Up feature .
+	d:	clear up	[adj prep]	B2	17,19
+			[(NP)]
+
+-LRB- Whether or not consumers always behave rationally , as an economist would see it , is the subject of the following Clear It Up feature . -RRB-
+	d:	clear up	[adj prep]	B2	22,24
+			[(NP)]
+
+The idea that higher prices might cause a greater quantity demanded and that lower prices might cause a lower quantity demanded runs exactly counter to the basic model of demand and supply -LRB- as outlined in the Demand and Supply chapter -RRB- .
+	d:	in demand	[prep noun]	C1	35,37
+			[(DT)]
+
+A popular example is outlined here : Imagine you have the opportunity to buy an alarm clock for $ 20 in Store A. Across the street , you learn , is the exact same clock at Store B for $ 10 .
+	d:	in store	[prep noun]	C1	???,???
+			[()]
+
+Both have their advantages , but behavioral economists have at least shed a light on trying to describe and explain systematic behavior which previously has been dismissed as irrational .
+	d:	shed light on	[verb noun prep]	C2	11,13,14
+			[(DT)()]
+
+Shifts in the demand curve for labor occur for many reasons .
+	d:	in demand	[prep noun]	C1	1,3
+			[(DT)]
+
+The following Clear It Up feature describes in greater detail some of the arguments for and against changes to minimum wage .
+	d:	in detail	[prep noun]	B1	7,9
+			[(JJR)]
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+In the demand and supply analysis of labor markets , the price can be measured by the annual salary or hourly wage received .
+	d:	in demand	[prep noun]	C1	0,2
+			[(DT)]
+
+Realizing the compromises between nations that come about due to trade policy , many countries came together in 1947 to form the General Agreement on Tariffs and Trade -LRB- GATT -RRB- .
+	d:	come in	[verb prep]	C2	15,17
+			[(ADVP)]
+
+The following Clear It Up feature explains how trade policy can influence low-income countries .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+In some of the poorest countries on Earth , cotton farmers are some of the poorest people , earning about a dollar a day ... Who benefits from the current system of subsidies ?
+	d:	the people	[det noun]	C1	14,16
+			[(JJS)]
+
+In some cases , the situation gets even worse when the governments of high-income countries , having bought and paid for an excess supply of farm products , give away those products in poor countries and drive local farmers out of business altogether .
+	d:	get worse	[verb adj]	B1	6,8
+			[(RB)]
+
+The following Clear It Up feature considers why a country might outsource jobs even for a domestic product .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+Indeed , notice that some of the burden of protectionism , paid by domestic consumers , ends up in the hands of foreign producers in this case .
+	d:	in hand	[prep noun]	B2	18,20
+			[(DT)]
+
+As the Bring it Home feature just mentioned , making choices is at the heart of what economists study , and your decision to take this course is as much as economic decision as anything else .
+	d:	at heart	[prep noun]	C2	12,14
+			[(DT)]
+
+The total damage incurred by car accidents in this group of 100 drivers will be $ 186,000 , that is :
+	d:	by accident	[prep noun]	B1	4,6
+			[(NN)]
+
+Some of the programs look much like private insurance , in the sense that the members of a group makes steady payments into a fund , and those in the group who suffer an adverse experience receive payments .
+	d:	look like	[verb prep]	B1	4,6
+			[(ADVP)]
+
+At its best , the largely private U.S. system of health insurance and healthcare delivery provides an extraordinarily high quality of care , along with generating a seemingly endless parade of life-saving innovations .
+	d:	at best	[prep adj]	C2	0,2
+			[(PRP$)]
+
+Since insurance companies do not need to fear adverse selection , they can set their prices based on an average for the market , and those with lower risks will , to some extent , end up subsidizing those with higher risks .
+	d:	on average	[prep noun]	B2	17,19
+			[(DT)]
+
+law says demand creates its own supply , so that changes in aggregate demand cause changes in real GDP and employment .
+	d:	in demand	[prep noun]	C1	11,13
+			[(JJ)]
+
+Changes in aggregate demand have no effect on real GDP and employment , only on the price level .
+	d:	in demand	[prep noun]	C1	1,3
+			[(JJ)]
+
+The marginal cost of pollution reduction , like most most marginal cost curves increases with output , at least in the short run .
+	d:	in short	[prep adj]	C1	19,21
+			[(DT)]
+
+For an example of a pollution charge at the household level , consider two ways of charging for garbage collection .
+	d:	for example	[prep noun]	A1	0,2
+			[(DT)]
+
+Indeed , gasoline taxes are far higher in most other countries than in the United States .
+	d:	other than	[adj prep]	C1	9,11
+			[(NNS)]
+
+The product differentiation at the heart of monopolistic competition can also play a role in creating oligopoly .
+	d:	at heart	[prep noun]	C2	3,5
+			[(DT)]
+
+See the following Clear It Up feature for a more in-depth analysis of the difference between the two .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+The following Clear It Up feature discusses one cartel scandal in particular .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+... And all I wan na tell you again is let?s?let?s put the prices on the board .
+	d:	on board	[prep noun]	B1	14,16
+			[(DT)]
+
+The reason that the firm faces a kink in its demand curve is because of how the other oligopolists react to changes in the firm?s price .
+	d:	in demand	[prep noun]	C1	8,10
+			[(PRP$)]
+
+It provides powerful incentives for innovation , as firms seek to earn profits in the short run , while entry assures that firms do not earn economic profits in the long run .
+	d:	in short	[prep adj]	C1	13,15
+			[(DT)]
+
+However , monopolistically competitive firms do not produce at the lowest point on their average cost curves .
+	d:	on average	[prep adj]	B2	12,14
+			[(PRP$)]
+
+a steep fine considering a bag of ice sells for under $ 3 in most parts of the United States .
+	d:	in part	[prep noun]	B1	13,15
+			[(JJS)]
+
+Even though it is illegal in many parts of the world for firms to set prices and carve up a market , the temptation to earn higher profits makes it extremely tempting to defy the law .
+	d:	in part	[prep noun]	B1	5,7
+			[(JJ)]
+
+If all else is not held equal , then the laws of supply and demand will not necessarily hold , as the following Clear It Up feature shows .
+	d:	clear up	[adj prep]	B2	23,25
+			[(NP)]
+
+In this particular case , after we analyze each factor separately , we can combine the results .
+	d:	in particular	[prep adj]	B1	0,2
+			[(DT)]
+
+Instead , a shift in a demand curve captures an pattern for the market as a whole .
+	d:	in demand	[prep noun]	C1	4,6
+			[(DT)]
+
+You will see that an increase in income causes an upward -LRB- or rightward -RRB- shift in the demand curve , so that at any price the quantities demanded will be higher , as shown in .
+	d:	in demand	[prep noun]	C1	16,18
+			[(DT)]
+
+A change in the price of a good or service causes a movement along a specific demand curve , and it typically leads to some change in the quantity demanded , but it does not shift the demand curve .
+	d:	in demand	[prep noun]	C1	26,29
+			[(NP)]
+
+The second part is the firm?s desired profit , which is determined , among other factors , by the profit margins in that particular business .
+	d:	in particular	[prep adj]	B1	21,23
+			[(DT)]
+
+Factors other than price that affect demand and supply are included by using shifts in the demand or the supply curve .
+	d:	in demand	[prep noun]	C1	14,16
+			[(DT)]
+
+The following Clear It Up feature examines the demand and supply models .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+In ancient times , messengers carried information between distant cities and kingdoms .
+	d:	in time	[prep noun]	B1	0,2
+			[(JJ)]
+
+And because the shift in the demand curve was larger than the one in the supply , we would expect higher wages as a result .
+	d:	in demand	[prep noun]	C1	4,6
+			[(DT)]
+
+Other factors were at work during those six months , such as increases in supply and decreases in the demand for crude oil .
+	d:	in demand	[prep noun]	C1	17,19
+			[(DT)]
+
+Using the money multiplier for the example in this text :
+	d:	for example	[prep noun]	A1	4,6
+			[(DT)]
+
+The following Clear It Up feature explains other impacts of large deficits .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+The following Clear it Up feature explains where diminishing marginal returns fit into this analysis .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+Traditionally , bookstores have operated in retail locations with inventories held either on the shelves or in the back of the store .
+	d:	hold on	[verb prep]	B1	10,12
+			[(ADVP)]
+
+How this trade information is collected is explained in the following Clear It Up feature .
+	d:	clear up	[adj prep]	B2	11,13
+			[(NP)]
+
+For this example , let?s assume that Vivian?s utility-maximizing choice occurs at O , with 30 hours of leisure , 40 hours of work , and $ 400 in weekly income .
+	d:	for example	[prep noun]	A1	0,2
+			[(DT)]
+
+Read the following Clear It Up feature for more on the number of hours the average person works each year .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+The backward-bending supply curve for labor , when workers react to higher wages by working fewer hours and having more income , is not observed often in the short run .
+	d:	in short	[prep adj]	C1	26,28
+			[(DT)]
+
+Every price in every store was 20 % higher .
+	d:	in store	[prep noun]	C1	2,4
+			[(DT)]
+
+In other words , people were worried because they did not live in a place like the Land of Funny Money , where all prices and wages rose simultaneously .
+	d:	in place	[prep noun]	B2	12,14
+			[(DT)]
+
+In the short term , low or moderate levels of inflation may not pose an overwhelming difficulty for business planning , because costs of doing business and sales revenues may rise at similar rates .
+	d:	in short	[prep adj]	C1	0,2
+			[(DT)]
+
+High rates of inflation can muddle price signals in the short term and prevent market forces from operating efficiently , and can vastly complicate long-term savings and investment decisions .
+	d:	in short	[prep adj]	C1	8,10
+			[(DT)]
+
+If a firm achieves a large share of the market by producing a better product at a lower price , such behavior is not prohibited by antitrust law .
+	d:	by law	[prep noun]	C1	25,27
+			[(JJ)]
+
+The Microsoft antitrust case embodies many of these gray areas in restrictive practices , as the next Clear it Up shows .
+	d:	clear up	[adj prep]	B2	17,19
+			[(NP)]
+	d:	in practice	[prep noun]	B2	10,12
+			[(JJ)]
+
+Officials at the Federal Trade Commission and the Department of Justice are , of course , aware of these issues , but there is no easy way to resolve them .
+	d:	no way	[det noun]	B1	24,26
+			[(JJ)]
+
+Read the next Clear It Up feature .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+See the following Clear It Up feature .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+The demand and supply model shows how people and firms will react to the incentives provided by these laws to control prices , in ways that will often lead to undesirable consequences .
+	d:	by law	[prep noun]	C1	16,18
+			[(DT)]
+
+Changes of this sort can cause a change in the demand for rental housing , as illustrates .
+	d:	in demand	[prep noun]	C1	8,10
+			[(DT)]
+
+For more detail on the effects price ceilings and floors have on demand and supply , see the following Clear It Up feature .
+	d:	clear up	[adj prep]	B2	19,21
+			[(NP)]
+
+If you are wondering what the difference is between the CPS and EPS , read the following Clear it Up feature .
+	d:	clear up	[adj prep]	B2	17,19
+			[(NP)]
+
+-LRB- See the following Clear It Up feature for more on this . -RRB-
+	d:	clear up	[adj prep]	B2	4,6
+			[(NP)]
+
+Read more about Japan?s trade surplus in the next Clear It Up feature .
+	d:	clear up	[adj prep]	B2	9,11
+			[(NP)]
+
+With GDP , it is just a tiny bit more complicated .
+	d:	a bit	[det noun]	B2	6,8
+			[(JJ)]
+
+Real GDP Nominal GDPPrice IndexFor reasons that will be explained in more detail below , mathematically , a price index is a two-digit decimal number like 1.00 or 0.85 or 1.25 .
+	d:	in detail	[verb adj]	B1	10,12
+			[(JJR)]
+
+Some supporters of Keynesian economics advocated a high degree of government planning in all parts of the economy .
+	d:	in part	[prep noun]	B1	12,14
+			[(DT)]
+
+Is a desired increase in aggregate demand better accomplished by a tax cut or by an increase in government spending ?
+	d:	in demand	[prep noun]	C1	4,6
+			[(JJ)]
+
+The Keynesian approach , with its focus on aggregate demand and sticky prices , has proved useful in understanding how the economy fluctuates in the short run and why recessions and cyclical unemployment occur .
+	d:	in short	[prep adj]	C1	23,25
+			[(DT)]
+
+There is also the difference between income and wealth , as the following Clear It Up feature explains .
+	d:	clear up	[adj prep]	B2	13,15
+			[(NP)]
+
+In the short run , the perfectly competitive firm will seek the quantity of output where profits are highest or , if profits are not possible , where losses are lowest .
+	d:	in short	[prep adj]	C1	0,2
+			[(DT)]
+
+The Clear it Up discusses patent and copyright protection timeframes for some works you might have heard of .
+	d:	clear up	[adj prep]	B2	1,3
+			[(NP)]
+
+However , starting in the 1980s , the trade deficit increased rapidly , and after a tiny surplus in 1991 , the current account trade deficit got even larger in the late 1990s and into the mid-2000s .
+	d:	get in	[verb prep]	B1	26,29
+			[(ADJP)]
+
+The Structure of Costs in the Short Run
+	d:	in short	[prep adj]	C1	4,6
+			[(DT)]
+
+Fixed costs are expenditures that do not change regardless of the level of production , at least not in the short term .
+	d:	in short	[prep adj]	C1	18,20
+			[(DT)]
+
+There is a point at which marginal and average costs meet , as the following Clear it Up feature discusses .
+	d:	clear up	[adj prep]	B2	15,17
+			[(NP)]
+
+-LRB- Read the following Clear It Up feature to learn why the AS curve crosses potential GDP . -RRB-
+	d:	clear up	[adj prep]	B2	4,6
+			[(NP)]
+
+Thus , it is indeed possible for production to sprint above potential GDP , but only in the short run .
+	d:	in short	[prep adj]	C1	16,18
+			[(DT)]
+
+Read the following Clear It Up feature to gain an understanding of whether AS and AD are macro or micro .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+In the Clear It Up feature titled ?
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+In the short run , if demand is too low -LRB- or too high -RRB- , it is possible for producers to supply less GDP -LRB- or more GDP -RRB- than potential .
+	d:	in short	[prep adj]	C1	0,2
+			[(DT)]
+
+The upward-sloping short run aggregate supply -LRB- SRAS -RRB- curve shows the positive relationship between the price level and the level of real GDP in the short run .
+	d:	in short	[prep adj]	C1	24,26
+			[(DT)]
+
+is a form of protection provided by the laws of the United States for ?
+	d:	by law	[prep noun]	C1	6,8
+			[(DT)]
+
+If the only way to launch a successful new national cola drink is to spend more than the promotional budgets of Coca-Cola and Pepsi Cola , not too many companies will try .
+	d:	if only	[prep adj]	B1	0,2
+			[(DT)]
+
+A firm?s cost structure in the long run may be different from that in the short run .
+	d:	in short	[prep adj]	C1	13,15
+			[(DT)]
+
+The evidence on the supply curve of financial capital is controversial but , at least in the short run , the elasticity of savings with respect to the interest rate appears fairly inelastic .
+	d:	in short	[prep adj]	C1	15,17
+			[(DT)]
+
+Some politicians worry that their country may become overly dependent on key imported products , like oil , which in a time of war could threaten national security .
+	d:	in time	[prep noun]	B1	19,21
+			[(DT)]
+
+The distinction between the short run and the long run is therefore more technical : in the short run , firms can not change the usage of fixed inputs , while in the long run , the firm can adjust all factors of production .
+	d:	in short	[prep adj]	C1	15,17
+			[(DT)]
+
+If a business is making a profit in the short run , it has an incentive to expand existing factories or to build new ones .
+	d:	in short	[prep adj]	C1	7,9
+			[(DT)]
+
+If a business is making losses in the short run , it will either keep limping along or just shut down , depending on whether its revenues are covering its variable costs .
+	d:	in short	[prep adj]	C1	6,8
+			[(DT)]
+
+The following Clear It Up feature discusses where some of these losses might come from , and the reasons why some firms go out of business .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+Thus , while a perfectly competitive firm can earn profits in the short run , in the long run the process of entry will push down prices until they reach the zero-profit level .
+	d:	in short	[prep adj]	C1	10,12
+			[(DT)]
+
+Conversely , while a perfectly competitive firm may earn losses in the short run , firms will not continually lose money .
+	d:	in short	[prep adj]	C1	10,12
+			[(DT)]
+
+row , where , in all time periods , hamburgers are the largest item within the amount spent row .
+	d:	in time	[prep noun]	B1	4,6
+			[(DT)]
+
+If you glance at two index numbers like 107 and 110 , you know automatically that the rate of inflation between the two years is about , but not quite exactly equal to , 3 % .
+	d:	not exactly	[adv adv]	B2	28,30
+			[(RB)]
+
+If you?re wondering why simple subtraction of the index numbers wouldn?t work , read the following Clear It Up feature .
+	d:	clear up	[adj prep]	B2	16,18
+			[(NP)]
+
+In Canada , 40 lumber is equivalent in labor time to 20 barrels of oil : 40 lumber 20 oil .
+	d:	in time	[prep noun]	B1	7,9
+			[(NN)]
+
+In that case , Jethro should focus on building fires and making meals , and others should attend to the other tasks , each according to where their productivity disadvantage is smallest .
+	d:	on fire	[prep noun]	B1	7,9
+			[(NN)]
+
+This equation for marginal utility is : MU change in total utilitychange in quantityNotice that marginal utility diminishes as additional units are consumed , which means that each subsequent unit of a good consumed provides less additional utility .
+	d:	in that	[noun noun]	B2	12,14
+			[(NP)]
+
+See the following Clear It Up feature to find out .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+You can follow the links provided for each board member to learn more about their backgrounds , experiences , and when their terms on the board will end .
+	d:	on board	[prep noun]	B1	23,25
+			[(DT)]
+
+facility , which will be discussed in more detail later .
+	d:	in detail	[prep noun]	B1	6,8
+			[(JJR)]
+
+There are different answers in the short run and in the long run .
+	d:	in short	[prep adj]	C1	4,6
+			[(DT)]
+
+This wage-setting behavior acts like a form of insurance : the employee has some protection against wage declines in bad times , but pays for that protection with lower wages in good times .
+	d:	in time	[prep noun]	B1	18,20
+			[(JJ)]
+
+The interaction between shifts in labor demand and wages that are sticky downward are shown in .
+	d:	in demand	[prep noun]	C1	4,6
+			[(NN)]
+
+Because wages are sticky downward , they do not adjust toward what would have been the new equilibrium wage -LRB- Q1 -RRB- , at least not in the short run .
+	d:	in short	[prep adj]	C1	26,28
+			[(DT)]
+
+If consumers were utterly inflexible in their demand for peaches , this would lead to a big rise in the price of food for consumers .
+	d:	in demand	[prep noun]	C1	5,7
+			[(PRP$)]
+
+The reason people buy new goods , presumably , is that the new goods offer better value for money than existing goods .
+	d:	the people	[det noun]	C1	0,2
+			[(NN)]
+
+The following Clear It Up feature is a must-read on how the CPI is comprised and calculated .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+Gas prices quickly shot up across the nation , in some places up to 40 cents a gallon in one day .
+	d:	in place	[prep noun]	B2	9,11
+			[(DT)]
+
+Let?s discuss these factors in more detail .
+	d:	in detail	[prep noun]	B1	4,6
+			[(JJR)]
+
+See the Clear it Up to learn how the U.S. handles unemployment insurance .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+Unemployment insurance is a joint federal?state program , established by federal law in 1935 .
+	d:	by law	[prep noun]	C1	9,11
+			[(JJ)]
+
+-LRB- The Clear it Up feature discusses how hard it is sometimes to define ?
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+See the following Clear it Up feature for the answer to this question .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+Q1 multiplied by the average cost of producing Q1 , which is shown by point S on the average cost curve to be P2 .
+	d:	on average	[prep adj]	B2	???,???
+			[(DT)]
+
+Read the following Clear It Up feature for more information on pork-barrel spending .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+The Keynesian theory implied that during a recession inflationary pressures are low , but when the level of output is at or even pushing beyond potential GDP , the economy is at greater risk for inflation .
+	d:	at risk	[prep noun]	B2	31,33
+			[(JJR)]
+
+Efficiency in the demand and supply model has the same basic meaning : The economy is getting as much benefit as possible from its scarce resources and all the possible gains from trade have been achieved .
+	d:	in demand	[prep noun]	C1	1,3
+			[(DT)]
+
+See the following Clear It Up feature for a discussion of how deflation could affect monetary policy .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+In turn , measuring income inequality means dividing up the population into various groups and then comparing the groups , a task that can be carried out in several ways , as the next Clear It Up feature shows .
+	d:	clear up	[adj prep]	B2	34,36
+			[(NP)]
+
+The next Clear It Up feature shows how income inequality differs in various countries compared to the United States .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+For simplicity , ignore any interest paid by the bond -LRB- which will be small in the short run anyway -RRB- and focus on exchange rates .
+	d:	in short	[prep adj]	C1	15,17
+			[(DT)]
+
+addressed more in the following Clear It Up feature -RRB- .
+	d:	clear up	[adj prep]	B2	5,7
+			[(NP)]
+
+In the spring of 1773 , the East India Company , a firm that , in its time , was designated ?
+	d:	in time	[prep noun]	B1	15,17
+			[(PRP$)]
+
+On the tax side , a rise in aggregate demand means that workers and firms throughout the economy earn more .
+	d:	in demand	[prep noun]	C1	7,9
+			[(JJ)]
+
+Because taxes are based on personal income and corporate profits , a rise in aggregate demand automatically increases tax payments .
+	d:	in demand	[prep noun]	C1	13,15
+			[(JJ)]
+
+In 2009 , the stimulus package included an extension in the time allowed to collect unemployment insurance .
+	d:	in time	[prep noun]	B1	9,11
+			[(DT)]
+
+However , while the automatic stabilizers offset part of the shifts in aggregate demand , they do not offset all or even most of it .
+	d:	in demand	[prep noun]	C1	11,13
+			[(JJ)]
+
+The Safety Net
+	d:	the net	[det noun]	A2	0,2
+			[(NNP)]
+
+The following Clear It Up feature explores another aspect of the election process : spending .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+The idea behind opportunity cost is that the cost of one item is the lost opportunity to do or consume something else ; in short , opportunity cost is the value of the next best alternative .
+	d:	the best	[det adj]	A2	32,34
+			[(JJ)]
+
+These arguments are discussed at some length in The International Trade and Capital Flows .
+	d:	at length	[prep noun]	C2	4,6
+			[(DT)]
+
+Investors in the high-income countries benefit because they can receive high returns on their investments , and also because they can diversify their investments so that they are at less risk of a downturn in their own domestic economy .
+	d:	at risk	[prep noun]	B2	28,30
+			[(JJR)]
+
+However , any nation that is experiencing a substantial and sustained pattern of trade deficits , along with the corresponding net inflow of international financial capital , has some reason for concern .
+	d:	the net	[det adj]	A2	18,20
+			[(JJ)]
+
+The Structure of Costs in the Short Run
+	d:	in short	[prep adj]	C1	4,6
+			[(DT)]
+
+Then we will discuss costs in the short run and long run and the factors that can influence each .
+	d:	in short	[prep adj]	C1	5,7
+			[(DT)]
+
+If so , read the following Clear It Up feature .
+	d:	clear up	[adj prep]	B2	6,8
+			[(NP)]
+
+An additional reason for the lack of numbers is that there is no single way to measure levels of education and healthcare .
+	d:	no way	[det noun]	B1	12,14
+			[(JJ)]
+
+But for both the government and the market economy in the short term , increases in production of one good typically mean offsetting decreases somewhere else in the economy .
+	d:	in short	[prep adj]	C1	9,11
+			[(DT)]
+
+When budget deficits get very large in 2008 and 2009 , on the other hand , there is some sign of a rise in saving .
+	d:	get in	[verb prep]	B1	3,6
+			[(ADJP)]
+
+When one indifference curve crosses the budget line in two places , however , there will be another , higher , attainable indifference curve sitting above it that touches the budget line at only one point of tangency .
+	d:	in place	[prep noun]	B2	8,10
+			[(CD)]
+
+As shown in , in this particular example the substitution effect and income effect on Ogden?s consumption of haircuts are offsetting?so he ends up consuming the same quantity of haircuts after the price increase for pizza as before .
+	d:	in particular	[prep adj]	B1	4,6
+			[(DT)]
+
+However , the top executives who run the firm have a strong voice in choosing the candidates who will be on their board of directors .
+	d:	on board	[prep noun]	B1	20,22
+			[(PRP$)]
+
+Accurate information is sometimes not available because corporate governance , the name economists give to the institutions that are supposed to watch over top executives , fails , as the following Clear It Up feature on Lehman Brothers shows .
+	d:	clear up	[adj prep]	B2	31,33
+			[(NP)]
+
+The national debt refers to the total amount that the government has borrowed over time ; in contrast , the budget deficit refers to how much has been borrowed in one particular year .
+	d:	in particular	[prep adj]	B1	29,31
+			[(NP)]
+
+The next Clear it Up feature discusses how the government handles the national debt .
+	d:	clear up	[adj prep]	B2	2,4
+			[(NP)]
+
+The current level of the payroll taxes that support Social Security and Medicare will fall well short of the projected expenses of these programs , as the following Clear It Up feature shows ; thus , the forecast is for large budget deficits .
+	d:	clear up	[adj prep]	B2	28,30
+			[(NP)]
+
+It is a legitimate concern of public policy to focus not just on the average or on the success stories , but also on those have not been so fortunate .
+	d:	on average	[prep adj]	B2	12,14
+			[(DT)]
+
+Few would suggest holding back on improvements in medical technology because they might cause companies selling leeches and snake oil to lose money .
+	d:	hold on	[verb prep]	B1	3,5
+			[(ADVP)]
+
+The Clear It Up feature discusses this problem in more detail .
+	d:	clear up	[adj prep]	B2	1,3
+			[(NP)]
+
+, or slow to change , in the short run , they are flexible over time .
+	d:	in short	[prep adj]	C1	6,8
+			[(DT)]
+
+An economy may produce above its level of potential GDP in the short run , under pressure from a surge in aggregate demand .
+	d:	in demand	[prep noun]	C1	20,22
+			[(JJ)]
+	d:	in short	[prep adj]	C1	10,12
+			[(DT)]
+
+Over the long run , however , that surge in aggregate demand ends up as an increase in the price level , not as a rise in output .
+	d:	in demand	[prep noun]	C1	9,11
+			[(JJ)]
+
+The rebound of the economy back to potential GDP also works in response to a shift to the left in aggregate demand .
+	d:	in demand	[prep noun]	C1	19,21
+			[(JJ)]
+
+A decrease in aggregate demand?for example , because of a decline in consumer confidence that leads to less consumption and more saving?causes the original aggregate demand curve AD0 to shift back to AD1 .
+	d:	in confidence	[prep noun]	C2	11,13
+			[(NN)]
+
+Thus , in the neoclassical view , changes in aggregate demand can have a short-run impact on output and on unemployment?but only a short-run impact .
+	d:	in demand	[prep noun]	C1	8,10
+			[(JJ)]
+
+When a shift in aggregate demand occurs , people and businesses with rational expectations will know that its impact on output and employment will be temporary , while its impact on the price level will be permanent .
+	d:	in demand	[prep noun]	C1	3,5
+			[(JJ)]
+
+A reasonable guess is that the initial short-run effect of a shift in aggregate demand might last two to five years , before the adjustments in wages and prices cause the economy to adjust back to potential GDP .
+	d:	in demand	[prep noun]	C1	12,14
+			[(JJ)]
+
+Monetary policy involves managing interest rates and credit conditions , which influences the level of economic activity , as described in more detail below .
+	d:	in detail	[prep noun]	B1	20,22
+			[(JJR)]
+
+Read the following Clear It Up feature for the answer .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+First , whatever happens with aggregate supply and aggregate demand in the short run , monetary policy can be used to prevent inflation from becoming entrenched in the economy in the medium and long term .
+	d:	in short	[prep adj]	C1	10,12
+			[(DT)]
+
+To get a sense of how far we have come in a short period of time , let?s compare one of humankind?s greatest achievements to the smartphone most of us have in our coat pocket .
+	d:	in short	[prep adj]	C1	10,12
+			[(DT)]
+
+They are allowed to purchase U.S. Treasury securities but , to protect depositors , they are not permitted to invest in the stock market or other assets that are perceived as too risky .
+	d:	in stock	[prep noun]	B2	20,22
+			[(DT)]
+
+policies -LRB- discussed below -RRB- of the Federal Reserve can be interpreted as a willingness to make short-term credit available as needed in a time when the banking and financial system was under stress .
+	d:	in time	[prep noun]	B1	22,24
+			[(DT)]
+
+A bank run occurs when there are rumors -LRB- possibly true , possibly false -RRB- that a bank is at financial risk of having negative net worth .
+	d:	at risk	[prep noun]	B2	19,21
+			[(JJ)]
+
+After all , in the short term , economists would expect the budget deficits and surpluses to fluctuate up and down with the economy and the automatic stabilizers .
+	d:	in short	[prep adj]	C1	3,5
+			[(DT)]
+
+In the short run , a government that runs a very large budget deficit can shift aggregate demand to the right and trigger severe inflation .
+	d:	in short	[prep adj]	C1	0,2
+			[(DT)]
+
+This disagreement led to a two-week shutdown of the federal government and got close to the deadline where the federal government would default on its Treasury bonds .
+	d:	get to	[verb prep]	B1	12,14
+			[(RB)]
+
+The next section develops absolute and comparative advantage in greater detail and relates them to trade .
+	d:	in detail	[prep noun]	B1	8,10
+			[(JJR)]
+
+But first , read the following Clear It Up feature to make sure you understand why the PPF line in the graphs is straight .
+	d:	clear up	[adj prep]	B2	6,8
+			[(NP)]
+
+The underlying reason why trade benefits both sides is rooted in the concept of opportunity cost , as the following Clear It Up feature explains .
+	d:	clear up	[adj prep]	B2	20,22
+			[(NP)]
+
+Whoever buys those dollars will have to use them to purchase American goods and services , so the money comes right back into the American economy .
+	d:	come back	[verb adv]	A2	19,21
+			[(RB)]
+
+Exchange rates can fluctuate a great deal in the short run .
+	d:	in short	[prep adj]	C1	7,9
+			[(DT)]
+
+When most of a country?s largest banks become bankrupt simultaneously , a sharp decline in aggregate demand and a deep recession results .
+	d:	in demand	[prep noun]	C1	14,16
+			[(JJ)]
+
+As shows , nominal GDP per capita in 2012 for the 581.4 million people living in Latin America and the Caribbean region was $ 9,190 , which far exceeds that of South Asia and sub-Saharan Africa .
+	d:	the people	[det noun]	C1	10,13
+			[(QP)]
+
+This implication is clearly wrong .
+	d:	be wrong	[verb adj]	A2	2,4
+			[(RB)]
+
+Read the following Clear It Up feature to learn how the multiplier effect can be applied to analyze the economic impact of professional sports .
+	d:	clear up	[adj prep]	B2	3,5
+			[(NP)]
+
+With a high multiplier , any change in aggregate demand will tend to be substantially magnified , and so the economy will be more unstable .
+	d:	in demand	[prep noun]	C1	7,9
+			[(JJ)]
+
+With a low multiplier , by contrast , changes in aggregate demand will not be multiplied much , so the economy will tend to be more stable .
+	d:	in demand	[prep noun]	C1	9,11
+			[(JJ)]
+
+The multiplier effect describes how an initial change in aggregate demand generated several times as much as cumulative GDP .
+	d:	in demand	[prep noun]	C1	8,10
+			[(JJ)]
+
+This last insight is worth exploring in greater detail , which we will do in the following section .
+	d:	in detail	[prep noun]	B1	6,8
+			[(JJR)]
+
+Meditative techniques have their roots in religious practices -LRB- -RRB- , but their use has grown in popularity among practitioners of alternative medicine .
+	d:	in practice	[prep noun]	B2	5,7
+			[(JJ)]
+
+In Asch?s study , the confederates identified a line segment that was obviously shorter than the target line?a wrong answer .
+	d:	be wrong	[verb adj]	A2	11,18
+			[(ADJP)]
+
+in the stock market , despite lacking the knowledge , experience , and capital for such an endeavor .
+	d:	in stock	[prep noun]	B2	0,2
+			[(DT)]
+
+Individuals with alcohol dependence are at 10 times greater risk for suicide than the general population -LRB- Wilcox , Conner , & Caine , 2004 -RRB- .
+	d:	at risk	[prep noun]	B2	5,9
+			[(ADJP)]
+
+Suicidal individuals may be at high risk for terminating their life if they have a lethal means in which to act , such as a firearm in the home -LRB- Brent & Bridge , 2003 -RRB- .
+	d:	at risk	[prep noun]	B2	4,6
+			[(JJ)]
+
+Interval means the schedule is based on the time between reinforcements , and ratio means the schedule is based on the number of responses between reinforcements .
+	d:	on time	[prep noun]	B1	6,8
+			[(DT)]
+
+Sarah gets back to inserting quarters with renewed interest , and a few minutes later she has used up all her gains and is $ 10 in the hole .
+	d:	get to	[verb prep]	B1	1,3
+			[(RB)]
+
+Biological milestones , such as puberty , tend to be universal , but social milestones , such as the age when children begin formal schooling , are not necessarily universal ; instead , they affect most individuals in a particular culture -LRB- Gesell & Ilg , 1946 -RRB- .
+	d:	in particular	[prep adj]	B1	37,39
+			[(DT)]
+
+Further research will enable a more accurate prediction of those at greatest risk for developing schizophrenia , and thus to whom early intervention efforts should be directed .
+	d:	at risk	[prep noun]	B2	10,12
+			[(JJS)]
+
+Looks most like him .
+	d:	look like	[verb prep]	B1	0,2
+			[(ADVP)]
+
+Looks most like him , ?
+	d:	look like	[verb prep]	B1	0,2
+			[(ADVP)]
+
+Ever since Loftus published her first studies on the suggestibility of eyewitness testimony in the 1970s , social scientists , police officers , therapists , and legal practitioners have been aware of the flaws in interview practices .
+	d:	in practice	[prep noun]	B2	34,36
+			[(NN)]
+
+Let?s look at the first sin of the forgetting errors : transience , which means that memories can fade over time .
+	d:	at first	[prep adj]	B1	2,4
+			[(DT)]
+
+Later that year , Alejandro and Lucia get back together .
+	d:	get together	[verb adv]	B1	7,9
+			[(RB)]
+
+A police officer?s job is very high in stress , and law enforcement agencies want to make sure they hire the right people .
+	d:	the people	[det noun]	C1	20,22
+			[(JJ)]
+
+Generally , alcohol is associated with decreases in reaction time and visual acuity , lowered levels of alertness , and reduction in behavioral control .
+	d:	in time	[prep noun]	B1	7,9
+			[(NN)]
+
+In general , smoking cessation programs may be effective in the short term , but it is unclear whether these effects persist -LRB- Cropley , Theadom , Pravettoni , & Webb , 2008 ; Levitt , Shaw , Wong , & Kaczorowski , 2007 ; Smedslund , Fisher , Boles , & Lichtenstein , 2004 -RRB- .
+	d:	in short	[prep adj]	C1	9,11
+			[(DT)]
+
+Children who are overweight , cognitively impaired , or racially or ethnically different from their peer group may be at higher risk .
+	d:	at risk	[prep noun]	B2	19,21
+			[(JJR)]
+
+Gay , lesbian , bisexual , and transgender teens are at very high risk of being bullied and hurt due to their sexual orientation .
+	d:	at risk	[prep noun]	B2	10,13
+			[(ADJP)]
+
+A number of large-scale studies have found that individuals with low levels of social support are at greater risk of mortality , especially from cardiovascular disorders -LRB- Brummett et al. , 2001 -RRB- .
+	d:	at risk	[prep noun]	B2	16,18
+			[(JJR)]
+
+In addition , the students were also asked to evaluate various aspects of the course .
+	d:	of course	[prep noun]	B1	12,14
+			[(DT)]
+
+Presumably , our ability to interpret sensory information depends on what we label as figure and what we label as ground in any particular case , although this assumption has been called into question -LRB- Peterson & Gibson , 1994 ; Vecera & O?Reilly , 1998 -RRB- .
+	d:	in particular	[prep adj]	B1	21,23
+			[(DT)]
+
+The majority of the course grade is not exam-based , but centers on a student-designed research project on a crime issue of the student?s choice .
+	d:	of course	[prep noun]	B1	2,4
+			[(DT)]
+
+The approach taken by most evolutionary psychologists is to predict the outcome of a behavior in a particular situation based on evolutionary theory and then to make observations , or conduct experiments , to determine whether the results match the theory .
+	d:	in particular	[prep adj]	B1	15,17
+			[(DT)]
+
+It is important to recognize that these types of studies are not strong evidence that a behavior is adaptive , since they lack information that the behavior is in some part genetic and not entirely cultural -LRB- Endler , 1986 -RRB- .
+	d:	in part	[prep noun]	B1	28,30
+			[(DT)]
+
+Rather than explaining how personality arises , research is focused on identifying personality traits , measuring these traits , and determining how these traits interact in a particular context to determine how a person will behave in any given situation .
+	d:	in particular	[prep adj]	B1	25,27
+			[(DT)]
+
+These experiences can include such events as combat , threatened or actual physical attack , sexual assault , natural disasters , terrorist attacks , and automobile accidents .
+	d:	such as	[adj prep]	A2	4,6
+			[(NNS)]
+
+People who experience childhood adversity and/or traumatic experiences during adulthood are at significantly higher risk of developing PTSD if they possess one or two short versions of a gene that regulates the neurotransmitter serotonin -LRB- Xie et al. , 2009 -RRB- .
+	d:	at risk	[prep noun]	B2	11,14
+			[(ADJP)]
+
+Although this concept will be discussed in more detail in a later chapter , a brief overview will be provided here .
+	d:	in detail	[prep noun]	B1	6,8
+			[(JJR)]
+
+They wanted to understand how the language habits of a community encourage members of that community to interpret language in a particular manner -LRB- Sapir , 1941/1964 -RRB- .
+	d:	in particular	[prep adj]	B1	19,21
+			[(DT)]
+
+One group of researchers who wanted to investigate how language influences thought compared how English speakers and the Dani people of Papua New Guinea think and speak about color .
+	d:	the people	[det noun]	C1	17,19
+			[(NNP)]
+
+Researchers hypothesized that the number of color terms could limit the ways that the Dani people conceptualized color .
+	d:	the people	[det noun]	C1	13,15
+			[(NNP)]
+
+There was no such thing as a degree in psychology at the time that he received his education , which can help us understand some of the controversy over his theories today .
+	d:	such as	[adj prep]	A2	3,5
+			[(NN)]
+
+The commercial aired in a part of the country where Jeter is an incredibly well-known athlete .
+	d:	in part	[prep noun]	B1	3,5
+			[(DT)]
+
+The results of intelligence tests follow the bell curve , a graph in the general shape of a bell .
+	d:	in general	[prep adj]	B2	12,14
+			[(DT)]
+
+People are considered gifted if they have an IQ score of 130 or higher , or superior intelligence in a particular area .
+	d:	in particular	[prep adj]	B1	18,20
+			[(DT)]
+
+Psychologists today dispute Freud 's psychosexual stages as a legitimate explanation for how one 's personality develops , but what we can take away from Freud?s theory is that personality is shaped , in some part , by experiences we have in childhood .
+	d:	in part	[prep noun]	B1	33,35
+			[(DT)]
+
+The visual processing questions included such things as asking the participants about the font of the letters .
+	d:	such as	[adj prep]	A2	5,7
+			[(NNS)]
+
+Currently , scientists believe that episodic memory is memory about happenings in particular places at particular times , the what , where , and when of an event -LRB- Tulving , 2002 -RRB- .
+	d:	in place	[prep noun]	B2	11,13
+			[(JJ)]
+
+For example , in medieval times , abnormal behaviors were viewed as a sign that a person was possessed by demons .
+	d:	in time	[prep noun]	B1	3,5
+			[(JJ)]
+
+is an important skill in a world full of competing ?
+	d:	in full	[prep adj]	B1	4,7
+			[(NP)]
+
+After helping a co-worker to safety he went back in the burning building to help additional co-workers .
+	d:	go in	[verb prep]	A2	7,9
+			[(ADVP)]
+
+Longitudinal studies also show that children diagnosed with ADHD are at higher risk for substance abuse problems .
+	d:	at risk	[prep noun]	B2	10,12
+			[(JJR)]
+
+Because vaccines contain immunogens -LRB- substances that fight infections -RRB- , the investigators examined medical records to see how many immunogens children received to determine if those children who received more immunogens were at greater risk for developing autism spectrum disorder .
+	d:	at risk	[prep noun]	B2	33,35
+			[(JJR)]
+
+Julian crouches on his board , then jumps up and rides the wave for a few seconds before losing his balance .
+	d:	on board	[prep noun]	B1	2,4
+			[(PRP$)]
+
+They also found that immediate-supervisor support for a worker significantly reduced work?family conflict through such mechanisms as allowing an employee the flexibility needed to fulfill family obligations .
+	d:	such as	[adj prep]	A2	14,16
+			[(NNS)]
+
+For example , millennials may expect to hear that they need to pay their dues in their jobs from baby boomers who believe they paid their dues in their time .
+	d:	in time	[prep noun]	B1	27,29
+			[(PRP$)]
+
+In this brief video , Chaz Bono discusses the difficulties of growing up identifying as male , while living in a female body .
+	d:	in brief	[prep adj]	B2	0,2
+			[(DT)]
+
+For instance , if you put your finger into a newborn?s hand , you will witness the grasping reflex , in which a baby automatically grasps anything that touches his palms .
+	d:	a hand	[det noun]	B1	9,11
+			[(NNS)]
+
+Then the box was placed on the track to block the path of the truck .
+	d:	on track	[prep noun]	C1	5,7
+			[(DT)]
+
+Toddlers also point to pictures in books and look in appropriate places when you ask them to find objects .
+	d:	in place	[prep noun]	B2	9,11
+			[(JJ)]
+
+They ask such questions as : How do parent and infant attachment bonds form ?
+	d:	such as	[adj prep]	A2	2,4
+			[(NNS)]
+
+When the spinal cord is damaged in a particular segment , all lower segments are cut off from the brain , causing paralysis .
+	d:	in particular	[prep adj]	B1	6,8
+			[(DT)]
+
+Recently , she suffered a stroke in the front portion of her right hemisphere .
+	d:	in front	[prep adj]	A2	6,8
+			[(DT)]
+
+Autobiography in Five Short Chapters by Portia Nelson -LRB- 1993 -RRB-
+	d:	in short	[prep adj]	C1	1,3
+			[(CD)]
+
+In modern practice , it has evolved ino what is known as psychodynamic therapy , which will be discussed later .
+	d:	in practice	[prep noun]	B2	0,2
+			[(JJ)]
+
+They range from situations of mild anxiety such as being nervous around the other people in the elevator , to the fear of getting an arm caught in the door , to panic-provoking situations such as getting trapped or the cable snapping .
+	d:	be around	[verb prep]	B2	9,11
+			[(ADJP)]
+	d:	the people	[det noun]	C1	12,14
+			[(JJ)]
+
+In essence , this approach is designed to change the way people think as well as how they act .
+	d:	the people	[det noun]	C1	9,11
+			[(NN)]
+
+They also emphasize the patient?s present and future , as opposed to exploring the patient?s past .
+	d:	the present	[det adj]	B1	3,5
+			[(NNS)]
+	d:	the past	[det noun]	B1	13,15
+			[(NNS)]
+
+Because our books are openly licensed , you are free to use the entire book or pick and choose the sections that are most relevant to the needs of your course .
+	d:	of course	[prep noun]	B1	28,30
+			[(PRP$)]
+
+Dig Deeper features discuss one specific aspect of a topic in greater depth so students can dig more deeply into the concept .
+	d:	in depth	[prep noun]	B2	10,12
+			[(JJR)]
+
+In addition , these individuals may wake up several times during the night only to find that they have difficulty getting back to sleep .
+	d:	get to	[verb prep]	B1	20,22
+			[(ADVP)]
+
+Typically , individuals suffering from night terrors will fall back asleep again within a short time .
+	d:	fall asleep	[verb adv]	B1	8,10
+			[(RB)]
+
+You?ve thrown snowballs at your best friend and gone sledding down the steepest hill in town .
+	d:	at best	[prep adj]	C2	3,5
+			[(PRP$)]
+
+6 months to live , Pausch focused on living in a fulfilling way in the time he had left .
+	d:	in time	[prep noun]	B1	13,15
+			[(DT)]
+
+In general , the happiest people tend to be those who pursue the full life?they orient their pursuits toward all three elements -LRB- Seligman et al. , 2005 -RRB- .
+	d:	the people	[det noun]	C1	3,5
+			[(JJS)]
+
+One finding is that age is related to happiness : Life satisfaction usually increases the older people get , but there do not appear to be gender differences in happiness -LRB- Diener , Suh , Lucas , & Smith , 1999 -RRB- .
+	d:	the people	[det noun]	C1	14,16
+			[(JJR)]
+
+Researchers in one study found that a series of happiness interventions involving such exercises as writing down three good things that occurred each day led to increases in happiness that lasted over six months -LRB- Seligman et al. , 2005 -RRB- .
+	d:	such as	[adj prep]	A2	12,14
+			[(NNS)]
+
+For example , if you want to experience positive outcomes , you just need to work hard to get ahead in life .
+	d:	get in	[verb prep]	B1	18,20
+			[(ADVP)]
+
+There is evidence that the two girls are connected in a part of the brain called the thalamus , which is a major sensory relay center .
+	d:	in part	[prep noun]	B1	9,11
+			[(DT)]
+
+Also , the children in that particular preschool -LRB- a ?
+	d:	in particular	[prep adj]	B1	4,6
+			[(DT)]
+
+In our restroom study , what if you stood in the restroom all day prepared to record people?s hand washing behavior and no one came in ?
+	d:	in hand	[prep noun]	B2	0,18
+			[(NP)]
+
+Generally , the survey itself can be completed in a short time , and the ease of administering a survey makes it easy to collect data from a large number of people .
+	d:	in short	[prep adj]	C1	8,10
+			[(DT)]
+
+They have argued that memory is located in specific parts of the brain , and specific neurons can be recognized for their involvement in forming memories .
+	d:	in part	[prep noun]	B1	7,9
+			[(JJ)]
+
+Interaural timing difference refers to the small difference in the time at which a given sound wave arrives at each ear -LRB- -RRB- .
+	d:	in time	[prep noun]	B1	8,10
+			[(DT)]
+
+Two brothers , raised by the same people , took radically different paths in their lives .
+	d:	the people	[det noun]	C1	5,7
+			[(JJ)]
+
+Additionally , beginning with the DSM-III in 1980 , mental disorders have been described in much greater detail , and the number of diagnosable conditions has grown steadily , as has the size of the manual itself .
+	d:	in detail	[prep noun]	B1	14,17
+			[(ADJP)]
+
+When these children are adults , they continue to avoid such things as love and friendship , and they also tend to gravitate toward careers that require little interaction with others -LRB- Burger , 2008 -RRB- .
+	d:	such as	[adj prep]	A2	10,12
+			[(NNS)]
+
+However , the situation is quite different in other parts of the world .
+	d:	in part	[prep noun]	B1	7,9
+			[(JJ)]
+
+This father was not actively teaching his son to read , even though the child constantly asked questions about letters , words , and symbols that they saw everywhere : in the car , in the store , on the television .
+	d:	in store	[prep noun]	C1	34,36
+			[(DT)]
+
+For example , what types of behaviors help you get ahead in life ?
+	d:	get in	[verb prep]	B1	9,11
+			[(ADVP)]
+
+An operational definition is a description of how we will measure our variables , and it is important in allowing others understand exactly how and what a researcher measures in a particular experiment .
+	d:	in particular	[prep adj]	B1	29,31
+			[(DT)]
+
+Samples are used because populations are usually too large to reasonably involve every member in our particular experiment -LRB- -RRB- .
+	d:	in particular	[prep adj]	B1	14,16
+			[(PRP$)]
+
+But all fourth graders is a very large population , so we need to be more specific ; instead we might say our population of interest is all fourth graders in a particular city .
+	d:	in particular	[prep adj]	B1	30,32
+			[(DT)]
+
+Hunger and satiety are highly regulated processes that result in a person maintaining a fairly stable weight that is resistant to change .
+	d:	in person	[prep noun]	B2	9,11
+			[(DT)]
+
+In contrast , someone high on openness would prefer to settle in a place that is recognized as diverse and innovative -LRB- such as California -RRB- .
+	d:	in place	[prep noun]	B2	11,13
+			[(DT)]
+
+The indigenous approach came about in reaction to the dominance of Western approaches to the study of personality in non-Western settings -LRB- Cheung et al. , 2011 -RRB- .
+	d:	come in	[verb prep]	C2	3,5
+			[(RB)]
+
+They can not even ask questions that might shed some light on these attributes , such as where you were born or who you live with .
+	d:	shed light on	[verb noun prep]	C2	8,10,11
+			[(DT)()]
+
+Federal legislation does not protect employees in the private sector from discrimination related to sexual orientation and gender identity .
+	d:	in private	[prep adj]	B2	6,8
+			[(DT)]
+
+For example , sometimes it can go awry by mistaking your body?s own healthy cells for invaders and repeatedly attacking them .
+	d:	go by	[verb prep]	C2	6,8
+			[(ADVP)]
+
+The major components of the Type A pattern include an aggressive and chronic struggle to achieve more and more in less and less time -LRB- Friedman & Rosenman , 1974 -RRB- .
+	d:	in time	[prep noun]	B1	19,23
+			[(ADJP)]
+
+Prejudice is a negative attitude and feeling toward an individual based solely on one?s membership in a particular social group -LRB- Allport , 1954 ; Brown , 2010 -RRB- .
+	d:	in particular	[prep adj]	B1	15,17
+			[(DT)]
+
+Discrimination is negative action toward an individual as a result of one?s membership in a particular group -LRB- Allport , 1954 ; Dovidio & Gaertner , 2004 -RRB- .
+	d:	in particular	[prep adj]	B1	13,15
+			[(DT)]
+
+How might these two forms of ageism affect a younger and older adult who are applying for a sales clerk position ?
+	d:	for sale	[prep noun]	A2	16,18
+			[(DT)]
+
+Individuals with borderline personality disorder report experiencing childhood physical , sexual , and/or emotional abuse at rates far greater than those observed in the general population -LRB- Afifi et al. , 2010 -RRB- , indicating that environmental factors are also crucial .
+	d:	in general	[prep adj]	B2	22,24
+			[(DT)]
+
+Researchers who are interested in the importance of environment in the development of antisocial personality disorder have directed their attention to such factors as the community , the structure and functioning of the family , and peer groups .
+	d:	such as	[adj prep]	A2	21,23
+			[(NNS)]
+
+In a recent study , 80 prisoners were shown photos of people being intentionally hurt by others -LRB- e.g. , someone crushing a person?s hand in an automobile door -RRB- while undergoing brain imaging -LRB- Decety , Skelly , & Kiehl , 2013 -RRB- .
+	d:	a hand	[det noun]	B1	???,???
+			[(NNS)]
+
+This was not an uncommon practice for either blacks or whites , and indentured servants were in high demand .
+	d:	in demand	[prep noun]	C1	16,18
+			[(JJ)]
+
+Irish immigrants settled mainly in the cities of the East Coast , where they were employed as laborers and where they faced significant discrimination .
+	d:	settle in	[verb prep]	C1	2,4
+			[(ADVP)]
+
+The history of the American people contains an infinite variety of experiences that sociologist understand follow patterns .
+	d:	the people	[det noun]	C1	3,5
+			[(JJ)]
+
+From the indigenous people who first inhabited these lands to the waves of immigrants over the past 500 years , migration is an experience with many shared characteristics .
+	d:	the people	[det noun]	C1	1,3
+			[(JJ)]
+
+Although there is still a great deal of disagreement among archeologists as to the exact timeline , research indicates that agriculture began independently and at different times in several places around the world .
+	d:	in place	[prep noun]	B2	27,29
+			[(JJ)]
+
+When the company nets $ 1 million in profits its first year , a portion of that profit goes back to Sarah , Antonio , and Chris as a return on their investment .
+	d:	the net	[det noun]	A2	1,3
+			[(NN)]
+
+In times when many people are unemployed and jobs are scarce , people are often willing to accept less than they would when their services are in high demand .
+	d:	in demand	[prep noun]	C1	26,28
+			[(JJ)]
+
+Some criticize such involvements as socialism -LRB- a type of state-run economy -RRB- , while others believe intervention is necessary to protect the rights of workers and the well-being of the general population .
+	d:	such as	[adj prep]	A2	2,4
+			[(NNS)]
+
+As with capitalism , the basic ideas behind socialism go far back in history .
+	d:	go in	[verb prep]	A2	9,12
+			[(ADVP)]
+	d:	go back	[verb adv]	B1	9,11
+			[(RB)]
+
+For example , the thesis fails to take into account the many people who spend years on their education only to pursue work at a lower-paying position in a nonprofit organization , or who teach high school after pursuing a PhD .
+	d:	the people	[det noun]	C1	10,12
+			[(JJ)]
+
+Both the people fighting in the French Revolution and those blogging from Zuccotti Park believe the same thing : wealth is concentrated in the hands of those who do not deserve it .
+	d:	in hand	[prep noun]	B2	22,24
+			[(DT)]
+
+Students recite the Pledge of Allegiance each morning and take history classes where they learn about national heroes and the nation?s past .
+	d:	the past	[det noun]	B1	19,21
+			[(NNS)]
+
+For example , low standardized test scores or poor performance in a particular class often lead to a student being labeled as a low achiever .
+	d:	in particular	[prep adj]	B1	10,12
+			[(DT)]
+
+An example from the last century is the way that Adolf Hitler was able to use the Jewish people as scapegoats for Germany?s social and economic problems .
+	d:	the people	[det noun]	C1	16,18
+			[(JJ)]
+
+Prior to the 20th century , racial intermarriage -LRB- referred to as miscegenation -RRB- was extremely rare , and in many places , illegal .
+	d:	in place	[prep noun]	B2	19,21
+			[(JJ)]
+
+Unlike in other parts of the country , ?
+	d:	in part	[prep noun]	B1	1,3
+			[(JJ)]
+
+The sharp decline in the stock market also forced many to delay their retirement -LRB- Administration on Aging 2009 -RRB- .
+	d:	in stock	[prep noun]	B2	3,5
+			[(DT)]
+
+This same shift towards industrial corporate entities also changed the way we view government involvement in the private sector , created the global economy , provided new political platforms , and even spurred new religions and new forms of religious worship like Scientology .
+	d:	in private	[prep adj]	B2	15,17
+			[(DT)]
+
+Part of this is simply the numbers : the more people there are on the planet , the more likely it is that people will be impacted by a natural disaster .
+	d:	the people	[det noun]	C1	8,10
+			[(JJR)]
+
+Connotations of gladiator games and video games come together in this world , where the government can kill people for their amusement , and the technological wonders never cease .
+	d:	come in	[verb prep]	C2	7,9
+			[(ADVP)]
+
+It takes a very careful hand to understand both the need for cultural identity and preservation as well as the hopes for future growth .
+	d:	a hand	[det noun]	B1	2,5
+			[(ADJP)]
+
+In that time , two children have died from lack of access to clean drinking water .
+	d:	in time	[prep noun]	B1	0,2
+			[(DT)]
+
+As discussed above , in some parts of the world , it is a necessity for people to check air quality levels , and it is not uncommon to wear air filters on particularly bad days .
+	d:	in part	[prep noun]	B1	4,6
+			[(DT)]
+
+Sociologists understand voting to be at the heart of the U.S. political process because it is a fundamental political behavior in a democracy .
+	d:	at heart	[prep noun]	C2	5,7
+			[(DT)]
+
+Rather , low-income countries must manage such problems as infectious disease , high infant mortality rates , scarce medical personnel , and inadequate water and sewer systems .
+	d:	such as	[adj prep]	A2	6,8
+			[(NNS)]
+
+With the landmark Brown v. Board of Education of Topeka ruling in 1954 , schools became a repository of much political and legal action that is at the heart of several issues in education .
+	d:	at heart	[prep noun]	C2	26,28
+			[(DT)]
+
+In today?s diverse educational landscape , socioeconomic status and diversity remain at the heart of issues in education , with programs such as the Head Start program attempting to give students equal footing .
+	d:	at heart	[prep noun]	C2	11,13
+			[(DT)]
+
+In The Myth of Mental Illness : Foundations of a Theory of Personal Conduct -LRB- 1961 -RRB- , Thomas Szasz asks if there is such a thing as mental illness , and then argues that there is not .
+	d:	such as	[adj prep]	A2	24,27
+			[(NP)]
+
+But sociologists deliberately use the scientific method to maintain as much objectivity , focus , and consistency as possible in a particular study .
+	d:	in particular	[prep adj]	B1	19,21
+			[(DT)]
+
+To study hygiene and its value in a particular society , a researcher might sort through existing research and unearth studies about child-rearing , vanity , obsessive-compulsive behaviors , and cultural attitudes toward beauty .
+	d:	in particular	[prep adj]	B1	6,8
+			[(DT)]
+
+In large part , it is as simple as the reason humans have bonded together around fires for storytelling , or danced together , or joined a community holiday celebration .
+	d:	in part	[prep noun]	B1	0,2
+			[(JJ)]
+
+In most , women are portrayed in a particular set of parameters and tend to have a uniform look that society recognizes as attractive .
+	d:	in particular	[prep adj]	B1	6,8
+			[(DT)]
+
+In today?s global political climate , monarchies far more often take the form of constitutional monarchies , governments of nations that recognize monarchs but require these figures to abide by the laws of a greater constitution .
+	d:	by law	[prep noun]	C1	29,31
+			[(DT)]
+
+Such absurd luxuries were fairly commonplace among the ultra-rich during this era of American history , which saw the rise and dominance of such families as the Vanderbilts , Rockefellers , and Carnegies .
+	d:	such as	[adj prep]	A2	23,25
+			[(NNS)]
+
+An extraordinary teacher , his lessons?which were about self-discipline , respect for authority and tradition , and jen -LRB- the kind treatment of every person -RRB- ?
+	d:	kind of	[noun prep]	B1	20,22
+			[(NN)]
+
+While Christians believe that he already appeared in the person of Jesus Christ , Jews and Muslims disagree .
+	d:	in person	[prep noun]	B2	7,9
+			[(DT)]
+
+We don certain clothes , prepare our hair in a particular manner , wear makeup , use cologne , and the like?all with the notion that our presentation of ourselves is going to affect how others perceive us .
+	d:	in particular	[prep adj]	B1	8,10
+			[(DT)]
+
+They are behaviors worked out and agreed upon in order to suit and serve the most people .
+	d:	the people	[det noun]	C1	14,16
+			[(JJS)]
+
+For example , if the experimenter is , say , a man in a business suit , and he skips down the sidewalk or hops on one foot , the passersby are likely to stare at him with surprised expressions on their faces .
+	d:	on foot	[prep noun]	A2	25,27
+			[(CD)]
+
+Many Americans believe that people move up in class because of individual efforts and move down by their own doing .
+	d:	move in	[verb prep]	B1	5,7
+			[(RB)]
+
+Criticisms typically focus on the application of the idea that seniors universally naturally withdraw from society as they age , and that it does not allow for a wide variation in the way people experience aging -LRB- Hothschild 1975 -RRB- .
+	d:	the people	[det noun]	C1	31,33
+			[(NN)]
+
+Generally , theories within the symbolic interactionist perspective focus on how society is created through the day-to-day interaction of individuals , as well as the way people perceive themselves and others based on cultural symbols .
+	d:	the people	[det noun]	C1	24,26
+			[(NN)]
+
+For example , a group consciousness may develop within such groups as AARP around issues specific to the elderly like the Medicare ?
+	d:	such as	[adj prep]	A2	9,11
+			[(NNS)]
+
+Swedish sociologist Lars Tornstam developed a symbolic interactionist theory called gerotranscendence : the idea that as people age , they transcend the limited views of life they held in earlier times .
+	d:	in time	[prep noun]	B1	28,30
+			[(JJR)]
+
+Their input suggests that the keys to rebuilding education are an early focus on quality and a commitment to educational access .
+	d:	early on	[adj prep]	C2	11,13
+			[(NN)]
+
+Education in earlier times was only available to the higher classes ; they had the means for access to scholarly materials , plus the luxury of leisure time that could be used for learning .
+	d:	in time	[prep noun]	B1	1,3
+			[(JJR)]
+
+Cultural transmission refers to the way people come to learn the values , beliefs , and social norms of their culture .
+	d:	the people	[det noun]	C1	4,6
+			[(NN)]
+
+That question is at the heart of a debate that has been simmering for years .
+	d:	at heart	[prep noun]	C2	3,5
+			[(DT)]
+
+As we consider the global effort to meet these ambitious goals , we can think about how the world?s people have ended up in such disparate circumstances .
+	d:	the people	[det noun]	C1	17,19
+			[(NNS)]
+
+All ingredients must be combined in a particular order and in a particular quantity ; there is no room for creativity or change .
+	d:	in particular	[prep adj]	B1	5,7
+			[(DT)]
+
+Sociologists have long looked at population issues as central to understanding human interactions .
+	d:	at issue	[prep noun]	C2	4,6
+			[(NN)]
+
+Maybe you were one of the many people who , in 2010 , helped raise over $ 3 million in relief efforts for Haiti through cell phone text donations .
+	d:	the people	[det noun]	C1	5,7
+			[(JJ)]
+
+Some examples of this frame , when looking at the issue of marriage equality as framed by the anti-gay marriage movement , include the plan to restrict marriage to ?
+	d:	at issue	[prep noun]	C2	8,10
+			[(DT)]
+
+Nigeria , for example , is a country that produces tens of billions of dollars in oil revenue , but the money does not go to the country?s people .
+	d:	the people	[det noun]	C1	26,28
+			[(JJ)]
+
+In Marx?s time , bourgeois capitalists owned high-producing businesses , factories , and land , as they still do today .
+	d:	in time	[prep noun]	B1	0,2
+			[(NP)]
+
+With employment prospects at historical lows , large numbers of graduates were unable to find work , sometimes moving back in with their parents and struggling to pay back student loans .
+	d:	move in	[verb prep]	B1	18,20
+			[(ADVP)]
+
+Children acquire these roles through socialization , a process in which people learn to behave in a particular way as dictated by societal values , beliefs , and attitudes .
+	d:	in particular	[prep adj]	B1	15,17
+			[(DT)]
+
+On an average day , 84 percent of women -LRB- compared to 67 percent of men -RRB- spend time doing household management activities -LRB- U.S. Census Bureau 2011 -RRB- .
+	d:	on average	[prep adj]	B2	0,2
+			[(DT)]
+
+Because of this , the rules of society are stacked in favor of a privileged few who manipulate them to stay on top .
+	d:	a few	[det adj]	A2	13,15
+			[(JJ)]
+
+There is no one way of dividing technology into categories .
+	d:	no way	[det noun]	B1	2,4
+			[(NN)]
+
+Even though people were in their own homes , media allowed them to share these moments in real time .
+	d:	in time	[prep noun]	B1	16,18
+			[(JJ)]
+
+From the same study , 93 percent of Filipinos responded that sex before age 16 is always wrong or almost always wrong , while only 75 percent of Russians responded this way -LRB- Widmer , Treas , and Newcomb 1998 -RRB- .
+	d:	be wrong	[verb adj]	A2	15,17
+			[(ADVP)]
+
+For instance , 45 percent of Spaniards responded that homosexuality is always wrong , while 42 percent responded that it is never wrong ; only 13 percent responded somewhere in the middle -LRB- Widmer , Treas , and Newcomb 1998 -RRB- .
+	d:	be wrong	[verb adj]	A2	10,12
+			[(ADVP)]
+
+In an international survey , 29 percent of Americans stated that premarital sex is always wrong , while the average among the 24 countries surveyed was 17 percent .
+	d:	be wrong	[verb adj]	A2	13,15
+			[(ADVP)]
+
+For example , here in the United States we saw internet updates of Egyptian events in real time , with people tweeting , posting , and blogging on the ground in Tahirir Square .
+	d:	in time	[prep noun]	B1	15,17
+			[(JJ)]
+
+Technological globalization is impacted in large part by technological diffusion , the spread of technology across borders .
+	d:	in part	[prep noun]	B1	4,6
+			[(JJ)]
+
+In general , the report found that technological progress and economic growth rates were linked , and that the rise in technological progress has helped improve the situations of many living in absolute poverty -LRB- World Bank 2008 -RRB- .
+	d:	in progress	[prep noun]	B2	20,22
+			[(JJ)]
+
+The term refers to the way people learn what society considered to be ?
+	d:	the people	[det noun]	C1	4,6
+			[(NN)]
+
+Formal institutions?like schools , workplaces , and the government?teach people how to behave in and navigate these systems .
+	d:	the people	[det noun]	C1	7,9
+			[(JJ)]
+
+An early emphasis on beauty and sexiness can lead to eating disorders , low self-esteem , and risky sexual behavior among older girls .
+	d:	early on	[adj prep]	C2	1,3
+			[(NN)]
+
+Were they cast as main characters in a love story ?
+	d:	in love	[prep noun]	B1	6,8
+			[(DT)]
+
+Although deviance is a violation of social norms , it?s not always punishable , and it?s not necessarily bad .
+	d:	not bad	[adv adj]	A2	16,18
+			[(RB)]
+
+Police are a civil force in charge of enforcing laws and public order at a federal , state , or community level .
+	d:	law and order	[noun conj noun]	C2	9,10,12
+			[()(JJ)]
+
+The way people perceive physical aging is largely dependent on how they were socialized .
+	d:	the people	[det noun]	C1	0,2
+			[(NN)]
+
+In other nations and in other times , marriages have been arranged through an intricate process of interviews and negotiations between entire families , or in other cases , through a direct system such as a ?
+	d:	in time	[prep noun]	B1	4,6
+			[(JJ)]
+
+Almost everyone is a little bit ethnocentric .
+	d:	a bit	[det noun]	B2	3,5
+			[(JJ)]
+
+To the Inuit people , winning was enjoyable , but their culture valued survival skills essential to their environment : how hard someone tried could mean the difference between life and death .
+	d:	the people	[det noun]	C1	1,3
+			[(NNP)]
+
+For now polygamy among American Muslims has gone fairly unnoticed by mainstream society , but like fundamentalist Mormons whose practices were off the public?s radar for decades , they may someday find themselves at the center of social debate .
+	d:	go by	[verb prep]	C2	7,10
+			[(ADJP)]
+
+The social construction of the illness experience deals with such issues as the way some patients control the manner in which they reveal their disease and the lifestyle adaptations patients develop to cope with their illnesses .
+	d:	such as	[adj prep]	A2	9,11
+			[(NNS)]
+
+While surveys are not great at capturing the ways people really behave in social situations , they are a great method for discovering how people feel and think?or at least how they say they feel and think .
+	d:	the people	[det noun]	C1	7,9
+			[(NNS)]
+
+He also studied changes in attitudes toward craftsmanship that occurred not only during and after the Industrial Revolution , but also in ancient times .
+	d:	in time	[prep noun]	B1	21,23
+			[(JJ)]
+
+In this chapter , we examine the relationship between culture and society in greater detail , paying special attention to the elements and forces that shape culture , including diversity and cultural changes .
+	d:	in detail	[prep noun]	B1	12,14
+			[(JJR)]
+
+Modernization theory and dependency theory are two of the most common lenses sociologists use when looking at the issues of global inequality .
+	d:	at issue	[prep noun]	C2	16,18
+			[(DT)]
+
+The second world was the in-between category : nations not as limited in development as the third world , but not as well off as the first world , having moderate economies and standard of living , such as China or Cuba .
+	d:	as well as	[prep adv prep]	A2	21,22,24
+			[()(ADVP)]
+
+Ever since the first people traded one item for another , there has been some form of economy in the world .
+	d:	the people	[det noun]	C1	2,4
+			[(JJ)]
+
+Of the 200 people who have run for president during the country?s history , fewer than 30 have been women .
+	d:	the people	[det noun]	C1	1,3
+			[(CD)]
+
+Sometimes the non-subject members would unanimously choose an answer that was clearly wrong .
+	d:	be wrong	[verb adj]	A2	10,12
+			[(RB)]
+
+Although begun as a moral reaction against the poverty caused by social injustice in that part of the world , today liberation theology is an international movement that encompasses many churches and denominations .
+	d:	in part	[prep noun]	B1	13,15
+			[(DT)]
+
+While his economic predictions may not have come true in the time frame he predicted , Marx?s idea that social conflict leads to change in society is still one of the major theories used in modern sociology .
+	d:	come in	[verb prep]	C2	7,9
+			[(ADJP)]
+	d:	in time	[prep noun]	B1	9,11
+			[(DT)]
+
+Or she might research how migration impacts environmental issues ; for example , how have forced migrations , and the resulting changes in a region?s ability to support a new people group , affected both the displaced people and the area of relocation ?
+	d:	the people	[det noun]	C1	35,37
+			[(ADJP)]
+
+In modern times , popular culture is often expressed and spread via commercial media such as radio , television , movies , the music industry , publishers , and corporate-run websites .
+	d:	in time	[prep noun]	B1	0,2
+			[(JJ)]
+
+The sect?s formal norms clashed too severely to be tolerated by U.S. law , and in 2008 , authorities raided the compound , removing more than two hundred women and children from the property .
+	d:	by law	[prep noun]	C1	10,12
+			[(NNP)]
+
+Max Weber -LRB- 1904 -RRB- posited that , in Europe in his time , Protestants were more likely than Catholics to value capitalist ideology , believing in hard work and savings .
+	d:	in time	[prep noun]	B1	10,12
+			[(PRP$)]
+
+The interaction between religious leaders and practitioners , the role of religion in the banal components of everyday life , and the ways people express religious values in social interactions?all might be topics of study to an interactionist .
+	d:	the people	[det noun]	C1	21,23
+			[(NNS)]
+
+Interactionists see culture as being created and maintained by the ways people interact and in how individuals interpret each other?s actions .
+	d:	the people	[det noun]	C1	9,11
+			[(NNS)]
+
+It is easy to see how someone living in the Northeastern United States , who may know no Mexican Americans personally , might gain a stereotyped impression from such sources as Speedy Gonzalez or Taco Bell?s talking Chihuahua .
+	d:	such as	[adj prep]	A2	28,30
+			[(NNS)]
+
+Possibly the most well-known case of genocide is Hitler?s attempt to exterminate the Jewish people in the first part of the 20th century .
+	d:	the people	[det noun]	C1	12,14
+			[(JJ)]
+
+Official statistics before the worldwide recession posit that the underground economy accounted for over 50 percent of non-agricultural work in Latin America ; the figure went as high as 80 percent in parts of Asia and Africa -LRB- Chen 2001 -RRB- .
+	d:	go in	[verb prep]	A2	25,31
+			[(ADVP)]
+
+The truth that most of us would guess is that the richest countries are often those with the least people .
+	d:	the people	[det noun]	C1	17,19
+			[(JJS)]
+
+The poorest people in the world are women and those in peripheral and semi-peripheral nations .
+	d:	the people	[det noun]	C1	0,2
+			[(JJS)]
+
+For women , the rate of poverty is particularly exacerbated by the pressure on their time .
+	d:	on time	[prep noun]	B1	13,15
+			[(PRP$)]
+
+In fact , many believe that China?s success in recent times has much to do with its draconian population control rules .
+	d:	in time	[prep noun]	B1	8,10
+			[(JJ)]
+
+Although there is a large amount of foreign investment in this part of the world , it tends to be higher-risk speculative investment -LRB- rather than the more stable long-term investment Europe often makes in Africa and Asia -RRB- .
+	d:	in part	[prep noun]	B1	9,11
+			[(DT)]
+
+North America and Europe are home to fewer of the world?s poor than Africa , which has most poor countries , or Asia , which has the most people living in poverty .
+	d:	the people	[det noun]	C1	26,28
+			[(JJS)]
+
+A similar problem has arisen in the white-collar sector , with many low-level clerical and support positions also being outsourced , as evidenced by the international technical-support call centers in Mumbai , India , and Newfoundland , Canada .
+	d:	call in	[noun prep]	B2	27,29
+			[(NNS)]
+
+Growing up poor can cut off access to the education and services people need to move out of poverty and into stable employment .
+	d:	the people	[det noun]	C1	8,12
+			[(UCP)]
+
+In this type of authority , power is vested in a particular rationale , system , or ideology and not necessarily in the person implementing the specifics of that doctrine .
+	d:	in particular	[prep adj]	B1	9,11
+			[(DT)]
+	d:	in person	[prep noun]	B2	21,23
+			[(DT)]
+
+has a negative connotation in everyday language , sociologists recognize that deviance is not necessarily bad -LRB- Schoepflin 2011 -RRB- .
+	d:	not bad	[adv adj]	A2	13,15
+			[(RB)]
+
+In a time of war , acts usually considered morally reprehensible , such as taking the life of another , may actually be rewarded .
+	d:	in time	[prep noun]	B1	0,2
+			[(DT)]
+

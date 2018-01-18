@@ -1,0 +1,268 @@
+Gary Becker , a University of Chicago economist who won the Nobel Prize in 1992 , has noted -LRB- borrowing from George Bernard Shaw -RRB- that `` economy is the art of making the most of life . ''
+
+
+Economics is the study of how we do that .
+	notfound
+
+
+There is a finite supply of everything worth having : oil , coconut milk , perfect bodies , clean water , people who can fix jammed photocopy machines , etc. .
+
+
+How do we allocate these things ?
+	notfound
+
+
+Why is it that Bill Gates owns a private jet and you do n't ?
+	notfound
+
+
+He is rich , you might answer .
+	notfound
+
+
+But why is he rich ?
+	notfound
+
+
+Why does he have a larger claim on the world 's finite resources than everyone else ?
+	notfound
+
+
+At the same time , how is it possible in a country as rich as the United States?a place where Alex Rodriguez can be paid $ 275 million to play baseball?that one in five children is poor or that some adults are forced to rummage through garbage cans for food ?
+	c:	be force	[verb verb]	B2
+		remain	0.5676201522208019
+		persist	0.5552687344775257
+		resist	0.5434048452371775
+		halt	0.5180987862094016
+		stop	0.5137852030756846
+	c:	be force to	[verb verb prep]	B2
+
+
+Near my home in Chicago , the Three Dog Bakery sells cakes and pastries only for dogs .
+	notfound
+
+
+Wealthy professionals pay $ 16 for birthday cakes for their pets .
+	notfound
+
+
+Meanwhile , the Chicago Coalition for the Homeless estimates that fifteen thousand people are homeless on any given night in that same city .
+	notfound
+
+
+These kinds of disparities grow even more pronounced as we look beyond the borders of the United States .
+	d:	the States	[det noun]	unknown
+			(NP)[(NNP)]
+		Columbia	0.34511833678801224
+		US	0.32294035221195844
+		America	0.27188734639161133
+		USA	0.19591142447883395
+	c:	United States	[noun noun]	unknown
+		US	0.4295180969798288
+		USA	0.38857648869970607
+		Columbia	0.18722928596658908
+		America	0.1867194845245358
+
+
+Three-quarters of the people in Chad have no access to clean drinking water , let alone pastries for their pets .
+	notfound
+
+
+The World Bank estimates that half of the world 's population survives on less than $ 2 a day .
+	notfound
+
+
+How does it all work?or , in some cases , not work ?
+
+
+Economics starts with one very important assumption : Individuals act to make themselves as well off as possible .
+
+
+To use the jargon of the profession , individuals seek to maximize their own utility , which is a similar concept to happiness , only broader .
+	notfound
+
+
+I derive utility from getting a typhoid immunization and paying taxes .
+	notfound
+
+
+Neither of these things makes me particularly happy , but they do keep me from dying of typhoid or going to jail .
+	notfound
+
+
+That , in the long run , makes me better off .
+	notfound
+
+
+Economists do n't particularly care what gives us utility ; they simply accept that each of us has his or her own `` preferences . ''
+	notfound
+
+
+I like coffee , old houses , classic films , dogs , bicycling , and many other things .
+	notfound
+
+
+Everyone else in the world has preferences , which may or may not have anything in common with mine .
+	notfound
+
+
+Indeed , this seemingly simple observation that different individuals have different preferences is sometimes lost on otherwise sophisticated policymakers .
+	notfound
+
+
+For example , rich people have different preferences than poor people do .
+
+
+Similarly , our individual preferences may change over the course of our life cycle as we -LRB- we hope -RRB- grow wealthier .
+	notfound
+
+
+The phrase `` luxury good '' actually has a technical meaning to economists ; it is a good that we buy in increasing quantities as we grow richer?things like sports cars and French wines .
+	notfound
+
+
+Less obviously , concern for the environment is a luxury good .
+	notfound
+
+
+Wealthy Americans are willing to spend more money to protect the environment as a fraction of their incomes than are less wealthy Americans .
+	c:	be willing	[verb adj]	B2
+		affect	0.5523952462494703
+		move	0.5279300178478332
+		suppress	0.5019107480243958
+		stop	0.5001105870373992
+		hinder	0.4956339362680673
+	c:	willing to	[adj prep]	B2
+		ready	0.5821549524909774
+		intending	0.4247305309987544
+		set	0.15139697610263814
+		almost	0.11206155478745562
+
+
+The same relationship holds true across countries ; wealthy nations devote a greater share of their resources to protecting the environment than do poor countries .
+	notfound
+
+
+The reason is simple enough : We care about the fate of the Bengal tiger because we can .
+	notfound
+
+
+We have homes and jobs and clean water and birthday cakes for our dogs .
+	notfound
+
+
+Here is a nettlesome policy question : Is it fair for those of us who live comfortably to impose our preferences on individuals in the developing world ?
+	notfound
+
+
+Economists argue that it is not , though we do it all the time .
+
+
+When I read a story in the Sunday New York Times about South American villagers cutting down virgin rain forest and destroying rare ecosystems , I nearly knock over my Starbucks latte in surprise and disgust .
+	notfound
+
+
+But I am not they .
+	notfound
+
+
+My children are not starving or at risk of dying from malaria .
+	notfound
+
+
+If they were , and if chopping down a valuable wildlife habitat enabled me to afford to feed my family and buy a mosquito net , then I would sharpen my ax and start chopping .
+	c:	chop down	[verb prep]	B2
+		guard	0.4510099444194628
+		retreat	0.4456423004265828
+		punch	0.3913696822087398
+		advance	0.385824817368678
+		bat	0.38100367713146643
+
+
+I would n't care how many butterflies or spotted weasels I killed .
+	notfound
+
+
+This is not to suggest that the environment in the developing world does not matter .
+	notfound
+
+
+It does .
+	notfound
+
+
+In fact , there are many examples of environmental degradation that will make poor countries even poorer in the long run .
+	notfound
+
+
+Cutting down those forests is bad for the rest of us , too , since deforestation is a major contributor to rising CO2 emissions .
+	notfound
+
+
+-LRB- Economists often argue that rich countries ought to pay poor countries to protect natural resources that have global value . -RRB-
+	c:	ought to	[other prep]	unknown
+		should	0.5464343716721934
+		must	0.513857570167748
+		requires	0.21815724459003297
+
+
+Obviously if the developed world were more generous , then Brazilian villagers might not have to decide between destroying the rain forest and buying mosquito nets .
+	notfound
+
+
+For now , the point is more basic : It is simply bad economics to impose our preferences on individuals whose lives are much , much different .
+	notfound
+
+
+Let me make one other important point regarding our individual preferences : Maximizing utility is not synonymous with acting selfishly .
+
+
+In 1999 , the New York Times published the obituary of Oseola McCarty , a woman who died at the age of ninety-one after spending her life working as a laundress in Hattiesburg , Mississippi .
+	notfound
+
+
+She had lived alone in a small , sparsely furnished house with a black-and-white television that received only one channel .
+	notfound
+
+
+What made Ms. McCarty exceptional is that she was by no means poor .
+	d:	by means	[prep noun]	B2
+			(PP)[(DT)]
+		strongly	0.44101742326989263
+		clearly	0.36913586349044497
+		positively	0.27588627808249083
+		absolutely	0.27311631145908055
+		powerful	0.2672881147611338
+	c:	by no means	[prep det noun]	B2
+		no	0.7263742030576689
+		little	0.5018641802896633
+		practically	0.495945162668301
+		simply	0.45341980946959637
+		seldom	0.41577750563342003
+
+
+In fact , four years before her death she gave away $ 150,000 to the University of Southern Mississippi?a school that she had never attended?to endow a scholarship for poor students .
+	notfound
+
+
+Does Oseola McCarty 's behavior turn the field of economics on its head ?
+	notfound
+
+
+Are Nobel Prizes being recalled to Stockholm ?
+	notfound
+
+
+No .
+	notfound
+
+
+She simply derived more utility from saving her money and eventually giving it away than she would have from spending it on a big-screen TV or a fancy apartment .
+	c:	more utility	[adj noun]	B2
+		cheap	0.4569963014678443
+		utility	0.44099253542886474
+		standard	0.4004554002374054
+		sophisticated	0.3951012595413072
+		inexpensive	0.37749767104463333
+
+

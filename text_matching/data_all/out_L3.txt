@@ -1,0 +1,515 @@
+When Darwin first developed his theory , people assumed that animals behaved in ways that were good for the species as a whole .
+	c:	[adj]	as a whole	[prep det noun]	B1
+	d:	[adj]	as whole	[prep adj]	A2
+	c:	[conj]	assume that	[verb det]	B1
+	d:	[verb]	be for	[verb prep]	A1
+	c:	[verb]	be good	[verb adj]	A1
+	c:	[verb]	be good for	[verb adj prep]	A1
+	d:	[verb]	develop in	[verb prep]	A2
+	c:	[adj]	good for	[adj prep]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	c:	[adv]	in way	[prep noun]	A1
+	c:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the whole	[det noun]	B1
+
+
+For example , female lionesses which suckled young cubs belonging to other females in their pride were assumed to be doing so in order to make sure that there were plenty of lions in the next generation and so the species would n't become extinct .
+	c:	[adv]	and so	[conj adv]	A2
+	d:	[conj]	assume that	[verb det]	B1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	be make of	[verb verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be order	[verb verb]	A2
+	d:	[verb]	be sure	[verb adj]	A1
+	d:	[verb]	be sure of	[verb adj prep]	A1
+	d:	[verb]	be there	[verb XXXXX]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	belong to	[verb prep]	A2
+	d:	[verb]	be become	[verb verb]	A1
+	d:	[verb]	do in	[verb prep]	A1
+	d:	[verb]	do in to	[verb prep prep]	A1
+	c:	[phrase]	for example	[prep noun]	A1
+	d:	[adv]	for sure	[prep adj]	A1
+	d:	[adv]	for that	[prep det]	A1
+	d:	[adj]	in make	[prep verb]	A1
+	c:	[adj]	in order	[prep noun]	A1
+	d:	[conj]	in order that	[prep noun det]	A1
+	c:	[prep]	in order to	[prep noun prep]	A1
+	d:	[verb]	in sure	[prep adj]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[adv]	in there	[prep XXXXX]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	make of	[verb prep]	A1
+	c:	[verb]	make sure	[verb adj]	A1
+	c:	[noun]	next generation	[adj noun]	B2
+	c:	[adj]	order to	[verb prep]	A2
+	d:	[adj]	so and so	[adv conj adv]	A2
+	d:	[adj]	so so	[adv adv]	A2
+	d:	[conj]	so that	[adv prep]	A2
+	d:	[adv]	that be	[det verb]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[adv]	to be sure	[prep verb adj]	A1
+	d:	[noun]	to do	[prep verb]	A1
+
+
+However , the most important thing to note about the theory of natural selection is that it is concerned with individual survival and not with the survival of the species .
+	d:	[adj]	about be	[prep verb]	A1
+	c:	[verb]	be concern with	[verb verb prep]	B2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	c:	[verb]	be concern	[verb verb]	B2
+	c:	[verb]	concern with	[noun prep]	A2
+	d:	[adj]	most about	[adv adv]	A2
+	d:	[adj]	most to be	[adv prep verb]	A2
+	d:	[adj]	most concern	[adv verb]	B2
+	d:	[adj]	most with	[adv prep]	A2
+	c:	[noun]	natural selection	[adj noun]	B1
+	d:	[adv]	that be	[det verb]	A1
+	c:	[noun]	the most	[det adv]	A2
+	d:	[noun]	the thing	[det noun]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	c:	[adj]	that it	[prep perPro]	A1
+	d:	[noun]	thing about	[noun prep]	A1
+
+
+Although individual reproduction inevitably has the effect of perpetuating species , this in itself is not the purpose of reproduction -LRB- or evolution -RRB- .
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have effect	[verb noun]	A2
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[noun]	have not	[verb adv]	A1
+	c:	[adv]	in itself	[prep perPro]	A2
+	c:	[adj]	not the purpose	[adv det noun]	A2
+	d:	[adj]	not purpose	[adv noun]	A2
+	d:	[adv]	of itself	[prep perPro]	A2
+	d:	[adv]	of this	[prep det]	A1
+	c:	[adj]	the purpose	[det noun]	A2
+
+
+Individuals are selected to behave in their own reproductive interests and the fate of the species as a whole is irrelevant to individuals ' reproductive decisions .
+	c:	[adj]	as a whole	[prep det noun]	B1
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[adj]	as whole	[prep adj]	A2
+	d:	[verb]	be fate	[verb noun]	B2
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[noun]	in decision	[prep noun]	B1
+	d:	[conjuction]	in interest of	[prep noun prep]	A2
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	own to	[adj prep]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	the whole	[det noun]	B1
+
+
+This must obviously be the case if natural selection is to operate in the way Darwin envisaged : since the whole process is based on the notion of interindividual competition , any organism that behaves so as to benefit the species or group at some cost to its own reproductive interests is likely to leave fewer descendants than less noble-spirited individuals who just look after themselves .
+	d:	[adv]	as group	[prep noun]	A1
+	d:	[adj]	as be	[adv verb]	A2
+	c:	[prep]	as to	[prep prep]	A1
+	d:	[verb]	be after	[verb prep]	A1
+	d:	[verb]	be at	[verb prep]	A1
+	c:	[verb]	be base	[verb verb]	B1
+	c:	[verb]	be base on	[verb verb prep]	B1
+	d:	[verb]	be case	[verb noun]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in on	[verb prep prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be leave	[verb verb]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be on to	[verb prep prep]	A1
+	c:	[verb]	be the case	[verb det noun]	A1
+	c:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	base on	[noun prep]	A2
+	d:	[verb]	be natural	[verb adj]	A2
+	d:	[noun]	in group	[prep noun]	A1
+	d:	[adj]	in on	[prep prep]	A1
+	d:	[adj]	in process	[prep noun]	B1
+	d:	[conj]	in process of	[prep noun prep]	B1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[conj]	in the process of	[prep det noun prep]	B1
+	c:	[adj]	in the way	[prep det noun]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adv]	in way	[prep noun]	A1
+	d:	[conj]	just after	[adv prep]	A1
+	c:	[noun]	just look	[adv verb]	A1
+	c:	[adj]	likely to	[adv prep]	A2
+	c:	[verb]	look after	[noun prep]	A1
+	c:	[noun]	natural selection	[adj noun]	B1
+	d:	[noun]	natural process	[adj noun]	B1
+	d:	[adj]	on own	[prep adj]	A1
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[verb]	own to	[adj prep]	A1
+	d:	[adv]	on leave	[prep noun]	B1
+	d:	[adv]	on that	[prep det]	A1
+	d:	[noun]	operate cost	[verb noun]	A2
+	c:	[adv]	that be	[det verb]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	c:	[noun]	the whole	[det noun]	B1
+	d:	[noun]	this that	[det det]	A1
+	d:	[noun]	way look	[noun verb]	A1
+	d:	[noun]	way of look	[noun prep verb]	A1
+
+
+So how did Darwin envisage natural selection as operating ?
+	c:	[noun]	natural selection	[adj noun]	B1
+
+
+While his views on the importance of natural selection in the evolutionary process changed over the course of his lifetime and evolutionary biologists today continue to argue over the relative importance of selection as a means of evolutionary change , there is no doubt whatsoever that , with this idea , Darwin changed forever the way we think about the natural world .
+	d:	[conj]	and that	[conj prep]	A1
+	c:	[verb]	argue over	[verb prep]	A2
+	c:	[prep]	as a means	[prep det noun]	B2
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[prep]	as means	[prep noun]	B2
+	d:	[verb]	be about	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[verb]	be think	[verb verb]	A1
+	d:	[verb]	be natural	[verb adj]	A2
+	d:	[verb]	change course	[noun noun]	A1
+	d:	[verb]	change way	[noun noun]	A1
+	c:	[verb]	continue to	[verb prep]	A2
+	d:	[noun]	course think	[noun verb]	A1
+	d:	[prep]	in course of	[prep noun prep]	A1
+	d:	[adj]	in doubt	[prep noun]	A2
+	d:	[adj]	in process	[prep noun]	B1
+	d:	[conj]	in process of	[prep noun prep]	B1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in the course of	[prep det noun prep]	A1
+	d:	[conj]	in the process of	[prep det noun prep]	B1
+	d:	[adj]	in the way	[prep det noun]	A1
+	d:	[adv]	in there	[prep XXXXX]	A1
+	d:	[adv]	in this	[prep det]	A1
+	d:	[adv]	in this way	[prep det noun]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adv]	in way	[prep noun]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	c:	[noun]	natural selection	[adj noun]	B1
+	c:	[adv]	no doubt	[det noun]	A2
+	d:	[noun]	no way	[det noun]	A1
+	d:	[noun]	natural process	[adj noun]	B1
+	d:	[noun]	no change	[det noun]	A1
+	c:	[noun]	natural world	[adj noun]	A2
+	d:	[adv]	of course	[prep noun]	A1
+	d:	[prep]	on the way	[prep det noun]	A1
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[adv]	over and over	[prep conj prep]	A1
+	d:	[adv]	over over	[prep prep]	A1
+	d:	[adv]	over there	[prep XXXXX]	A1
+	d:	[adv]	of this	[prep det]	A1
+	d:	[adv]	on that	[prep det]	A1
+	d:	[adj]	of this world	[prep det noun]	A1
+	d:	[adj]	of world	[prep noun]	A1
+	d:	[prep]	on way	[prep noun]	A1
+	c:	[noun]	relative importance	[adj noun]	B1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that idea	[prep noun]	A1
+	c:	[verb]	think about	[verb prep]	A1
+	c:	[adv]	with this	[prep det]	A1
+
+
+The theory of natural selection is deceptively simple and is based on three premises and their logical conclusion : Premise 1 : All individuals of a particular species show variation in their behavioural , morphological and/or physiological traits -LRB- their phenotype -RRB- .
+	c:	[adj]	a particular	[det adj]	B2
+	c:	[adj]	all in	[det prep]	A1
+	d:	[adv]	and all	[conj det]	A1
+	d:	[adj]	and on	[conj prep]	A1
+	c:	[verb]	be base	[verb verb]	B1
+	c:	[verb]	be base on	[verb verb prep]	B1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be show	[verb verb]	A1
+	c:	[verb]	base on	[noun prep]	A2
+	d:	[verb]	be logical	[verb adj]	A2
+	c:	[noun]	natural selection	[adj noun]	B1
+	d:	[verb]	show in	[noun prep]	A2
+	d:	[adj]	the particular	[det adj]	B2
+
+
+This is usually known as the Principle of Variation .
+	d:	[verb]	be of	[verb prep]	A1
+
+
+Premise 2 : A part of this variation between individuals is heritable : that is , some of that variation will be passed on from one generation to the next -LRB- or to put it even more simply , offspring will tend to resemble their parents more than they do other individuals in the population -RRB- ?
+	d:	[adj]	a one	[det adj]	A1
+	c:	[pron]	a part	[det noun]	A2
+	d:	[verb]	be even	[verb adv]	A2
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be on to	[verb prep prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	do in	[verb prep]	A1
+	d:	[adv]	more more	[adv adv]	B1
+	d:	[adj]	more do in	[adv verb prep]	B1
+	d:	[adj]	more tend	[adj verb]	B1
+	c:	[adv]	more than	[adj prep]	B1
+	d:	[prep]	next to	[prep prep]	A1
+	c:	[adj]	on to	[prep prep]	A1
+	c:	[adv]	of this	[prep det]	A1
+	d:	[adj]	one other	[adj adj]	A2
+	d:	[adj]	one the other	[adj det adj]	A2
+	d:	[noun]	one will	[adj other]	A1
+	d:	[noun]	one more	[adj adj]	B1
+	d:	[verb]	part from	[noun prep]	A2
+	c:	[verb]	pass on	[noun prep]	A2
+	d:	[verb]	put in	[verb prep]	A1
+	d:	[verb]	put to	[verb prep]	A1
+	c:	[determiner]	part of	[noun prep]	A2
+	d:	[verb]	pass in	[noun prep]	A2
+	d:	[verb]	pass to	[verb prep]	A2
+	d:	[prep]	some other	[det adj]	A2
+	c:	[adv]	that be	[det verb]	A1
+	d:	[noun]	to do	[prep verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[pron]	that one	[prep adj]	A1
+	d:	[pron]	that other	[prep adj]	A2
+	d:	[adj]	that will be	[det other verb]	A1
+	d:	[adj]	that be it	[det verb perPro]	A1
+	d:	[pron]	this one	[det adj]	A1
+	d:	[noun]	this that	[det det]	A1
+
+
+the Principle of Inheritance .
+	notfound
+
+
+Premise 3 : Whenever there is competition among individuals for scarce resources such as food , mates and somewhere to live , some of these variations will allow their bearers to compete more effectively than others .
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[verb]	be allow	[verb verb]	A2
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	live of	[verb prep]	A1
+	d:	[verb]	live other	[adj noun]	B1
+	d:	[verb]	live to	[verb prep]	A1
+	c:	[adv]	more effectively	[adv adv]	B2
+	d:	[adv]	more than	[adj prep]	B1
+	c:	[conj]	such as	[adj prep]	A2
+	d:	[prep]	some other	[det adj]	A2
+
+
+This competition occurs because organisms have a capacity to greatly increase in numbers and produce far more offspring than can ever give rise to breeding individuals -LRB- just think of frogspawn , for example -RRB- ?
+	d:	[pron]	a number	[det noun]	A1
+	d:	[prep]	because of	[prep prep]	A1
+	c:	[phrase]	for example	[prep noun]	A1
+	c:	[verb]	give rise to	[verb noun prep]	B1
+	d:	[verb]	give to	[verb prep]	A1
+	d:	[verb]	have capacity for	[verb noun prep]	B1
+	d:	[verb]	have for	[verb prep]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have in for	[verb prep prep]	A1
+	d:	[verb]	have number	[verb noun]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[adj]	in breed	[prep verb]	B1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[conj]	just for	[adv prep]	A1
+	d:	[adj]	more ever	[adv adv]	B1
+	d:	[adv]	more than ever	[adj prep adv]	B1
+	d:	[adj]	more breed	[adv verb]	B1
+	d:	[adj]	more for	[adv prep]	B1
+	d:	[adj]	more give	[adv verb]	B1
+	d:	[adv]	more than	[adj prep]	B1
+	d:	[adj]	more think	[adv verb]	B1
+	d:	[verb]	occur to	[verb prep]	B1
+	c:	[verb]	rise to	[noun prep]	B1
+	c:	[verb]	think of	[verb prep]	A1
+
+
+the Principle of Adaptation .
+	notfound
+
+
+Consequence : As a result of being more effective competitors , some individuals will leave more offspring than others , because the particular traits they possess give them some sort of edge : they are more successful at finding food , or mating , or avoiding predators .
+	d:	[adj]	a particular	[det adj]	B2
+	c:	[adv]	as a result	[prep det noun]	A1
+	c:	[conjuction]	as a result of	[prep det noun prep]	A1
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[adv]	as result	[prep noun]	A1
+	d:	[conjuction]	as result of	[prep noun prep]	A1
+	d:	[verb]	be at	[verb prep]	A1
+	d:	[verb]	be edge	[verb noun]	B1
+	d:	[verb]	be effective	[verb adj]	B1
+	d:	[verb]	be find	[verb verb]	A1
+	d:	[verb]	be give	[verb verb]	A1
+	d:	[verb]	be leave	[verb verb]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be possess of	[verb verb prep]	B1
+	d:	[verb]	be successful	[verb adj]	A1
+	d:	[verb]	be the edge	[verb det noun]	B1
+	d:	[adj]	be avoid	[verb verb]	A2
+	d:	[prep]	because of	[prep prep]	A1
+	d:	[verb]	leave be	[verb verb]	A1
+	d:	[adj]	more edge	[adj verb]	B1
+	d:	[adj]	more find	[adv verb]	B1
+	d:	[adv]	more more	[adv adv]	B1
+	d:	[adj]	more sort	[adv verb]	B2
+	d:	[adj]	more at	[adv prep]	B1
+	d:	[adj]	more avoid	[adv verb]	B1
+	d:	[adj]	more because	[adv prep]	B1
+	d:	[adj]	more give	[adv verb]	B1
+	d:	[adj]	more possess	[adv verb]	B1
+	d:	[adv]	more than	[adj prep]	B1
+	d:	[verb]	possess of	[verb prep]	B1
+	c:	[adv]	sort of	[noun prep]	B1
+	d:	[prep]	some other	[det adj]	A2
+	c:	[adj]	the particular	[det adj]	B2
+
+
+The offspring of such individuals will inherit these successful traits from their parents and ' natural selection ' can be said to have taken place .
+	d:	[verb]	be place	[verb verb]	B1
+	d:	[verb]	be take	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	c:	[adv]	can be	[other verb]	A1
+	d:	[verb]	have place	[verb noun]	A1
+	c:	[noun]	natural selection	[adj noun]	B1
+	c:	[verb]	take place	[verb noun]	A1
+
+
+Through this process , organisms become adapted to their environment .
+	c:	[adj]	adapt to	[verb prep]	B1
+
+
+The success with which a trait is propagated in future generations , relative to other variants of that trait , is called its fitness .
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[adv]	in future	[prep noun]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	in variant	[prep noun]	unknown
+	c:	[prep]	relative to	[adj prep]	B1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	the call	[det noun]	A1
+
+
+Fitness is a measure of relative reproductive success -LRB- that is , relative to alternative variants of the same trait -RRB- ; strictly speaking , it is a property of traits .
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be same	[verb adj]	A1
+	d:	[verb]	be the same	[verb det adj]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be speak	[verb verb]	A1
+	d:	[verb]	measure to	[noun prep]	B1
+	c:	[prep]	relative to	[adj prep]	B1
+	d:	[verb]	speak of	[verb prep]	A1
+	c:	[adv]	strictly speak	[adv verb]	B2
+	c:	[adv]	that be	[det verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	that be to be	[det verb prep verb]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[adj]	that be it	[det verb perPro]	A1
+
+
+This is sometimes known as the Principle of Evolution .
+	d:	[verb]	be of	[verb prep]	A1
+
+
+By specifying a mechanism by which evolutionary change could be effected , it then became possible to formulate testable hypotheses aimed at explaining the anatomy and behaviour of organisms .
+	c:	[adj]	aim at	[verb prep]	B2
+	d:	[verb]	be at	[verb prep]	A1
+	c:	[verb]	be effect	[verb noun]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	become of	[verb prep]	A1
+	d:	[adv]	by by	[prep prep]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[adv]	by the	[prep det]	A1
+	d:	[adv]	by then	[prep adv]	A1
+	c:	[adv]	by which	[prep det]	A1
+	d:	[verb]	be become	[verb verb]	A1
+	c:	[adv]	could be	[other verb]	A1
+	d:	[verb]	could it	[other perPro]	A1
+
+
+If a trait was an adaptation , then it should show evidence of being well adapted to the purpose it was supposed to serve ; and if it continued to confer a selective advantage on the organism that possessed it , then it should also help to increase the survival and reproductive success of those organisms relative to those that did not possess it -LRB- or which possessed inferior versions of it -RRB- .
+	c:	[adj]	adapt to	[verb prep]	B1
+	d:	[adj]	and on	[conj prep]	A1
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	be advantage	[verb noun]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be of advantage	[verb prep noun]	A2
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be on to	[verb prep prep]	A1
+	d:	[verb]	be possess of	[verb verb prep]	B1
+	d:	[verb]	be show	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[noun]	be evidence	[verb noun]	A2
+	d:	[verb]	continue on	[verb prep]	A2
+	c:	[verb]	continue to	[verb prep]	A2
+	d:	[verb]	do it	[verb perPro]	A1
+	d:	[prep]	if not	[prep adv]	A1
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[adj]	of help	[prep noun]	A2
+	d:	[adv]	on that	[prep det]	A1
+	d:	[verb]	possess of	[verb prep]	B1
+	c:	[prep]	relative to	[adj prep]	B1
+	d:	[verb]	show to advantage	[noun prep noun]	A2
+	d:	[verb]	serve to	[verb prep]	A2
+	d:	[verb]	show advantage	[noun noun]	A2
+	d:	[conj]	suppose that	[verb det]	B1
+	c:	[adj]	the purpose	[det noun]	A2
+	d:	[adv]	to advantage	[prep noun]	A2
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	to do	[prep verb]	A1
+	d:	[adj]	to purpose	[prep noun]	A2
+	c:	[adj]	to the purpose	[prep det noun]	A2
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[adv]	to continue	[prep verb]	A2
+	d:	[adv]	to which	[prep det]	A1
+	d:	[noun]	well be	[adv verb]	A1
+	d:	[adj]	well do	[adv verb]	A1
+	d:	[adj]	well to do	[adv prep verb]	A1
+
+
+A second important consequence of Darwin 's position was that it made ' group selection ' -LRB- evolution for the benefit of the species -RRB- an extremely unlikely -LRB- though not entirely impossible -RRB- explanation for the evolution of anything .
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	be make of	[verb verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	make for	[verb prep]	A1
+	d:	[verb]	make of	[verb prep]	A1
+	d:	[verb]	make selection	[verb noun]	B1
+	d:	[prep]	not for	[adv prep]	A1
+	d:	[adj]	not impossible	[adv adj]	A2
+	d:	[pron]	not anything	[adv noun]	A1
+	c:	[adv]	not entirely	[adv adv]	B1
+	c:	[adj]	that it	[prep perPro]	A1
+
+
+Despite this , group selection remained firmly ensconced in the public imagination .
+	d:	[adv]	in public	[prep noun]	A2
+	c:	[noun]	the public	[det noun]	A2
+
+
+Indeed , even biologists often failed to appreciate this point and it was not until the 1960s that the concept of group selection was finally laid to rest .
+	d:	[adj]	and rest	[conj noun]	B1
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[adj]	and the rest	[conj det noun]	B1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be lay	[verb verb]	B1
+	c:	[verb]	lay to	[verb prep]	B1
+	c:	[verb]	lay to rest	[verb prep verb]	B1
+	d:	[verb]	lay rest	[adj noun]	B1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[verb]	point to	[noun prep]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[noun]	this and that	[det conj prep]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	to point	[prep noun]	A1
+	d:	[noun]	this that	[det det]	A1
+
+
+Evolutionary biologists have remained extremely cautious of mentioning group selection ever since .
+	notfound
+
+

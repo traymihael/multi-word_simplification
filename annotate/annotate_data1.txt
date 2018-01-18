@@ -1,0 +1,3299 @@
+In effect , command-and-control regulation requires that firms increase their costs by installing anti-pollution equipment ; firms are thus required to take the social costs of pollution into account .
+	c:	in effect	[prep noun]	C2	0,1
+		basically
+		really
+
+It usually requires the same standard for all polluters , and often the same pollution-control technology as well .
+	c:	as well	[adv adv]	A1	16,17
+		also
+		simultaneously
+		too
+		besides
+		furthermore
+		moreover
+		with
+		apart
+		separate
+		far
+
+Can you give people too much help , or the wrong kind of help ?
+	c:	kind of	[noun prep]	B1	11,12
+		rather
+
+The new budget line , with the antipoverty program in place , is the horizontal and heavy line that is flat at $ 18,000 .
+	c:	in place	[prep noun]	B2	9,10
+		engaged
+		busy
+		active
+		unemployed
+		working
+
+If the mother does not work at all , she receives $ 18,000 , all from the government .
+	c:	at all	[prep det]	B1	6,7
+		whenever
+		unlikely
+
+If she works full time , giving up 40 hours per week with her children , she still ends up with $ 18,000 at the end of the year .
+	c:	end up	[verb prep]	B1	18,19
+		finish
+		stop
+		begin
+		start
+
+Moreover , those who do not work fail to build up job experience and contacts , which makes working in the future even less likely .
+	c:	in the future	[prep det noun]	B1	19,20,21
+		so
+		thus
+		away
+		consequently
+		forward
+		out
+		then
+
+The bite of the poverty trap can be reduced by designing an antipoverty program so that , instead of reducing government payments by $ 1 for every $ 1 earned , payments are reduced by some smaller amount instead .
+	c:	instead of	[adv prep]	B1	17,18
+		instead
+		rather
+		nor
+
+Because of the reduction in government income when an individual works , an individual earning $ 8.00 will really net only $ 4.00 per hour .
+	c:	because of	[prep prep]	B1	0,1
+		by
+		for
+		per
+		via
+		with
+		around
+
+Calculate how much Jason?s salary will be reduced by due to the reduction in government income .
+	c:	due to	[adj prep]	B1	9,10
+		as
+		being
+		for
+		over
+		since
+		through
+
+The bite of the poverty trap can be reduced by phasing out government benefits more slowly , as well as by imposing requirements for work as a condition of receiving benefits and a time limit on benefits .
+	c:	as well as	[adv adv prep]	A2	17,18,19
+		again
+		too
+		further
+		still
+		more
+		besides
+		along
+		and
+		furthermore
+		including
+		moreover
+		plus
+
+In the same way -LRB- though not shown in the figure -RRB- , if AD increases , the economy could experience an inflationary gap , where demand is attempting to push the economy past potential output .
+	c:	in the same way	[prep det adj noun]	C1	0,1,2,3
+		too
+		besides
+		along
+		further
+		furthermore
+		more
+		moreover
+		so
+		opposite
+
+As a consequence , the economy experiences inflation .
+	c:	as a consequence	[prep det noun]	C1	0,1,2
+		thus
+		properly
+		therefore
+		consequently
+		equally
+		so
+		then
+
+Durable goods are things that last and provide value over time , such as automobiles .
+	c:	such as	[adj prep]	A2	12,13
+		being
+		equally
+		like
+		similarly
+
+When the U.S. stock market rose dramatically in the late 1990s , for example , U.S. rates of saving declined , probably in part because people felt that their wealth had increased and there was less need to save .
+	c:	for example	[prep noun]	A1	12,13
+		like
+	c:	in part	[prep noun]	B1	22,23
+		partly
+		completely
+		totally
+
+Just as individuals need to borrow money to purchase homes , so businesses need financing when they purchase big ticket items .
+	c:	just as	[adv prep]	B1	0,1
+		though
+
+summarizes the reasons given here for changes in aggregate demand .
+	d:	in demand	[prep noun]	C1	25,30
+		financial
+		economic
+		exchange
+		trade
+		market
+		retail
+		popular
+
+A wide array of indexing arrangements is observed in private markets and government programs .
+	c:	in private	[prep adj]	B2	8,9
+		inside
+		private
+		secret
+		honest
+		open
+
+as it was called , was eliminated by law in 1981 .
+	c:	by law	[prep noun]	C1	7,8
+		illegally
+
+Now , the income levels where higher tax rates kick in are indexed to rise automatically with inflation .
+	c:	kick in	[verb prep]	C1	9,10
+		commit
+		furnish
+		give
+		provide
+		contribute
+
+Also , Social Security is funded by payroll taxes , which are imposed on the income earned up to a certain amount ?
+	c:	a certain	[det adj]	B2	19,20
+		one
+		such
+		this
+		the
+
+As yet another example of a government program affected by indexing , in 1996 the U.S. , government began offering indexed bonds .
+	c:	as yet	[prep adv]	C1	0,1
+		still
+		till
+
+After all , when individuals , firms , and government programs are indexed against inflation , then people can worry less about arbitrary redistributions and other effects of inflation .
+	c:	after all	[prep det]	C1	0,1
+		someday
+		finally
+		yet
+		sometime
+		never
+		however
+		eventually
+		because
+		still
+
+After all , older people whose Social Security benefits are protected against inflation , or banks that have loaned their money with adjustable-rate loans , no longer have as much reason to care whether inflation heats up .
+	c:	no longer	[det adj]	B1	25,26
+		once
+		back
+		sometime
+
+These issues will be taken up in depth in other chapters .
+	c:	in depth	[prep noun]	B2	6,7
+		thorough
+		complete
+		diligent
+		extensively
+
+In the meantime , the economy literally falls apart as people leave jobs and fend for themselves because it is not worth the time to work for money that will be worthless in a few days .
+	c:	a few	[det adj]	A2	33,34
+		precise
+		specific
+		individual
+		various
+		numerous
+		special
+		express
+		many
+		marked
+		one
+		regular
+		several
+		singular
+		some
+		unimportant
+		usual
+		uncertain
+		unpredictable
+		general
+		common
+		ordinary
+		few
+		any
+	c:	fall apart	[verb adv]	B2	7,8
+		collapse
+		break
+		build
+
+This is why economists are generally wary of letting inflation get out of control .
+	c:	out of	[prep prep]	B1	11,12
+		with
+		outside
+		separate
+		from
+	c:	get out	[verb prep]	C1	10,11
+		leave
+		go
+		avoid
+		depart
+		duck
+		exit
+		fly
+		split
+		kite
+		capture
+		grab
+		come
+		stay
+		seize
+		escape
+
+Of course , the ultimate scarce resource is time - everyone , rich or poor , has just 24 hours in the day to try to acquire the goods they want .
+	c:	of course	[prep noun]	B1	0,1
+		certainly
+		definitely
+		indeed
+		naturally
+		obviously
+		surely
+
+At any point in time , there is only a finite amount of resources available .
+	c:	in time	[prep noun]	B1	3,4
+		joint
+		fellow
+		incident
+		satellite
+		accessory
+		accidental
+		chance
+		unrelated
+		later
+
+Smith counted 18 distinct tasks that were often done by different people?all for a pin , believe it or not !
+	c:	or not	[conj adv]	A2	18,19
+		instead
+		rather
+		nor
+
+First , specialization in a particular small job allows workers to focus on the parts of the production process where they have an advantage .
+	d:	in particular	[prep adj]	B1	13,18
+		specially
+		mainly
+		primarily
+		strangely
+		unusually
+		curiously
+		commonly
+		generally
+		normally
+		usually
+
+Only those with medical degrees qualify to become doctors , for instance .
+	c:	for instance	[prep noun]	B1	10,11
+		being
+		equally
+		like
+		similarly
+
+If you live in or near a big city , it is easier to attract enough customers to operate a successful dry cleaning business or movie theater than if you live in a sparsely populated rural area .
+	c:	movie theater	[noun noun]	A1	25,26
+		cinema
+
+In fact , specialized workers often know their jobs well enough to suggest innovative ways to do their work faster and better .
+	c:	in fact	[prep noun]	B1	0,1
+		absolutely
+		indeed
+		very
+		really
+		partly
+		completely
+
+You do not need to know anything about internal combustion engines to operate a car?you just get in and drive .
+	c:	get in	[verb prep]	B1	16,17
+		come
+		enter
+		appear
+		arrive
+		include
+		land
+		mount
+		reach
+		show
+		depart
+		go
+		leave
+
+When you hear classmates , co-workers , or political candidates talking about economics , you will be able to distinguish between common sense and nonsense .
+	c:	common sense	[adj noun]	B1	21,22
+		intelligence
+		sense
+		wisdom
+		logic
+		cool
+		experience
+		reason
+
+At the five-to-ten-year time scale , we have to piece things together as best we can , and look for a hybrid model that will do the job .
+	c:	do the job	[verb det noun]	C2	25,26,27
+		achieve
+		realize
+		secure
+		conclude
+		buy
+		sell
+		perform
+		make
+		cause
+		begin
+		complete
+		produce
+		generate
+		create
+		prevent
+		destroy
+		ruin
+		deny
+		refuse
+		ignore
+		stop
+		fail
+		lose
+		discourage
+		end
+		finish
+		close
+		forget
+		miss
+
+Most people are unlikely to fight this kind of tax or even inform themselves about the issue in the first place .
+	c:	in the first place	[prep det adj noun]	B2	17,18,19,20
+		especially
+		mostly
+		largely
+		mainly
+		primarily
+		usually
+		initially
+
+of the people , by the people , and for the people .
+	c:	the people	[det noun]	C1	1,2
+		country
+		land
+		nation
+		state
+
+The Clear it Up discusses the outcome of deregulation in one industry in particular?airlines .
+	d:	clear up	[adj prep]	B2	6,13
+		resolve
+		solve
+		answer
+		dissolve
+		illuminate
+		tidy
+		unfold
+		complicate
+		question
+		wonder
+
+The average flight used to take off with just half its seats full ; now it is two-thirds full , which is far more efficient .
+	c:	take off	[verb prep]	A2	5,6
+		blow
+		depart
+		go
+		disappear
+		bear
+		exit
+		head
+		make
+		quit
+		split
+		arrive
+		come
+		continue
+		stay
+
+In that same vein , some people would argue that sales of certain goods , like pornography or extremely violent movies , do not represent a gain to society?s standard of living .
+	c:	in that	[prep det]	B2	0,1
+		as
+		being
+		for
+		over
+		since
+		through
+		because
+		within
+
+For example , the typical workweek for a U.S. worker has fallen over the last century from about 60 hours per week to less than 40 hours per week .
+	c:	fall over	[verb prep]	B1	11,12
+		spill
+		drown
+		pour
+		water
+		rush
+		jet
+		wet
+		cover
+		shower
+		wave
+		issue
+		well
+		dry
+		hold
+		keep
+
+In many of the national economies across Europe , the rate of unemployment in recent decades has only dropped to about 10 % or a bit lower , even in good economic years .
+	c:	a bit	[det noun]	B2	24,25
+		all
+		several
+		either
+		each
+		whatever
+		extremely
+		little
+		violently
+		few
+
+shows a budget constraint that represents Kimberly?s choice between concert tickets at $ 50 each and getting away overnight to a bed-and-breakfast for $ 200 per night .
+	c:	get away	[verb adv]	B2	16,17
+		escape
+		fly
+		remain
+		fasten
+		mend
+		cause
+		hide
+		wait
+		face
+		stay
+		attach
+		fix
+		join
+		secure
+		agree
+		strengthen
+		allow
+		secret
+		leave
+		retire
+
+Even so , many home heating bills rose , so people adjusted their consumption in other ways , too .
+	c:	even so	[adv adv]	C1	0,1
+		still
+		yet
+		though
+		nonetheless
+		although
+		but
+		however
+		nevertheless
+		thus
+		yes
+
+This program provides a fixed amount of money per child to every family , regardless of family income .
+	c:	regardless of	[adv prep]	C1	14,15
+		nevertheless
+		yet
+		nonetheless
+		against
+		but
+		despite
+		though
+
+Meanwhile , can middle-income countries like South Korea , Brazil , Egypt , or Poland catch up to the higher-income countries ?
+	c:	catch up	[verb prep]	C2	15,16
+		reach
+		surround
+		near
+		contact
+		meet
+		come
+		match
+		advance
+		resemble
+		equal
+		bear
+		progress
+		border
+		avoid
+		decrease
+		distance
+		depart
+		go
+		leave
+		miss
+		stop
+
+What you produce is what you get to consume .
+	c:	get to	[verb prep]	B1	6,7
+		bother
+		irritate
+		needle
+		get
+		tease
+		dog
+		gall
+		bug
+		aid
+		delight
+		calm
+		soothe
+		improve
+		help
+		please
+		annoy
+		horrify
+
+The bottom line on bank accounts looks like this : low risk means low rate of return but high liquidity .
+	c:	look like	[verb prep]	B1	6,7
+		occur
+		sound
+		resemble
+		disappear
+		hide
+		seem
+
+To place a present discounted value on a future payment , decide what you would need in the present to equal a certain amount in the
+	c:	the present	[det adj]	B1	17,18
+		here
+		that
+		the
+
+The trend in the stock market is generally up over time , but with some large dips along the way .
+	d:	in stock	[prep noun]	B2	10,15
+		ready
+
+Many borrowers figured , however , that as long as housing prices kept rising , it made sense to buy .
+	c:	as long as	[adv adj prep]	B1	7,8,9
+		since
+		being
+		now
+		cause
+		for
+		because
+
+Many banks believed that they had diversified by selling their individual loans and instead buying securities based on mortgage loans from all over the country .
+	c:	all over	[det prep]	A2	21,22
+		warm
+		dear
+		fond
+		kind
+		partial
+		unfriendly
+		cold
+		cool
+		everywhere
+
+Bank accounts have very low risk and very low returns ; bonds have higher risk but higher returns ; and stocks are riskiest of all but have the potential for still higher returns .
+	c:	all but	[det conj]	C2	24,25
+		around
+		roughly
+		approximately
+		most
+		much
+		about
+		relatively
+		little
+		least
+		almost
+
+For the period from 1900 to about 1960 , the major inflations and deflations nearly balanced each other out , so the average annual rate of inflation over these years was only about 1 % per year .
+	c:	each other	[det adj]	A2	16,17
+		one
+		none
+
+In the 1980s , inflation rates came down in the United States and in Europe and have largely stayed down .
+	d:	come in	[verb prep]	C2	20,27
+		arrive
+		reach
+		finish
+		appear
+		immigrate
+		land
+		disappear
+		hide
+		exit
+		depart
+		go
+		leave
+		miss
+	c:	come down	[verb adv]	B2	6,7
+		decline
+		decrease
+		fail
+		fall
+		reduce
+		suffer
+		improve
+
+Sales of one pack of raspberries will bring in $ 4 , two packs will be $ 8 , three packs will be $ 12 , and so on .
+	c:	and so on	[conj adv prep]	B1	26,27,28
+		whatever
+		thus
+
+Total revenue and total costs for the raspberry farm , broken down into fixed and variable costs , are shown in and also appear in .
+	c:	break down	[verb prep]	B1	10,11
+		resolve
+		simplify
+		define
+		settle
+		illuminate
+		complicate
+		dirty
+		question
+		confuse
+		categorize
+		fail
+		cry
+		break
+
+In all three cases , the Yoga Center loses money .
+	c:	in all	[prep det]	B2	0,1
+		generally
+		all
+		partly
+		entirely
+		completely
+
+This rule means that the firm checks the market price , and then looks at its marginal cost to determine the quantity to produce?and makes sure that the price is greater than the minimum average variable cost .
+	c:	make sure	[verb adj]	A2	24,25
+		confirm
+		determine
+		divine
+		dig
+		eye
+		read
+		fix
+		discover
+		tell
+		see
+		settle
+		learn
+		establish
+		check
+		size
+		destroy
+		ignore
+		aid
+		assist
+		help
+		miss
+		confuse
+		obtain
+
+Follow the formulas given in the Cost and Industry Structure chapter .
+	c:	give in	[verb prep]	B1	3,4
+		quit
+		abandon
+		collapse
+		despair
+		drop
+		fold
+		stop
+		deny
+		refuse
+		reject
+		resist
+		hold
+		keep
+		defend
+		fight
+		win
+		retain
+		continue
+		start
+		oppose
+
+Why is there a minus sign in front of imports ?
+	c:	in front	[prep noun]	A2	6,7
+		forward
+		leading
+		first
+		early
+		later
+		last
+		after
+		behind
+		ahead
+
+So the income generated does not go to American producers , but rather to producers in another country ; it would be wrong to count this as part of domestic demand .
+	c:	be wrong	[verb adj]	A2	21,22
+		suppose
+		stumble
+		mistake
+		get
+		understand
+		figure
+
+Therefore , imports added in consumption are subtracted back out in the M term of the equation .
+	c:	back out	[prep prep]	C2	8,9
+		cancel
+		avoid
+		scratch
+
+The survey results are then reported at http://www.sca.isr.umich.edu , which break down the change in consumer confidence among different income levels .
+	d:	in confidence	[prep noun]	C2	46,51
+		personally
+		commonly
+		publicly
+		secretly
+
+The use of government spending and tax cuts can be a useful tool to affect aggregate demand and it will be discussed in greater detail in the Government Budgets and Fiscal Policy chapter and The Impacts of Government Borrowing .
+	d:	in detail	[prep noun]	B1	65,72
+		correctly
+		fully
+		exactly
+		particularly
+		anxiously
+		carelessly
+
+However , when the economy is already doing extremely well , tax cuts may shift AD so far to the right as to generate inflationary pressures , with little gain to GDP .
+	c:	so far	[adv adv]	B1	16,17
+		still
+		till
+		currently
+		future
+
+With the AD/AS framework in mind , many economists might readily believe that the Reagan tax cuts of 1981 , which took effect just after two serious recessions , were beneficial economic policy .
+	c:	take effect	[verb noun]	C1	21,22
+		respond
+		do
+		develop
+		pursue
+		create
+		move
+		serve
+		begin
+		function
+		operate
+		accomplish
+		practice
+		labor
+		cook
+		achieve
+		destroy
+		ignore
+		hesitate
+		fail
+		miss
+		abandon
+		forget
+		leave
+		end
+		stop
+		quit
+		follow
+
+Price elasticities of demand are always negative since price and quantity demanded always move in opposite directions -LRB- on the demand curve -RRB- .
+	c:	move in	[verb prep]	B1	13,14
+		allow
+		interrupt
+
+You might guess that consumers began eating more meals at home , increasing spending at the grocery store .
+	c:	grocery store	[noun noun]	A2	16,17
+		market
+		supermarket
+
+It should be clear by now that economics covers a lot of ground .
+	c:	a lot	[det noun]	A1	9,10
+		mass
+		bunch
+		collection
+		batch
+		load
+		whole
+		volume
+		store
+		little
+		few
+		bit
+		couple
+		abundance
+		greatly
+
+Another person might take an overall view and instead consider the entire ecosystem of the lake from top to bottom ; what eats what , how the system stays in a rough balance , and what environmental stresses affect this balance .
+	c:	from top to bottom	[prep adj prep noun]	C2	16,17,18,19
+		very
+		fully
+		completely
+		carefully
+		highly
+		extremely
+		all
+		hard
+		throughout
+		little
+		partly
+
+When most people think of taxes levied by the federal government , the first tax that comes to mind is the individual income tax that is due every year on April 15 -LRB- or the first business day after -RRB- .
+	c:	come to mind	[verb prep verb]	C1	16,17,18
+		hit
+		get
+		move
+		reach
+		carry
+		touch
+		affect
+		look
+		impress
+		register
+		influence
+		seem
+		inspire
+		fail
+		lose
+		miss
+		depart
+		leave
+		discourage
+		tap
+
+Some states rely more on property taxes , some on sales taxes , some on income taxes , and some more on revenues from the federal government .
+	c:	on sale	[prep noun]	B1	9,10
+		reasonable
+		competitive
+		bargain
+		budget
+		buy
+		irregular
+		moderate
+		sale
+		standard
+		steal
+		expensive
+		excellent
+		valuable
+		worthy
+		dear
+		precious
+		superior
+		upper
+		inexpensive
+		cheap
+
+Even if the line between positive and normative statements is not always crystal clear , economic analysis does try to remain rooted in the study of the actual people who inhabit the actual economy .
+	c:	crystal clear	[adj adj]	C2	12,13
+		apparent
+		clear
+		evident
+		noticeable
+		plain
+		obvious
+
+Consumers who are looking for the best deals will encourage businesses to offer goods and services that meet their needs .
+	c:	for the best	[prep det adj]	C2	4,5,6
+		helpful
+		fortunate
+		worthwhile
+		harmful
+		unfortunate
+		unlucky
+		unhappy
+		favorable
+
+All choices on the production possibilities frontier show productive efficiency because in such cases , there is no way to increase the quantity of one good without decreasing the quantity of the other .
+	c:	no way	[det noun]	B1	17,18
+		negative
+		prohibition
+		confirmation
+		permission
+		claim
+		allowance
+		approval
+		agreement
+		impossible
+		useless
+		not
+		no
+		hopeless
+
+By 2001 it had fallen back to 46 cents a pound ; by early 2011 it went back up to about $ 2.31 per pound .
+	c:	go back	[verb adv]	B1	16,17
+		abandon
+		change
+		desert
+		return
+		break
+	d:	go up	[verb adv]	C2	51,57
+		scale
+		top
+		rise
+		mount
+		decrease
+		drop
+		fall
+		decline
+		climb
+
+Workers with a higher level of education and skills are often better at coming up with new technological innovations .
+	c:	come up	[verb prep]	C1	13,14
+		arise
+		occur
+		rise
+
+Girls in low-income countries who receive more education tend to grow up to have fewer , healthier , better-educated children .
+	c:	grow up	[verb prep]	A2	10,11
+		develop
+		grow
+		push
+		decline
+		decrease
+		lessen
+		increase
+		stop
+		rise
+
+Governments can encourage international trade across the board , or surrender to protectionism .
+	c:	across the board	[prep det noun]	C2	5,6,7
+		all
+		blanket
+		broad
+		complete
+		everything
+		global
+		total
+		wide
+		widespread
+		none
+
+There was no desire to hold on to currency since it lost value by the minute .
+	c:	hold on	[verb prep]	B1	5,6
+		remain
+		stay
+		live
+		survive
+		exist
+		hold
+		be
+		last
+		stand
+		wear
+		reject
+		refuse
+		stop
+		go
+		leave
+		depart
+		die
+		quit
+		lose
+		move
+		continue
+		endure
+
+If inflation happened for one year and then stopped?well , then it would not be inflation any more .
+	c:	any more	[det adj]	A2	16,17
+		directly
+		immediately
+		away
+		soon
+		today
+		nowadays
+		later
+		eventually
+		future
+		past
+
+Consider this example : Yelberton is a young man starting off at his first job .
+	d:	at first	[prep adj]	B1	36,41
+		basically
+		first
+		primarily
+		initially
+
+That means she pays $ 150 a year to the credit card company , while collecting only $ 40 annually in bank interest , so she loses $ 130 a year .
+	c:	credit card	[noun noun]	A1	10,11
+		plastic
+
+Both have their advantages , but behavioral economists have at least shed a light on trying to describe and explain behavior that has historically been dismissed as irrational .
+	d:	shed light on	[verb noun prep]	C2	34,39,42
+		resolve
+		simplify
+		define
+		settle
+		illuminate
+		complicate
+		dirty
+		question
+		confuse
+
+Statistics in Brief / Profiles ?
+	c:	in brief	[prep adj]	B2	1,2
+		briefly
+		shortly
+
+Second , no one can receive TANF benefits with federal money for more than a total of five years over his or her lifetime .
+	c:	no one	[det perPro]	A2	2,3
+		nobody
+
+estimate comes out one month after that .
+	c:	come out	[verb prep]	C2	1,2
+		break
+		appear
+		out
+		hide
+		conclude
+
+By the same token , we must also subtract spending on imports?goods produced in other countries that are purchased by residents of this country .
+	c:	by the same token	[prep det adj adj]	C2	0,1,2,3
+		furthermore
+		also
+		besides
+		further
+		more
+		too
+		yet
+
+By far the largest part of GDP , however , is services .
+	c:	by far	[prep adv]	B2	0,1
+		certainly
+		actually
+		definitely
+		surely
+		probably
+		clearly
+		really
+		absolutely
+		indeed
+		positively
+		truly
+
+During economic booms , case filings go down .
+	c:	go down	[verb adv]	C2	6,7
+		decline
+		collapse
+		tumble
+		reduce
+		drop
+		decrease
+		sink
+		fold
+		lessen
+		set
+		increase
+		grow
+		gain
+		rise
+		expand
+		raise
+		strengthen
+
+Furthermore , if high-income countries want stronger environmental standards in low-income countries , they have many options other than the threat of protectionism .
+	c:	other than	[adj prep]	C1	17,18
+		bar
+
+If it uses monetary policy to alter the exchange rate , it then can not at the same time use monetary policy to address issues of inflation or recession .
+	c:	at the same time	[prep det adj noun]	B1	15,16,17,18
+		interval
+		meanwhile
+		while
+		simultaneously
+		following
+		different
+		separate
+		though
+
+Changes in banking practices and technology have made the savings accounts in M2 more similar to the checking accounts in M1 .
+	d:	in practice	[prep noun]	B2	8,14
+		basic
+		essential
+		indirect
+		potential
+		practical
+		real
+
+Draw a demand and supply model before the economic change took place .
+	c:	take place	[verb noun]	B1	10,11
+		land
+		appear
+		visit
+		reach
+		enter
+		report
+		hit
+		show
+		access
+		attain
+		hide
+		disappear
+		fail
+		lose
+		depart
+		go
+		leave
+		miss
+		abandon
+		happen
+		continue
+		come
+
+In the real world , many factors that affect demand and supply can change all at once .
+	c:	at once	[prep adv]	C1	15,16
+		shortly
+		immediately
+		quickly
+		dead
+		due
+		later
+		eventually
+		indirectly
+		fast
+		directly
+	c:	all at once	[det prep adv]	C1	14,15,16
+		altogether
+		distinctly
+		together
+		unexpectedly
+
+Another example is the U.S. soft drink industry , which is dominated by Coca-Cola and Pepsi .
+	c:	soft drink	[adj noun]	A2	5,6
+		soda
+		pop
+		cola
+
+As a result , the innovative company will bear the much higher costs of the R&D and will enjoy at best only a small , temporary advantage over the competition .
+	c:	at best	[prep adj]	C2	19,20
+		slightly
+		carelessly
+		relatively
+		completely
+		totally
+
+Another fascinating and underreported fact is the high levels of income , compared to others at that time , attained by the Islamic Empire Abbasid Caliphate?which was founded in present-day Iraq in 730 C.E.
+	c:	be found	[verb verb]	B2	26,27
+		hit
+		develop
+		appear
+		arise
+		fall
+		result
+		pass
+		meet
+		arrive
+		proceed
+		bump
+		light
+		shake
+		spring
+		down
+		chance
+		smoke
+		follow
+		issue
+		stumble
+		luck
+		disappear
+		fail
+		lose
+		stop
+
+Treasures in Full : Magna Carta .
+	c:	in full	[prep adj]	B1	1,2
+		perfectly
+		absolutely
+		fully
+		altogether
+		finally
+		quite
+		totally
+		extensively
+		partly
+		entirely
+		completely
+
+in essence borrowing from the public and promising to repay with interest in the future .
+	c:	in essence	[prep noun]	C2	0,1
+		mostly
+		primarily
+		extra
+		almost
+		basically
+
+When a firm makes an investment in physical capital , it is subject to the discipline of the market : If it does not receive a positive return on investment , the firm may lose money or even go out of business .
+	c:	go out	[verb prep]	B1	38,39
+		die
+		arrive
+		enter
+		leave
+
+Clearly , as any car salesmen will tell you , choices are influenced by the way they are presented .
+	c:	by the way	[prep det noun]	A2	13,14,15
+		aside
+
+Indeed , it has been said that democracy is the worst form of government except for all of the other forms which have been tried from time to time .
+	c:	from time to time	[prep noun prep noun]	B2	25,26,27,28
+		occasionally
+		sometimes
+
+-LSB- E -RSB- conomic theory , in itself , preaches no doctrines and can not establish any universally valid laws .
+	c:	in itself	[prep perPro]	B2	6,7
+		alone
+
+In the end , this tariff made U.S. consumers pay more for tires .
+	c:	in the end	[prep det noun]	B1	0,1,2
+		someday
+		finally
+		yet
+		sometime
+		never
+		afterward
+		eventually
+
+In any case , the price of a bond is always the present value of a stream of future expected payments .
+	c:	in any case	[prep det noun]	B2	0,1,2
+		anyway
+		about
+		around
+		however
+		nevertheless
+		still
+
+If this is the case , governments can be viewed as demanders of financial capital instead of suppliers .
+	c:	be the case	[verb det noun]	B2	2,3,4
+		remain
+		operate
+		last
+		stay
+		resist
+		exist
+		wear
+		apply
+		release
+		desert
+		go
+		leave
+		quit
+		stop
+		drop
+		abandon
+		cancel
+
+Instead , it may be that when union workers move on to other jobs or retire , they are not always replaced .
+	c:	move on	[verb prep]	C1	9,10
+		storm
+		progress
+		promote
+		speed
+		achieve
+		march
+		proceed
+		launch
+		drive
+		conquer
+		hesitate
+		decrease
+		stop
+		hold
+		keep
+		turn
+		depart
+
+Federal mediators were called in , and the two sides agreed to a deal in February 2015 .
+	c:	call in	[verb prep]	B2	3,4
+		consider
+		review
+		negotiate
+		brainstorm
+		examine
+		interview
+		respect
+		argue
+		discuss
+		regard
+		question
+		treat
+		debate
+		ignore
+		reply
+		answer
+
+Three key features set our materials apart from others : they can be customized by instructors for each class , they are a `` living '' resource that grows online through contributions from science educators , and they are available free or for minimal cost .
+	c:	apart from	[adv prep]	B1	6,7
+		bar
+		central
+		middle
+		internal
+		likely
+		inside
+		certain
+		definite
+		good
+		sure
+
+understanding and enjoyment of the topic at hand .
+	c:	at hand	[prep noun]	C1	6,7
+		accessible
+		close
+		nearby
+		far
+
+The answers can be looked up in the text .
+	c:	look up	[verb prep]	B1	4,5
+		confirm
+		discover
+		find
+		scan
+		seek
+		decline
+		research
+		improve
+
+The foreign exchange market involves firms , households , and investors who demand and supply currencies coming together through their banks and the key foreign exchange dealers .
+	d:	come through	[verb prep]	C2	49,55
+		succeed
+		achieve
+		contribute
+		score
+		triumph
+		win
+		fail
+
+About half of U.S. families with credit cards report that they almost always pay the full balance on time , but one-quarter of U.S. families with credit cards say that they ?
+	c:	on time	[prep noun]	B1	17,18
+		reliable
+		timely
+
+hardly ever ?
+	c:	hardly ever	[adv adv]	B1	0,1
+		barely
+		rarely
+		hardly
+		frequently
+		more
+		much
+
+On other issues , Wal-Mart made the news again in 2013 when the National Labor Relations Board found Wal-Mart guilty of illegally penalizing and firing workers who took part in labor protests and strikes .
+	c:	take part	[verb noun]	B1	27,28
+		respond
+		do
+		develop
+		pursue
+		create
+		move
+		serve
+		begin
+		function
+		operate
+		accomplish
+		practice
+		labor
+		cook
+		achieve
+		destroy
+		ignore
+		hesitate
+		fail
+		miss
+		abandon
+		forget
+		leave
+		end
+		stop
+		quit
+		follow
+		contribute
+		act
+		play
+
+In a recent study by the Housing and Urban Development -LRB- HUD -RRB- department , black homebuyers who ask to look at homes for sale are shown 18 percent fewer homes compared to white homebuyers .
+	c:	for sale	[prep noun]	A2	23,24
+		financial
+		economic
+		exchange
+		trade
+		market
+		retail
+		popular
+
+While some investment advisers are better than average in any given year , and some even succeed for a number of years in a row , the majority of financial investors do not outguess the market .
+	c:	in a row	[prep det noun]	B2	22,23,24
+		short
+		solid
+		smooth
+		even
+		right
+		level
+		direct
+		running
+		square
+		continuous
+		near
+		sheer
+		through
+		true
+		dishonest
+		indirect
+		unfair
+		broken
+		different
+		following
+
+Stocks and bonds are sold and resold by financial investors to one another .
+	c:	one another	[adj det]	B1	11,12
+		one
+		none
+
+When credit dries up , the economy is on its knees .
+	c:	dry up	[verb prep]	C2	2,3
+		reduce
+		decline
+		sink
+		drop
+		lessen
+		settle
+		modify
+		quiet
+		wither
+		fade
+		waste
+		check
+		increase
+		grow
+		improve
+		compliment
+		praise
+		liberate
+		rise
+		raise
+		develop
+		expand
+		extend
+		strengthen
+		irritate
+		upset
+		build
+		add
+		dry
+		decrease
+		silence
+
+Since the neoclassical economists believe that the economy will correct itself over time , the only advantage of a Keynesian stabilization policy would be to speed up the process and minimize the time that the unemployed are out of work .
+	c:	out of work	[prep prep noun]	B1	37,38,39
+		unemployed
+
+Think about in reverse , as the aggregate demand curve shifts from AD2 to AD1 to AD0 , and the equilibrium moves from E2 to E1 to E0 .
+	c:	in reverse	[prep noun]	C1	2,3
+		around
+		back
+		round
+		nor
+
+The laws that give government the power to block certain mergers , and even in some cases to break up large firms into smaller ones , are called antitrust laws .
+	c:	break up	[verb prep]	B1	18,19
+		divide
+		separate
+		stop
+		dissolve
+		split
+		end
+		part
+		scatter
+		combine
+		unite
+		marry
+		continue
+		go
+		collect
+		gather
+		join
+		begin
+		start
+		encourage
+		open
+		arrange
+
+The following Clear it Up helps explain how antitrust laws came about .
+	c:	come about	[verb adv]	C2	10,11
+		arise
+		occur
+		result
+		happen
+
+For example , many people could not tell the difference in taste between common varieties of beer or cigarettes if they were blindfolded but , because of past habits and advertising , they have strong preferences for certain brands .
+	c:	tell the difference	[verb det noun]	C1	7,8,9
+		compare
+		separate
+		remark
+		note
+		know
+		judge
+		contrast
+		difference
+		combine
+		unite
+		join
+		confuse
+
+At a glance , the demand curves faced by a monopoly and by a monopolistic competitor look similar?that is , they both slope down .
+	c:	at a glance	[prep det noun]	C1	0,1,2
+		probably
+		supposedly
+		possibly
+		unlikely
+		uncertain
+		apparently
+
+How can a potential employer screen for certain attributes , such as motivation , timeliness , ability to get along with others , and so on ?
+	c:	get along	[verb prep]	A2	18,19
+		succeed
+		develop
+		do
+		fare
+		manage
+		shift
+		fail
+		lose
+		stop
+		arrive
+		argue
+		depart
+
+If only you knew more economics , you would not be so irrational , ?
+	c:	if only	[prep adv]	B1	0,1
+		therefore
+
+A popular example is outlined here : Imagine you have the opportunity to buy an alarm clock for $ 20 in Store A. Across the street , you learn , is the exact same clock at Store B for $ 10 .
+	c:	alarm clock	[noun noun]	A2	15,16
+		alarm
+	d:	in store	[prep noun]	C1	65,68
+		instant
+		marked
+		near
+		future
+		close
+		due
+		certain
+		immediate
+		next
+		far
+		distant
+		past
+		away
+
+The seller may also offer a buyer a chance to buy a service contract , where the buyer pays an extra amount and the seller agrees to fix anything that goes wrong for a set time period .
+	c:	go wrong	[verb adj]	B1	30,31
+		stumble
+		blow
+		fall
+		wander
+		stay
+		understand
+		behave
+		correct
+		fail
+
+Legally , deceptive advertising dates back to the 1950s when Colgate-Palmolive created a television advertisement that seemed to show Rapid Shave shaving cream being spread on sandpaper and then the sand was shaved off the sandpaper .
+	c:	date back	[noun adv]	B2	4,5
+		pace
+
+In some cases , the situation gets even worse when the governments of high-income countries , having bought and paid for an excess supply of farm products , give away those products in poor countries and drive local farmers out of business altogether .
+	d:	get worse	[verb adj]	B1	19,25
+		fade
+		pollute
+		lessen
+		wither
+		dissolve
+		decline
+		collapse
+		turn
+		sink
+		spoil
+		fail
+		grow
+		improve
+		increase
+		combine
+		unite
+		expand
+		color
+		strengthen
+		raise
+		develop
+		extend
+		build
+		rise
+		help
+
+How many of you chose a university without checking out its Facebook page or Twitter stream first for information and feedback ?
+	c:	check out	[verb prep]	B1	8,9
+		depart
+		leave
+		ignore
+		examine
+
+As the Bring it Home feature just mentioned , making choices is at the heart of what economists study , and your decision to take this course is as much as economic decision as anything else .
+	d:	at heart	[prep noun]	C2	39,45
+		basically
+		inside
+
+For the moment , let?s imagine that at the beginning of any year , there is no way of identifying the drivers who are low-risk , medium-risk , or high-risk .
+	c:	for the moment	[prep det noun]	B2	0,1,2
+		briefly
+
+The total damage incurred by car accidents in this group of 100 drivers will be $ 186,000 , that is :
+	d:	by accident	[prep noun]	B1	15,21
+		short
+		accidentally
+		carelessly
+		sudden
+		unexpectedly
+		surprisingly
+
+However , an insurance company can not monitor all the risks that people take all the time and so , even with various checks and cost-sharing , moral hazard will remain a problem .
+	c:	all the time	[XXXXX det noun]	A2	14,15,16
+		constantly
+		regularly
+		brief
+		never
+		temporary
+		ending
+		continually
+
+Indeed , this approach was adopted in the Patient Protection and Affordable Care Act , which is discussed later on in this chapter .
+	c:	later on	[adv prep]	B1	18,19
+		then
+		latter
+		back
+		afterward
+		later
+		next
+		when
+		front
+		leading
+		first
+
+From a monetary policy perspective , the Federal Reserve lowered short-term interest rates to between 0 % and 0.25 % , to loosen up credit throughout the financial system .
+	c:	loosen up	[verb prep]	C2	22,23
+		accustom
+		educate
+		train
+		practice
+		modify
+		program
+		ready
+		forget
+		relax
+
+Eventually , a police officer enters the room where Prisoner A is being held and says : ?
+	c:	police officer	[noun noun]	A2	3,4
+		detective
+		policeman
+		officer
+		cop
+		sheriff
+		policewoman
+
+... And all I wan na tell you again is let?s?let?s put the prices on the board .
+	d:	on board	[prep noun]	B1	47,52
+		on
+		off
+		working
+
+Nevertheless , by the early 1990s , a price war had broken out among them .
+	c:	break out	[verb prep]	B2	11,12
+		begin
+		appear
+		start
+		arise
+		occur
+		complete
+		conclude
+		end
+		finish
+		die
+		stop
+		escape
+
+The Federal Reserve has , since 1995 , established its target federal funds rate in advance of any open market operations .
+	c:	in advance	[prep noun]	B1	14,15
+		ahead
+		since
+		back
+		former
+		forward
+		past
+		previous
+		afterward
+		later
+		after
+		behind
+		early
+
+If loose monetary policy seeking to end a recession goes too far , it may push aggregate demand so far to the right that it triggers inflation .
+	c:	go too far	[verb adv adv]	C2	9,10,11
+		stretch
+		overwork
+		pressure
+		decrease
+		lessen
+		ignore
+
+The same price relationship is true for just about every organic product on the market .
+	c:	just about	[adv prep]	B1	7,8
+		about
+		approximately
+		around
+		nearly
+		almost
+
+These factors are not exactly economies of scale in the narrow sense of the production function of a single firm , but they are related to growth in the overall size of population and market in an area .
+	c:	not exactly	[adv adv]	B2	3,4
+		fairly
+		rather
+		quite
+		slightly
+		pretty
+		enough
+		some
+		something
+
+For much of the twentieth century , the most common change has been to see alterations in technology , like the assembly line or the large department store , where large-scale producers seemed to gain an advantage over smaller ones .
+	c:	department store	[noun noun]	A2	26,27
+		shop
+		store
+
+Under the Export column and in the row for Income payments , enter the financial flows of money coming back to the United States .
+	c:	come back	[verb adv]	A2	18,19
+		recover
+		triumph
+		depart
+		go
+		leave
+		return
+
+Notice that the horizontal and vertical axes on the graph for the supply curve are the same as for the demand curve .
+	c:	as for	[prep prep]	B2	17,18
+		about
+		against
+		regarding
+		toward
+
+Still other people may have a job , perhaps doing something like yard work , child care , or cleaning houses , but are not reporting the income earned to the tax authorities .
+	c:	something like	[noun prep]	C2	10,11
+		nearly
+		basically
+		around
+
+However , that financial capital was , by and large , invested in projects like railroads that brought a substantial economic payoff .
+	c:	by and large	[prep conj adj]	C1	7,8,9
+		generally
+		all
+		partly
+		usually
+
+In the Clear It Up feature titled ?
+	c:	in the clear	[prep det adj]	C2	0,1,2
+		clean
+		clear
+		good
+		innocent
+		perfect
+		pure
+		guilty
+		responsible
+
+Short-run losses will fade away by reversing this process .
+	c:	fade away	[verb adv]	B2	3,4
+		end
+		pass
+		stop
+		fall
+		fail
+		disappear
+		decline
+		fade
+		moderate
+		sink
+		increase
+		grow
+		improve
+		begin
+		start
+		bear
+		advance
+		reach
+		win
+		appear
+		arrive
+		rise
+		build
+		develop
+		strengthen
+		continue
+		forward
+		extend
+		live
+
+Jethro has an absolute advantage in all aspects of camping : he is faster at carrying a backpack , gathering firewood , paddling a canoe , setting up tents , making a meal , and washing up .
+	c:	wash up	[verb prep]	A1	35,36
+		absorb
+		waste
+		spend
+		finish
+		lessen
+		go
+		apply
+		create
+		store
+		fast
+		construct
+		save
+		fill
+		appear
+		collect
+		gather
+		build
+		wash
+
+In that case , Jethro should focus on building fires and making meals , and others should attend to the other tasks , each according to where their productivity disadvantage is smallest .
+	d:	on fire	[prep noun]	B1	24,30
+		eager
+		burning
+
+The fifth movie he attends is just to kill time .
+	c:	kill time	[verb noun]	B2	8,9
+		summer
+
+You can choose a starting point at random and compare the marginal utility gains and losses of moving to neighboring points?and thus eventually seek out the preferred choice .
+	c:	at random	[prep adj]	C1	6,7
+		anyway
+		about
+		around
+		however
+		nevertheless
+		carefully
+
+When you write a check , for example , to buy groceries , the grocery store deposits the check in its bank account .
+	c:	check in	[noun prep]	B1	18,19
+		appear
+		arrive
+		report
+		register
+
+In particular , even though wage increases may occur with relative ease , wage decreases are few and far between .
+	c:	few and far between	[adj conj adv prep]	C2	16,17,18,19
+		minority
+		less
+		slight
+		lean
+		short
+		minute
+		minor
+		occasional
+		rare
+		slim
+		some
+		thin
+		useful
+		large
+		many
+		much
+		important
+		major
+		significant
+		big
+		fat
+		tall
+		thick
+
+In a sense , a similar situation occurs with regard to measures of inflation .
+	c:	in a sense	[prep det noun]	C1	0,1,2
+		apparently
+		probably
+
+But if buyers have a range of similar?even if not identical?options available from other firms , then the firm is not a monopoly .
+	c:	if not	[prep adv]	A2	8,9
+		save
+		bar
+		besides
+		but
+		minus
+		without
+
+The Keynesian theory implied that during a recession inflationary pressures are low , but when the level of output is at or even pushing beyond potential GDP , the economy is at greater risk for inflation .
+	d:	at risk	[prep noun]	B2	64,99
+		endangered
+
+Let?s say you want to know for sure what the contract will be worth , and not take a risk that the euro will be worth less in U.S. dollars than it currently is .
+	c:	for sure	[prep adj]	B1	6,7
+		certainly
+		really
+		definitely
+
+All along the budget set , giving up one burger means gaining four bus tickets .
+	c:	all along	[det prep]	B2	0,1
+		as
+		meanwhile
+		over
+		throughout
+		until
+		when
+		while
+
+My favorite food is ice cream , so I will eat nothing but ice cream from now on .
+	c:	ice cream	[noun noun]	A1	4,5
+		ice
+
+These arguments are discussed at some length in The International Trade and Capital Flows .
+	d:	at length	[prep noun]	C2	15,21
+		precise
+		definite
+		thorough
+		specific
+		complicated
+		exact
+		accurate
+		full
+		complete
+		developed
+		narrow
+		abundant
+		individual
+		minute
+		nice
+		uncertain
+		vague
+		false
+		careless
+		simple
+		brief
+
+While trade deficits on their own are not bad , the question is whether they will be reduced gradually or hastily .
+	c:	not bad	[adv adj]	A2	7,8
+		excellent
+		typical
+		characteristic
+		classic
+		classical
+		correct
+		good
+		innocent
+		model
+		pure
+		representative
+		worthy
+		incorrect
+		bad
+		poor
+		wrong
+		ideal
+
+Despite a big push to increase investment in human capital , the results have not yet borne fruit .
+	c:	bear fruit	[verb noun]	C2	16,17
+		grow
+		blow
+		develop
+		burst
+		wax
+		succeed
+		open
+		wither
+		fail
+		lose
+		die
+		stop
+		decline
+		end
+
+The connection between the two is not at all obvious .
+	c:	not at all	[adv prep det]	B1	6,7,8
+		barely
+		simply
+		rarely
+		just
+		gradually
+		little
+		only
+		slightly
+		frequently
+		very
+		not
+		no
+
+The bondholders may get back only a portion of what they loaned the firm .
+	c:	get back	[verb adv]	A2	3,4
+		recover
+		reclaim
+		lose
+		miss
+		pass
+		depart
+		leave
+		regain
+		return
+
+however , is hypothetical , not real?representing a mix of those who have done very well , those who have done all right , and those who have done poorly .
+	c:	all right	[det adv]	B1	21,22
+		okay
+		acceptable
+		appropriate
+		average
+		fair
+		fit
+		good
+		proper
+		standard
+		sufficient
+		swell
+		sick
+		unhealthy
+		wrong
+		yes
+
+Friendster kicked off the social networking business in 2003 , and Twitter and Facebook followed .
+	c:	kick off	[verb prep]	C1	1,2
+		emerge
+		set
+		appear
+		rise
+		start
+		enter
+		happen
+		occur
+		spring
+		arise
+		disappear
+		hide
+		complete
+		leave
+		end
+		finish
+		stop
+		die
+		conclude
+		begin
+
+The finding that conformity is more likely to occur when responses are public than when they are private is the reason government elections require voting in secret , so we are not coerced by others -LRB- -RRB- .
+	c:	in secret	[prep noun]	B2	25,26
+		quietly
+		personally
+		publicly
+		secretly
+
+If other people show concern and get up to leave , you are likely to do the same .
+	c:	get up	[verb prep]	B2	6,7
+		climb
+		awake
+		stand
+		arise
+		increase
+		rise
+		scale
+
+It later came to light that Iraq did not have weapons of mass destruction , but not until the invasion was well underway .
+	c:	come to light	[verb prep noun]	C2	2,3,4
+		emerge
+		develop
+		show
+		surface
+		occur
+		arrive
+		come
+		present
+		attend
+		spring
+		expose
+		rise
+		arise
+		issue
+		disappear
+		hide
+		leave
+		abandon
+		go
+		miss
+		depart
+
+Stage 1 sleep is a transitional phase that occurs between wakefulness and sleep , the period during which we drift off to sleep .
+	c:	drift off	[verb prep]	C2	19,20
+		sleep
+		rise
+
+As a person transitions from being awake to falling asleep , alpha waves are replaced by theta waves .
+	c:	fall asleep	[verb adv]	B1	8,9
+		relax
+		doze
+		crash
+		nod
+		retire
+		nap
+		rest
+		dream
+		grow
+		wake
+
+Many of us find ourselves with a strong opinion on these issues , only to find the person next to us bristling with the opposite view .
+	c:	next to	[adj prep]	A2	18,19
+		beside
+		by
+		away
+		to
+
+A study of 10,000 women who had recently given birth found that 14 % screened positive for peripartum-onset depression , and that nearly 20 % reported having thoughts of wanting to harm themselves -LRB- Wisner et al. , 2013 -RRB- .
+	c:	give birth	[verb noun]	B2	8,9
+		breed
+		invent
+		set
+		design
+		prepare
+		make
+		cause
+		brainstorm
+		parent
+		bear
+		produce
+		generate
+		occasion
+		destroy
+		ruin
+		prevent
+		refuse
+		discourage
+		end
+		finish
+		stop
+		kill
+
+But then , the machine lights up , bells go off , and Sarah gets 50 quarters back .
+	c:	go off	[verb prep]	C1	9,10
+		blow
+		burst
+		happen
+		occur
+		fire
+		mushroom
+		pass
+		arrive
+		come
+		enter
+		leave
+
+A number of environmental factors that could impact normal brain development might be at fault .
+	c:	at fault	[prep noun]	B2	13,14
+		guilty
+		responsible
+		wrong
+
+During this time , as you can imagine , people were terrified to leave their homes , go shopping , or even walk through their neighborhoods .
+	c:	go shopping	[verb noun]	A1	17,18
+		get
+		acquire
+		obtain
+		take
+		market
+		score
+		secure
+		sell
+		fail
+		lose
+
+By the time the trial began , Jennifer Thompson had absolutely no doubt that she was raped by Ronald Cotton .
+	c:	no doubt	[det noun]	B1	11,12
+		certainly
+		actually
+		definitely
+		surely
+		probably
+		clearly
+		really
+		absolutely
+		indeed
+		positively
+		truly
+
+Jennifer Thompson once again testified against him .
+	c:	once again	[adv adv]	B1	2,3
+		again
+		lately
+		newly
+		over
+		recently
+		rarely
+		sometimes
+		unusually
+		never
+		often
+		occasionally
+		usually
+
+Later that year , Alejandro and Lucia get back together .
+	d:	get together	[verb adv]	B1	22,27
+		collect
+		join
+		meet
+		unite
+		scatter
+		distribute
+		divide
+		separate
+
+There is quite a bit of controversy within the scientific community as to the extent to which marijuana might have medicinal benefits due to a lack of large-scale , controlled research -LRB- Bostwick , 2012 -RRB- .
+	c:	quite a bit	[adv det noun]	B1	2,3,4
+		fairly
+		rather
+		quite
+		slightly
+		pretty
+		enough
+		some
+		something
+
+People who reach this level of stress feel burned out ; they are fatigued , exhausted , and their performance begins to decline .
+	c:	burn out	[verb prep]	B2	8,9
+		tire
+
+Forensic psychologists carry out activities related to psychology in association with the justice system .
+	c:	in association with	[prep noun prep]	C1	8,9,10
+		with
+		outside
+		separate
+
+The other day I met this guy named Carl .
+	c:	the other day	[det adj noun]	B1	0,1,2
+		newly
+		lately
+		new
+		before
+		later
+		currently
+
+Simply say them out loud to yourself .
+	c:	out loud	[prep adj]	B1	3,4
+		loudly
+		clearly
+		distinctly
+		noisily
+		silently
+
+As a result , structuralism fell out of favor with the passing of Wundt?s student , Edward Titchener , in 1927 -LRB- Gordon , 1995 -RRB- .
+	c:	fall out	[verb prep]	B2	5,6
+		differ
+		disagree
+		fight
+		agree
+		argue
+
+Genie?s abilities improved dramatically following her removal from her abusive environment , and early on , it appeared she was acquiring language?much later than would be predicted by critical period hypotheses that had been posited at the time -LRB- Fromkin et al. , 1974 -RRB- .
+	c:	early on	[adv prep]	C2	13,14
+		forward
+		green
+		previous
+		raw
+		soon
+		careful
+		cautious
+		prepared
+		late
+		slow
+
+Deep down , Joe feels sexually attracted to males .
+	c:	deep down	[adj adv]	B2	0,1
+		subconscious
+		temporary
+		inside
+
+go ahead and come in ?
+	c:	go ahead	[verb adv]	B2	0,1
+		begin
+		continue
+		advance
+		progress
+		complete
+		end
+		finish
+		stop
+		proceed
+
+A live model demonstrates a behavior in person , as when Ben stood up on his surfboard so that Julian could see how he did it .
+	c:	in person	[prep noun]	B2	6,7
+		honestly
+		personally
+		face-to-face
+		indirectly
+
+When this diagnosis was first named , the title held no social stigma .
+	c:	first name	[adv verb]	A2	4,5
+		surname
+
+You are driving in your car and a song comes on the radio that you haven?t heard in at least 10 years , but you sing along , recalling every word .
+	c:	come on	[verb prep]	C1	9,10
+		develop
+		gain
+		improve
+		increase
+		proceed
+		exit
+		decline
+		fall
+		reduce
+		depart
+		go
+		leave
+
+If you are learning how to swim freestyle , you practice the stroke : how to move your arms , how to turn your head to alternate breathing from side to side , and how to kick your legs .
+	c:	from side to side	[prep noun prep noun]	B2	28,29,30,31
+		cross
+		crossing
+		over
+
+Aphrodite became so jealous of Psyche that she sent her son , Eros , to make Psyche fall in love with the ugliest man in the world .
+	c:	in love	[prep noun]	B1	18,19
+		romantic
+		fond
+		hot
+		unfriendly
+		cold
+		cool
+
+After helping a co-worker to safety he went back in the burning building to help additional co-workers .
+	d:	go in	[verb prep]	A2	25,31
+		collapse
+		tumble
+		dive
+		drop
+		bump
+		slip
+		meet
+		upset
+		increase
+		rise
+		fall
+
+Frequently , the hyperactive child comes across as noisy and boisterous .
+	c:	come across	[verb prep]	B2	5,6
+		notice
+		discover
+		uncover
+		meet
+		miss
+
+guards felt helpless to intervene , and none of the guards quit while the study was in progress .
+	c:	in progress	[prep noun]	B2	16,17
+		modern
+		present
+		instant
+		general
+		in
+		now
+		doing
+		fashionable
+		hot
+		popular
+		up-to-date
+		widespread
+		old-fashioned
+		old
+		past
+		continuous
+
+suggestions for improved efficiency and reprimand employees for speaking out of order .
+	c:	out of order	[prep prep noun]	B1	9,10,11
+		broken
+
+People who have transformational leadership possess four attributes to varying degrees : They are charismatic -LRB- highly liked role models -RRB- , inspirational -LRB- optimistic about goal attainment -RRB- , intellectually stimulating -LRB- encourage critical thinking and problem solving -RRB- , and considerate -LRB- Bass , Avolio , & Atwater , 1996 -RRB- .
+	c:	role model	[noun noun]	C1	18,19
+		hero
+		example
+		idol
+		star
+		superstar
+
+In the summer of August 1986 , a part-time postal worker with a troubled work history walked into the Edmond , Oklahoma , post office and shot and killed 15 people , including himself .
+	c:	post office	[noun noun]	A2	23,24
+		mail
+
+A mother and father?s DNA is passed on to the child at the moment of conception .
+	c:	at the moment	[prep det noun]	A2	11,12,13
+		directly
+		immediately
+		away
+		soon
+		today
+		nowadays
+		later
+		eventually
+		future
+		past
+
+For instance , if you put your finger into a newborn?s hand , you will witness the grasping reflex , in which a baby automatically grasps anything that touches his palms .
+	d:	a hand	[det noun]	B1	30,34
+		grant
+		addition
+		improvement
+		increase
+		present
+		charity
+		loss
+		decrease
+		gift
+
+Then the box was placed on the track to block the path of the truck .
+	d:	on track	[prep noun]	C1	17,22
+		precise
+		perfect
+		strict
+		appropriate
+		proper
+		stone
+		right
+		okay
+		faithful
+		just
+		nice
+		regular
+		true
+		incorrect
+		false
+		improper
+		wrong
+
+But after she gets married and has children , the system of reinforcements and punishments in her environment changes .
+	c:	get married	[verb adj]	A2	3,4
+		catch
+		join
+		relate
+		promise
+		unite
+		combine
+		tie
+		associate
+		couple
+		knit
+		land
+		unify
+		match
+		link
+		bond
+		one
+		divide
+		separate
+		break
+		part
+		fail
+		lose
+		marry
+
+insistence to the contrary , her parents believed that these were signs that she was trying to communicate with them .
+	c:	to the contrary	[prep det noun]	C1	1,2,3
+		nevertheless
+		yet
+		nonetheless
+		against
+		but
+		despite
+		though
+
+Several days go by and Savannah never hears back from her potential new friend .
+	c:	go by	[verb prep]	C2	2,3
+		pass
+		proceed
+
+Potassium -LRB- K + -RRB- , on the other hand , is more concentrated inside the cell , and will tend to move out of the cell -LRB-
+	c:	move out	[verb prep]	B1	22,23
+		quit
+		retire
+		go
+		exit
+		remove
+		escape
+		abandon
+		disappear
+		absent
+		start
+		part
+		split
+		desert
+		remain
+		combine
+		wait
+		stay
+		continue
+		fill
+		occupy
+		enter
+		arrive
+		join
+		come
+		leave
+
+On the whole , residents of affluent countries tend to be happier than residents of poor countries ; within countries , wealthy individuals are happier than poor individuals , but the association is much weaker -LRB- Diener & Biswas-Diener , 2002 -RRB- .
+	c:	on the whole	[prep det noun]	B1	0,1,2
+		generally
+		all
+		partly
+		usually
+
+These situations include public transportation , open spaces -LRB- parking lots -RRB- , enclosed spaces -LRB- stores -RRB- , crowds , or being outside the home alone -LRB- APA , 2013 -RRB- .
+	c:	parking lot	[noun noun]	A2	9,10
+		garage
+		park
+		stable
+
+William , who later took the last name Clinton from his stepfather , became the 42nd president of the United States .
+	c:	last name	[adj noun]	A2	6,7
+		surname
+
+Does the name Ivan Pavlov ring a bell ?
+	c:	ring a bell	[verb det noun]	C2	5,6,7
+		remind
+		retrospect
+		renew
+		flash
+		mind
+		retain
+		stir
+		calm
+		kill
+		forget
+		fire
+		restore
+		remember
+
+You share a dish of chicken curry and head off to your next class .
+	c:	head off	[noun prep]	C2	8,9
+		stop
+
+How might observation help Julian learn to surf , as opposed to learning by trial and error alone ?
+	c:	trial and error	[noun conj noun]	C2	14,15,16
+		analysis
+		examination
+		experiment
+		research
+		study
+		test
+
+If you lie down to take a nap and fall asleep very easily , chances are you may have sleep debt .
+	c:	lie down	[verb adv]	A2	2,3
+		drop
+		die
+		bend
+		increase
+		climb
+		attain
+		overcome
+		rise
+		fight
+		scale
+		advance
+		reach
+		win
+		relax
+
+Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm .
+	c:	settle down	[verb prep]	C1	24,25
+		sit
+		drop
+		stop
+		rest
+		settle
+		arrive
+		continue
+		do
+		go
+		move
+		depart
+		leave
+		dull
+		mount
+
+Sure enough , Peter thought , a gray-haired old man guilty of ?
+	c:	sure enough	[adj adv]	C2	0,1
+		exactly
+		actually
+		definitely
+		surely
+		truly
+		positively
+		really
+		easily
+		uncertain
+
+No , thank you .
+	c:	thank you	[verb perPro]	A2	2,3
+		thanks
+
+At issue are two approaches to classroom education : the notion that teachers impart knowledge that students are obligated to absorb , versus the concept of student-centered learning that seeks to teach children not facts , but problem solving abilities and learning skills .
+	c:	at issue	[prep noun]	C2	0,1
+		suspect
+		open
+		controversial
+		uncertain
+		certain
+		sure
+		definite
+
+All around the square , others hang out of their windows or stop on the street , transfixed , to watch .
+	c:	hang out	[verb prep]	B1	6,7
+		bar
+		dive
+		haunt
+		hole
+		home
+		joint
+		resort
+		wait
+		associate
+
+When there is a deadline at the office but a sick child needs to be picked up from school , which comes first ?
+	c:	come first	[verb adv]	C1	21,22
+		fail
+		lose
+		follow
+
+It?s against the law to rob a bank , and banks go to great lengths to prevent such crimes .
+	c:	against the law	[prep det noun]	B2	1,2,3
+		criminal
+		legal
+		illegal
+
+For example , if the experimenter is , say , a man in a business suit , and he skips down the sidewalk or hops on one foot , the passersby are likely to stare at him with surprised expressions on their faces .
+	d:	on foot	[prep noun]	A2	74,79
+		permanent
+
+According to functionalism , the government has four main purposes : planning and directing society , meeting social needs , maintaining law and order , and managing international relations .
+	c:	law and order	[noun conj noun]	C2	21,22,23
+		control
+		law
+		peace
+		quiet
+		calm
+		goodness
+		chaos
+		noise
+		violence
+		liberty
+		answer
+		turbulence
+		confusion
+		mess
+		license
+
+In this school where most of the teachers and vocational instructors are Irish American or Italian American , Anthony has always felt at home and overconfident .
+	c:	feel at home	[verb prep noun]	B1	21,22,23
+		rest
+		worry
+		grow
+		increase
+		irritate
+		tense
+		relax
+
+Later sociologists studied the lifecycle of social movements?how they emerge , grow , and in some cases , die out .
+	c:	die out	[verb prep]	B2	18,19
+		decline
+		lessen
+		reduce
+		temper
+		decrease
+		cut
+		close
+		moderate
+		increase
+		grow
+		compliment
+		praise
+		rise
+		raise
+		develop
+		expand
+		extend
+		strengthen
+		pause
+		disappear
+
+As the companies figure it , college students will trust one source of information above all : other students .
+	c:	above all	[prep det]	B1	14,15
+		especially
+		mainly
+		mostly
+		primarily
+		importantly
+
+Further , people who want to avoid politics completely can choose to visit web sites that deal only with entertainment or that will keep them up to date on sports scores .
+	c:	up to date	[prep prep noun]	B1	25,26,27
+		timely
+		modern
+		advanced
+		current
+		fashionable
+		hot
+		new
+		now
+		popular
+		stylish
+		suitable
+		brand-new
+		in
+		up
+		today
+		old-fashioned
+		out-of-date
+		old
+		past
+		lively
+		present
+
+In the United States , the internet is used to access illegal gambling and pornography sites , as well as to research stocks , crowd-source what car to buy , or keep in touch with childhood friends .
+	c:	keep in touch	[verb prep noun]	B1	31,32,33
+		relate
+		connect
+		convey
+		advertise
+		transfer
+		interact
+		write
+		tell
+		broadcast
+		reveal
+		inform
+		contact
+		suggest
+		discover
+		carry
+		raise
+		publish
+		state
+		spread
+		announce
+		advise
+		break
+		phone
+		unfold
+		report
+		network
+		proclaim
+		declare
+		hide
+		mislead
+		hold
+		keep
+		take
+		secret
+		lose
+		stop
+		cover
+		communicate
+
+Of particular interest to gerontologists right now is the population of baby boomers , the cohort born between 1946 and 1964 and just now reaching age 65 .
+	c:	just now	[adv adv]	A2	22,23
+		then
+		before
+		once
+		now
+		later
+		currently
+		late
+		present
+
+He began working the front desk of a downtown Milwaukee hotel , a job similar to the one his mother held so long ago .
+	c:	long ago	[adv adv]	C1	22,23
+		old
+		ancient
+		past
+		above
+		first
+		late
+		once
+		sometime
+		after
+		modern
+		current
+		following
+		future
+		new
+		present
+
+spent two years evading the police by means of transportation theft and squatting , frequently leaving a trail of bare footprints in his wake -LRB- Johnson 2011 -RRB- .
+	c:	by means of	[prep noun prep]	C1	6,7,8
+		around
+
+This outlet gives way to reproduction , which is a necessary part of ensuring the survival of society .
+	c:	give way	[verb noun]	C2	2,3
+		bend
+		shift
+		move
+		influence
+		push
+		slide
+		persuade
+		remove
+		inch
+		convince
+		stir
+		roll
+		change
+		remain
+		prevent
+		hold
+		keep
+		fix
+		stay
+		stop
+		discourage
+		steady
+		fall
+		retire
+
+But bit by bit , they became stressed by interacting with people from a different culture who spoke another language and used different regional expressions .
+	c:	bit by bit	[noun prep noun]	C1	1,2,3
+		gradually
+
+These leaders work hard to build consensus before choosing a course of action and moving forward .
+	c:	course of action	[noun prep noun]	C1	10,11,12
+		position
+		program
+		system
+		course
+		approach
+		practice
+		principle
+		avenue
+		method
+		entertainment
+		fun
+		speech
+
+Technological gadgets that catch on quickly with one generation are sometimes dismissed by a skeptical older generation .
+	c:	catch on	[verb prep]	C2	3,4
+		confirm
+		determine
+		divine
+		dig
+		eye
+		read
+		fix
+		discover
+		tell
+		see
+		settle
+		learn
+		establish
+		check
+		size
+		destroy
+		ignore
+		aid
+		assist
+		help
+		miss
+		confuse
+		understand
+
+This virtual wealth can be sold on eBay for real money : a timesaver for players who don?t want to waste their playing time on boring pursuits .
+	c:	for real	[prep adj]	B2	8,9
+		certain
+		substantial
+		definite
+		physical
+		absolute
+		hard
+		positive
+		realistic
+		true
+		uncertain
+		spiritual
+		imaginary
+		mental
+		false
+		past
+		definitely
+		actually
+		really
+
+Once a gamer creates the code for an item , she can sell it again and again , for real money .
+	c:	again and again	[adv conj adv]	B1	14,15,16
+		regularly
+		repeatedly
+		frequently
+		continuously
+		often
+
+A professionally trained researcher , Schoepflin wondered what effect driving a hearse had on his friend and what effect it might have on others on the road .
+	c:	on the road	[prep det noun]	C1	24,25,26
+		bound
+		roadside
+
+Resources , such as labor , tools , land , and raw materials are necessary to produce the goods and services we want but they exist in limited supply .
+	c:	such as	[adj prep]	A2	2,3
+		being
+		equally
+		like
+		similarly
+
+Of course , the ultimate scarce resource is time - everyone , rich or poor , has just 24 hours in the day to try to acquire the goods they want .
+	c:	of course	[prep noun]	B1	0,1
+		certainly
+		definitely
+		indeed
+		naturally
+		obviously
+		surely
+
+At any point in time , there is only a finite amount of resources available .
+	c:	in time	[prep noun]	B1	3,4
+		joint
+		fellow
+		incident
+		satellite
+		accessory
+		accidental
+		chance
+		unrelated
+		later
+
+It is because of scarcity .
+	c:	because of	[prep prep]	B1	2,3
+		by
+		for
+		per
+		via
+		with
+		around
+
+-LRB- When you study economics , you will discover that the obvious choice is not always the right answer-or at least the complete answer .
+	c:	at least	[prep adj]	B2	19,20
+		slightly
+		carelessly
+		relatively
+		completely
+		totally
+
+Smith counted 18 distinct tasks that were often done by different people-all for a pin , believe it or not !
+	c:	or not	[conj adv]	A2	18,19
+		instead
+		rather
+		nor
+
+Modern businesses divide tasks as well .
+	c:	as well	[adv adv]	A1	4,5
+		also
+		simultaneously
+		too
+		besides
+		furthermore
+		moreover
+		with
+		apart
+		separate
+		far
+
+First , specialization in a particular small job allows workers to focus on the parts of the production process where they have an advantage .
+	d:	in particular	[prep adj]	B1	13,18
+		specially
+		mainly
+		primarily
+		strangely
+		unusually
+		curiously
+		commonly
+		generally
+		normally
+		usually
+
+The particular advantages may be based on educational choices , which are in turn shaped by interests and talents .
+	c:	in turn	[prep noun]	C1	12,13
+		following
+		orderly
+
+Only those with medical degrees qualify to become doctors , for instance .
+	c:	for instance	[prep noun]	B1	10,11
+		being
+		equally
+		like
+		similarly
+
+If you live in or near a big city , it is easier to attract enough customers to operate a successful dry cleaning business or movie theater than if you live in a sparsely populated rural area .
+	c:	movie theater	[noun noun]	A1	25,26
+		cinema
+
+In fact , specialized workers often know their jobs well enough to suggest innovative ways to do their work faster and better .
+	c:	in fact	[prep noun]	B1	0,1
+		absolutely
+		indeed
+		very
+		really
+		partly
+		completely
+
+In many cases , a business that focuses on one or a few products -LRB- sometimes called its `` core competency '' -RRB- is more successful than firms that try to make a wide range of products .
+	c:	a few	[det adj]	A2	11,12
+		precise
+		specific
+		individual
+		various
+		numerous
+		special
+		express
+		many
+		marked
+		one
+		regular
+		several
+		singular
+		some
+		unimportant
+		usual
+		uncertain
+		unpredictable
+		general
+		common
+		ordinary
+		few
+		any
+
+For example , if a factory produces only 100 cars per year , each car will be quite expensive to make on average .
+	c:	for example	[prep noun]	A1	0,1
+		like
+	c:	on average	[prep noun]	B2	21,22
+		publicly
+		mostly
+		largely
+		typically
+		commonly
+		roughly
+		widely
+		usually
+		normally
+		about
+		altogether
+		approximately
+		extensively
+		primarily
+		regularly
+		rarely
+		sometimes
+		unusually
+		exactly
+		particularly
+
+In short , specialization requires trade .
+	c:	in short	[prep adj]	C1	0,1
+		shortly
+		permanently
+
+You do not need to know anything about internal combustion engines to operate a car-you just get in and drive .
+	c:	get in	[verb prep]	B1	16,17
+		come
+		enter
+		appear
+		arrive
+		include
+		land
+		mount
+		reach
+		show
+		depart
+		go
+		leave
+
+You need to be able to vote intelligently on budgets , regulations , and laws in general .
+	c:	in general	[prep adj]	B2	15,16
+		almost
+		nearly
+		roughly
+		approximately
+		away
+		distant
+		far
+		remote
+		usually
+
+When the U.S. government came close to a standstill at the end of 2012 due to the `` fiscal cliff , '' what were the issues involved ?
+	c:	due to	[adj prep]	B1	14,15
+		as
+		being
+		for
+		over
+		since
+		through
+
+When you hear classmates , co-workers , or political candidates talking about economics , you will be able to distinguish between common sense and nonsense .
+	c:	common sense	[adj noun]	B1	21,22
+		intelligence
+		sense
+		wisdom
+		logic
+		cool
+		experience
+		reason
+
+You will find new ways of thinking about current events and about personal and business decisions , as well as current events and politics .
+	c:	as well as	[adv adv prep]	A2	17,18,19
+		again
+		too
+		further
+		still
+		more
+		besides
+		along
+		and
+		furthermore
+		including
+		moreover
+		plus
+
+Aphrodite became so jealous of Psyche that she sent her son , Eros , to make Psyche fall in love with the ugliest man in the world .
+	c:	in love	[prep noun]	B1	18,19
+		romantic
+		fond
+		hot
+		unfriendly
+		cold
+		cool
+
+For example , that a bird sings because it is happy is not a testable hypothesis , since we have no way to measure the happiness of a bird .
+	c:	no way	[det noun]	B1	20,21
+		negative
+		prohibition
+		confirmation
+		permission
+		claim
+		allowance
+		approval
+		agreement
+		impossible
+		useless
+		not
+		no
+		hopeless
+
+No biological organism exists in isolation , and our behavior is influenced by our interactions with others .
+	c:	in isolation	[prep noun]	C2	4,5
+		down
+		alone
+		away
+		out
+		apart
+		beside
+		near
+		nearby
+		middle
+
+Many of these students develop such an interest in the area that they go on to declare psychology as their major .
+	c:	go on	[verb prep]	C2	13,14
+		last
+		proceed
+		conduct
+		stay
+		endure
+		occur
+		happen
+		act
+		advance
+		bear
+		behave
+		stop
+		leave
+		continue
+
+The evaluation of information-assessing its reliability and usefulness - is an important skill in a world full of competing `` facts , '' many of which are designed to be misleading .
+	d:	in full	[prep adj]	B1	39,48
+		perfectly
+		absolutely
+		fully
+		altogether
+		finally
+		quite
+		totally
+		extensively
+		partly
+		entirely
+		completely
+
+A fourth sociologist might be part of a team developing signs to warn people living thousands of years in the future , and speaking many different languages , to stay away from still-dangerous nuclear waste .
+	c:	in the future	[prep det noun]	B1	18,19,20
+		so
+		thus
+		away
+		consequently
+		forward
+		out
+		then
+
+All sociologists are interested in the experiences of individuals and how those experiences are shaped by interactions with social groups and society as a whole .
+	c:	as a whole	[prep det noun]	B2	22,23,24
+		altogether
+		generally
+		together
+
+Sociologists identify and study patterns related to all kinds of contemporary social issues .
+	c:	kind of	[noun prep]	B1	8,9
+		rather
+
+Similarly , there is no society without the individuals that make it up , and there are also no individuals who are not affected by the society in which they live -LRB- Elias 1978 -RRB- .
+	c:	make it	[verb perPro]	C1	10,11
+		do
+		finish
+		score
+		conclude
+		perform
+		win
+		manage
+		reach
+		produce
+		attain
+		realize
+		achieve
+		hit
+		effect
+		gain
+		arrive
+		destroy
+		fail
+		lose
+		miss
+		begin
+		introduce
+		start
+		stop
+		leave
+		abandon
+		exist
+		endure
+
+For instance , an individual 's religious practice may be influenced by what government dictates , holidays , teachers , places of worship , rituals , and so on .
+	c:	and so on	[conj adv prep]	B1	26,27,28
+		whatever
+		thus
+
+Ashley said that in the city they had been accustomed to getting looks and hearing comments when she and her partner walked hand in hand .
+	c:	hand in hand	[noun prep noun]	B2	22,23,24
+		together
+	c:	in hand	[prep noun]	B2	23,24
+		had
+		lost
+
+Ashley , who is a highly trained professional , had a great deal of difficulty finding a new job .
+	c:	a great deal	[det adj noun]	B2	10,11,12
+		regularly
+		often
+		indeed
+		highly
+		very
+		frequently
+		extremely
+		repeatedly
+		little
+		rarely
+
+When Nathan asked Ashley if she and her partner became discouraged or bitter about this new situation , Ashley said that rather than letting it get to them , they decided to do something about it .
+	c:	get to	[verb prep]	B1	25,26
+		bother
+		irritate
+		needle
+		get
+		tease
+		dog
+		gall
+		bug
+		aid
+		delight
+		calm
+		soothe
+		improve
+		help
+		please
+		annoy
+		horrify
+

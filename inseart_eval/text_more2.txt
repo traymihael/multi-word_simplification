@@ -1,0 +1,84 @@
+-LRB- This is discussed further in the appendix on Present Discounted Value . -RRB-
+	d:	the present	[det adj]	B1	6,9
+			[(ADJP)]
+
+This example also helps to explain why exchange rates often move quite substantially in a short period of a few weeks or months .
+	d:	move in	[verb prep]	B1	10,13
+			[(ADVP)]
+
+The second function of PPP is that exchanges rates will often get closer and closer to it as time passes .
+	d:	get to	[verb prep]	B1	11,15
+			[(ADJP)]
+
+A change in the price of a good or service causes a movement along a specific demand curve , and it typically leads to some change in the quantity demanded , but it does not shift the demand curve .
+	d:	in demand	[prep noun]	C1	26,29
+			[(NP)]
+
+However , starting in the 1980s , the trade deficit increased rapidly , and after a tiny surplus in 1991 , the current account trade deficit got even larger in the late 1990s and into the mid-2000s .
+	d:	get in	[verb prep]	B1	26,29
+			[(ADJP)]
+
+When budget deficits get very large in 2008 and 2009 , on the other hand , there is some sign of a rise in saving .
+	d:	get in	[verb prep]	B1	3,6
+			[(ADJP)]
+
+As shows , nominal GDP per capita in 2012 for the 581.4 million people living in Latin America and the Caribbean region was $ 9,190 , which far exceeds that of South Asia and sub-Saharan Africa .
+	d:	the people	[det noun]	C1	10,13
+			[(QP)]
+
+In Asch?s study , the confederates identified a line segment that was obviously shorter than the target line?a wrong answer .
+	d:	be wrong	[verb adj]	A2	11,18
+			[(ADJP)]
+
+Individuals with alcohol dependence are at 10 times greater risk for suicide than the general population -LRB- Wilcox , Conner , & Caine , 2004 -RRB- .
+	d:	at risk	[prep noun]	B2	5,9
+			[(ADJP)]
+
+Gay , lesbian , bisexual , and transgender teens are at very high risk of being bullied and hurt due to their sexual orientation .
+	d:	at risk	[prep noun]	B2	10,13
+			[(ADJP)]
+
+People who experience childhood adversity and/or traumatic experiences during adulthood are at significantly higher risk of developing PTSD if they possess one or two short versions of a gene that regulates the neurotransmitter serotonin -LRB- Xie et al. , 2009 -RRB- .
+	d:	at risk	[prep noun]	B2	11,14
+			[(ADJP)]
+
+is an important skill in a world full of competing ?
+	d:	in full	[prep adj]	B1	4,7
+			[(NP)]
+
+In our restroom study , what if you stood in the restroom all day prepared to record people?s hand washing behavior and no one came in ?
+	d:	in hand	[prep noun]	B2	0,18
+			[(NP)]
+
+Additionally , beginning with the DSM-III in 1980 , mental disorders have been described in much greater detail , and the number of diagnosable conditions has grown steadily , as has the size of the manual itself .
+	d:	in detail	[prep noun]	B1	14,17
+			[(ADJP)]
+
+The major components of the Type A pattern include an aggressive and chronic struggle to achieve more and more in less and less time -LRB- Friedman & Rosenman , 1974 -RRB- .
+	d:	in time	[prep noun]	B1	19,23
+			[(ADJP)]
+
+As with capitalism , the basic ideas behind socialism go far back in history .
+	d:	go in	[verb prep]	A2	9,12
+			[(ADVP)]
+
+It takes a very careful hand to understand both the need for cultural identity and preservation as well as the hopes for future growth .
+	d:	a hand	[det noun]	B1	2,5
+			[(ADJP)]
+
+In The Myth of Mental Illness : Foundations of a Theory of Personal Conduct -LRB- 1961 -RRB- , Thomas Szasz asks if there is such a thing as mental illness , and then argues that there is not .
+	d:	such as	[adj prep]	A2	24,27
+			[(NP)]
+
+For now polygamy among American Muslims has gone fairly unnoticed by mainstream society , but like fundamentalist Mormons whose practices were off the public?s radar for decades , they may someday find themselves at the center of social debate .
+	d:	go by	[verb prep]	C2	7,10
+			[(ADJP)]
+
+Official statistics before the worldwide recession posit that the underground economy accounted for over 50 percent of non-agricultural work in Latin America ; the figure went as high as 80 percent in parts of Asia and Africa -LRB- Chen 2001 -RRB- .
+	d:	go in	[verb prep]	A2	25,31
+			[(ADVP)]
+
+Growing up poor can cut off access to the education and services people need to move out of poverty and into stable employment .
+	d:	the people	[det noun]	C1	8,12
+			[(UCP)]
+

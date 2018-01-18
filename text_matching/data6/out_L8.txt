@@ -1,0 +1,253 @@
+I do n't think any segregation law angered black people in Montgomery more than bus segregation .
+	notfound
+
+
+And that had been so since the laws about segregation on public transportation had been passed .
+	notfound
+
+
+That was back in 1900 , and black people had boycotted Montgomery streetcars until the City Council changed its ordinance so that nobody would be forced to give up a seat unless there was another seat to move to .
+	c:	be force	[verb verb]	B2
+		remain	0.5676201522208019
+		persist	0.5552687344775257
+		resist	0.5434048452371775
+		halt	0.5180987862094016
+		stop	0.5137852030756846
+	c:	be force to	[verb verb prep]	B2
+
+
+But over the years practices had changed , although the law had not .
+
+
+When I was put off the bus back in 1943 , the bus driver was really acting against the law .
+	notfound
+
+
+In 1945 , two years after that incident , the State of Alabama passed a law requiring that all bus companies under its jurisdiction enforce segregation .
+
+
+But that law did not spell out what bus drivers were supposed to do in a case like mine .
+	notfound
+
+
+Here it was , half a century after the first segregation law , and there were 50,000 African Americans in Montgomery .
+	notfound
+
+
+More of us rode the buses than Caucasians did , because more whites could afford cars .
+	notfound
+
+
+It was very humiliating having to suffer the indignity of riding segregated buses twice a day , five days a week , to go downtown and work for white people .
+
+
+When I got off from work that evening of December 1 , I went to Court Square as usual to catch the Cleveland Avenue bus home .
+
+
+I did n't look to see who was driving when I got on , and by the time I recognized him , I had already paid my fare .
+	notfound
+
+
+It was the same driver who had put me off the bus back in 1943 , twelve years earlier .
+	notfound
+
+
+He was still tall and heavy , with red , rough-looking skin .
+	notfound
+
+
+And he was still mean-looking .
+	notfound
+
+
+I did n't know if he had been on that route before?they switched the drivers around sometimes .
+	notfound
+
+
+I do know that most of the time if I saw him on a bus , I would n't get on it .
+
+
+I saw a vacant seat in the middle section of the bus and took it .
+
+
+I did n't even question why there was a vacant seat even though there were quite a few people standing in the back .
+	notfound
+
+
+If I had thought about it at all , I would probably have figured maybe someone saw me get on and did not take the seat but left it vacant for me .
+
+
+There was a man sitting next to the window and two women across the aisle .
+	c:	next to	[adj prep]	B2
+		to	0.7764078629771513
+		away	0.44704573604190273
+		beside	0.026588273976007402
+		by	0.009167821496431907
+		alongside	-0.004097739586861919
+
+
+The next stop was the Empire Theater , and some whites got on .
+
+
+They filled up the white seats , and one man was left standing .
+	notfound
+
+
+The driver looked back and noticed the man standing .
+
+
+Then he looked back at us .
+
+
+He said , `` Let me have those front seats , '' because they were the front seats of the black section .
+	notfound
+
+
+Did n't anybody move .
+	notfound
+
+
+We just sat right where we were , the four of us .
+	notfound
+
+
+Then he spoke a second time : `` Y' all better make it light on yourselves and let me have those seats . ''
+	notfound
+
+
+The man in the window seat next to me stood up , and I moved to let him pass by me , and then I looked across the aisle and saw that the two women were also standing .
+	c:	next to	[adj prep]	B2
+		to	0.7764078629771513
+		away	0.44704573604190273
+		beside	0.026588273976007402
+		by	0.009167821496431907
+		alongside	-0.004097739586861919
+
+
+I moved over to the window seat .
+
+
+I could not see how standing up was going to `` make it light '' for me .
+	notfound
+
+
+The more we gave in and complied , the worse they treated us .
+	notfound
+
+
+I thought back to the time when I used to sit up all night and did n't sleep , and my grandfather would have his gun right by the fireplace , or if he had his onehorse wagon going anywhere , he always had his gun in the back of the wagon .
+	notfound
+
+
+People always say that I did n't give up my seat because I was tired , but that is n't true .
+	notfound
+
+
+I was not tired physically , or no more tired than I usually was at the end of a working day .
+
+
+I was not old , although some people have an image of me as being old then .
+
+
+I was forty-two .
+	notfound
+
+
+No , the only tired I was , was tired of giving in .
+
+
+The driver of the bus saw me still sitting there , and he asked was I going to stand up .
+
+
+I said , `` No . ''
+	notfound
+
+
+He said , `` Well , I 'm going to have you arrested . ''
+	notfound
+
+
+Then I said , `` You may do that . ''
+	notfound
+
+
+These were the only words we said to each other .
+
+
+I did n't even know his name , which was James Blake , until we were in court together .
+	notfound
+
+
+He got out of the bus and stayed outside for a few minutes , waiting for the police .
+
+
+As I sat there , I tried not to think about what might happen .
+	notfound
+
+
+I knew that anything was possible .
+	notfound
+
+
+I could be manhandled or beaten .
+
+
+I could be arrested .
+
+
+People have asked me if it occurred to me then that I could be the test case the NAACP had been looking for .
+	notfound
+
+
+I did not think about that at all .
+
+
+In fact if I had let myself think too deeply about what might happen to me , I might have gotten off the bus .
+	notfound
+
+
+But I chose to remain .
+	notfound
+
+
+Meanwhile there were people getting off the bus and asking for transfers , so that began to loosen up the crowd , especially in the back of the bus .
+	c:	loosen up	[verb prep]	C2
+
+
+Not everyone got off , but everybody was very quiet .
+	notfound
+
+
+What conversation there was , was in low tones ; no one was talking out loud .
+	notfound
+
+
+It would have been quite interesting to have seen the whole bus empty out .
+	notfound
+
+
+Or if the other three had stayed where they were , because if they 'd had to arrest four of us instead of one , then that would have given me a little support .
+	notfound
+
+
+But it did n't matter .
+
+
+I never thought hard of them at all and never even bothered to criticize them .
+	notfound
+
+
+Eventually two policemen came .
+	notfound
+
+
+They got on the bus , and one of them asked me why I did n't stand up .
+
+
+I asked him , `` Why do you all push us around ? ''
+	notfound
+
+
+He said to me , and I quote him exactly , `` I do n't know , but the law is the law and you 're under arrest . ''
+
+

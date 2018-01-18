@@ -1,0 +1,221 @@
+Our goals for this conference , to strengthen families and societies by empowering women to take greater control over their own destinies , can not be fully achieved unless all governments?here and around the world?accept their responsibility to protect and promote internationally recognized human rights .
+	c:	human rights	[adj noun]	unknown
+
+
+The international community has long acknowledged?and recently reaffirmed at Vienna?that both women and men are entitled to a range of protections and personal freedoms , from the right of personal security to the right to determine freely the number and spacing of the children they bear .
+	c:	be entitle to	[verb verb prep]	B2
+
+
+No one should be forced to remain silent for fear of religious or political persecution , arrest , abuse or torture .
+	c:	be force	[verb verb]	B2
+		remain	0.5676201522208019
+		persist	0.5552687344775257
+		resist	0.5434048452371775
+		halt	0.5180987862094016
+		stop	0.5137852030756846
+	c:	be force to	[verb verb prep]	B2
+
+
+Tragically , women are most often the ones whose human rights are violated .
+	c:	human rights	[adj noun]	unknown
+
+
+Even now , in the late 20th century , the rape of women continues to be used as an instrument of armed conflict .
+
+
+Women and children make up a large majority of the world 's refugees .
+	notfound
+
+
+And when women are excluded from the political process , they become even more vulnerable to abuse .
+	notfound
+
+
+I believe that now , on the eve of a new millennium , it is time to break the silence .
+	notfound
+
+
+It is time for us to say here in Beijing , and for the world to hear , that it is no longer acceptable to discuss women 's rights as separate from human rights .
+	c:	human rights	[adj noun]	unknown
+	c:	no longer	[adv adv]	unknown
+		previously	0.18845090117492494
+		earlier	0.15208436974587766
+		once	0.14649248561234443
+		back	0.10292273611977973
+		bygone	-0.0065375339483784035
+
+
+These abuses have continued because , for too long , the history of women has been a history of silence .
+	notfound
+
+
+Even today , there are those who are trying to silence our words .
+	notfound
+
+
+But the voices of this conference and of the women at Huairou must be heard loudly and clearly : It is a violation of human rights when babies are denied food , or drowned , or suffocated , or their spines broken , simply because they are born girls .
+	c:	human rights	[adj noun]	unknown
+
+
+It is a violation of human rights when women and girls are sold into the slavery of prostitution for human greed?and the kinds of reasons that are used to justify this practice should no longer be tolerated .
+	c:	human rights	[adj noun]	unknown
+	c:	no longer	[adv adv]	unknown
+		previously	0.18845090117492494
+		earlier	0.15208436974587766
+		once	0.14649248561234443
+		back	0.10292273611977973
+		bygone	-0.0065375339483784035
+
+
+It is a violation of human rights when women are doused with gasoline , set on fire and burned to death because their marriage dowries are deemed too small .
+	c:	human rights	[adj noun]	unknown
+
+
+It is a violation of human rights when individual women are raped in their own communities and when thousands of women are subjected to rape as a tactic or prize of war .
+	c:	human rights	[adj noun]	unknown
+
+
+It is a violation of human rights when a leading cause of death worldwide among women ages 14 to 44 is the violence they are subjected to in their own homes by their own relatives .
+	c:	human rights	[adj noun]	unknown
+
+
+It is a violation of human rights when young girls are brutalized by the painful and degrading practice of genital mutilation .
+	c:	human rights	[adj noun]	unknown
+
+
+It is a violation of human rights when women are denied the right to plan their own families , and that includes being forced to have abortions or being sterilized against their will .
+	c:	be force	[verb verb]	B2
+		remain	0.5676201522208019
+		persist	0.5552687344775257
+		resist	0.5434048452371775
+		halt	0.5180987862094016
+		stop	0.5137852030756846
+	c:	be force to	[verb verb prep]	B2
+	c:	human rights	[adj noun]	unknown
+
+
+If there is one message that echoes forth from this conference , let it be that human rights are women 's rights and women 's rights are human rights once and for all .
+	c:	human rights	[adj noun]	unknown
+
+
+Let us not forget that among those rights are the right to speak freely ?
+	notfound
+
+
+and the right to be heard .
+
+
+Women must enjoy the rights to participate fully in the social and political lives of their countries if we want freedom and democracy to thrive and endure .
+	notfound
+
+
+It is indefensible that many women in non-governmental organizations who wished to participate in this conference have not been able to attend?or have been prohibited from fully taking part .
+	d:	in conference	[prep noun]	B2
+			(SBAR)[(DT)]
+		active	0.16350188911019303
+		working	0.14432415334527787
+		occupied	0.0749983254985622
+		buried	0.06546985750860573
+		inactive	0.029003139096675876
+
+
+Let me be clear .
+	notfound
+
+
+Freedom means the right of people to assemble , organize , and debate openly .
+	notfound
+
+
+It means respecting the views of those who may disagree with the views of their governments .
+	notfound
+
+
+It means not taking citizens away from their loved ones and jailing them , mistreating them , or denying them their freedom or dignity because of the peaceful expression of their ideas and opinions .
+	notfound
+
+
+In my country , we recently celebrated the 75th anniversary of women 's suffrage .
+	c:	woman 's suffrage	[noun XXXXX noun]	unknown
+
+
+It took 150 years after the signing of our Declaration of Independence for women to win the right to vote .
+	notfound
+
+
+It took 72 years of organized struggle , before that happened , on the part of many courageous women and men .
+	notfound
+
+
+It was one of America 's most divisive philosophical wars .
+
+
+But it was a bloodless war .
+	notfound
+
+
+Suffrage was achieved without a shot being fired .
+	notfound
+
+
+But we have also been reminded , in V-J Day observances last weekend , of the good that comes when men and women join together to combat the forces of tyranny and to build a better world .
+	notfound
+
+
+We have seen peace prevail in most places for a half century .
+	notfound
+
+
+We have avoided another world war .
+
+
+But we have not solved older , deeply-rooted problems that continue to diminish the potential of half the world 's population .
+	notfound
+
+
+Now it is time to act on behalf of women everywhere .
+
+
+If we take bold steps to better the lives of women , we will be taking bold steps to better the lives of children and families too .
+	notfound
+
+
+Families rely on mothers and wives for emotional support and care ; families rely on women for labor in the home ; and increasingly , everywhere , families rely on women for income needed to raise healthy children and care for other relatives .
+
+
+As long as discrimination and inequities remain so commonplace everywhere in the world?as long as girls and women are valued less , fed less , fed last , overworked , underpaid , not schooled , subjected to violence in and outside their homes?the potential of the human family to create a peaceful , prosperous world will not be realized .
+	c:	be value	[verb verb]	B2
+		mean	0.6535943063314733
+		value	0.6351191713944714
+		affect	0.5514990248909136
+		exclude	0.4828383304128921
+		signify	0.47921562416265373
+
+
+Let this conference be our?and the world 's ?
+	notfound
+
+
+call to action .
+
+
+Let us heed that call so we can create a world in which every woman is treated with respect and dignity , every boy and girl is loved and cared for equally , and every family has the hope of a strong and stable future .
+
+
+That is the work before you , that is the work before all of us , who have a vision of the world we want to see for our children and our grandchildren .
+	notfound
+
+
+The time is now .
+
+
+We must move beyond rhetoric , we must move beyond recognition of problems , to working together , to have the common efforts to build that common ground we hope to see .
+
+
+God 's blessings on you , your work and all who will benefit from it .
+	notfound
+
+
+Godspeed and thank you very much .
+
+

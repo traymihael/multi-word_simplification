@@ -1,0 +1,138 @@
+Do n't let the name fool you : a black hole is anything but empty space .
+	notfound
+
+
+Rather , it is a great amount of matter packed into a very small area?think of a star ten times more massive than the Sun squeezed into a sphere approximately the diameter of New York City .
+	notfound
+
+
+The result is a gravitational field so strong that nothing , not even light , can escape .
+	notfound
+
+
+In recent years , NASA instruments have painted a new picture of these strange objects that are , to many , the most fascinating objects in space .
+
+
+Although the term was not coined until 1967 by Princeton physicist John Wheeler , the idea of an object in space so massive and dense that light could not escape it has been around for centuries .
+	notfound
+
+
+Most famously , black holes were predicted by Einstein 's theory of general relativity , which showed that when a massive star dies , it leaves behind a small , dense remnant core .
+	notfound
+
+
+If the core 's mass is more than about three times the mass of the Sun , the equations showed , the force of gravity overwhelms all other forces and produces a black hole .
+	c:	the mass	[det noun]	B2
+	c:	the core	[det noun]	B2
+
+
+Scientists ca n't directly observe black holes with telescopes that detect x-rays , light , or other forms of electromagnetic radiation .
+	c:	electromagnetic radiation	[adj noun]	unknown
+		microwave	0.6918894051119071
+
+
+We can , however , infer the presence of black holes and study them by detecting their effect on other matter nearby .
+	notfound
+
+
+If a black hole passes through a cloud of interstellar matter , for example , it will draw matter inward in a process known as accretion .
+	notfound
+
+
+A similar process can occur if a normal star passes close to a black hole .
+	notfound
+
+
+In this case , the black hole can tear the star apart as it pulls it toward itself .
+
+
+As the attracted matter accelerates and heats up , it emits x-rays that radiate into space .
+	notfound
+
+
+Recent discoveries offer some tantalizing evidence that black holes have a dramatic influence on the neighborhoods around them?emitting powerful gamma ray bursts , devouring nearby stars , and spurring the growth of new stars in some areas while stalling it in others .
+	notfound
+
+
+Most black holes form from the remnants of a large star that dies in a supernova explosion .
+	notfound
+
+
+Smaller stars become dense neutron stars , which are not massive enough to trap light .
+	notfound
+
+
+If the total mass of the star is large enough -LRB- about three times the mass of the Sun -RRB- , it can be proven theoretically that no force can keep the star from collapsing under the influence of gravity .
+	c:	the mass	[det noun]	B2
+
+
+However , as the star collapses , a strange thing occurs .
+
+
+As the surface of the star nears an imaginary surface called the `` event horizon , '' time on the star slows relative to the time kept by observers far away .
+
+
+When the surface reaches the event horizon , time stands still , and the star can collapse no more?it is a frozen collapsing object .
+	notfound
+
+
+Even bigger black holes can result from stellar collisions .
+
+
+Soon after its launch in December 2004 , NASA 's Swift telescope observed the powerful , fleeting flashes of light known as gamma ray bursts .
+
+
+Chandra and NASA 's Hubble Space Telescope later collected data from the event 's `` afterglow , '' and together the observations led astronomers to conclude that the powerful explosions can result when a black hole and a neutron star collide , producing another black hole .
+
+
+Although the basic formation process is understood , one perennial mystery in the science of black holes is that they appear to exist on two radically different size scales .
+	notfound
+
+
+On the one end , there are the countless black holes that are the remnants of massive stars .
+	notfound
+
+
+Peppered throughout the Universe , these `` stellar mass '' black holes are generally 10 to 24 times as massive as the Sun .
+	notfound
+
+
+Astronomers spot them when another star draws near enough for some of the matter surrounding it to be snared by the black hole 's gravity , churning out x-rays in the process .
+	notfound
+
+
+Most stellar black holes , however , lead isolated lives and are impossible to detect .
+	notfound
+
+
+Judging from the number of stars large enough to produce such black holes , however , scientists estimate that there are as many as ten million to a billion such black holes in the Milky Way alone .
+	c:	Milky Way	[noun noun]	unknown
+
+
+On the other end of the size spectrum are the giants known as `` supermassive '' black holes , which are millions , if not billions , of times as massive as the Sun .
+	notfound
+
+
+Astronomers believe that supermassive black holes lie at the center of virtually all large galaxies , even our own Milky Way .
+	c:	Milky Way	[noun noun]	unknown
+
+
+Astronomers can detect them by watching for their effects on nearby stars and gas .
+
+
+Historically , astronomers have long believed that no mid-sized black holes exist .
+
+
+However , recent evidence from Chandra , XMM-Newton and Hubble strengthens the case that mid-size black holes do exist .
+	notfound
+
+
+One possible mechanism for the formation of supermassive black holes involves a chain reaction of collisions of stars in compact star clusters that results in the buildup of extremely massive stars , which then collapse to form intermediate-mass black holes .
+	c:	chain reaction	[noun noun]	B2
+	c:	star cluster	[noun noun]	unknown
+
+
+The star clusters then sink to the center of the galaxy , where the intermediate-mass black holes merge to form a supermassive black hole .
+	c:	star cluster	[noun noun]	unknown
+
+

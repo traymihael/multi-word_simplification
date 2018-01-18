@@ -1,0 +1,239 @@
+In Greek mythology , Psyche was a mortal woman whose beauty was so great that it rivaled that of the goddess Aphrodite .
+
+
+Aphrodite became so jealous of Psyche that she sent her son , Eros , to make Psyche fall in love with the ugliest man in the world .
+	notfound
+
+
+However , Eros accidentally pricked himself with the tip of his arrow and fell madly in love with Psyche himself .
+	notfound
+
+
+He took Psyche to his palace and showered her with gifts , yet she could never see his face .
+	notfound
+
+
+While visiting Psyche , her sisters roused suspicion in Psyche about her mysterious lover , and eventually , Psyche betrayed Eros ' wishes to remain unseen to her -LRB- Figure -RRB- .
+	notfound
+
+
+Because of this betrayal , Eros abandoned Psyche .
+
+
+When Psyche appealed to Aphrodite to reunite her with Eros , Aphrodite gave her a series of impossible tasks to complete .
+	c:	appeal to	[verb prep]	B2
+		leave	0.3636463758362242
+		answer	0.36042226502703606
+		address	0.3342337990293919
+		propose	0.3161333631309634
+		advise	0.27989384548821783
+
+
+Psyche managed to complete all of these trials ; ultimately , her perseverance paid off as she was reunited with Eros and was ultimately transformed into a goddess herself -LRB- Ashliman , 2001 ; Greek Myths & Greek Mythology , 2014 -RRB- .
+	c:	be reunite	[verb verb]	unknown
+
+
+Psyche comes to represent the human soul 's triumph over the misfortunes of life in the pursuit of true happiness -LRB- Bulfinch , 1855 -RRB- ; in fact , the Greek word psyche means soul , and it is often represented as a butterfly .
+	d:	in pursuit	[prep noun]	B2
+			(PP)[(DT)]
+		back	0.3137213533336794
+		subsequent	0.2710281318113382
+		ensuing	0.2698298646865716
+		latter	0.2623069966312648
+		when	0.23307421926434138
+
+
+The word psychology was coined at a time when the concepts of soul and mind were not as clearly distinguished -LRB- Green , 2001 -RRB- .
+	notfound
+
+
+The root ology denotes scientific study of , and psychology refers to the scientific study of the mind .
+
+
+Since science studies only observable phenomena and the mind is not directly observable , we expand this definition to the scientific study of mind and behavior .
+	notfound
+
+
+The scientific study of any aspect of the world uses the scientific method to acquire knowledge .
+	notfound
+
+
+To apply the scientific method , a researcher with a question about how or why something happens will propose a tentative explanation , called a hypothesis , to explain the phenomenon .
+	notfound
+
+
+A hypothesis is not just any explanation ; it should fit into the context of a scientific theory .
+	notfound
+
+
+A scientific theory is a broad explanation or group of explanations for some aspect of the natural world that is consistently supported by evidence over time .
+	notfound
+
+
+A theory is the best understanding that we have of that part of the natural world .
+
+
+Armed with the hypothesis , the researcher then makes observations or , better still , carries out an experiment to test the validity of the hypothesis .
+	notfound
+
+
+That test and its results are then published so that others can check the results or build on them .
+
+
+It is necessary that any explanation in science be testable , which means that the phenomenon must be perceivable and measurable .
+	notfound
+
+
+For example , that a bird sings because it is happy is not a testable hypothesis , since we have no way to measure the happiness of a bird .
+	notfound
+
+
+We must ask a different question , perhaps about the brain state of the bird , since this can be measured .
+	notfound
+
+
+In general , science deals only with matter and energy , that is , those things that can be measured , and it can not arrive at knowledge about values and morality .
+	notfound
+
+
+This is one reason why our scientific understanding of the mind is so limited , since thoughts , at least as we experience them , are neither matter nor energy .
+	c:	at least	[prep adj]	B2
+		slightly	0.24320432280416113
+		relatively	0.2273319856454503
+		completely	0.14628428534309845
+		halfway	0.14587464252104518
+		totally	0.14221425303085886
+
+
+The scientific method is also a form of empiricism .
+	notfound
+
+
+An empirical method for acquiring knowledge is one based on observation , including experimentation , rather than a method based only on forms of logical argument or previous authorities .
+
+
+It was not until the late 1800s that psychology became accepted as its own academic discipline .
+	notfound
+
+
+Before this time , the workings of the mind were considered under the auspices of philosophy .
+
+
+Given that any behavior is , at its roots , biological , some areas of psychology take on aspects of a natural science like biology .
+	notfound
+
+
+No biological organism exists in isolation , and our behavior is influenced by our interactions with others .
+	c:	be influence	[verb verb]	B2
+
+
+Therefore , psychology is also a social science .
+
+
+MERITS OF AN EDUCATION IN PSYCHOLOGY Often , students take their first psychology course because they are interested in helping others and want to learn more about themselves and why they act the way they do .
+
+
+Sometimes , students take a psychology course because it either satisfies a general education requirement or is required for a program of study such as nursing or pre-med .
+	notfound
+
+
+Many of these students develop such an interest in the area that they go on to declare psychology as their major .
+	notfound
+
+
+As a result , psychology is one of the most popular majors on college campuses across the United States -LRB- Johnson & Lubin , 2011 -RRB- .
+	d:	the States	[det noun]	unknown
+			(NP)[(NNP)]
+		Columbia	0.34511833678801224
+		US	0.32294035221195844
+		America	0.27188734639161133
+		USA	0.19591142447883395
+	c:	United States	[noun noun]	unknown
+		US	0.4295180969798288
+		USA	0.38857648869970607
+		Columbia	0.18722928596658908
+		America	0.1867194845245358
+
+
+A number of well-known individuals were psychology majors .
+
+
+Just a few famous names on this list are Facebook 's creator Mark Zuckerberg , television personality and political satirist Jon Stewart , actress Natalie Portman , and filmmaker Wes Craven -LRB- Halonen , 2011 -RRB- .
+	notfound
+
+
+About 6 percent of all bachelor degrees granted in the United States are in the discipline of psychology -LRB- U.S. Department of Education , 2013 -RRB- .
+	c:	bachelor degree	[noun noun]	unknown
+		BA	0.7507366464960379
+		baccalaureate	0.5879605432357846
+		BS	0.33629506997440867
+	d:	in discipline	[prep noun]	B2
+			(PP)[(DT)]
+		peace	0.36633753382004314
+		disobedience	0.291382758046933
+		organization	0.2407897153844259
+		harmony	0.21450720139388796
+		anarchy	0.19311941453344966
+	d:	the States	[det noun]	unknown
+			(NP)[(NNP)]
+		Columbia	0.34511833678801224
+		US	0.32294035221195844
+		America	0.27188734639161133
+		USA	0.19591142447883395
+	c:	United States	[noun noun]	unknown
+		US	0.4295180969798288
+		USA	0.38857648869970607
+		Columbia	0.18722928596658908
+		America	0.1867194845245358
+
+
+An education in psychology is valuable for a number of reasons .
+	notfound
+
+
+Psychology students hone critical thinking skills and are trained in the use of the scientific method .
+	notfound
+
+
+Critical thinking is the active application of a set of skills to information for the understanding and evaluation of that information .
+	notfound
+
+
+The evaluation of information-assessing its reliability and usefulness - is an important skill in a world full of competing `` facts , '' many of which are designed to be misleading .
+	notfound
+
+
+For example , critical thinking involves maintaining an attitude of skepticism , recognizing internal biases , making use of logical thinking , asking appropriate questions , and making observations .
+	notfound
+
+
+Psychology students also can develop better communication skills during the course of their undergraduate coursework -LRB- American Psychological Association , 2011 -RRB- .
+	notfound
+
+
+Together , these factors increase students ' scientific literacy and prepare students to critically evaluate the various sources of information they encounter .
+	notfound
+
+
+In addition to these broad-based skills , psychology students come to understand the complex factors that shape one 's behavior .
+	notfound
+
+
+They appreciate the interaction of our biology , our environment , and our experiences in determining who we are and how we will behave .
+	notfound
+
+
+They learn about basic principles that guide how we think and behave , and they come to recognize the tremendous diversity that exists across individuals and across cultural boundaries -LRB- American Psychological Association , 2011 -RRB- .
+	notfound
+
+
+Summary Psychology derives from the roots psyche -LRB- meaning soul -RRB- and - ology -LRB- meaning scientific study of -RRB- .
+
+
+Thus , psychology is defined as the scientific study of mind and behavior .
+
+
+Students of psychology develop critical thinking skills , become familiar with the scientific method , and recognize the complexity of behavior .
+	notfound
+
+

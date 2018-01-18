@@ -1,0 +1,509 @@
+Alexandra was naturally shy largely because of her genes , but genes are not switches that say `` shy '' or `` outgoing , '' or `` happy '' or `` sad . ''
+	d:	[verb]	be happy	[verb adj]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be sad	[verb adj]	A1
+	c:	[prep]	because of	[prep prep]	A1
+
+
+Genes are simply chemicals that direct the combination of more chemicals .
+	d:	[verb]	be direct	[verb verb]	B1
+	d:	[verb]	be of	[verb prep]	A1
+
+
+The chemical that makes up genes is called deoxyribonucleic acid , or DNA .
+	c:	[verb]	make up	[verb prep]	A1
+	d:	[verb]	make call	[verb noun]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the call	[det noun]	A1
+
+
+It comprises simple building blocks called bases , of which there are just four different varieties : A , G , C , and T .
+	d:	[adv]	a t	[det noun]	unknown
+
+
+The bases come together in long strings , and each DNA molecule consists of two of these strings paired according to the rule that A matches T and G matches C. DNA stores information in the order of bases .
+	d:	[adv]	a t	[det noun]	unknown
+	d:	[noun]	accord rule	[verb noun]	unknown
+	c:	[prep]	accord to	[verb prep]	unknown
+	d:	[noun]	accord to rule	[verb prep verb]	unknown
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	come in	[verb prep]	A1
+	d:	[verb]	come in to	[verb prep prep]	A1
+	d:	[verb]	come of	[verb prep]	A1
+	d:	[verb]	come order	[verb noun]	A1
+	d:	[verb]	come to order	[verb prep verb]	A2
+	c:	[verb]	come together	[verb adv]	A1
+	c:	[verb]	come to	[verb prep]	A1
+	c:	[verb]	consist of	[verb prep]	A2
+	d:	[pron]	each of two	[det prep adj]	A1
+	d:	[pron]	each two	[det adj]	A1
+	d:	[adj]	in accord	[prep noun]	unknown
+	d:	[adj]	in order	[prep noun]	A1
+	d:	[adj]	in store	[prep noun]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	of accord	[prep noun]	unknown
+	d:	[adv]	to a t	[prep det noun]	unknown
+	c:	[adv]	to t	[prep noun]	unknown
+	d:	[adj]	the two	[det adj]	A1
+
+
+The DNA sequence `` AGCT '' means one thing , and the sequence `` TCGA '' something else , as different in meaning as `` taps '' and `` spat . ''
+	d:	[verb]	mean something	[verb noun]	A1
+	c:	[noun]	one thing	[adj noun]	A1
+	c:	[noun]	something else	[noun adv]	A1
+	d:	[noun]	the thing	[det noun]	A1
+
+
+The information in DNA is converted into proteins , which are made of amino acids .
+	d:	[verb]	be into	[verb prep]	A1
+	c:	[verb]	be make	[verb verb]	A1
+	c:	[verb]	be make of	[verb verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	convert into	[verb prep]	B2
+	d:	[adj]	in make	[prep verb]	A1
+	d:	[adv]	in which	[prep det]	A1
+	c:	[verb]	make of	[verb prep]	A1
+
+
+Proteins are where the action is .
+	d:	[verb]	be action	[verb noun]	A1
+
+
+The most important function of proteins is to act as enzymes that change one chemical into another .
+	c:	[verb]	act as	[noun prep]	A2
+	d:	[adj]	as one	[prep adj]	A1
+	d:	[verb]	be into	[verb prep]	A1
+	c:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	change into	[noun prep]	A1
+	d:	[conj]	function as	[verb prep]	A2
+	d:	[adj]	most another	[adv det]	A2
+	d:	[adj]	most into	[adv prep]	A2
+	d:	[adj]	most act	[adv verb]	B1
+	d:	[pron]	one another	[adj det]	A1
+	d:	[noun]	one into	[adj prep]	A1
+	c:	[noun]	the most	[det adv]	A2
+	d:	[pron]	that one	[prep adj]	A1
+
+
+For example , it 's an enzyme that converts tyrosine , an amino acid found in many foods , into dopamine , a brain chemical that can make you feel active and excited .
+	d:	[verb]	be find	[verb verb]	A1
+	d:	[verb]	be find in	[verb verb prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be into	[verb prep]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	convert into	[verb prep]	B2
+	c:	[phrase]	for example	[prep noun]	A1
+	d:	[adv]	for that	[prep det]	A1
+	c:	[prep]	find in	[verb prep]	A1
+	d:	[adj]	in active	[prep adj]	B1
+	d:	[adj]	in make	[prep verb]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[verb]	make active	[verb adj]	B1
+
+
+A different enzyme breaks down the dopamine into smaller molecules and thereby leaves you feeling more relaxed or even lazy .
+	c:	[verb]	break down	[verb prep]	A1
+	d:	[verb]	break even	[noun adv]	A2
+	d:	[verb]	break into	[noun prep]	A2
+	d:	[adj]	more even	[adv verb]	B1
+
+
+Different enzymes make and degrade the more than 300 brain chemicals that influence thinking , acting , and feeling .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[adj]	more feeling	[adv noun]	B1
+	d:	[adj]	more act	[adj verb]	B1
+	c:	[adv]	more than	[adj prep]	B1
+	d:	[adv]	more than that	[adj prep det]	B1
+
+
+The brain and body are built by DNA , and everyone 's DNA is pretty much the same .
+	d:	[verb]	be same	[verb adj]	A1
+	d:	[verb]	be the same	[verb det adj]	A1
+	d:	[adv]	by much	[prep adj]	A1
+	d:	[adv]	by the	[prep det]	A1
+	d:	[adj]	much same	[adv adj]	A1
+	c:	[adj]	much the same	[adv det adj]	A1
+	c:	[adv]	pretty much	[adv adv]	A2
+
+
+We all have 99.9 percent the same DNA as Michael Jordan , Albert Einstein , Elizabeth Taylor , Charles Manson , Julius Caesar , Julia Child , and Jules Verne .
+	d:	[adv]	all same	[det adj]	A1
+	d:	[adv]	all the same	[det det adj]	A1
+	d:	[adj]	same as	[adj prep]	A1
+
+
+All of them and everyone who has ever lived have the same 100,000 or so genes , which are organized into the same 23 chromosomes .
+	d:	[adv]	all same	[det adj]	A1
+	d:	[adv]	all the same	[det det adj]	A1
+	d:	[adv]	and so	[conj adv]	A2
+	d:	[verb]	be into	[verb prep]	A1
+	d:	[verb]	be same	[verb adj]	A1
+	d:	[verb]	be the same	[verb det adj]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[noun]	live be	[verb verb]	A1
+
+
+But `` pretty much the same '' is not exactly the same .
+	d:	[verb]	be same	[verb adj]	A1
+	d:	[verb]	be the same	[verb det adj]	A1
+	d:	[adj]	much same	[adv adj]	A1
+	c:	[adj]	much the same	[adv det adj]	A1
+	c:	[adv]	not exactly	[adv adv]	A2
+	c:	[adv]	pretty much	[adv adv]	A2
+
+
+There are differences in DNA?about 0.1 percent , or 1 bit out of every 1,000 .
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be out of	[verb prep prep]	A1
+	d:	[adv]	in out	[prep adv]	A1
+	c:	[prep]	out of	[prep prep]	A1
+
+
+Considering that there are 3 billion chemical bases in question , the differences matter .
+	d:	[verb]	be in	[verb prep]	A1
+	c:	[conj]	consider that	[verb det]	A2
+	d:	[noun]	in difference	[prep noun]	A1
+	d:	[adv]	in matter	[prep noun]	A1
+	c:	[adj]	in question	[prep noun]	A1
+	d:	[adv]	that be	[det verb]	A1
+
+
+Where Michael Jordan 's DNA says `` G , '' Michael Jackson 's may say `` C , '' and Andrew Jackson 's said `` T , '' while Jack the Ripper 's said `` A. '' There are roughly 3 million such differences between individuals , and these differences are responsible for all the inherited aspects of the variations among people , from eye color to height to personality or intelligence .
+	d:	[adv]	and all	[conj det]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be height	[verb noun]	B1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	be responsible for	[verb adj prep]	B1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[prep]	responsible for	[adj prep]	B1
+	d:	[noun]	the eye	[det noun]	A1
+	d:	[noun]	the people	[det noun]	A1
+
+
+It 's hard to believe that such a tiny difference?onetenth of 1 percent?could make such a great difference in how people turn out , yet this percentage is actually an exaggeration .
+	d:	[adj]	a 1	[det adj]	unknown
+	d:	[noun]	a people	[det noun]	A1
+	d:	[adj]	a turn	[det noun]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	believe in	[verb prep]	A1
+	d:	[noun]	great people	[adj noun]	A1
+	d:	[adj]	hard believe	[adv verb]	A1
+	d:	[adj]	hard make out	[adv verb prep]	A1
+	c:	[adj]	hard to believe	[adv prep verb]	A1
+	d:	[adj]	hard to make out	[adv prep verb prep]	A1
+	d:	[noun]	how be	[XXXXX verb]	A1
+	d:	[adv]	in out	[prep adv]	A1
+	d:	[adv]	in this	[prep det]	A1
+	d:	[adv]	in turn	[prep noun]	A1
+	d:	[verb]	make out	[verb prep]	A1
+	d:	[verb]	make a difference	[verb det noun]	A1
+	d:	[verb]	make difference	[verb noun]	A1
+	d:	[adv]	of this	[prep det]	A1
+	d:	[adj]	such such	[adj adj]	A2
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	to a turn	[prep det noun]	A1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	to turn	[prep verb]	A1
+	c:	[verb]	turn out	[verb prep]	A1
+	d:	[verb]	turn out be	[verb prep verb]	A1
+
+
+Many of the 3 million variations do n't mean anything as far as we know , so there are even fewer differences that matter .
+	c:	[prep]	as far as	[prep adv prep]	A2
+	d:	[adj]	as be	[adv verb]	A2
+	c:	[verb]	be even	[verb adv]	A2
+	d:	[noun]	not far	[adv adv]	A2
+	d:	[verb]	not know	[adv verb]	A1
+	d:	[pron]	not anything	[adv noun]	A1
+	d:	[adj]	not there	[adv adv]	A1
+	d:	[conj]	so that	[adv prep]	A2
+
+
+If you still do n't believe that 0.1 percent of DNA could be responsible for so many differences , consider the fact that human DNA differs from chimpanzee DNA by only 1 to 2 percent ; your DNA and a chimp 's are at least 98 percent the same .
+	c:	[adv]	at least	[prep adj]	B2
+	c:	[verb]	be at	[verb prep]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	c:	[verb]	be responsible for	[verb adj prep]	B1
+	d:	[verb]	be same	[verb adj]	A1
+	d:	[verb]	be the same	[verb det adj]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adv]	by the	[prep det]	A1
+	d:	[conj]	consider that	[verb det]	A2
+	c:	[adv]	could be	[other verb]	A1
+	d:	[verb]	do for	[verb prep]	A1
+	d:	[adv]	for fact	[prep noun]	A2
+	d:	[adv]	for that	[prep det]	A1
+	d:	[noun]	human be	[adj verb]	A2
+	d:	[prep]	if not	[prep adv]	A1
+	d:	[conj]	if only	[prep adv]	A1
+	d:	[adv]	not least	[adv adj]	B2
+	d:	[adv]	not the least	[adv det adj]	B2
+	d:	[verb]	not consider	[adv verb]	A2
+	d:	[prep]	not for	[adv prep]	A1
+	d:	[adj]	not responsible	[adv adj]	B1
+	d:	[adj]	not many	[adv adj]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	c:	[prep]	responsible for	[adj prep]	B1
+	d:	[conj]	so that	[adv prep]	A2
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	that be to be	[det verb prep verb]	A1
+	d:	[adj]	that be fact	[det verb noun]	A2
+	d:	[adj]	that fact	[noun noun]	B2
+	c:	[noun]	the fact	[det noun]	A2
+
+
+Yet this seemingly `` fine print '' of DNA instructions is the reason humans can do calculus , compose poetry , and build cathedrals , while chimps pick bugs off each other and eat them .
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[verb]	be off	[verb prep]	A1
+	c:	[verb]	bug off	[noun prep]	A2
+	c:	[verb]	can do	[other verb]	A1
+	c:	[pron]	each other	[det adj]	A2
+	c:	[noun]	fine print	[adj noun]	B1
+	d:	[verb]	pick off	[verb prep]	A1
+
+
+Humans have pretty much the same DNA as a chimp because that 's where we came from ; and the chimp is close to the ape because that 's where he came from ; and so on down the line to fish and reptiles and even single-cell organisms such as yeast .
+	d:	[noun]	a line	[det noun]	A1
+	d:	[adj]	and and on	[conj conj prep]	A1
+	d:	[adj]	and on	[conj prep]	A1
+	c:	[adv]	and so	[conj adv]	A2
+	c:	[adj]	and so on	[conj adv prep]	A2
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[adv]	as such	[prep adj]	A2
+	d:	[prep]	as to	[prep prep]	A1
+	c:	[verb]	be close to	[verb adj prep]	A1
+	d:	[verb]	be come	[verb verb]	A1
+	d:	[verb]	be even	[verb adv]	A2
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be on to	[verb prep prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	come be	[verb verb]	A1
+	d:	[verb]	come close	[verb adv]	A1
+	d:	[verb]	come close to	[verb adv prep]	A1
+	d:	[verb]	come down	[verb prep]	A1
+	c:	[verb]	come from	[verb prep]	A1
+	d:	[verb]	come on	[verb prep]	A1
+	d:	[verb]	come on to	[verb prep prep]	A1
+	d:	[verb]	come to be	[verb prep verb]	A1
+	d:	[verb]	close down	[adv prep]	A1
+	d:	[verb]	close on	[adv prep]	A1
+	c:	[adv]	close to	[adv prep]	A1
+	d:	[verb]	come to	[verb prep]	A1
+	d:	[adj]	down line	[adv noun]	A1
+	c:	[adj]	down the line	[prep det noun]	A1
+	d:	[prep]	down to	[adv prep]	A1
+	d:	[conj]	from where	[prep XXXXX]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have come	[verb verb]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[noun]	human be	[adj verb]	A2
+	d:	[conj]	much as	[adv prep]	A1
+	d:	[adj]	much same	[adv adj]	A1
+	c:	[adj]	much the same	[adv det adj]	A1
+	d:	[adj]	on line	[prep noun]	A1
+	d:	[adj]	on the line	[prep det noun]	A1
+	d:	[adj]	on to	[prep prep]	A1
+	c:	[adv]	pretty much	[adv adv]	A2
+	c:	[conj]	such as	[adj prep]	A2
+	d:	[adj]	same as	[adj prep]	A1
+	c:	[adv]	that be	[det verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	that be to be	[det verb prep verb]	A1
+	c:	[noun]	the line	[det noun]	A1
+	d:	[adj]	to come	[prep verb]	A1
+
+
+This evolutionary conservation has a beneficial side effect : we can often figure out what a human gene does by looking at a similar gene in simpler organisms .
+	d:	[verb]	can do	[other verb]	A1
+	d:	[verb]	do in	[verb prep]	A1
+	d:	[verb]	figure in	[noun prep]	A2
+	c:	[verb]	figure out	[noun prep]	A2
+	d:	[verb]	have a do	[verb det verb]	A1
+	d:	[verb]	have a look	[verb det noun]	A1
+	d:	[verb]	have at	[verb prep]	A1
+	d:	[verb]	have do	[verb verb]	A1
+	d:	[verb]	have effect	[verb noun]	A2
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have look	[verb noun]	A1
+	d:	[verb]	have out	[verb prep]	A1
+	c:	[verb]	look at	[verb prep]	A1
+	d:	[noun]	look in	[noun prep]	A1
+	d:	[verb]	out do	[adv verb]	A1
+	d:	[noun]	out look	[prep noun]	A1
+	c:	[noun]	side effect	[adj noun]	A2
+	d:	[noun]	we a	[perPro det]	A1
+	d:	[noun]	what do	[det verb]	A1
+
+
+One of the most common misconceptions about genetics is that there are genes `` for '' things .
+	d:	[adj]	about be	[prep verb]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be there	[verb XXXXX]	A1
+	d:	[verb]	be there for	[verb XXXXX prep]	A1
+	d:	[adj]	most about	[adv adv]	A2
+	d:	[adj]	most for	[adv prep]	A2
+	d:	[noun]	one thing	[adj noun]	A1
+	d:	[adv]	that be	[det verb]	A1
+	c:	[noun]	the most	[det adv]	A2
+	d:	[noun]	the thing	[det noun]	A1
+
+
+Some people have the genes `` for '' breast cancer , shyness , blue eyes , and so they must have the disease , condition , or trait .
+	c:	[adv]	and so	[conj adv]	A2
+	c:	[adj]	blue eye	[adj verb]	A1
+	d:	[noun]	gene disease	[noun noun]	B1
+	d:	[verb]	have for	[verb prep]	A1
+	c:	[noun]	some people	[det noun]	A1
+	d:	[noun]	the blue	[det noun]	A1
+	d:	[noun]	the eye	[det noun]	A1
+
+
+This is what people tend to think when they hear about a gene `` for '' depression , or a `` gay gene , '' or `` obesity gene . ''
+	d:	[verb]	be about	[verb prep]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be think	[verb verb]	A1
+	d:	[verb]	hear for	[verb prep]	A1
+	d:	[verb]	think about	[verb prep]	A1
+	d:	[noun]	what for	[det prep]	A1
+
+
+If that were true , it would be easy enough to undergo testing to see what genes you have , and therefore what you ought to worry about .
+	d:	[verb]	be about	[verb prep]	A1
+	d:	[verb]	be and about	[verb conj prep]	A1
+	d:	[verb]	be enough	[verb adv]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[verb]	be true	[verb adj]	A1
+	d:	[verb]	be true to	[verb adj prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[adj]	be see	[verb verb]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	c:	[verb]	ought to	[other prep]	unknown
+	d:	[verb]	see about	[verb prep]	A1
+	d:	[verb]	see to	[verb prep]	A1
+	c:	[adv]	that be	[det verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[adj]	that be it	[det verb perPro]	A1
+	d:	[noun]	true be	[adj verb]	A1
+	d:	[noun]	what what	[det det]	A1
+	c:	[adj]	would be	[other verb]	A1
+	c:	[verb]	worry about	[noun prep]	A1
+
+
+That 's not the way it works .
+	d:	[verb]	not work	[adv verb]	A1
+	c:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the work	[det noun]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[adj]	that be it	[det verb perPro]	A1
+	c:	[noun]	way it	[noun perPro]	A1
+
+
+Everyone has a `` mood gene , '' and a `` sexual orientation gene , '' and a gene that regulates body weight .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	have weight	[verb noun]	A2
+	c:	[noun]	sexual orientation	[adj noun]	C1
+
+
+The difference is that the genes come in different varieties or flavors .
+	d:	[verb]	be come	[verb verb]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	c:	[verb]	come in	[verb prep]	A1
+	c:	[adj]	in different	[prep adj]	A1
+
+
+For example , maybe the `` mood gene , '' which everyone has , makes a receptor protein that responds to the hormones released under stress .
+	c:	[phrase]	for example	[prep noun]	A1
+	d:	[adv]	for that	[prep det]	A1
+	d:	[verb]	have make	[verb verb]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[verb]	make to	[verb prep]	A1
+	c:	[verb]	respond to	[verb prep]	B1
+	c:	[adj]	under stress	[prep noun]	B1
+
+
+Maybe the only difference between two people is that one has a gene with T at position 4,356 , whereas the other person has a C at the same spot .
+	d:	[noun]	a person	[det noun]	A1
+	d:	[adv]	a t	[det noun]	unknown
+	d:	[verb]	be at	[verb prep]	A1
+	d:	[verb]	be same	[verb adj]	A1
+	d:	[verb]	be the same	[verb det adj]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	have at	[verb prep]	A1
+	d:	[noun]	one spot	[adj noun]	A1
+	d:	[adj]	one other	[adj adj]	A2
+	d:	[adj]	one the other	[adj det adj]	A2
+	d:	[adj]	only one	[adv adj]	A1
+	d:	[adj]	one same	[adj adj]	A1
+	d:	[adj]	one the same	[adj det adj]	A1
+	c:	[pron]	that one	[prep adj]	A1
+	d:	[pron]	that other	[prep adj]	A2
+	d:	[noun]	the people	[det noun]	A1
+	d:	[adj]	the two	[det adj]	A1
+
+
+That might be enough to affect the strength of the electrical current flowing through the cells , so the same amount of hormone produces a gentle buzz in one person and a walloping jolt in another .
+	d:	[adj]	a one	[det adj]	A1
+	d:	[noun]	a person	[det noun]	A1
+	c:	[prep]	amount of	[noun prep]	B1
+	d:	[verb]	be affect	[verb verb]	B1
+	d:	[verb]	be current	[verb adj]	B1
+	c:	[verb]	be enough	[verb adv]	A2
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be same	[verb adj]	A1
+	d:	[verb]	be the same	[verb det adj]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[noun]	current cell	[adj noun]	B1
+	d:	[adv]	in person	[prep noun]	A1
+	c:	[adv]	might be	[other verb]	A2
+	d:	[pron]	one another	[adj det]	A1
+	d:	[adv]	that be	[det verb]	A1
+	d:	[pron]	that one	[prep adj]	A1
+	d:	[prep]	the amount of	[det noun prep]	B1
+	d:	[prep]	to amount of	[prep verb prep]	B1
+	d:	[prep]	to the amount of	[prep det noun prep]	B1
+
+
+That single detail ?
+	notfound
+
+
+1 letter out of 3 billion?could mean the difference between a mostly cheerful person and one who is easily depressed .
+	d:	[adj]	a one	[det adj]	A1
+	d:	[noun]	a person	[det noun]	A1
+	c:	[prep]	out of	[prep prep]	A1
+
+
+Both people have the same gene , but the fine print makes all the difference .
+	c:	[noun]	fine print	[adj noun]	B1
+	d:	[verb]	have make	[verb verb]	A1
+	d:	[verb]	make difference	[verb noun]	A1
+	d:	[adj]	same difference	[adj noun]	A1
+
+
+Imagine a room filled with 30,000 books .
+	notfound
+
+
+Here the difference would be the equivalent of a single letter in a single book .
+	d:	[verb]	be equivalent	[verb adj]	C1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[noun]	the book	[det noun]	A1
+	d:	[adj]	the letter	[det noun]	A1
+	c:	[adj]	would be	[other verb]	A1
+
+

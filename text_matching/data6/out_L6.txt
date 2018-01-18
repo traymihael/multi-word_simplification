@@ -1,0 +1,254 @@
+Metaphor is for most people a device of the poetic imagination and the rhetorical flourish?a matter of extraordinary rather than ordinary language .
+
+
+Moreover , metaphor is typically viewed as characteristic of language alone , a matter of words rather than thought or action .
+
+
+For this reason , most people think they can get along perfectly well without metaphor .
+	notfound
+
+
+We have found , on the contrary , that metaphor is pervasive in everyday life , not just in language but in thought and action .
+	notfound
+
+
+Our ordinary conceptual system , in terms of which we both think and act , is fundamentally metaphorical in nature .
+	notfound
+
+
+The concepts that govern our thought are not just matters of the intellect .
+	notfound
+
+
+They also govern our everyday functioning , down to the most mundane details .
+
+
+Our concepts structure what we perceive , how we get around in the world , and how we relate to other people .
+	notfound
+
+
+Our conceptual system thus plays a central role in defining our everyday realities .
+	notfound
+
+
+If we are right in suggesting that our conceptual system is largely metaphorical , then the way we think , what we experience , and what we do every day is very much a matter of metaphor .
+	notfound
+
+
+But our conceptual system is not something we are normally aware of .
+	notfound
+
+
+In most of the little things we do every day , we simply think and act more or less automatically along certain lines .
+	notfound
+
+
+Just what these lines are is by no means obvious .
+	d:	by means	[prep noun]	B2
+			(PP)[(DT)]
+		strongly	0.44101742326989263
+		clearly	0.36913586349044497
+		positively	0.27588627808249083
+		absolutely	0.27311631145908055
+		powerful	0.2672881147611338
+	c:	by no means	[prep det noun]	B2
+		no	0.7263742030576689
+		little	0.5018641802896633
+		practically	0.495945162668301
+		simply	0.45341980946959637
+		seldom	0.41577750563342003
+
+
+One way to find out is by looking at language .
+	notfound
+
+
+Since communication is based on the same conceptual system that we use in thinking and acting , language is an important source of evidence for what that system is like .
+	notfound
+
+
+Primarily on the basis of linguistic evidence , we have found that most of our ordinary conceptual system is metaphorical in nature .
+	notfound
+
+
+And we have found a way to begin to identify in detail just what the metaphors are that structure how we perceive , how we think , and what we do .
+	notfound
+
+
+To give some idea of what it could mean for a concept to be metaphorical and for such a concept to structure an everyday activity , let us start with the concept ARGUMENT and the conceptual metaphor ARGUMENT IS WAR .
+	notfound
+
+
+This metaphor is reflected in our everyday language by a wide variety of expressions : ARGUMENT IS WAR Your claims are indefensible .
+	notfound
+
+
+He attacked every weak point in my argument .
+
+
+His criticisms were right on target .
+
+
+I demolished his argument .
+	notfound
+
+
+I 've never won an argument with him .
+	notfound
+
+
+You disagree ?
+	notfound
+
+
+Okay , shoot !
+	notfound
+
+
+If you use that strategy , he 'll wipe you out .
+	notfound
+
+
+He shot down all of my arguments .
+
+
+It is important to see that we do n't just talk about arguments in terms of war .
+	notfound
+
+
+We can actually win or lose arguments .
+	notfound
+
+
+We see the person we are arguing with as an opponent .
+	notfound
+
+
+We attack his positions and we defend our own .
+	notfound
+
+
+We gain and lose ground .
+
+
+We plan and use strategies .
+	notfound
+
+
+If we find a position indefensible , we can abandon it and take a new line of attack .
+	notfound
+
+
+Many of the things we do in arguing are partially structured by the concept of war .
+	notfound
+
+
+Though there is no physical battle , there is a verbal battle , and the structure of an argument?attack , defense , counterattack , etc. ?
+	notfound
+
+
+reflects this .
+	notfound
+
+
+It is in this sense that the ARGUMENT IS WAR metaphor is one that we live by in this culture ; it structures the actions we perform in arguing .
+	notfound
+
+
+Try to imagine a culture where arguments are not viewed in terms of war , where no one wins or loses , where there is no sense of attacking or defending , gaining or losing ground .
+	notfound
+
+
+Imagine a culture where an argument is viewed as a dance , the participants are seen as performers , and the goal is to perform in a balanced and aesthetically pleasing way .
+	c:	aesthetically please	[adv verb]	unknown
+
+
+In such a culture , people would view arguments differently , experience them differently , carry them out differently , and talk about them differently .
+
+
+But we would probably not view them as arguing at all : they would simply be doing something different .
+	notfound
+
+
+It would seem strange even to call what they were doing `` arguing . ''
+	notfound
+
+
+Perhaps the most neutral way of describing this difference between their culture and ours would be to say that we have a discourse form structured in terms of battle and they have one structured in terms of dance .
+	notfound
+
+
+This is an example of what it means for a metaphorical concept , namely , ARGUMENT IS WAR , to structure -LRB- at least in part -RRB- what we do and how we understand what we are doing when we argue .
+	c:	at least	[prep adj]	B2
+		slightly	0.24320432280416113
+		relatively	0.2273319856454503
+		completely	0.14628428534309845
+		halfway	0.14587464252104518
+		totally	0.14221425303085886
+
+
+The essence of metaphor is understanding and experiencing one kind of thing in terms of another .
+	notfound
+
+
+It is not that arguments are a subspecies of war .
+	notfound
+
+
+Arguments and wars are different kinds of things?verbal discourse and armed conflict?and the actions performed are different kinds of actions .
+	notfound
+
+
+But ARGUMENT is partially structured , understood , performed , and talked about in terms of WAR .
+	notfound
+
+
+The concept is metaphorically structured , the activity is metaphorically structured , and , consequently , the language is metaphorically structured .
+	notfound
+
+
+Moreover , this is the ordinary way of having an argument and talking about one .
+	notfound
+
+
+The normal way for us to talk about attacking a position is to use the words '' attack a position . ''
+	notfound
+
+
+Our conventional ways of talking about arguments presuppose a metaphor we are hardly ever conscious of .
+	notfound
+
+
+The metaphor is not merely in the words we use?it is in our very concept of an argument .
+	notfound
+
+
+The language of argument is not poetic , fanciful , or rhetorical ; it is literal .
+	notfound
+
+
+We talk about arguments that way because we conceive of them that way?and we act according to the way we conceive of things .
+	c:	accord to	[verb prep]	unknown
+	c:	conceive of	[verb prep]	B2
+		neglect	0.19045612899943137
+		disregard	0.16060897945277788
+		create	0.0807099848695414
+		see	0.03595400589445173
+		imagine	0.028313860607051326
+
+
+The most important claim we have made so far is that metaphor is not just a matter of language , that is , of mere words .
+	notfound
+
+
+We shall argue that , on the contrary , human thought processes are largely metaphorical .
+
+
+This is what we mean when we say that the human conceptual system is metaphorically structured and defined .
+	notfound
+
+
+Metaphors as linguistic expressions are possible precisely because there are metaphors in a person 's conceptual system .
+	notfound
+
+

@@ -1,0 +1,629 @@
+One of the most provocative viral YouTube videos in the past two years begins mundanely enough : a one-year-old girl plays with an iPad , sweeping her fingers across its touch screen and shuffling groups of icons .
+	d:	[adv]	begin with	[verb prep]	A1
+	d:	[adj]	in a group	[prep det noun]	A1
+	d:	[adj]	in begin	[prep verb]	A1
+	d:	[noun]	in group	[prep noun]	A1
+	d:	[adv]	in past	[prep noun]	B1
+	d:	[adj]	in play	[prep noun]	A1
+	c:	[adv]	in the past	[prep det noun]	B1
+	d:	[adv]	in touch	[prep noun]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[adj]	most across	[adv prep]	A2
+	d:	[adj]	most begin	[adv verb]	A2
+	d:	[adj]	most shuffling	[adv noun]	unknown
+	d:	[adj]	most group	[adv verb]	B1
+	d:	[adj]	most play	[adv verb]	A2
+	d:	[adj]	most with	[adv prep]	A2
+	d:	[noun]	one two	[adj adj]	A1
+	d:	[pron]	one of two	[adj prep adj]	A1
+	c:	[verb]	play with	[verb prep]	A1
+	c:	[noun]	the most	[det adv]	A2
+	c:	[noun]	the past	[det noun]	B1
+	d:	[adj]	the two	[det adj]	A1
+
+
+In following scenes , she appears to pinch , swipe , and prod the pages of paper magazines as though they , too , are screens .
+	d:	[verb]	appear as	[verb prep]	A2
+	d:	[verb]	appear be	[verb verb]	A2
+	d:	[verb]	appear to be	[verb prep verb]	A2
+	d:	[adj]	as be	[adv verb]	A2
+	c:	[conj]	as though	[prep prep]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	to be	[prep verb]	A1
+
+
+Melodramatically , the video replays these gestures in close-up .
+	notfound
+
+
+For the girl 's father , the video?A Magazine Is an iPad That Does Not Work?is evidence of a generational transition .
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[noun]	be evidence	[verb noun]	A2
+	d:	[adv]	for that	[prep det]	A1
+
+
+In an accompanying description , he writes , `` Magazines are now useless and impossible to understand , for digital natives '' ?
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be understand	[verb verb]	A2
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	in write	[prep verb]	A1
+	d:	[verb]	write to	[verb prep]	A1
+
+
+that is , for people who have been interacting with digital technologies from a very early age , surrounded not only by paper books and magazines but also by smartphones , Kindles , and iPads .
+	d:	[verb]	be early	[verb adj]	A2
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[noun]	by and by	[prep conj prep]	A1
+	d:	[adj]	by book	[prep noun]	A1
+	d:	[adv]	by by	[prep prep]	A1
+	d:	[adj]	for age	[prep noun]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[noun]	have not	[verb adv]	A1
+	d:	[prep]	surround by	[verb prep]	B1
+	c:	[adv]	that be	[det verb]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+
+
+Whether or not his daughter truly expected the magazines to behave like an iPad , the video brings into focus a question that is relevant to far more than the youngest among us : How exactly does the technology we use to read change the way we read ?
+	d:	[verb]	be read	[verb verb]	A1
+	c:	[verb]	be relevant	[verb adj]	B2
+	c:	[verb]	be relevant to	[verb adj prep]	B2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be use	[verb noun]	A2
+	d:	[verb]	bring focus	[verb noun]	B2
+	d:	[verb]	bring into be	[verb prep verb]	A1
+	d:	[verb]	bring into question	[verb prep noun]	A1
+	d:	[verb]	bring into use	[verb prep noun]	A2
+	d:	[verb]	bring to	[verb prep]	A1
+	c:	[adj]	bring into	[verb prep]	A1
+	d:	[verb]	change way	[noun noun]	A1
+	d:	[noun]	like be	[prep verb]	A1
+	c:	[adv]	more than	[adj prep]	B1
+	d:	[adj]	more way	[adj noun]	B1
+	d:	[adj]	not do	[adv verb]	A1
+	d:	[adv]	not exactly	[adv adv]	A2
+	d:	[adj]	not expect	[adv verb]	A2
+	d:	[noun]	not far	[adv adv]	A2
+	d:	[adj]	not use	[adv verb]	A1
+	d:	[adj]	not use to	[adv verb prep]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	c:	[conj]	or not	[conj adv]	A1
+	d:	[conj]	or not exactly	[conj adv adv]	A2
+	c:	[prep]	relevant to	[adj prep]	B2
+	c:	[adv]	that be	[det verb]	A1
+	d:	[pron]	the like	[det adj]	B1
+	c:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	to do	[prep verb]	A1
+	d:	[pron]	the question	[det noun]	A1
+	c:	[adj]	use to	[verb prep]	A1
+	c:	[adv]	whether or not	[prep conj adv]	A1
+	d:	[adv]	whether not	[prep adv]	A1
+
+
+Since at least the 1980s researchers in psychology , computer engineering , and library and information science have published more than one hundred studies exploring differences in how people read on paper and on screens .
+	d:	[adj]	and and on	[conj conj prep]	A1
+	c:	[adj]	and on	[conj prep]	A1
+	d:	[adj]	and on and on	[conj prep conj prep]	A1
+	d:	[adj]	and on on	[conj prep prep]	A1
+	c:	[adv]	at least	[prep adj]	B2
+	d:	[adj]	at one	[prep adj]	A1
+	d:	[noun]	computer science	[noun noun]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	d:	[noun]	in difference	[prep noun]	A1
+	d:	[adj]	in on	[prep prep]	A1
+	d:	[noun]	in science	[prep noun]	A1
+	c:	[noun]	information science	[noun noun]	A1
+	d:	[noun]	information study	[noun noun]	A2
+	d:	[noun]	library and information study	[noun conj noun noun]	A2
+	d:	[noun]	library information study	[noun noun noun]	A2
+	d:	[noun]	library science	[noun noun]	A1
+	d:	[adj]	more on	[adv prep]	B1
+	d:	[adj]	more explore	[adv verb]	B1
+	c:	[adv]	more than	[adj prep]	B1
+	d:	[adv]	on and on	[prep conj prep]	A1
+	d:	[adv]	on on	[prep prep]	A1
+	c:	[adv]	on paper	[prep noun]	A1
+	c:	[verb]	read on	[verb prep]	A1
+	d:	[noun]	the people	[det noun]	A1
+
+
+Before 1992 most experiments concluded that people read stories and articles on screens more slowly and remember less about them .
+	d:	[adj]	and on	[conj prep]	A1
+	d:	[adj]	more about	[adv prep]	B1
+	d:	[adv]	more less	[adv adj]	B1
+	d:	[adj]	most about	[adv adv]	A2
+	d:	[adj]	most on	[adv prep]	A2
+	c:	[adj]	most experiment	[adv verb]	B2
+	d:	[adj]	most conclude	[adv verb]	B1
+	d:	[verb]	read on	[verb prep]	A1
+
+
+As the resolution of screens on all kinds of devices sharpened , however , a more mixed set of findings began to emerge .
+	c:	[noun]	all kind of	[det noun prep]	A1
+	d:	[adv]	all more	[det adj]	B1
+	d:	[adj]	all set	[det verb]	A1
+	d:	[prep]	as to	[prep prep]	A1
+	c:	[adv]	kind of	[noun prep]	A1
+	d:	[adj]	more begin	[adv verb]	B1
+	d:	[adj]	more emerge	[adv verb]	B1
+	d:	[adj]	more finding	[adj noun]	B1
+	d:	[adj]	of kind	[prep noun]	A1
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[verb]	set to	[verb prep]	A1
+
+
+Recent surveys suggest that although most people still prefer paper ?
+	d:	[adj]	most still	[adv verb]	A2
+
+
+especially when they need to concentrate for a long time?attitudes are changing as tablets and e-reading technology improve and as reading digital texts for facts and fun becomes more common .
+	d:	[prep]	as for	[prep prep]	A1
+	d:	[verb]	be common	[verb adj]	A2
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be read	[verb verb]	A1
+	d:	[verb]	be become	[verb verb]	A1
+	d:	[adv]	for a fact	[prep det noun]	A2
+	c:	[adv]	for fact	[prep noun]	A2
+	d:	[verb]	long for	[adv prep]	A2
+	d:	[adj]	to be	[prep verb]	A1
+
+
+In the United States , e-books currently make up more than 20 percent of all books sold to the general public .
+	c:	[noun]	general public	[adj noun]	B1
+	d:	[adv]	in all	[prep det]	A1
+	d:	[prep]	in general	[prep adj]	B1
+	d:	[adj]	in make	[prep verb]	A1
+	d:	[adv]	in public	[prep noun]	A2
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	make to	[verb prep]	A1
+	c:	[verb]	make up	[verb prep]	A1
+	d:	[verb]	make up to	[verb prep prep]	A1
+	d:	[verb]	make book	[verb noun]	A1
+	d:	[verb]	make of	[verb prep]	A1
+	d:	[verb]	make public	[verb noun]	A2
+	d:	[adj]	make up of	[verb prep prep]	A1
+	c:	[adv]	more than	[adj prep]	B1
+	d:	[noun]	the book	[det noun]	A1
+	d:	[noun]	the States	[det noun]	unknown
+	d:	[noun]	the public	[det noun]	A2
+	c:	[noun]	United States	[noun noun]	unknown
+	d:	[adj]	up to	[adv prep]	A2
+
+
+Despite all the increasingly user-friendly and popular technology , most studies published since the early 1990s confirm earlier conclusions : paper still has advantages over screens as a reading medium .
+	d:	[adj]	all over	[det prep]	A1
+	c:	[verb]	have advantage	[verb noun]	A2
+	d:	[verb]	have over	[verb prep]	A1
+	d:	[adj]	most confirm	[adv verb]	B1
+	d:	[adj]	most have	[adv verb]	A2
+	d:	[adj]	most still	[adv verb]	A2
+	d:	[noun]	the most	[det adv]	A2
+
+
+Together , laboratory experiments , polls , and consumer reports indicate that digital devices prevent people from efficiently navigating long texts , which may subtly inhibit reading comprehension .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[conj]	from which	[prep det]	A1
+	d:	[prep]	that may	[det other]	A1
+
+
+Compared with paper , screens may also drain more of our mental resources while we are reading and make it a little harder to remember what we read when we are done .
+	c:	[determiner]	a little	[det adj]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	c:	[verb]	be read	[verb verb]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be little	[verb adv]	A1
+	d:	[verb]	be remember	[verb verb]	A1
+	c:	[verb]	compare with	[verb prep]	A2
+	d:	[verb]	make to	[verb prep]	A1
+	d:	[verb]	make do	[verb verb]	A1
+	c:	[verb]	make it	[verb perPro]	A1
+	d:	[adj]	more to be	[adj prep verb]	B1
+	d:	[verb]	make remember	[verb verb]	A1
+	d:	[verb]	make a to do	[verb det prep verb]	A1
+	d:	[verb]	make to do	[verb prep verb]	A1
+	d:	[adj]	more make do	[adv verb verb]	B1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	to do	[prep verb]	A1
+	c:	[verb]	to remember	[prep verb]	A1
+	d:	[noun]	we a	[perPro det]	A1
+	d:	[adj]	with it	[prep perPro]	A1
+	d:	[noun]	what do	[det verb]	A1
+	d:	[noun]	what be do	[other verb verb]	A1
+	d:	[noun]	what be	[other verb]	A1
+
+
+Whether they realize it or not , people often approach computers and tablets with a state of mind less conducive to learning than the one they bring to paper .
+	d:	[adj]	a one	[det adj]	A1
+	c:	[verb]	bring to	[verb prep]	A1
+	c:	[prep]	conducive to	[adj prep]	unknown
+	d:	[noun]	learn one	[verb adj]	A1
+	d:	[prep]	less than	[adj prep]	A2
+	d:	[adv]	not less	[adv adj]	A2
+	d:	[pron]	not the one	[adv det adj]	A1
+	d:	[verb]	not mind	[adv noun]	A1
+	d:	[adv]	not often	[adv adv]	A1
+	d:	[pron]	not one	[adv adj]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[adj]	of mind to	[prep noun prep]	A1
+	c:	[conj]	or not	[conj adv]	A1
+	c:	[adj]	of mind	[prep noun]	A1
+	d:	[noun]	state paper	[noun noun]	A2
+	d:	[noun]	state mind	[noun noun]	A2
+	c:	[noun]	state of mind	[noun prep noun]	A2
+	d:	[adv]	whether or not	[prep conj adv]	A1
+	d:	[adv]	whether not	[prep adv]	A1
+
+
+And e-readers fail to re-create certain tactile experiences of reading on paper , the absence of which some find unsettling .
+	d:	[adj]	and on	[conj prep]	A1
+	c:	[adv]	on paper	[prep noun]	A1
+	d:	[adv]	to which	[prep det]	A1
+
+
+Understanding how reading on paper differs from reading on screens requires some explanation of how the human brain interprets written language .
+	d:	[adv]	on on	[prep prep]	A1
+	c:	[adv]	on paper	[prep noun]	A1
+	d:	[noun]	on the brain	[prep det noun]	A1
+	d:	[noun]	on brain	[prep noun]	A1
+	c:	[verb]	read on	[verb prep]	A1
+	c:	[noun]	write language	[verb noun]	A1
+
+
+Although letters and words are symbols representing sounds and ideas , the brain also regards them as physical objects .
+	notfound
+
+
+As Maryanne Wolf of Tufts University explains in her 2007 book Proust and the Squid , we are not born with brain circuits dedicated to reading , because we did not invent writing until relatively recently in our evolutionary history , around the fourth millennium B.C. .
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[verb]	be bear	[verb verb]	A2
+	d:	[verb]	be bear in	[verb verb prep]	A2
+	d:	[verb]	be bear with	[verb verb prep]	A2
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be invent	[verb verb]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	c:	[verb]	bear with	[noun prep]	A1
+	d:	[adj]	be around	[verb prep]	A1
+	c:	[verb]	dedicate to	[verb prep]	B1
+	d:	[verb]	do in	[verb prep]	A1
+	d:	[adj]	in bear	[prep verb]	A2
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[adj]	in write	[prep verb]	A1
+	d:	[adj]	not do	[adv verb]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[noun]	to do	[prep verb]	A1
+	d:	[verb]	write in	[verb prep]	A1
+
+
+So in childhood the brain improvises a brand-new circuit for reading by weaving together various ribbons of neural tissue devoted to other abilities , such as speaking , motor coordination , and vision .
+	d:	[prep]	by of	[prep prep]	A1
+	c:	[verb]	devote to	[verb prep]	B2
+	d:	[prep]	in to	[prep prep]	A1
+	c:	[conj]	such as	[adj prep]	A2
+
+
+Some of these repurposed brain regions specialize in object recognition : they help us instantly distinguish an apple from an orange , for example , based on their distinct features , yet classify both as fruit .
+	d:	[prep]	a distinct	[det adj]	C1
+	d:	[adj]	apple orange	[noun noun]	A1
+	c:	[verb]	base on	[noun prep]	A2
+	d:	[noun]	distinguish feature	[verb noun]	B1
+	c:	[phrase]	for example	[prep noun]	A1
+	d:	[noun]	for on	[prep prep]	A1
+	d:	[adj]	in distinct	[prep adj]	C1
+	d:	[adj]	in on	[prep prep]	A1
+	d:	[adj]	of help	[prep noun]	A2
+	c:	[verb]	specialize in	[verb prep]	B1
+	d:	[noun]	we a	[perPro det]	A1
+
+
+Similarly , when we learn to read and write , we begin to recognize letters by their particular arrangements of lines , curves , and hollow spaces?a tactile learning process that requires both our eyes and our hands .
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	by hand	[prep noun]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[adj]	hollow eye	[adj verb]	B2
+	d:	[adj]	to letter	[prep noun]	A1
+	d:	[adv]	to eye	[prep noun]	A1
+	d:	[verb]	write by hand	[verb prep noun]	A1
+	d:	[verb]	write to	[verb prep]	A1
+
+
+In recent research by Karin James of Indiana University Bloomington , the reading circuits of five-year-old children crackled with activity when they practiced writing letters by hand but not when they typed letters on a keyboard .
+	d:	[verb]	but on	[verb prep]	B1
+	d:	[adv]	by by	[prep prep]	A1
+	c:	[verb]	by hand	[prep noun]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[adv]	by the	[prep det]	A1
+	d:	[verb]	hand on	[noun prep]	A1
+	d:	[noun]	in activity	[prep noun]	A1
+	d:	[adj]	in hand	[prep noun]	A1
+	d:	[adj]	in on	[prep prep]	A1
+	d:	[adj]	in practice	[prep noun]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[adj]	in write	[prep verb]	A1
+	d:	[adv]	letter by letter	[noun prep noun]	A1
+	d:	[adj]	not on	[adv prep]	A1
+	d:	[adj]	the letter	[det noun]	A1
+	d:	[noun]	type a	[noun noun]	A1
+	d:	[verb]	write by hand	[verb prep noun]	A1
+
+
+And when people read cursive writing or intricate characters such as Japanese kanji , the brain literally goes through the motions of writing , even if the hands are empty .
+	d:	[conj]	as if	[prep prep]	A1
+	d:	[adj]	as be	[adv verb]	A2
+	d:	[adj]	even hand	[adv verb]	A2
+	c:	[conj]	even if	[adv prep]	A2
+	c:	[verb]	go through	[verb prep]	A1
+	d:	[adj]	go through motion	[verb prep noun]	B2
+	c:	[adj]	go through the motion	[verb prep det noun]	B2
+	d:	[verb]	read through	[verb prep]	A1
+	c:	[conj]	such as	[adj prep]	A2
+
+
+Beyond treating individual letters as physical objects , the human brain may also perceive a text in its entirety as a kind of physical landscape .
+	d:	[adv]	in entirety	[prep noun]	unknown
+	d:	[adv]	in kind	[prep noun]	A1
+	c:	[adv]	kind of	[noun prep]	A1
+
+
+When we read , we construct a mental representation of the text .
+	d:	[noun]	we a	[perPro det]	A1
+
+
+The exact nature of such representations remains unclear , but some researchers think they are similar to the mental maps we create of terrain?such as mountains and trails?and of indoor physical spaces , such as apartments and offices .
+	d:	[adv]	as such	[prep adj]	A2
+	d:	[verb]	be create	[verb verb]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	be similar to	[verb adj prep]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	such and such	[adj conj adj]	A2
+	c:	[conj]	such as	[adj prep]	A2
+	d:	[adj]	such such	[adj adj]	A2
+	d:	[verb]	think of	[verb prep]	A1
+	d:	[verb]	think as	[verb prep]	A1
+	d:	[verb]	think of as	[verb prep prep]	A1
+	d:	[verb]	think to	[verb prep]	A1
+
+
+Both anecdotally and in published studies , people report that when trying to locate a particular passage in a book , they often remember where in the text it appeared .
+	c:	[adj]	a particular	[det adj]	B2
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[adv]	in particular	[prep adj]	B2
+	d:	[adj]	in passage	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[verb]	to remember	[prep verb]	A1
+
+
+Much as we might recall that we passed the red farmhouse near the start of a hiking trail before we started climbing uphill through the forest , we remember that we read about Mr. Darcy rebuffing Elizabeth Bennet at a dance on the bottom left corner of the left-hand page in one of the earlier chapters of Jane Austen 's Pride and Prejudice .
+	d:	[adj]	a one	[det adj]	A1
+	d:	[adj]	as one	[prep adj]	A1
+	d:	[adv]	at bottom	[prep noun]	A1
+	d:	[prep]	at bottom of	[prep noun prep]	A1
+	d:	[adj]	at one	[prep adj]	A1
+	d:	[adv]	at the bottom	[prep det noun]	A1
+	d:	[prep]	at the bottom of	[prep det noun prep]	A1
+	d:	[verb]	climb on	[noun prep]	A1
+	c:	[conj]	much as	[adv prep]	A1
+	d:	[adv]	on bottom	[prep noun]	A1
+	d:	[noun]	on left	[prep noun]	A2
+	c:	[adv]	on the bottom	[prep det noun]	A1
+	d:	[noun]	on the left	[prep det noun]	A2
+	d:	[verb]	pass on	[noun prep]	A2
+	d:	[verb]	pass through	[noun prep]	A2
+	d:	[adj]	page one	[noun adj]	A1
+	d:	[verb]	pass in	[noun prep]	A2
+	d:	[verb]	read on	[verb prep]	A1
+	d:	[verb]	start on	[verb prep]	A1
+	d:	[pron]	that one	[prep adj]	A1
+	c:	[noun]	the bottom	[det noun]	A1
+	d:	[noun]	we a	[perPro det]	A1
+
+
+In most cases , paper books have more obvious topography than on-screen text .
+	d:	[conj]	in case	[prep noun]	A1
+	c:	[adj]	in most	[prep adj]	A2
+	c:	[adj]	most case	[adv verb]	A2
+	d:	[adv]	more than	[adj prep]	B1
+	d:	[adj]	most have	[adv verb]	A2
+
+
+An open paper book presents a reader with two clearly defined domains?the left - and right-hand pages?and a total of eight corners with which to orient oneself .
+	c:	[adj]	clearly define	[adv verb]	B1
+	d:	[adj]	open to	[adj prep]	A1
+	d:	[verb]	present oneself	[adj noun]	B1
+	d:	[verb]	total to	[adj prep]	B1
+
+
+You can focus on a single page of a paper book without losing awareness of the whole text .
+	c:	[verb]	focus on	[noun prep]	B2
+	d:	[adv]	on paper	[prep noun]	A1
+	d:	[adv]	on the whole	[prep det noun]	B1
+	d:	[adv]	on whole	[prep noun]	B1
+	c:	[noun]	the whole	[det noun]	B1
+
+
+You can even feel the thickness of the pages you have read in one hand and the pages you have yet to read in the other .
+	d:	[adj]	and other	[conj noun]	A2
+	d:	[adj]	even hand	[adv verb]	A2
+	d:	[verb]	have hand	[verb noun]	A1
+	d:	[verb]	have hand in	[verb noun prep]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have in hand	[verb prep noun]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[verb]	hand in	[noun prep]	A1
+	d:	[verb]	hand to	[noun prep]	A1
+	d:	[adj]	in hand	[prep noun]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	one and other	[adj conj adj]	A2
+	d:	[adj]	one and the other	[adj conj det adj]	A2
+	d:	[adj]	one other	[adj adj]	A2
+	d:	[adj]	one the other	[adj det adj]	A2
+	d:	[adj]	page one	[noun adj]	A1
+	d:	[verb]	read in to	[verb prep prep]	A1
+
+
+Turning the pages of a paper book is like leaving one footprint after another on a trail?there is a rhythm to it and a visible record of how far one has traveled .
+	d:	[adj]	a one	[det adj]	A1
+	d:	[verb]	be after	[verb prep]	A1
+	d:	[verb]	be leave	[verb verb]	A1
+	c:	[verb]	be like	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be on to	[verb prep prep]	A1
+	d:	[verb]	be one of	[verb adj prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be visible	[verb adj]	B1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	leave be	[verb verb]	A1
+	d:	[verb]	leave to	[verb prep]	A1
+	d:	[noun]	like be	[prep verb]	A1
+	d:	[noun]	like of	[prep prep]	A1
+	d:	[adj]	on record	[prep noun]	B1
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[pron]	one another	[adj det]	A1
+	d:	[noun]	one on one	[adj prep adj]	A1
+	d:	[noun]	one one	[adj adj]	A1
+	d:	[adj]	one after another	[adj prep det]	A1
+	d:	[adj]	page one	[noun adj]	A1
+	d:	[noun]	the book	[det noun]	A1
+	d:	[pron]	the like	[det adj]	B1
+	d:	[verb]	turn on	[verb prep]	A1
+	d:	[verb]	turn to	[verb prep]	A1
+	d:	[verb]	turn on to	[verb prep prep]	A1
+	d:	[verb]	turn one on	[verb adj prep]	A1
+	d:	[verb]	turn page	[verb noun]	A1
+	c:	[verb]	turn the page	[verb det noun]	A1
+
+
+All these features not only make the text in a paper book easily navigable , they also make it easier to form a coherent mental map of that text .
+	d:	[adj]	all in	[det prep]	A1
+	d:	[noun]	all it	[det perPro]	A1
+	d:	[noun]	all that	[det det]	A1
+	d:	[adj]	in coherent	[prep adj]	B2
+	d:	[verb]	in form	[prep noun]	A1
+	d:	[adj]	in make	[prep verb]	A1
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	make to	[verb prep]	A1
+	d:	[verb]	make book	[verb noun]	A1
+	c:	[verb]	make it	[verb perPro]	A1
+	d:	[verb]	make of	[verb prep]	A1
+	d:	[verb]	make easier	[verb adj]	unknown
+	d:	[adj]	not make it	[adv verb perPro]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[noun]	the book	[det noun]	A1
+
+
+In contrast , most digital devices interfere with intuitive navigation of a text and inhibit people from mapping the journey in their mind .
+	d:	[noun]	a people	[det noun]	A1
+	d:	[adj]	in mind	[prep noun]	A1
+	d:	[adj]	in most	[prep adj]	A2
+	d:	[adj]	in the mind	[prep det noun]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	c:	[verb]	interfere with	[verb prep]	B2
+	c:	[adj]	most digital	[adv adj]	B1
+	d:	[adj]	most map	[adv verb]	A2
+	d:	[adj]	most mind	[adv verb]	A2
+	d:	[adj]	most from	[adv prep]	A2
+	d:	[adj]	most journey	[adv verb]	A2
+	d:	[adj]	most with	[adv prep]	A2
+	d:	[adj]	of a mind	[prep det noun]	A1
+	d:	[adj]	of mind	[prep noun]	A1
+
+
+A reader of digital text might scroll through a seamless stream of words , tap forward one page at a time , or use the search function to immediately locate a particular phrase?but it is difficult to see any one passage in the context of the entire text .
+	d:	[adj]	a one	[det adj]	A1
+	c:	[adj]	a particular	[det adj]	B2
+	d:	[noun]	any of	[det prep]	A1
+	d:	[adj]	at it	[prep perPro]	A1
+	d:	[adj]	at one	[prep adj]	A1
+	d:	[prep]	at time	[prep noun]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be one of	[verb adj prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be see	[verb verb]	A1
+	d:	[adv]	might be	[other verb]	A2
+	d:	[noun]	one one	[adj adj]	A1
+	d:	[adj]	one time	[adj noun]	A1
+	d:	[adj]	of time	[prep noun]	A1
+	d:	[adj]	of use	[prep noun]	A2
+	d:	[adv]	one a time	[adj det noun]	A1
+	d:	[adv]	one at a time	[adj prep det noun]	A1
+	d:	[adv]	one at time	[adj prep noun]	A1
+	d:	[adj]	page one	[noun adj]	A1
+	d:	[noun]	see one	[verb adj]	A1
+	d:	[adv]	time be	[noun verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	the particular	[det adj]	B2
+	d:	[verb]	time in	[noun prep]	A1
+	d:	[adj]	to be see	[prep verb verb]	A1
+	d:	[adj]	use to	[verb prep]	A1
+	d:	[adv]	use be	[verb verb]	A1
+	d:	[adv]	use to be	[verb prep verb]	A1
+
+
+As an analogy , imagine if Google Maps allowed people to navigate street by individual street , as well as teleport to any specific address , but prevented them from zooming out to see a neighborhood , state , or country .
+	d:	[noun]	a people	[det noun]	A1
+	d:	[verb]	address to	[noun prep]	A1
+	d:	[conj]	as if	[prep prep]	A1
+	d:	[adv]	as state	[prep verb]	B2
+	d:	[prep]	as to	[prep prep]	A1
+	c:	[adv]	as well	[adv adv]	A2
+	c:	[adv]	as well as	[adv adv prep]	A2
+	d:	[noun]	by street	[prep noun]	A1
+	d:	[adj]	out country	[prep noun]	A2
+	c:	[adj]	out to	[prep prep]	A1
+	d:	[conj]	to prevent	[prep verb]	A2
+
+
+Likewise , glancing at a progress bar gives a far more vague sense of place than feeling the weight of read and unread pages .
+	d:	[verb]	give weight	[verb noun]	A2
+	c:	[verb]	glance at	[noun prep]	B1
+	d:	[adj]	more feel	[adj verb]	B1
+	d:	[adj]	more unread	[adv adj]	unknown
+	d:	[adj]	more place	[adv verb]	B1
+	d:	[adj]	more sense	[adv verb]	B2
+	d:	[adv]	more than	[adj prep]	B1
+	c:	[noun]	sense of place	[noun prep noun]	A2
+	d:	[noun]	sense place	[noun noun]	A2
+
+
+And although e-readers and tablets replicate pagination , the displayed pages are ephemeral .
+	notfound
+
+
+Once read , those pages vanish .
+	notfound
+
+
+Instead of hiking the trail yourself , you watch the trees , rocks , and moss pass by in flashes , with no tangible trace of what came before and no easy way to see what lies ahead .
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[adv]	by way	[prep noun]	A1
+	d:	[verb]	come to	[verb prep]	A1
+	d:	[noun]	in come	[prep verb]	A1
+	c:	[adv]	in flash	[prep noun]	B2
+	d:	[adj]	in lie	[prep verb]	A2
+	d:	[adj]	in tangible	[prep adj]	C2
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adv]	in way	[prep noun]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	c:	[conj]	instead of	[adv prep]	A2
+	d:	[noun]	no no	[det det]	A1
+	d:	[noun]	no way	[det noun]	A1
+	d:	[adj]	no lie	[det noun]	B1
+	c:	[verb]	pass by	[noun prep]	A2
+	d:	[verb]	pass in	[noun prep]	A2
+	d:	[verb]	pass in to	[noun prep prep]	A2
+	d:	[verb]	pass to	[verb prep]	A2
+	d:	[verb]	see ahead	[verb adv]	A2
+	d:	[noun]	what what	[det det]	A1
+
+

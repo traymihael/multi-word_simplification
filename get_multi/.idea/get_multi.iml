@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="practice_core" />
+    <orderEntry type="module" module-name="matching" />
+    <orderEntry type="module" module-name="text_matching" />
+    <orderEntry type="module" module-name="4" />
+    <orderEntry type="module" module-name="5" />
+    <orderEntry type="module" module-name="make_dict" />
+    <orderEntry type="module" module-name="6" />
+    <orderEntry type="module" module-name="5" />
+    <orderEntry type="module" module-name="make_graph" />
+    <orderEntry type="module" module-name="dict_level" />
+    <orderEntry type="module" module-name="3" />
+  </component>
+</module>

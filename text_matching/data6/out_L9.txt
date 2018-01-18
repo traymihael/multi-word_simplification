@@ -1,0 +1,184 @@
+Alexandra was naturally shy largely because of her genes , but genes are not switches that say `` shy '' or `` outgoing , '' or `` happy '' or `` sad . ''
+
+
+Genes are simply chemicals that direct the combination of more chemicals .
+	notfound
+
+
+The chemical that makes up genes is called deoxyribonucleic acid , or DNA .
+	notfound
+
+
+It comprises simple building blocks called bases , of which there are just four different varieties : A , G , C , and T .
+	notfound
+
+
+The bases come together in long strings , and each DNA molecule consists of two of these strings paired according to the rule that A matches T and G matches C. DNA stores information in the order of bases .
+	d:	a t	[det noun]	unknown
+			(NP)[(NNS)]
+		nicely	0.2852930930466725
+		perfectly	0.27391019478095435
+		accurately	0.24033641945970602
+		right	0.21410014407932226
+		precisely	0.17383886989834518
+	c:	accord to	[verb prep]	unknown
+	c:	to t	[prep noun]	unknown
+		properly	0.3084281611467935
+		accurately	0.2796254589208949
+		right	0.25667490842600926
+		decently	0.201476923280822
+		perfectly	0.20076280490509352
+
+
+The DNA sequence `` AGCT '' means one thing , and the sequence `` TCGA '' something else , as different in meaning as `` taps '' and `` spat . ''
+	notfound
+
+
+The information in DNA is converted into proteins , which are made of amino acids .
+	c:	convert into	[verb prep]	B2
+		displace	0.2682750505359365
+		shuttle	0.26664759853688275
+		keep	0.26033575358876926
+		hold	0.25517232579376764
+		revise	0.243161143410933
+
+
+Proteins are where the action is .
+	notfound
+
+
+The most important function of proteins is to act as enzymes that change one chemical into another .
+	notfound
+
+
+For example , it 's an enzyme that converts tyrosine , an amino acid found in many foods , into dopamine , a brain chemical that can make you feel active and excited .
+	notfound
+
+
+A different enzyme breaks down the dopamine into smaller molecules and thereby leaves you feeling more relaxed or even lazy .
+	notfound
+
+
+Different enzymes make and degrade the more than 300 brain chemicals that influence thinking , acting , and feeling .
+	notfound
+
+
+The brain and body are built by DNA , and everyone 's DNA is pretty much the same .
+
+
+We all have 99.9 percent the same DNA as Michael Jordan , Albert Einstein , Elizabeth Taylor , Charles Manson , Julius Caesar , Julia Child , and Jules Verne .
+	notfound
+
+
+All of them and everyone who has ever lived have the same 100,000 or so genes , which are organized into the same 23 chromosomes .
+	notfound
+
+
+But `` pretty much the same '' is not exactly the same .
+
+
+There are differences in DNA?about 0.1 percent , or 1 bit out of every 1,000 .
+
+
+Considering that there are 3 billion chemical bases in question , the differences matter .
+	notfound
+
+
+Where Michael Jordan 's DNA says `` G , '' Michael Jackson 's may say `` C , '' and Andrew Jackson 's said `` T , '' while Jack the Ripper 's said `` A. '' There are roughly 3 million such differences between individuals , and these differences are responsible for all the inherited aspects of the variations among people , from eye color to height to personality or intelligence .
+	notfound
+
+
+It 's hard to believe that such a tiny difference?onetenth of 1 percent?could make such a great difference in how people turn out , yet this percentage is actually an exaggeration .
+	notfound
+
+
+Many of the 3 million variations do n't mean anything as far as we know , so there are even fewer differences that matter .
+	notfound
+
+
+If you still do n't believe that 0.1 percent of DNA could be responsible for so many differences , consider the fact that human DNA differs from chimpanzee DNA by only 1 to 2 percent ; your DNA and a chimp 's are at least 98 percent the same .
+	c:	at least	[prep adj]	B2
+		slightly	0.24320432280416113
+		relatively	0.2273319856454503
+		completely	0.14628428534309845
+		halfway	0.14587464252104518
+		totally	0.14221425303085886
+
+
+Yet this seemingly `` fine print '' of DNA instructions is the reason humans can do calculus , compose poetry , and build cathedrals , while chimps pick bugs off each other and eat them .
+	notfound
+
+
+Humans have pretty much the same DNA as a chimp because that 's where we came from ; and the chimp is close to the ape because that 's where he came from ; and so on down the line to fish and reptiles and even single-cell organisms such as yeast .
+	notfound
+
+
+This evolutionary conservation has a beneficial side effect : we can often figure out what a human gene does by looking at a similar gene in simpler organisms .
+	notfound
+
+
+One of the most common misconceptions about genetics is that there are genes `` for '' things .
+	notfound
+
+
+Some people have the genes `` for '' breast cancer , shyness , blue eyes , and so they must have the disease , condition , or trait .
+	notfound
+
+
+This is what people tend to think when they hear about a gene `` for '' depression , or a `` gay gene , '' or `` obesity gene . ''
+	notfound
+
+
+If that were true , it would be easy enough to undergo testing to see what genes you have , and therefore what you ought to worry about .
+	c:	ought to	[other prep]	unknown
+		should	0.5464343716721934
+		must	0.513857570167748
+		requires	0.21815724459003297
+
+
+That 's not the way it works .
+
+
+Everyone has a `` mood gene , '' and a `` sexual orientation gene , '' and a gene that regulates body weight .
+	c:	sexual orientation	[adj noun]	C1
+
+
+The difference is that the genes come in different varieties or flavors .
+
+
+For example , maybe the `` mood gene , '' which everyone has , makes a receptor protein that responds to the hormones released under stress .
+
+
+Maybe the only difference between two people is that one has a gene with T at position 4,356 , whereas the other person has a C at the same spot .
+	notfound
+
+
+That might be enough to affect the strength of the electrical current flowing through the cells , so the same amount of hormone produces a gentle buzz in one person and a walloping jolt in another .
+	notfound
+
+
+That single detail ?
+	notfound
+
+
+1 letter out of 3 billion?could mean the difference between a mostly cheerful person and one who is easily depressed .
+
+
+Both people have the same gene , but the fine print makes all the difference .
+	notfound
+
+
+Imagine a room filled with 30,000 books .
+	notfound
+
+
+Here the difference would be the equivalent of a single letter in a single book .
+	d:	be equivalent	[verb noun]	C1
+			(VP)[(DT)]
+		redeem	0.4596480626784233
+		equal	0.37613253127381957
+		outweigh	0.3523857316319252
+		balance	0.3392395719745451
+		counteract	0.325038850585706
+
+

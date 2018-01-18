@@ -1,0 +1,645 @@
+The history of life on earth has been a history of interaction between living things and their surroundings .
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[noun]	life history	[noun noun]	A1
+	d:	[verb]	life of	[noun prep]	A1
+	c:	[verb]	life on	[noun prep]	A1
+	c:	[noun]	live thing	[verb noun]	A1
+	d:	[noun]	the thing	[det noun]	A1
+
+
+To a large extent , the physical form and the habits of the earth 's vegetation and its animal life have been molded by the environment .
+	c:	[noun]	animal life	[adj noun]	A1
+	c:	[adv]	by the	[prep det]	A1
+	d:	[prep]	extent of	[noun prep]	B1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	life by	[noun prep]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[prep]	to extent of	[prep noun prep]	B1
+	d:	[adv]	to extent	[prep noun]	B1
+
+
+Considering the whole span of earthly time , the opposite effect , in which life actually modifies its surroundings , has been relatively slight .
+	c:	[verb]	have be	[verb verb]	A1
+	c:	[adv]	in which	[prep det]	A1
+	d:	[adj]	of time	[prep noun]	A1
+	d:	[adv]	time be	[noun verb]	A1
+	d:	[noun]	the time	[det noun]	A1
+	d:	[noun]	the time be	[det noun verb]	A1
+	c:	[noun]	the whole	[det noun]	B1
+	d:	[prep]	the whole time	[det adj noun]	A2
+	d:	[verb]	time in	[noun prep]	A1
+	d:	[prep]	whole time	[adj noun]	A2
+
+
+Only within the moment of time represented by the present century has one species ?
+	c:	[adv]	by the	[prep det]	A1
+	c:	[adj]	of time	[prep noun]	A1
+	d:	[adj]	only one	[adv adj]	A1
+	d:	[adv]	only time	[adv noun]	A1
+	c:	[adj]	the present	[det adj]	B1
+	d:	[noun]	the time	[det noun]	A1
+
+
+man?acquired significant power to alter the nature of his world .
+	d:	[adj]	of world	[prep noun]	A1
+
+
+During the past quarter century this power has not only increased to one of disturbing magnitude but it has changed in character .
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[adj]	have it	[verb perPro]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	c:	[noun]	have not	[verb adv]	A1
+	c:	[adj]	in character	[prep noun]	A1
+	d:	[pron]	not one	[adv adj]	A1
+	d:	[adj]	not to	[adv prep]	A1
+	d:	[adj]	only one	[adv adj]	A1
+	c:	[noun]	the past	[det noun]	B1
+	d:	[pron]	this one	[det adj]	A1
+
+
+The most alarming of all man 's assaults upon the environment is the contamination of air , earth , rivers , and sea with dangerous and even lethal materials .
+	d:	[adj]	all sea	[det noun]	A1
+	d:	[verb]	be air	[verb noun]	A2
+	d:	[verb]	be dangerous	[verb adj]	A2
+	d:	[verb]	be even	[verb adv]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be the air	[verb det noun]	A2
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[adj]	most man	[adv verb]	A2
+	d:	[adj]	most assault	[adv verb]	B2
+	d:	[adj]	most upon	[adv prep]	A2
+	d:	[adv]	most all	[adv det]	A2
+	d:	[adj]	most even	[adv verb]	B1
+	d:	[adv]	most of all	[adj prep det]	A2
+	d:	[adj]	most with	[adv prep]	A2
+	d:	[adj]	of sea	[prep noun]	A1
+	d:	[adj]	of the sea	[prep det noun]	A1
+	d:	[noun]	the man	[det noun]	A1
+	c:	[noun]	the most	[det adv]	A2
+	d:	[noun]	the river	[det noun]	A1
+
+
+This pollution is for the most part irrecoverable ; the chain of evil it initiates not only in the world that must support life but in living tissues is for the most part irreversible .
+	d:	[verb]	be evil	[verb adj]	B2
+	c:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be part	[verb noun]	A2
+	d:	[verb]	be part of	[verb noun prep]	A2
+	d:	[verb]	be support	[verb verb]	B1
+	d:	[adj]	but for	[conj prep]	A1
+	d:	[adv]	for life	[prep noun]	A1
+	d:	[noun]	for most	[prep adj]	A2
+	d:	[adv]	for most part	[prep adj noun]	A2
+	d:	[adv]	for part	[prep noun]	A2
+	d:	[adv]	for that	[prep det]	A1
+	c:	[noun]	for the most	[prep det adv]	A2
+	c:	[adv]	for the most part	[prep det adj noun]	A2
+	d:	[adj]	in most	[prep adj]	A2
+	d:	[adv]	in part	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[verb]	life in	[noun prep]	A1
+	d:	[noun]	live be	[verb verb]	A1
+	d:	[adj]	most irrecoverable	[adv adj]	unknown
+	c:	[adj]	most part	[adv verb]	B2
+	d:	[adj]	most for	[adv prep]	A2
+	d:	[adv]	not life	[adv noun]	A1
+	d:	[prep]	not for	[adv prep]	A1
+	d:	[adj]	not live	[adv verb]	A1
+	d:	[adj]	not world	[adv noun]	A1
+	d:	[adj]	of world	[prep noun]	A1
+	d:	[determiner]	part of	[noun prep]	A2
+	d:	[adv]	that be	[det verb]	A1
+	c:	[noun]	the most	[det adv]	A2
+	d:	[interj]	that life	[prep noun]	A1
+	d:	[noun]	this that	[det det]	A1
+
+
+In this now universal contamination of the environment , chemicals are the sinister and littlerecognized partners of radiation in changing the very nature of the world?the very nature of its life .
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[noun]	change life	[noun noun]	A1
+	d:	[noun]	change of life	[noun prep noun]	A1
+	c:	[adv]	in this	[prep det]	A1
+
+
+-LRB- 1 -RRB- Strontium 90 , released through nuclear explosions into the air , comes to earth in rain or drifts down as fallout , lodges in soil , enters into the grass or corn or wheat grown there , and in time takes up its abode in the bones of a human being , there to remain until his death .
+	d:	[noun]	air time	[noun noun]	A2
+	d:	[prep]	as to	[prep prep]	A1
+	d:	[verb]	come down	[verb prep]	A1
+	d:	[verb]	come in	[verb prep]	A1
+	d:	[verb]	come in to	[verb prep prep]	A1
+	d:	[verb]	come into	[verb prep]	A1
+	d:	[verb]	come of	[verb prep]	A1
+	d:	[verb]	come up to	[verb prep prep]	A1
+	d:	[verb]	come up	[verb prep]	A1
+	c:	[verb]	come to	[verb prep]	A1
+	d:	[prep]	down to	[adv prep]	A1
+	c:	[verb]	enter in	[verb prep]	A2
+	d:	[verb]	enter in to	[verb prep prep]	A2
+	c:	[verb]	enter into	[verb prep]	A2
+	d:	[verb]	grow in to	[verb prep prep]	A1
+	d:	[verb]	grow up	[verb prep]	A1
+	d:	[adj]	in human	[prep adj]	A2
+	d:	[noun]	in take	[prep noun]	B1
+	d:	[conj]	in the time	[prep det noun]	A1
+	d:	[prep]	in the time of	[prep det noun prep]	A1
+	d:	[adv]	in there	[prep XXXXX]	A1
+	c:	[adj]	in time	[prep noun]	A1
+	d:	[prep]	in time of	[prep noun prep]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[noun]	nuclear fallout	[adj noun]	unknown
+	d:	[verb]	take in	[verb prep]	A1
+	d:	[verb]	take to	[verb prep]	A1
+	c:	[verb]	take up	[verb prep]	A1
+	d:	[verb]	take death	[verb noun]	A2
+	d:	[noun]	the time	[det noun]	A1
+	d:	[noun]	the time being	[det noun noun]	A2
+	d:	[noun]	time being	[noun noun]	A2
+	d:	[verb]	time in	[noun prep]	A1
+	d:	[adj]	up to	[adv prep]	A2
+	d:	[noun]	up there	[prep noun]	A1
+
+
+Similarly , chemicals sprayed on croplands or forests or gardens lie long in soil , entering into living organisms , passing from one to another in a chain of poisoning and death .
+	c:	[verb]	enter in	[verb prep]	A2
+	c:	[verb]	enter into	[verb prep]	A2
+	d:	[adj]	in chain	[prep noun]	A2
+	d:	[adv]	in pass	[prep verb]	A2
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	lie in	[noun prep]	B1
+	d:	[verb]	live in	[verb prep]	A1
+	d:	[verb]	live of	[verb prep]	A1
+	d:	[verb]	live to	[verb prep]	A1
+	d:	[noun]	live death	[verb noun]	A2
+	d:	[adj]	long live	[adv verb]	A2
+	d:	[adj]	on to	[prep prep]	A1
+	d:	[pron]	one another	[adj det]	A1
+	d:	[verb]	pass in	[noun prep]	A2
+	d:	[verb]	pass to	[verb prep]	A2
+
+
+Or they pass mysteriously by underground streams until they emerge and , through the alchemy of air and sunlight , combine into new forms that kill vegetation , sicken cattle , and work unknown harm on those who drink from once pure wells .
+	d:	[noun]	air well	[noun adv]	A2
+	d:	[adj]	and and on	[conj conj prep]	A1
+	d:	[adj]	and on	[conj prep]	A1
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[adv]	by the	[prep det]	A1
+	d:	[verb]	form on	[noun prep]	A1
+	d:	[verb]	pass by	[noun prep]	A2
+	d:	[verb]	pass on	[noun prep]	A2
+	d:	[verb]	pass through	[noun prep]	A2
+	d:	[verb]	pass into	[verb prep]	A2
+	d:	[noun]	the work	[det noun]	A1
+	d:	[noun]	the unknown	[det adj]	A2
+	d:	[verb]	work on	[noun prep]	A1
+
+
+As Albert Schweitzer has said , `` Man can hardly even recognize -LRB- 2 -RRB- the devils of his own creation . ''
+	c:	[verb]	have say	[verb verb]	A1
+
+
+It took hundreds of millions of years to produce the life that now inhabits the earth?eons of time in which that developing and evolving and diversifying life reached a state of adjustment and balance with its surroundings .
+	d:	[adj]	in a state	[prep det noun]	A2
+	d:	[adj]	in balance	[prep noun]	B1
+	d:	[adv]	in reach	[prep noun]	B1
+	d:	[verb]	in state	[prep noun]	A2
+	d:	[conjuction]	in that	[prep det]	A1
+	c:	[adv]	in which	[prep det]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[adv]	it time	[perPro noun]	A1
+	d:	[verb]	life in	[noun prep]	A1
+	d:	[verb]	life of	[noun prep]	A1
+	d:	[verb]	life with	[noun prep]	A1
+	d:	[conjuction]	now that	[adv prep]	A1
+	c:	[adj]	of time	[prep noun]	A1
+	d:	[verb]	take in	[verb prep]	A1
+	d:	[verb]	take time	[verb noun]	A1
+	d:	[verb]	take to	[verb prep]	A1
+	d:	[verb]	take with	[verb prep]	A1
+	d:	[verb]	take life	[verb noun]	A1
+	d:	[verb]	take the time	[verb det noun]	A1
+	d:	[interj]	that life	[prep noun]	A1
+	d:	[noun]	that time	[det noun]	A1
+	d:	[noun]	the state	[det noun]	A2
+	d:	[noun]	the time	[det noun]	A1
+	d:	[adv]	to which	[prep det]	A1
+	c:	[verb]	time in	[noun prep]	A1
+
+
+The environment , rigorously shaping and directing the life it supported , contained elements that were hostile as well as supporting .
+	d:	[conj]	and that	[conj prep]	A1
+	c:	[adv]	as well	[adv adv]	A2
+	c:	[adv]	as well as	[adv adv prep]	A2
+	d:	[verb]	be support	[verb verb]	B1
+	d:	[verb]	life as	[noun prep]	A1
+	c:	[adv]	that be	[det verb]	A1
+
+
+Certain rocks gave out dangerous radiation ; even within the light of the sun , from which all life draws its energy , there were short-wave radiations with power to injure .
+	d:	[adj]	all there	[det XXXXX]	A1
+	d:	[verb]	be power	[verb noun]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[noun]	draw power	[verb noun]	A2
+	c:	[prep]	even with	[adv prep]	A2
+	c:	[conj]	from which	[prep det]	A1
+	d:	[verb]	give all	[verb det]	A1
+	d:	[verb]	give life to	[verb noun prep]	A1
+	d:	[verb]	give light	[verb noun]	A1
+	d:	[verb]	give power	[verb noun]	A2
+	d:	[verb]	give to	[verb prep]	A1
+	d:	[verb]	give with	[verb prep]	A1
+	c:	[verb]	give out	[verb prep]	A1
+	d:	[noun]	light life	[adj noun]	A1
+	d:	[noun]	light of life	[noun prep noun]	A1
+	d:	[verb]	life to	[noun prep]	A1
+	d:	[verb]	life with	[noun prep]	A1
+	d:	[verb]	out life	[prep noun]	A1
+	d:	[prep]	out of	[prep prep]	A1
+	d:	[noun]	out there	[prep adv]	A1
+	d:	[prep]	out from	[adv prep]	A1
+	d:	[adj]	out of sun	[prep prep noun]	A1
+	d:	[adj]	out of the sun	[prep prep det noun]	A1
+	d:	[adj]	out sun	[prep noun]	A1
+	d:	[adj]	out the sun	[prep det noun]	A1
+	d:	[adj]	out to	[prep prep]	A1
+	d:	[noun]	sun energy	[noun noun]	B2
+
+
+Given time?time not in years but in millennia?life adjusts , and a balance has been reached .
+	d:	[verb]	give in	[verb prep]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[adj]	in balance	[prep noun]	B1
+	d:	[adv]	in reach	[prep noun]	B1
+	d:	[adj]	not adjust	[adv verb]	A2
+
+
+For time is the essential ingredient ; but in the modern world there is no time .
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be there	[verb XXXXX]	A1
+	d:	[adv]	for the time	[prep det noun]	A1
+	c:	[adv]	for time	[prep noun]	A1
+	c:	[prep]	for time be	[prep noun verb]	A1
+	d:	[adv]	in no time	[prep det noun]	A1
+	d:	[conj]	in the time	[prep det noun]	A1
+	d:	[adv]	in there	[prep XXXXX]	A1
+	d:	[adj]	in time	[prep noun]	A1
+	c:	[adv]	time be	[noun verb]	A1
+	d:	[noun]	the time	[det noun]	A1
+	d:	[verb]	time in	[noun prep]	A1
+	d:	[noun]	world time	[noun noun]	A1
+
+
+The rapidity of change and the speed with which new situations are created follow the impetuous and heedless pace of man rather than the deliberate pace of nature .
+	c:	[verb]	be create	[verb verb]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[adv]	rather than	[adv prep]	A2
+	d:	[noun]	the man	[det noun]	A1
+
+
+Radiation is no longer merely the background radiation of rocks , the bombardment of cosmic rays , the ultraviolet of the sun that have existed before there was any life on earth ; radiation is now the unnatural creation of man 's tampering with the atom .
+	d:	[noun]	any of	[det prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be there	[verb XXXXX]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[adv]	before now	[adv adv]	A1
+	c:	[noun]	cosmic ray	[adj noun]	unknown
+	d:	[verb]	exist on	[verb prep]	A2
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have life	[verb noun]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	d:	[verb]	life of	[noun prep]	A1
+	c:	[verb]	life on	[noun prep]	A1
+	d:	[verb]	life with	[noun prep]	A1
+	c:	[phrase]	no longer	[adv adv]	unknown
+	d:	[noun]	no life	[det noun]	A1
+	c:	[verb]	tamper with	[verb prep]	unknown
+	d:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the man	[det noun]	A1
+	d:	[adj]	that be be	[det verb verb]	A1
+	d:	[interj]	that life	[prep noun]	A1
+	d:	[interj]	that be life	[det verb noun]	A1
+
+
+The chemicals to which life is asked to make its adjustment are no longer merely the calcium and silica and copper and all the rest of the minerals washed out of the rocks and carried in rivers to the sea ; they are the synthetic creations of man 's inventive mind , brewed in his laboratories , and having no counterparts in nature .
+	d:	[adj]	all in	[det prep]	A1
+	d:	[adj]	all out	[det prep]	A1
+	d:	[adj]	all sea	[det noun]	A1
+	c:	[adv]	and all	[conj det]	A1
+	d:	[adj]	and rest	[conj noun]	B1
+	d:	[adj]	and the rest	[conj det noun]	B1
+	d:	[verb]	be carry	[verb verb]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	be make of	[verb verb prep]	A1
+	d:	[verb]	be mind	[verb noun]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be of mind	[verb prep noun]	A1
+	d:	[verb]	be out of	[verb prep prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	carry to	[verb prep]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[adj]	in creation	[prep noun]	B2
+	d:	[adj]	in laboratory	[prep noun]	B1
+	d:	[adj]	in mind	[prep noun]	A1
+	d:	[adj]	in the laboratory	[prep det noun]	B1
+	d:	[adj]	in the mind	[prep det noun]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	life in	[noun prep]	A1
+	d:	[verb]	life of	[noun prep]	A1
+	d:	[verb]	life to	[noun prep]	A1
+	d:	[verb]	make out	[verb prep]	A1
+	d:	[verb]	make to	[verb prep]	A1
+	d:	[verb]	make mind	[verb noun]	A1
+	d:	[verb]	make of	[verb prep]	A1
+	d:	[adj]	make longer	[verb adv]	unknown
+	c:	[phrase]	no longer	[adv adv]	unknown
+	d:	[noun]	no no	[det det]	A1
+	d:	[pron]	no all	[det det]	A1
+	d:	[adj]	out mind	[prep noun]	A1
+	c:	[prep]	out of	[prep prep]	A1
+	d:	[adj]	out of mind	[prep prep noun]	A1
+	d:	[adj]	of mind	[prep noun]	A1
+	d:	[adj]	of sea	[prep noun]	A1
+	d:	[adj]	of the sea	[prep det noun]	A1
+	d:	[adj]	out to	[prep prep]	A1
+	d:	[noun]	the man	[det noun]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[noun]	the river	[det noun]	A1
+	c:	[adv]	to which	[prep det]	A1
+	d:	[adj]	to be have	[prep verb verb]	A1
+	c:	[verb]	wash out	[verb prep]	A1
+
+
+To adjust to these chemicals would require time on the scale that is nature 's ; it would require not merely the years of a man 's life but the life of generations .
+	c:	[verb]	adjust to	[verb prep]	A2
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be require	[verb verb]	B1
+	c:	[verb]	life of	[noun prep]	A1
+	d:	[adv]	not life	[adv noun]	A1
+	d:	[adv]	on that	[prep det]	A1
+	c:	[adv]	that be	[det verb]	A1
+	d:	[noun]	the man	[det noun]	A1
+	d:	[adv]	time be	[noun verb]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	that it	[prep perPro]	A1
+	d:	[interj]	that life	[prep noun]	A1
+	d:	[adj]	that be it	[det verb perPro]	A1
+	d:	[interj]	that be life	[det verb noun]	A1
+	d:	[adj]	would be	[other verb]	A1
+
+
+-LRB- 3 -RRB- And even this , were it by some miracle possible , would be futile , for the new chemicals come from our laboratories in an endless stream ; almost five hundred annually find their way into actual use in the United States alone .
+	d:	[verb]	be come	[verb verb]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be find	[verb verb]	A1
+	d:	[verb]	be find in	[verb verb prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be into	[verb prep]	A1
+	d:	[verb]	be use	[verb noun]	A2
+	d:	[adv]	by the	[prep det]	A1
+	d:	[adv]	by the way	[prep det noun]	A1
+	d:	[adv]	by way	[prep noun]	A1
+	c:	[verb]	come from	[verb prep]	A1
+	d:	[verb]	come in	[verb prep]	A1
+	d:	[verb]	come into	[verb prep]	A1
+	d:	[verb]	find use	[verb noun]	A2
+	d:	[verb]	find way	[verb noun]	A1
+	d:	[prep]	find in	[verb prep]	A1
+	d:	[adj]	in use	[prep noun]	A2
+	d:	[adv]	in way	[prep noun]	A1
+	d:	[noun]	the States	[det noun]	unknown
+	c:	[noun]	United States	[noun noun]	unknown
+	d:	[noun]	we a	[perPro det]	A1
+	c:	[adj]	would be	[other verb]	A1
+	c:	[noun]	way in	[noun prep]	A1
+
+
+The figure is staggering and its implications are not easily grasped ?
+	c:	[verb]	figure be	[noun verb]	A2
+
+
+500 new chemicals to which the bodies of men and animals are required somehow to adapt each year , chemicals totally outside the limits of biologic experience .
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	be require	[verb verb]	B1
+	d:	[verb]	be to	[verb prep]	A1
+	c:	[adj]	each year	[det noun]	A1
+	d:	[adj]	outside of	[prep prep]	A1
+	c:	[noun]	the limit	[det noun]	B1
+	d:	[noun]	the man	[det noun]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	c:	[adv]	to which	[prep det]	A1
+	d:	[adv]	to each	[prep det]	A1
+	d:	[adv]	to limit	[prep verb]	B1
+	d:	[adv]	to the limit	[prep det noun]	B1
+
+
+Among them are many that are used in man 's war against nature .
+	d:	[verb]	be against	[verb prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	c:	[verb]	be use	[verb noun]	A2
+	c:	[adv]	that be	[det verb]	A1
+
+
+Since the mid - 1940 's over 200 basic chemicals have been created for use in killing insects , weeds , rodents , and other organisms described in the modern vernacular as `` pests '' ; and they are sold under several thousand different brand names .
+	c:	[adj]	and other	[conj noun]	A2
+	d:	[adj]	as be	[adv verb]	A2
+	c:	[verb]	be create	[verb verb]	A2
+	d:	[verb]	be for	[verb prep]	A1
+	c:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be kill	[verb verb]	A1
+	d:	[verb]	be use	[verb noun]	A2
+	c:	[noun]	brand name	[noun noun]	A2
+	d:	[verb]	describe as	[verb prep]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have for	[verb prep]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have name	[verb noun]	A1
+	d:	[adj]	in different	[prep adj]	A1
+	d:	[adj]	over kill	[prep noun]	A1
+	d:	[verb]	over sell	[prep noun]	A1
+	d:	[adj]	over use	[prep verb]	A1
+	d:	[adv]	use be	[verb verb]	A1
+
+
+These sprays , dusts , and aerosols are now applied almost universally to farms , gardens , forests , and homes?nonselective chemicals that have the power to kill every insect , the `` good '' and the `` bad , '' to still the song of birds and the leaping of fish in the streams , to coat the leaves with a deadly film , and to linger on in soil?all this though the intended target may be only a few weeds or insects .
+	c:	[adj]	a few	[det adj]	B1
+	d:	[adj]	and and on	[conj conj prep]	A1
+	d:	[adj]	and on	[conj prep]	A1
+	d:	[conj]	and that	[conj prep]	A1
+	d:	[verb]	apply to	[verb prep]	A2
+	d:	[verb]	be a target	[verb det noun]	A2
+	d:	[verb]	be bad	[verb adj]	A1
+	d:	[verb]	be good	[verb adj]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be in on	[verb prep prep]	A1
+	d:	[verb]	be in to	[verb prep prep]	A1
+	d:	[verb]	be kill	[verb verb]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	c:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be power	[verb noun]	A2
+	d:	[verb]	be power of	[verb noun prep]	A2
+	d:	[verb]	be target	[verb noun]	A2
+	d:	[verb]	be the power of	[verb det noun prep]	A2
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be with	[verb prep]	A1
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[verb]	have bad	[verb adj]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have good	[verb adj]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	d:	[adj]	in on	[prep prep]	A1
+	d:	[adv]	in this	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[verb]	in with	[prep prep]	A1
+	d:	[conjuction]	now that	[adv prep]	A1
+	d:	[adj]	on target	[prep noun]	A2
+	d:	[adv]	of this	[prep det]	A1
+	c:	[adj]	only a few	[adv det adj]	B1
+	d:	[adj]	only few	[adv adj]	B1
+	d:	[noun]	power be	[noun verb]	A2
+	d:	[adv]	that be	[det verb]	A1
+	d:	[adj]	the bad	[det adj]	A1
+	d:	[noun]	the few	[det adj]	B1
+	d:	[noun]	the good	[det adj]	A1
+	d:	[adj]	to bad	[prep adj]	A1
+	d:	[adj]	to be	[prep verb]	A1
+	d:	[adj]	to the bad	[prep det adj]	A1
+	d:	[prep]	that may	[det other]	A1
+	d:	[adv]	with this	[prep det]	A1
+
+
+Can anyone believe it is possible to lay down such a barrage of poisons on the surface of the earth without making it unfit for all life ?
+	d:	[noun]	anyone all	[noun det]	A1
+	d:	[verb]	be down on	[verb adv prep]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	d:	[verb]	be make	[verb verb]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	d:	[verb]	be to	[verb prep]	A1
+	d:	[verb]	be without	[verb prep]	A1
+	d:	[verb]	be lay	[verb verb]	B1
+	d:	[adv]	can be	[other verb]	A1
+	d:	[verb]	can it	[other perPro]	A1
+	d:	[adj]	down earth	[adv noun]	A2
+	d:	[adj]	down on	[adv prep]	A1
+	d:	[adv]	for life	[prep noun]	A1
+	c:	[verb]	lay down	[verb prep]	B1
+	d:	[verb]	lay for	[verb prep]	B1
+	d:	[verb]	lay on	[verb prep]	B1
+	d:	[verb]	make for	[verb prep]	A1
+	c:	[verb]	make it	[verb perPro]	A1
+	d:	[adj]	on make	[prep noun]	B2
+	d:	[adj]	on the make	[prep det noun]	B2
+	c:	[adv]	on the surface	[prep det noun]	B1
+	d:	[adv]	on surface	[prep noun]	B1
+
+
+They should not be called `` insecticides , '' but `` biocides . ''
+	notfound
+
+
+The whole process of spraying seems caught up in an endless spiral .
+	c:	[verb]	catch up	[verb prep]	A1
+	d:	[adj]	catch in	[verb prep]	A1
+	c:	[noun]	the whole	[det noun]	B1
+
+
+Since DDT was released for civilian use , a process of escalation has been going on in which ever more toxic materials must be found .
+	d:	[noun]	a must	[det other]	A1
+	d:	[verb]	be for	[verb prep]	A1
+	c:	[verb]	be find	[verb verb]	A1
+	c:	[verb]	be go	[verb verb]	A1
+	c:	[verb]	be go on	[verb verb prep]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be of	[verb prep]	A1
+	d:	[verb]	be on	[verb prep]	A1
+	c:	[verb]	be release	[verb verb]	B1
+	d:	[verb]	be use	[verb noun]	A2
+	d:	[adj]	be have	[verb verb]	A1
+	d:	[adv]	for ever	[prep adv]	A2
+	d:	[noun]	for on	[prep prep]	A1
+	d:	[verb]	go in	[verb prep]	A1
+	c:	[verb]	go on	[verb prep]	A1
+	c:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have go	[verb verb]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have on	[verb prep]	A1
+	c:	[adv]	in which	[prep det]	A1
+	d:	[adj]	more find	[adv verb]	B1
+	d:	[adv]	use be	[verb verb]	A1
+
+
+This has happened because insects , in a triumphant vindication of Darwin 's principle of the survival of the fittest , have evolved super races immune to the particular insecticide used , hence a deadlier one has always to be developed?and then a deadlier one than that .
+	d:	[adj]	a one	[det adj]	A1
+	d:	[adj]	a particular	[det adj]	B2
+	d:	[prep]	because of	[prep prep]	A1
+	d:	[verb]	have be	[verb verb]	A1
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have to	[verb prep]	A1
+	c:	[adj]	immune to	[adj prep]	C2
+	d:	[adv]	in particular	[prep adj]	B2
+	d:	[conjuction]	in that	[prep det]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adj]	in use	[prep noun]	A2
+	d:	[noun]	one one	[adj adj]	A1
+	d:	[adj]	of use	[prep noun]	A2
+	d:	[noun]	survival fittest	[noun adj]	unknown
+	d:	[noun]	survival of fittest	[noun prep adj]	unknown
+	c:	[noun]	survival of the fittest	[noun prep det adj]	unknown
+	d:	[noun]	survival the fittest	[noun det adj]	unknown
+	c:	[adj]	to be	[prep verb]	A1
+	c:	[adj]	the particular	[det adj]	B2
+	d:	[pron]	this one	[det adj]	A1
+	d:	[noun]	this that	[det det]	A1
+	d:	[adj]	use to	[verb prep]	A1
+	d:	[adv]	use be	[verb verb]	A1
+	d:	[adv]	use to be	[verb prep verb]	A1
+
+
+It has happened also because destructive insects often undergo a `` flareback , '' or resurgence , after spraying , in numbers greater than before .
+	d:	[pron]	a number	[det noun]	A1
+	c:	[prep]	greater than	[adj prep]	unknown
+	d:	[verb]	have in	[verb prep]	A1
+	d:	[verb]	have number	[verb noun]	A1
+
+
+Thus the chemical war is never won , and all life is caught in its violent crossfire .
+	d:	[adj]	all in	[det prep]	A1
+	c:	[adv]	and all	[conj det]	A1
+	d:	[verb]	be in	[verb prep]	A1
+	d:	[verb]	be violent	[verb adj]	A2
+	c:	[adj]	catch in	[verb prep]	A1
+	d:	[verb]	life in	[noun prep]	A1
+
+
+Along with the possibility of the extinction of mankind by nuclear war , the central problem of our age has therefore become the contamination of man 's total environment with such substances of incredible potential for harm ?
+	c:	[adv]	along with	[prep prep]	A1
+	d:	[verb]	become of	[verb prep]	A1
+	d:	[prep]	by of	[prep prep]	A1
+	d:	[adv]	by the	[prep det]	A1
+	d:	[verb]	have for	[verb prep]	A1
+	d:	[adj]	of age	[prep noun]	A1
+	d:	[adj]	of substance	[prep noun]	B2
+	d:	[noun]	the man	[det noun]	A1
+
+
+substances that accumulate in the tissues of plants and animals and even penetrate the germ cells to shatter or alter the very material of heredity upon which the shape of the future depends .
+	d:	[adv]	in future	[prep noun]	A1
+	d:	[adj]	in shape	[prep noun]	A2
+	d:	[adv]	in the future	[prep det noun]	A1
+	d:	[prep]	in to	[prep prep]	A1
+	d:	[adv]	in which	[prep det]	A1
+	d:	[adv]	to which	[prep det]	A1
+	c:	[adv]	upon which	[prep det]	A1
+
+
